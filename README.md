@@ -174,6 +174,17 @@
 - https://en.wikipedia.org/wiki/Unix_domain_socket
 - https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps
 - https://www.jmarshall.com/
+- https://learnxinyminutes.com/
+- https://learncodethehardway.org/
+- https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0
+- http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+- https://github.com/ctfs
+- https://www.freecodecamp.com/map
+- http://stackoverflow.com/questions/742013/how-to-code-a-url-shortener
+- http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps
+- http://www.codeproject.com/Articles/36106/Chatbot-Tutorial
+- https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454#.kbd4izvh3
+- http://www.sinatrarb.com/
 
 ## CSS
 
