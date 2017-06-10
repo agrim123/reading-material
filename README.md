@@ -55,6 +55,39 @@
 - https://javascript.info/
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 
+## Security
+
+- https://en.wikibooks.org/wiki/Bash_Shell_Scripting
+- http://conqueringthecommandline.com/book/basics
+- https://www.learnenough.com/command-line-tutorial#sec-basics
+- http://linuxcommand.org/lc3_wss0010.php
+- http://rumkin.com/tools/cipher/
+- http://overthewire.org/wargames/
+- https://www.virusbulletin.com/virusbulletin/2015/03/dylib-hijacking-os-x
+- https://ashishchaudhary.in/pgp-to-ssh
+- http://www.openwall.com/john/pro/linux/
+- https://hakin9.org/
+- https://blog.ctf365.com/
+- http://tldp.org/LDP/Bash-Beginners-Guide/html/
+- https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/
+- http://catcode.com/teachmod/
+- http://security.stackexchange.com/
+- http://ctfwriteups.blogspot.in/2013/12/basic-tips-on-hacking-challenges-in.html
+- https://en.wikipedia.org/wiki/.htaccess
+- https://www.pentesterlab.com/exercises/web_for_pentester/course
+- https://cryptopals.com/
+- http://www.catb.org/~esr/faqs/hacker-howto.html
+- https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf
+- https://trailofbits.github.io/ctf/index.html
+- http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html
+- https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.krf5mnqwv
+- http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
+- https://github.com/Hack-with-Github/Awesome-Hacking#appsec
+- http://blockchainvirtualgovhack.com/
+- https://trailofbits.github.io/ctf/intro/README.html
+- http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/
+- http://cryptopals.com/
+
 ## Networking
 
 - https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
