@@ -87,6 +87,34 @@
 - https://trailofbits.github.io/ctf/intro/README.html
 - http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/
 - http://cryptopals.com/
+- http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/
+- https://picoctf.com/learn
+- https://www.gadgetsay.com/2016/09/top-5-vulnerable-sites-to-practice-your-hacking-skills-legally/
+- https://www.owasp.org/index.php/OWASP_Bricks
+- https://www.cybrary.it/
+- https://github.com/Screetsec/TheFatRat
+- http://www.techworm.net/2016/05/top-8-websites-learn-ethical-hacking-2016.html
+- http://catb.org/~esr/faqs/hacker-howto.html
+- http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/
+- https://github.com/xairy/linux-kernel-exploitation
+- https://github.com/HackathonHackers
+- http://www.tecmint.com/create-apache-https-self-signed-certificate-using-nss/
+- http://www.haproxy.org/
+- https://www.cvedetails.com/vulnerability-list/vendor_id-10199/product_id-18211/Djangoproject-Django.html
+- https://www.cvedetails.com/vulnerability-list/vendor_id-12113/Nodejs.html
+- http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own
+- https://gitleaks.com/
+- https://stormpath.com/blog/why-http-is-sometimes-better-than-https
+- http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf
+- http://tldp.org/HOWTO/LDAP-HOWTO/authentication.html
+- https://hashcat.net/hashcat/
+- https://ictf.cs.ucsb.edu/pages/the-2016-2017-ictf-ddos.html
+- http://pwning.net/
+- https://googleprojectzero.blogspot.in/
+- https://www.ssh.com/ssh/port
+- https://chao-tic.github.io/blog/2017/05/24/dirty-cow
+- https://sakurity.com/
+- https://github.com/CodeMaxx/Binary-Exploitation
 
 ## Networking
 
