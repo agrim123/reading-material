@@ -2,12 +2,6 @@
 
 ## NodeJS
 
-- https://blog.udemy.com/node-js-tutorial/#6_2
-- http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
-- https://www.ctl.io/developers/blog/post/build-user-authentication-with-node-js-express-passport-and-orchestrate
-- https://www.smashingmagazine.com/2011/09/useful-node-js-tools-tutorials-and-resources/
-- http://stackoverflow.com/questions/22669950/best-resource-for-learning-mean-stack
-- https://www.learnmean.com/#!/welcome/lessons
 - https://www.sitepoint.com/chat-application-using-socket-io/
 - https://scotch.io/tutorials/a-realtime-room-chat-app-using-node-webkit-socket-io-and-mean
 - https://codelabs.developers.google.com/codelabs/webrtc-web/#2
@@ -37,21 +31,18 @@
 
 - https://www.mnot.net/cache_docs/
 - https://www.codecademy.com/articles
-- https://developer.chrome.com/devtools/docs/console
 - https://danluu.com/web-bloat/
- http://toolboard.org/web-development-and-design-tools/
+- http://toolboard.org/web-development-and-design-tools/
 
 ## Javascript
 
 - http://tympanus.net/Tutorials/ItemSlider/
-- http://www.sitepoint.com/
 - http://greensock.com/docs/#/HTML5
-- https://developer.chrome.com/devtools/docs/javascript-debugging
+- https://facebook.github.io/relay/
 - https://developer.chrome.com/devtools/docs/console
 - http://maxwellito.github.io/vivus/
 - http://sailsjs.org/get-started
 - https://web-design-weekly.com/2014/09/24/diving-webpack/
-- http://htmldog.com/guides/javascript/advanced/
 - https://www.chromeexperiments.com/
 - http://snapsvg.io/
 - http://htmldog.com/guides/javascript/advanced/
@@ -59,65 +50,45 @@
 - http://noeticforce.com/best-3d-javascript-game-engines-frameworks-webgl-html5
 - https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo
 - https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95
-- https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo
-- https://www.quora.com/How-difficult-is-it-to-create-a-JavaScript-framework
 - https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68
 - http://reactivex.io/
 - https://drboolean.gitbooks.io/mostly-adequate-guide/
 - https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4
-- https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
-- http://hn.premii.com/#/article/14418054
 - https://javascript.info/
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 
 ## Security
 
-- https://en.wikibooks.org/wiki/Bash_Shell_Scripting
 - http://conqueringthecommandline.com/book/basics
 - https://www.learnenough.com/command-line-tutorial#sec-basics
-- http://linuxcommand.org/lc3_wss0010.php
 - http://rumkin.com/tools/cipher/
 - http://overthewire.org/wargames/
-- https://www.virusbulletin.com/virusbulletin/2015/03/dylib-hijacking-os-x
-- https://ashishchaudhary.in/pgp-to-ssh
-- http://www.openwall.com/john/pro/linux/
 - https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/
 - http://catcode.com/teachmod/
-- http://security.stackexchange.com/
+- http://docs.locust.io/
 - http://ctfwriteups.blogspot.in/2013/12/basic-tips-on-hacking-challenges-in.html
 - http://www.techworm.net/2016/05/top-8-websites-learn-ethical-hacking-2016.html
 - https://www.pentesterlab.com/exercises/web_for_pentester/course
 - https://en.wikipedia.org/wiki/Unix_domain_socket
 - http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html
 - https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.krf5mnqwv
-- http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
-- https://github.com/Hack-with-Github/Awesome-Hacking#appsec
 - https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/
 - https://github.com/HackathonHackers
-- https://cryptopals.com/
-- http://www.catb.org/~esr/faqs/hacker-howto.html
 - https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf
 - https://trailofbits.github.io/ctf/index.html
 - https://www.owasp.org/index.php/Main_Page
-- http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html
-- https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.krf5mnqwv
 - http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
 - https://github.com/Hack-with-Github/Awesome-Hacking#appsec
-- http://blockchainvirtualgovhack.com/
 - https://trailofbits.github.io/ctf/intro/README.html
 - http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/
 - http://cryptopals.com/
 - http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/
-- https://picoctf.com/learn
 - https://www.gadgetsay.com/2016/09/top-5-vulnerable-sites-to-practice-your-hacking-skills-legally/
 - https://www.owasp.org/index.php/OWASP_Bricks
-- https://www.cybrary.it/
 - http://sijmen.ruwhof.net/weblog/937-how-i-accidentally-found-a-huge-data-leak-during-a-college-lecture
 - https://www.hackingloops.com/how-to-use-dotdotpwn/
 - https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
-- http://rumkin.com/tools/cipher/
 - https://blog.cloudflare.com/open-sourcing-our-nginx-http-2-spdy-code/
-- https://codingsec.net/2016/04/books-artificial/
 - https://www.upguard.com/
 - http://unhosted.org/
 - https://github.com/k4m4/movies-for-hackers
@@ -130,20 +101,15 @@
 - http://www.tecmint.com/create-apache-https-self-signed-certificate-using-nss/
 - http://www.haproxy.org/
 - https://cryptoservices.github.io/archives/
-- https://blackarch.org/downloads.html
 - https://www.shodan.io/
 - https://github.com/Screetsec/TheFatRat
-- http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/
-- http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/
 - https://picoctf.com/learn
-- http://cryptopals.com/
 - https://www.cybrary.it/
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://help.ubuntu.com/community/Network802.1xAuthentication
 - https://www.vulnhub.com/
 - https://ashishchaudhary.in/pgp-to-ssh
 - https://www.virusbulletin.com/virusbulletin/2015/03/dylib-hijacking-os-x
-- http://overthewire.org/wargames/
 - https://radare.gitbooks.io/radare2book/content/introduction/commandline_flags.html
 - https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005)
 - https://cyber.harvard.edu/#
@@ -159,7 +125,6 @@
 - https://googleprojectzero.blogspot.in/
 - https://www.ssh.com/ssh/port
 - https://chao-tic.github.io/blog/2017/05/24/dirty-cow
-- https://sakurity.com/
 - https://github.com/CodeMaxx/Binary-Exploitation
 
 ## Networking
@@ -177,55 +142,26 @@
 - http://www.sitepoint.com/nested-comments-rails/
 - https://www.railstutorial.org/book/frontmatter
 - https://www.sitepoint.com/build-online-store-rails/
-- https://www.sitepoint.com/mini-chat-rails/
 - https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017
-- https://www.quora.com/Will-JavaScript-frameworks-take-over-Rails
 - http://stackoverflow.com/questions/32248179/rails-with-real-time-notifications-architecture
 - http://stackoverflow.com/questions/1110411/transform-datetime-into-simple-date-in-ruby-on-rails
-- http://josephndungu.com/tutorials/gmail-like-chat-application-in-ruby-on-rails
 - https://www.airpair.com/ruby-on-rails/posts/authentication-with-angularjs-and-ruby-on-rails
-- http://start.jcolemorrison.com/setting-up-an-angularjs-and-rails-4-1-project/
 - https://leanpub.com/developing-games-with-ruby/read
-- https://www.sitepoint.com/mini-chat-rails/
-- http://stackoverflow.com/questions/32248179/rails-with-real-time-notifications-architecture
-- http://stackoverflow.com/questions/1110411/transform-datetime-into-simple-date-in-ruby-on-rails
-- http://www.railscook.com/recipes/multiple-files-upload-with-nested-resource-using-paperclip-in-rails/
 - http://tutorials.pluralsight.com/ruby-ruby-on-rails/token-based-authentication-with-ruby-on-rails-5-api
-- http://cookieshq.co.uk/posts/how-to-use-the-new-rails-5-api-feature/
-- https://blog.codeship.com/building-a-json-api-with-rails-5/
-- http://ericlondon.com/2015/12/15/integrating-a-rails-api-backend-with-an-angular-frontend-using-token-authentication.html
 - http://www.railscook.com/recipes/multiple-files-upload-with-nested-resource-using-paperclip-in-rails/
-- https://gorails.com/dashboard
 - http://apionrails.icalialabs.com/
 - http://josephndungu.com/
 - http://cookieshq.co.uk/posts/how-to-use-the-new-rails-5-api-feature/
 - https://blog.codeship.com/building-a-json-api-with-rails-5/
 - http://ericlondon.com/2015/12/15/integrating-a-rails-api-backend-with-an-angular-frontend-using-token-authentication.html
-- http://tutorials.pluralsight.com/ruby-ruby-on-rails/token-based-authentication-with-ruby-on-rails-5-api
 - http://rubyonrails.org/doctrine/
 - http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html
-- https://datatables.net/manual/server-side
-- https://gorails.com/
-- https://www.airpair.com/ruby-on-rails/posts/authentication-with-angularjs-and-ruby-on-rails
 - http://start.jcolemorrison.com/setting-up-an-angularjs-and-rails-4-1-project/
-- https://leanpub.com/developing-games-with-ruby/read
-- http://josephndungu.com/tutorials/autocomplete-search-with-images-in-rails
-- http://josephndungu.com/tutorials/fast-autocomplete-search-terms-rails
-- http://blog.livecoding.tv/2016/07/12/best-free-programming-books/
-- http://coderberry.me/blog/2013/04/22/angularjs-on-rails-4-part-1/
-- http://www.sitepoint.com/mini-chat-rails/
-- http://www.sitepoint.com/nested-comments-rails/
-- https://www.railstutorial.org/book/frontmatter
-- https://www.sitepoint.com/build-online-store-rails/
 
 ## Competitve
 
 - http://codeforces.com/
-- http://zeekat.nl/articles/constructors-considered-mildly-confusing.html
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
-- https://erdos.sdslabs.co/
-- https://mathbits.com/MathBits/CompSci/Arrays/Sorting.htm
-- https://github.com/avinassh/rockstar
 - https://www.hackerrank.com/domains/cpp/cpp-introduction
 - http://www.spoj.com/
 - https://www.topcoder.com/home
@@ -233,56 +169,29 @@
 - http://www.codeproject.com/Articles/23198/C-String-Toolkit-StrTk-Tokenizer
 - https://www.interviewcake.com/
 
-## PHP
-
-- https://github.com/anandkunal/ToroPHP
-- https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/
-- http://www.hackingwithphp.com/
-
 ## Python
 
 - http://masteringdjango.com/
-- https://learnxinyminutes.com/docs/python/
 - http://deeplearning.net/software/theano/tutorial/python-memory-management.html
-- https://pythonprogramming.net/regression-introduction-machine-learning-tutorial/?completed=/machine-learning-tutorial-python-introduction/
-- https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/
 - https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html
-- https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps
-- http://deeplearning.net/software/theano/tutorial/python-memory-management.html
 - http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 - https://pythonprogramming.net/regression-introduction-machine-learning-tutorial/?completed=/machine-learning-tutorial-python-introduction/
-- https://github.com/rasbt/python-machine-learning-book/tree/master/code
-- http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html
 
 ## Docs
 
-- https://www.learnenough.com/
 - http://www.geeksforgeeks.org/
 - https://www.interviewbit.com/dashboard/
 - https://www.codingforentrepreneurs.com/
-- http://nvie.com/posts/a-successful-git-branching-model/
-- http://collaboradev.com/2016/09/30/arch-linux-hydra-build/
 - http://wiki.c2.com/?FunctionalProgramming
-- https://web-design-weekly.com/2014/09/24/diving-webpack/
-- https://en.wikipedia.org/wiki/Unix_domain_socket
 - https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps
-- https://learnxinyminutes.com/
-- http://www.tutorialspoint.com/index.htm
-- https://developer.chrome.com/devtools/docs/console
+- http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html
 - https://paperplanes.withgoogle.com/
 - https://github.com/mootools/mootools-core
-- http://greensock.com/docs/#/HTML5
-- https://www.mnot.net/cache_docs/
-- https://learncodethehardway.org/
 - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0
-- http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 - https://github.com/ctfs
-- https://www.freecodecamp.com/map
-- http://stackoverflow.com/questions/742013/how-to-code-a-url-shortener
 - http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps
-- http://www.codeproject.com/Articles/36106/Chatbot-Tutorial
 - https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454#.kbd4izvh3
-- http://www.sinatrarb.com/
+- https://www.quora.com/Will-JavaScript-frameworks-take-over-Rails
 
 ## CSS
 
@@ -290,14 +199,8 @@
 - https://wrapbootstrap.com/
 - http://www.cssauthor.com/jquery-css3-hover-effects/
 - http://allison.house/404
-- https://codegeekz.com/css3-animation-scripts-for-your-next-projects/
-- http://www.cssauthor.com/
-- http://www.material-ui.com/#/
 - https://miketricking.github.io/dist/
-- http://www.cssauthor.com/jquery-css3-hover-effects/
-- http://www.cssauthor.com/
 - https://codegeekz.com/css3-animation-scripts-for-your-next-projects/
-- http://cssdb.co/
 - https://www.quora.com/What-tools-can-I-use-to-create-a-guided-tour-walkthrough-of-my-website
 
 ## Hacker News Articles
@@ -310,8 +213,8 @@
 - http://hn.premii.com/#/article/14379876
 - http://hn.premii.com/#/article/14280084
 - http://hn.premii.com/#/article/14280967
-- http://hn.premii.com/#/article/14280967
 - http://hn.premii.com/#/article/14066596
+- http://hn.premii.com/#/article/14418054
 - http://hn.premii.com/#/article/14020615
 - https://news.ycombinator.com/item?id=14178091
 - https://news.ycombinator.com/item?id=14486657
@@ -326,6 +229,8 @@
 
 - https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
 - https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+- https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/
+- https://mathbits.com/MathBits/CompSci/Arrays/Sorting.htm
 
 ## Internet
 
@@ -338,13 +243,11 @@
 
 - https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/
 - http://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- http://nvie.com/posts/a-successful-git-branching-model/
 
 
 ## Linux
 
-- http://conqueringthecommandline.com/book
-- http://www.makelinux.net/kernel_map/
 - http://www.gauravkgupta.com/50-frequently-used-unix-linux-commands-examples/
 - http://linuxcommand.org/lc3_wss0010.php
 - http://collaboradev.com/2016/09/30/arch-linux-hydra-build/
@@ -360,9 +263,9 @@
 
 ## Uncategorized
 
+- http://regexr.com/
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - http://www2.informatik.uni-stuttgart.de/iste/ps/Lehre/stuff/rt.script.pdf
-- http://regexr.com/
 - https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536
 - http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html
 - https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html
@@ -372,14 +275,8 @@
 - http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 - http://zeekat.nl/articles/constructors-considered-mildly-confusing.html
 - https://gist.githubusercontent.com/jxson/1784669/raw/de4e1b30f4d08cb759dac19619d3d5ba1f35bc96/README.md
-- http://maxwellito.github.io/vivus/
-- https://www.chromeexperiments.com/
-- http://www.codeproject.com/Articles/23198/C-String-Toolkit-StrTk-Tokenizer
 - https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.l7qyxcihz
-- http://wiki.c2.com/?FunctionalProgramming
-- https://codelabs.developers.google.com/codelabs/webrtc-web/#2
 - https://dzone.com/articles/recipe-for-getting-started-with-spring-boot-and-an
-- https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0
 - http://www.boost.org/doc/libs/1_63_0/doc/html/boost_asio.html
 - http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11
 - https://github.com/jwasham/google-interview-university#how-to-use-it
@@ -387,6 +284,7 @@
 ## PHP
 
 - http://www.hackingwithphp.com/
+- https://github.com/anandkunal/ToroPHP
 
 ## Database
 
@@ -405,7 +303,6 @@
 - https://blog.ctf365.com/
 - https://www.learnenough.com/
 - http://www.sitepoint.com/
-- https://www.interviewcake.com/
 - http://www.sinatrarb.com/
 - https://launchpad.net/
 - http://blockchainvirtualgovhack.com/
@@ -413,12 +310,16 @@
 - https://developers.google.com/web/
 - http://conqueringthecommandline.com/book
 - https://learnxinyminutes.com/docs/python/
+- https://learncodethehardway.org/
+- https://www.freecodecamp.com/map
 - https://www.jmarshall.com/
 - https://learnxinyminutes.com/
 - http://tutorialzine.com/
 - https://hakin9.org/
 - https://scotch.io/
 - http://apionrails.icalialabs.com/
+- http://www.tutorialspoint.com/index.htm
 - https://www.jmarshall.com/
 - http://josephndungu.com/
 - https://gitleaks.com/
+- https://sakurity.com/
