@@ -12,12 +12,9 @@
 - http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
 - https://www.smashingmagazine.com/2011/09/useful-node-js-tools-tutorials-and-resources/
 - http://stackoverflow.com/questions/10136774/database-session-support-in-nodejs-express
-- https://www.ctl.io/developers/blog/post/build-user-authentication-with-node-js-express-passport-and-orchestrate
 
 ## Javascript
 
-- http://tympanus.net/Tutorials/ItemSlider/
-- http://greensock.com/docs/#/HTML5
 - https://facebook.github.io/relay/
 - http://maxwellito.github.io/vivus/
 - https://web-design-weekly.com/2014/09/24/diving-webpack/
@@ -97,7 +94,6 @@
 
 - https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
 - https://ipfs.io/
-- https://ngrok.com/
 - https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08
 
 ## Crypto
@@ -110,7 +106,6 @@
 - https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017
 - https://leanpub.com/developing-games-with-ruby/read
 - http://apionrails.icalialabs.com/
-- http://rubyonrails.org/doctrine/
 - http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html
 
 ## Competitve
@@ -179,9 +174,6 @@
 
 ## Linux
 
-- http://www.gauravkgupta.com/50-frequently-used-unix-linux-commands-examples/
-- http://linuxcommand.org/lc3_wss0010.php
-- http://collaboradev.com/2016/09/30/arch-linux-hydra-build/
 - https://github.com/xairy/linux-kernel-exploitation
 - http://www.makelinux.net/kernel_map/
 - http://www.openwall.com/john/pro/linux/
@@ -199,12 +191,6 @@
 
 - http://www.boost.org/doc/libs/1_63_0/doc/html/boost_asio.html
 - http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11
-- https://www.hackerrank.com/domains/cpp/cpp-introduction
-
-## PHP
-
-- http://www.hackingwithphp.com/
-- https://github.com/anandkunal/ToroPHP
 
 ## Database
 
@@ -241,7 +227,6 @@
 - http://www.sinatrarb.com/
 - https://launchpad.net/
 - http://blockchainvirtualgovhack.com/
-- https://dcrazed.com/best-free-resume-templates/
 - http://conqueringthecommandline.com/book
 - https://learnxinyminutes.com/docs/python/
 - https://learncodethehardway.org/
