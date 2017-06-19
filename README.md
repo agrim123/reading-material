@@ -48,20 +48,14 @@
 - http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html
 - https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.krf5mnqwv
 - https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/
-- https://github.com/HackathonHackers
-- https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf
 - https://trailofbits.github.io/ctf/index.html
-- https://www.owasp.org/index.php/Main_Page
+- https://www.owasp.org/
 - http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
-- https://github.com/Hack-with-Github/Awesome-Hacking#appsec
-- https://trailofbits.github.io/ctf/intro/README.html
+- https://github.com/Hack-with-Github/Awesome-Hacking
 - http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/
 - http://cryptopals.com/
 - http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/
-- https://www.gadgetsay.com/2016/09/top-5-vulnerable-sites-to-practice-your-hacking-skills-legally/
-- https://www.owasp.org/index.php/OWASP_Bricks
 - http://sijmen.ruwhof.net/weblog/937-how-i-accidentally-found-a-huge-data-leak-during-a-college-lecture
-- https://www.hackingloops.com/how-to-use-dotdotpwn/
 - https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
 - https://blog.cloudflare.com/open-sourcing-our-nginx-http-2-spdy-code/
 - https://www.upguard.com/
@@ -70,8 +64,6 @@
 - http://youbroketheinternet.org/
 - http://catb.org/~esr/faqs/hacker-howto.html
 - http://blog.bigbinary.com/2012/05/10/xss-and-rails.html
-- https://en.wikipedia.org/wiki/.htaccess
-- https://groups.google.com/forum/#!searchin/sdslabs16/welcome|sort:relevance/sdslabs16/2zMChiF5AaQ/Tfk_DxcXDAAJ
 - http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/
 - http://www.tecmint.com/create-apache-https-self-signed-certificate-using-nss/
 - http://www.haproxy.org/
@@ -83,15 +75,13 @@
 - https://www.cybrary.it/
 - https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
-- https://help.ubuntu.com/community/Network802.1xAuthentication
 - https://www.vulnhub.com/
 - https://ashishchaudhary.in/pgp-to-ssh
 - https://www.virusbulletin.com/virusbulletin/2015/03/dylib-hijacking-os-x
 - https://radare.gitbooks.io/radare2book/content/introduction/commandline_flags.html
 - https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005)
 - https://cyber.harvard.edu/#
-- https://www.cvedetails.com/vulnerability-list/vendor_id-10199/product_id-18211/Djangoproject-Django.html
-- https://www.cvedetails.com/vulnerability-list/vendor_id-12113/Nodejs.html
+- http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html
 - http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own
 - https://stormpath.com/blog/why-http-is-sometimes-better-than-https
 - http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf
@@ -100,7 +90,6 @@
 - https://ictf.cs.ucsb.edu/pages/the-2016-2017-ictf-ddos.html
 - http://pwning.net/
 - https://googleprojectzero.blogspot.in/
-- https://www.ssh.com/ssh/port
 - https://chao-tic.github.io/blog/2017/05/24/dirty-cow
 - https://github.com/CodeMaxx/Binary-Exploitation
 
@@ -142,16 +131,6 @@
 - http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 - https://pythonprogramming.net/regression-introduction-machine-learning-tutorial/?completed=/machine-learning-tutorial-python-introduction/
 
-## CSS
-
-- http://cssdb.co/
-- https://wrapbootstrap.com/
-- http://www.cssauthor.com/jquery-css3-hover-effects/
-- http://allison.house/404
-- https://miketricking.github.io/dist/
-- https://codegeekz.com/css3-animation-scripts-for-your-next-projects/
-- https://www.quora.com/What-tools-can-I-use-to-create-a-guided-tour-walkthrough-of-my-website
-
 ## Hacker News Articles
 
 - http://hn.premii.com/#/article/14481293
@@ -163,6 +142,7 @@
 - http://hn.premii.com/#/article/14280084
 - http://hn.premii.com/#/article/14280967
 - http://hn.premii.com/#/article/14066596
+- http://hn.premii.com/#/article/14280625
 - http://hn.premii.com/#/article/14418054
 - http://hn.premii.com/#/article/14020615
 - https://news.ycombinator.com/item?id=14178091
@@ -212,6 +192,8 @@
 - https://en.wikibooks.org/wiki/Bash_Shell_Scripting
 - http://jafrog.com/2013/11/23/colors-in-terminal.html
 - https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/
+- http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html
+- http://www.vividmachines.com/shellcode/shellcode.html
 
 ## C
 
