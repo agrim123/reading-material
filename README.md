@@ -19,7 +19,6 @@
 - http://maxwellito.github.io/vivus/
 - https://web-design-weekly.com/2014/09/24/diving-webpack/
 - https://www.chromeexperiments.com/
-- http://snapsvg.io/
 - http://htmldog.com/guides/javascript/advanced/
 - https://developer.chrome.com/devtools/docs/javascript-debugging
 - http://noeticforce.com/best-3d-javascript-game-engines-frameworks-webgl-html5
@@ -235,7 +234,6 @@
 - https://blog.ctf365.com/
 - https://www.learnenough.com/
 - http://www.sitepoint.com/
-- http://www.sinatrarb.com/
 - https://launchpad.net/
 - http://blockchainvirtualgovhack.com/
 - http://conqueringthecommandline.com/book
@@ -246,8 +244,6 @@
 - https://learnxinyminutes.com/
 - http://tutorialzine.com/
 - https://hakin9.org/
-- https://scotch.io/
-- http://apionrails.icalialabs.com/
 - http://www.tutorialspoint.com/index.htm
 - https://www.jmarshall.com/
 - http://josephndungu.com/
