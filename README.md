@@ -192,6 +192,17 @@
 - http://www.boost.org/doc/libs/1_63_0/doc/html/boost_asio.html
 - http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11
 
+## Lisp
+
+- http://www.gigamonkeys.com/book/
+
+## Ruby
+
+- https://www.theodinproject.com/courses/ruby-programming
+- http://www.sinatrarb.com/intro.html
+- https://github.com/ruby/rake
+- https://github.com/openshift-quickstart/sinatra-example
+
 ## Database
 
 - http://heap.engineering/running-10-million-postgresql-indexes-in-production/
@@ -248,6 +259,7 @@
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
 - https://sakurity.com/
+- https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055
 
 ## Uncategorized
 
