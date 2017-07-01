@@ -37,6 +37,7 @@
 - https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/
 - http://catcode.com/teachmod/
 - http://docs.locust.io/
+- https://github.com/ctfs
 - http://ctfwriteups.blogspot.in/2013/12/basic-tips-on-hacking-challenges-in.html
 - http://www.techworm.net/2016/05/top-8-websites-learn-ethical-hacking-2016.html
 - https://www.pentesterlab.com/exercises/web_for_pentester/course
@@ -55,8 +56,6 @@
 - https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
 - https://blog.cloudflare.com/open-sourcing-our-nginx-http-2-spdy-code/
 - https://www.upguard.com/
-- http://unhosted.org/
-- https://github.com/k4m4/movies-for-hackers
 - http://youbroketheinternet.org/
 - http://catb.org/~esr/faqs/hacker-howto.html
 - http://blog.bigbinary.com/2012/05/10/xss-and-rails.html
@@ -88,12 +87,16 @@
 - https://googleprojectzero.blogspot.in/
 - https://chao-tic.github.io/blog/2017/05/24/dirty-cow
 - https://github.com/CodeMaxx/Binary-Exploitation
+- https://github.com/sbilly/awesome-security
+- https://github.com/PaulSec/awesome-sec-talks
+- https://github.com/zbetcheckin/Security_list
 
 ## Networking
 
 - https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
 - https://ipfs.io/
 - https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08
+- https://www.isi.edu/lsam/publications/http-perf/
 
 ## Crypto
 
@@ -124,6 +127,7 @@
 - https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html
 - http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 - https://pythonprogramming.net/regression-introduction-machine-learning-tutorial/?completed=/machine-learning-tutorial-python-introduction/
+- https://github.com/JoshData/pdf-diff
 
 ## Hacker News Articles
 
@@ -147,6 +151,7 @@
 
 - http://docker-saigon.github.io/post/Docker-Internals/#overview-of-linux-containers:cb6baf67dddd3a71c07abfd705dc7d4b
 - https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe
+- https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines
 
 ## Algorithms
 
@@ -154,6 +159,7 @@
 - https://www.tutorialspoint.com/data_structures_algorithms/index.htm
 - https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/
 - https://mathbits.com/MathBits/CompSci/Arrays/Sorting.htm
+- https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/
 
 ## Internet
 
@@ -162,6 +168,7 @@
 - https://www.codecademy.com/articles
 - https://danluu.com/web-bloat/
 - http://toolboard.org/web-development-and-design-tools/
+- https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
 
 ## Git
 
@@ -170,6 +177,7 @@
 - https://gist.githubusercontent.com/jxson/1784669/raw/de4e1b30f4d08cb759dac19619d3d5ba1f35bc96/README.md
 - http://nvie.com/posts/a-successful-git-branching-model/
 - https://hackernoon.com/git-in-2016-fad96ae22a15
+- http://ohshitgit.com/
 
 ## Linux
 
@@ -190,10 +198,12 @@
 
 - http://www.boost.org/doc/libs/1_63_0/doc/html/boost_asio.html
 - http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11
+- https://www.recurse.com/blog/7-understanding-c-by-learning-assembly
 
 ## Lisp
 
 - http://www.gigamonkeys.com/book/
+- https://lispcookbook.github.io/cl-cookbook/
 
 ## Ruby
 
@@ -201,6 +211,7 @@
 - http://www.sinatrarb.com/intro.html
 - https://github.com/ruby/rake
 - https://github.com/openshift-quickstart/sinatra-example
+- http://ruby-metaprogramming.rubylearning.com/
 
 ## Database
 
@@ -214,7 +225,6 @@
 - https://paperplanes.withgoogle.com/
 - https://github.com/mootools/mootools-core
 - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0
-- https://github.com/ctfs
 - http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps
 - https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454#.kbd4izvh3
 - https://www.quora.com/Will-JavaScript-frameworks-take-over-Rails
@@ -224,34 +234,27 @@
 
 - https://www.findlectures.com/
 - https://githubengineering.com/
-- https://hackernoon.com/
 - http://www.geeksforgeeks.org/
 - https://www.interviewbit.com/dashboard/
 - https://www.codingforentrepreneurs.com/
 - https://www.freecodecamp.com/map
-- https://www.recurse.com/blog/7-understanding-c-by-learning-assembly
 - https://www.destroyallsoftware.com/screencasts
 - https://blog.ctf365.com/
 - https://www.learnenough.com/
-- http://www.sitepoint.com/
-- https://launchpad.net/
 - http://blockchainvirtualgovhack.com/
 - http://conqueringthecommandline.com/book
 - https://learnxinyminutes.com/docs/python/
 - https://learncodethehardway.org/
-- https://www.freecodecamp.com/map
 - https://www.jmarshall.com/
 - https://learnxinyminutes.com/
 - http://tutorialzine.com/
 - https://hakin9.org/
 - http://www.tutorialspoint.com/index.htm
-- https://www.jmarshall.com/
 - http://josephndungu.com/
 - https://gitleaks.com/
 - https://github.com/rasbt/python-machine-learning-book/tree/master/code
 - https://github.com/sdslabs/styleguide
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-- http://blog.livecoding.tv/2016/07/12/best-free-programming-books/
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
 - https://sakurity.com/
