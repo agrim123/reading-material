@@ -11,7 +11,6 @@
 - https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4
 - http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
 - https://www.smashingmagazine.com/2011/09/useful-node-js-tools-tutorials-and-resources/
-- http://stackoverflow.com/questions/10136774/database-session-support-in-nodejs-express
 
 ## Javascript
 
@@ -25,7 +24,6 @@
 - https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo
 - https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95
 - https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68
-- http://reactivex.io/
 - https://drboolean.gitbooks.io/mostly-adequate-guide/
 - https://javascript.info/
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
@@ -43,22 +41,18 @@
 - https://www.pentesterlab.com/exercises/web_for_pentester/course
 - https://en.wikipedia.org/wiki/Unix_domain_socket
 - http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html
-- https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.krf5mnqwv
 - https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/
 - https://trailofbits.github.io/ctf/index.html
 - https://www.owasp.org/
 - http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
-- https://github.com/Hack-with-Github/Awesome-Hacking
 - http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/
 - http://cryptopals.com/
 - http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/
-- http://sijmen.ruwhof.net/weblog/937-how-i-accidentally-found-a-huge-data-leak-during-a-college-lecture
 - https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
 - https://blog.cloudflare.com/open-sourcing-our-nginx-http-2-spdy-code/
 - https://www.upguard.com/
 - http://youbroketheinternet.org/
 - http://catb.org/~esr/faqs/hacker-howto.html
-- http://blog.bigbinary.com/2012/05/10/xss-and-rails.html
 - http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/
 - http://www.tecmint.com/create-apache-https-self-signed-certificate-using-nss/
 - http://www.haproxy.org/
@@ -109,16 +103,14 @@
 - https://leanpub.com/developing-games-with-ruby/read
 - http://apionrails.icalialabs.com/
 - http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html
+- http://blog.bigbinary.com/2012/05/10/xss-and-rails.html
 
 ## Competitve
 
 - http://codeforces.com/
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
-- http://www.spoj.com/
 - https://www.topcoder.com/home
-- https://www.codingame.com/start
 - http://www.codeproject.com/Articles/23198/C-String-Toolkit-StrTk-Tokenizer
-- https://www.interviewcake.com/
 
 ## Python
 
@@ -163,7 +155,6 @@
 
 ## Internet
 
-- http://stackoverflow.com/questions/742013/how-to-code-a-url-shortener
 - https://www.mnot.net/cache_docs/
 - https://www.codecademy.com/articles
 - https://danluu.com/web-bloat/
