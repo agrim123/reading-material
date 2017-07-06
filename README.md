@@ -7,7 +7,6 @@
 - https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha
 - http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/#.WMHDGyF97Qo
 - https://engineering.gosquared.com/making-dashboard-faster
-- https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md
 - https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4
 - http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
 - https://www.smashingmagazine.com/2011/09/useful-node-js-tools-tutorials-and-resources/
@@ -21,12 +20,14 @@
 - http://htmldog.com/guides/javascript/advanced/
 - https://developer.chrome.com/devtools/docs/javascript-debugging
 - http://noeticforce.com/best-3d-javascript-game-engines-frameworks-webgl-html5
+- https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md
 - https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo
 - https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95
 - https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68
 - https://drboolean.gitbooks.io/mostly-adequate-guide/
 - https://javascript.info/
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
+- https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 
 ## Security
 
@@ -51,15 +52,14 @@
 - https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
 - https://blog.cloudflare.com/open-sourcing-our-nginx-http-2-spdy-code/
 - https://www.upguard.com/
-- http://youbroketheinternet.org/
 - http://catb.org/~esr/faqs/hacker-howto.html
 - http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/
 - http://www.tecmint.com/create-apache-https-self-signed-certificate-using-nss/
 - http://www.haproxy.org/
 - https://cryptoservices.github.io/archives/
 - https://www.shodan.io/
-- https://github.com/Screetsec/TheFatRat
 - https://mixmax.com/blog/modern-csrf
+- http://thehackernews.com/2016/04/artificial-intelligence-cyber-security.html
 - https://picoctf.com/learn
 - https://www.cybrary.it/
 - https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/
@@ -95,6 +95,7 @@
 ## Crypto
 
 - https://www.tutorialspoint.com/cryptography/index.htm
+- https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/
 
 ## Rails
 
@@ -123,21 +124,10 @@
 
 ## Hacker News Articles
 
-- http://hn.premii.com/#/article/14481293
-- http://hn.premii.com/#/article/14415485
-- http://hn.premii.com/#/article/14397873
-- http://hn.premii.com/#/article/14380191
 - http://hn.premii.com/#/article/14392423
-- http://hn.premii.com/#/article/14379876
 - http://hn.premii.com/#/article/14280084
-- http://hn.premii.com/#/article/14280967
 - http://hn.premii.com/#/article/14066596
-- http://hn.premii.com/#/article/14280625
-- http://hn.premii.com/#/article/14418054
-- http://hn.premii.com/#/article/14020615
-- https://news.ycombinator.com/item?id=14178091
 - https://news.ycombinator.com/item?id=14486657
-- http://thehackernews.com/2016/04/artificial-intelligence-cyber-security.html
 
 ## Docker
 
@@ -155,11 +145,14 @@
 
 ## Internet
 
+- https://danluu.com/web-bloat/
 - https://www.mnot.net/cache_docs/
 - https://www.codecademy.com/articles
-- https://danluu.com/web-bloat/
 - http://toolboard.org/web-development-and-design-tools/
+- http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/
 - https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
+- https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06
+- http://youbroketheinternet.org/
 
 ## Git
 
@@ -177,10 +170,8 @@
 - http://www.openwall.com/john/pro/linux/
 - https://www.linux.com/blog/how-bad-dirty-cow
 - http://www.tecmint.com/open-source-artificial-intelligence-tools-softwares-linux/?utm_content=buffer4c84a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
-- http://www.tecmint.com/transfer-files-between-two-linux-machines/?utm_content=buffer98861&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 - http://tldp.org/LDP/Bash-Beginners-Guide/html/
 - https://en.wikibooks.org/wiki/Bash_Shell_Scripting
-- http://jafrog.com/2013/11/23/colors-in-terminal.html
 - https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/
 - http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html
 - http://www.vividmachines.com/shellcode/shellcode.html
@@ -207,6 +198,15 @@
 ## Database
 
 - http://heap.engineering/running-10-million-postgresql-indexes-in-production/
+
+## BlockChain
+
+- https://bitcoin.org/bitcoin.pdf
+- https://bitcoin.org/en/resources
+- http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf
+- http://www.hashcash.org/papers/hashcash.pdf
+- https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf
+- https://www.youtube.com/watch?v=Lx9zgZCMqXE
 
 ## Docs
 
@@ -241,10 +241,8 @@
 - http://tutorialzine.com/
 - https://hakin9.org/
 - http://www.tutorialspoint.com/index.htm
-- http://josephndungu.com/
 - https://gitleaks.com/
 - https://github.com/rasbt/python-machine-learning-book/tree/master/code
-- https://github.com/sdslabs/styleguide
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
@@ -255,6 +253,7 @@
 
 - http://regexr.com/
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
+- https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
 - http://www2.informatik.uni-stuttgart.de/iste/ps/Lehre/stuff/rt.script.pdf
 - https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536
 - http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html
