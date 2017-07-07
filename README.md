@@ -208,6 +208,14 @@
 - https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf
 - https://www.youtube.com/watch?v=Lx9zgZCMqXE
 
+## Tor
+
+- https://blog.torproject.org/blog/research-problems-ten-ways-discover-tor-bridges
+- https://www.freehaven.net/anonbib/topic.html
+- https://www.onion-router.net/
+- https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf
+- http://www.cs.uml.edu/~xinwenfu/paper/Bridge.pdf
+
 ## Docs
 
 - http://wiki.c2.com/?FunctionalProgramming
