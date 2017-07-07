@@ -153,6 +153,7 @@
 - https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
 - https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06
 - http://youbroketheinternet.org/
+- https://www.jmarshall.com/easy/http/
 
 ## Git
 
@@ -194,6 +195,18 @@
 - https://github.com/ruby/rake
 - https://github.com/openshift-quickstart/sinatra-example
 - http://ruby-metaprogramming.rubylearning.com/
+
+## Go
+
+- https://tour.golang.org/
+- https://gobyexample.com/
+- https://github.com/dariubs/GoBooks
+- http://openmymind.net/
+- https://golang.org/doc/effective_go.html
+- http://www.golangbootcamp.com/book
+- https://github.com/pazams/go-for-javascript-developers
+- https://www.miek.nl/go/
+- http://tumregels.github.io/Network-Programming-with-Go/
 
 ## Database
 
