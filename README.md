@@ -1,5 +1,8 @@
 # Reading Material
 
+Some resources that I found useful and interesting across various domains.  
+It includes papers, docs, blogs, sites, github repos, etc.
+
 ## NodeJS
 
 - https://codelabs.developers.google.com/codelabs/webrtc-web/#2
@@ -65,6 +68,7 @@
 - https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://www.vulnhub.com/
+- https://sakurity.com/
 - https://ashishchaudhary.in/pgp-to-ssh
 - https://www.virusbulletin.com/virusbulletin/2015/03/dylib-hijacking-os-x
 - https://radare.gitbooks.io/radare2book/content/introduction/commandline_flags.html
@@ -121,6 +125,7 @@
 - http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 - https://pythonprogramming.net/regression-introduction-machine-learning-tutorial/?completed=/machine-learning-tutorial-python-introduction/
 - https://github.com/JoshData/pdf-diff
+- https://github.com/rasbt/python-machine-learning-book
 
 ## Hacker News Articles
 
@@ -216,6 +221,7 @@
 
 - https://bitcoin.org/bitcoin.pdf
 - https://bitcoin.org/en/resources
+- http://imgur.com/a/wvO9H
 - http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf
 - http://www.hashcash.org/papers/hashcash.pdf
 - https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf
@@ -253,35 +259,26 @@
 - https://www.destroyallsoftware.com/screencasts
 - https://blog.ctf365.com/
 - https://www.learnenough.com/
-- http://blockchainvirtualgovhack.com/
 - http://conqueringthecommandline.com/book
-- https://learnxinyminutes.com/docs/python/
+- https://learnxinyminutes.com/
 - https://learncodethehardway.org/
 - https://www.jmarshall.com/
-- https://learnxinyminutes.com/
 - http://tutorialzine.com/
-- https://hakin9.org/
-- http://www.tutorialspoint.com/index.htm
-- https://gitleaks.com/
-- https://github.com/rasbt/python-machine-learning-book/tree/master/code
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
-- https://sakurity.com/
 - https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055
+- http://regexr.com/
 
 ## Uncategorized
 
-- http://regexr.com/
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
 - http://www2.informatik.uni-stuttgart.de/iste/ps/Lehre/stuff/rt.script.pdf
 - https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536
 - http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html
 - https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html
-- http://imgur.com/a/wvO9H
 - http://www.craftinginterpreters.com/statements-and-state.html
 - http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 - http://zeekat.nl/articles/constructors-considered-mildly-confusing.html
-- https://github.com/jwasham/google-interview-university#how-to-use-it
-- https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU
+- https://github.com/jwasham/google-interview-university
