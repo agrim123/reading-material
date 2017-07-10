@@ -3,25 +3,20 @@
 Some resources that I found useful and interesting across various domains.  
 It includes papers, docs, blogs, sites, github repos, etc.
 
-## NodeJS
+## Javascript
 
-- https://codelabs.developers.google.com/codelabs/webrtc-web/#2
 - https://github.com/nodejs/node/blob/master/doc/guides/writing-tests.md
 - https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha
 - http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/#.WMHDGyF97Qo
 - https://engineering.gosquared.com/making-dashboard-faster
 - https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4
-- http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
-- https://www.smashingmagazine.com/2011/09/useful-node-js-tools-tutorials-and-resources/
-
-## Javascript
-
+- [Getting Started](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 - https://facebook.github.io/relay/
 - http://maxwellito.github.io/vivus/
-- https://web-design-weekly.com/2014/09/24/diving-webpack/
+- [Diving Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/)
 - https://www.chromeexperiments.com/
 - http://htmldog.com/guides/javascript/advanced/
-- https://developer.chrome.com/devtools/docs/javascript-debugging
+- [Javascript Debugging](https://developer.chrome.com/devtools/docs/javascript-debugging)
 - http://noeticforce.com/best-3d-javascript-game-engines-frameworks-webgl-html5
 - https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md
 - https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo
@@ -35,7 +30,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 ## Security
 
 - http://rumkin.com/tools/cipher/
-- http://overthewire.org/wargames/
+- [Wargames](http://overthewire.org/wargames/)
 - https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/
 - http://catcode.com/teachmod/
 - http://docs.locust.io/
@@ -78,16 +73,15 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own
 - https://stormpath.com/blog/why-http-is-sometimes-better-than-https
 - http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf
-- http://tldp.org/HOWTO/LDAP-HOWTO/authentication.html
 - https://hashcat.net/hashcat/
 - https://ictf.cs.ucsb.edu/pages/the-2016-2017-ictf-ddos.html
 - http://pwning.net/
 - https://googleprojectzero.blogspot.in/
-- https://chao-tic.github.io/blog/2017/05/24/dirty-cow
 - https://github.com/CodeMaxx/Binary-Exploitation
 - https://github.com/sbilly/awesome-security
 - https://github.com/PaulSec/awesome-sec-talks
 - https://github.com/zbetcheckin/Security_list
+- https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/
 
 ## Networking
 
@@ -136,9 +130,9 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 ## Docker
 
-- http://docker-saigon.github.io/post/Docker-Internals/#overview-of-linux-containers:cb6baf67dddd3a71c07abfd705dc7d4b
-- https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe
-- https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines
+- [Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/)
+- [Docker Internals](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
+- [Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
 
 ## Algorithms
 
@@ -172,6 +166,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 ## Linux
 
 - https://github.com/xairy/linux-kernel-exploitation
+- https://chao-tic.github.io/blog/2017/05/24/dirty-cow
 - http://www.makelinux.net/kernel_map/
 - http://www.openwall.com/john/pro/linux/
 - https://www.linux.com/blog/how-bad-dirty-cow
@@ -181,6 +176,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/
 - http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html
 - http://www.vividmachines.com/shellcode/shellcode.html
+- http://goyalankit.com/blog/linux-bridge
 
 ## C
 
@@ -196,10 +192,11 @@ It includes papers, docs, blogs, sites, github repos, etc.
 ## Ruby
 
 - https://www.theodinproject.com/courses/ruby-programming
-- http://www.sinatrarb.com/intro.html
-- https://github.com/ruby/rake
+- http://goyalankit.com/blog/the-star-in-ruby
+- [Sinatra](http://www.sinatrarb.com/intro.html)
+- [Rake](https://github.com/ruby/rake)
 - https://github.com/openshift-quickstart/sinatra-example
-- http://ruby-metaprogramming.rubylearning.com/
+- [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
 
 ## Go
 
@@ -251,6 +248,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 ## Good Resources
 
 - https://www.findlectures.com/
+- http://goyalankit.com/
 - https://githubengineering.com/
 - http://www.geeksforgeeks.org/
 - https://www.interviewbit.com/dashboard/
