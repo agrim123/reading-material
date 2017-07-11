@@ -5,20 +5,20 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 ## Javascript
 
-- https://github.com/nodejs/node/blob/master/doc/guides/writing-tests.md
+- [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
+- [Writing NodeJS Tests](https://github.com/nodejs/node/blob/master/doc/guides/writing-tests.md)
 - https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha
 - http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/#.WMHDGyF97Qo
 - https://engineering.gosquared.com/making-dashboard-faster
 - https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4
-- [Getting Started](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 - https://facebook.github.io/relay/
 - http://maxwellito.github.io/vivus/
 - [Diving Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/)
 - https://www.chromeexperiments.com/
-- http://htmldog.com/guides/javascript/advanced/
+- [Advanced JS](http://htmldog.com/guides/javascript/advanced/)
 - [Javascript Debugging](https://developer.chrome.com/devtools/docs/javascript-debugging)
 - http://noeticforce.com/best-3d-javascript-game-engines-frameworks-webgl-html5
-- https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md
+- [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 - https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo
 - https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95
 - https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68
@@ -38,7 +38,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - http://ctfwriteups.blogspot.in/2013/12/basic-tips-on-hacking-challenges-in.html
 - http://www.techworm.net/2016/05/top-8-websites-learn-ethical-hacking-2016.html
 - https://www.pentesterlab.com/exercises/web_for_pentester/course
-- https://en.wikipedia.org/wiki/Unix_domain_socket
 - http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html
 - https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/
 - https://trailofbits.github.io/ctf/index.html
@@ -83,13 +82,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - https://github.com/zbetcheckin/Security_list
 - https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/
 
-## Networking
-
-- https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
-- https://ipfs.io/
-- https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08
-- https://www.isi.edu/lsam/publications/http-perf/
-
 ## Crypto
 
 - https://www.tutorialspoint.com/cryptography/index.htm
@@ -130,9 +122,9 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 ## Docker
 
-- [Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/)
-- [Docker Internals](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
-- [Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
+- [Docker Internals 1](http://docker-saigon.github.io/post/Docker-Internals/)
+- [Docker Internals 2](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
+- [Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
 
 ## Algorithms
 
@@ -141,6 +133,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/
 - https://mathbits.com/MathBits/CompSci/Arrays/Sorting.htm
 - https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/
+- [Heap Algorithm](http://ruslanledesma.com/2016/06/17/why-does-heap-work.html)
 
 ## Internet
 
@@ -152,14 +145,17 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
 - https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06
 - http://youbroketheinternet.org/
-- https://www.jmarshall.com/easy/http/
+- [IPFS](https://ipfs.io/)
+- [HTTP](https://www.jmarshall.com/easy/http/)
+- [Analysis of HTTP Performance](https://www.isi.edu/lsam/publications/http-perf/)
+- https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
+- https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08
 
 ## Git
 
 - https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/
 - http://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past
-- https://gist.githubusercontent.com/jxson/1784669/raw/de4e1b30f4d08cb759dac19619d3d5ba1f35bc96/README.md
-- http://nvie.com/posts/a-successful-git-branching-model/
+- [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 - https://hackernoon.com/git-in-2016-fad96ae22a15
 - http://ohshitgit.com/
 
@@ -191,24 +187,25 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 ## Ruby
 
-- https://www.theodinproject.com/courses/ruby-programming
-- http://goyalankit.com/blog/the-star-in-ruby
+- [Ruby Programming](https://www.theodinproject.com/courses/ruby-programming)
+- [* in Ruby](http://goyalankit.com/blog/the-star-in-ruby)
 - [Sinatra](http://www.sinatrarb.com/intro.html)
 - [Rake](https://github.com/ruby/rake)
-- https://github.com/openshift-quickstart/sinatra-example
+- [Sinatra Example](https://github.com/openshift-quickstart/sinatra-example)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
 
 ## Go
 
-- https://tour.golang.org/
-- https://gobyexample.com/
-- https://github.com/dariubs/GoBooks
-- http://openmymind.net/
-- https://golang.org/doc/effective_go.html
-- http://www.golangbootcamp.com/book
-- https://github.com/pazams/go-for-javascript-developers
-- https://www.miek.nl/go/
-- http://tumregels.github.io/Network-Programming-with-Go/
+- [Tour of Go](https://tour.golang.org/)
+- [Go by example](https://gobyexample.com/)
+- [Go Books](https://github.com/dariubs/GoBooks)
+- [RESTful routing in Go](http://openmymind.net/RESTful-routing-in-Go/)
+- [Effective Go](https://golang.org/doc/effective_go.html)
+- [Go Bootcamp](http://www.golangbootcamp.com/book)
+- [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
+- [Learning Go](https://www.miek.nl/go/)
+- [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
+- [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
 ## Database
 
@@ -216,29 +213,28 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 ## BlockChain
 
-- https://bitcoin.org/bitcoin.pdf
-- https://bitcoin.org/en/resources
-- http://imgur.com/a/wvO9H
-- http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf
-- http://www.hashcash.org/papers/hashcash.pdf
-- https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf
-- https://www.youtube.com/watch?v=Lx9zgZCMqXE
+- [Bitcoin Paper](https://bitcoin.org/bitcoin.pdf)
+- [Bitcoin Resources](https://bitcoin.org/en/resources)
+- [How Bitcoin Transaction Works](http://imgur.com/a/wvO9H)
+- [Blockchain Paper](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
+- [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
+- [Introduction To Blockchain](https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf)
+- [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 
 ## Tor
 
-- https://blog.torproject.org/blog/research-problems-ten-ways-discover-tor-bridges
-- https://www.freehaven.net/anonbib/topic.html
-- https://www.onion-router.net/
-- https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf
-- http://www.cs.uml.edu/~xinwenfu/paper/Bridge.pdf
+- [Research problems: Ten ways to discover Tor bridges](https://blog.torproject.org/blog/research-problems-ten-ways-discover-tor-bridges)
+- [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/topic.html)
+- [Onion Router](https://www.onion-router.net/)
+- [Tor Design](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
+- [Tor Bridge Discovery](http://www.cs.uml.edu/~xinwenfu/paper/Bridge.pdf)
 
 ## Docs
 
-- http://wiki.c2.com/?FunctionalProgramming
-- https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps
+- [Functional Programming](http://wiki.c2.com/?FunctionalProgramming)
+- [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
 - http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html
-- https://paperplanes.withgoogle.com/
-- https://github.com/mootools/mootools-core
+- [MooTools](https://github.com/mootools/mootools-core)
 - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0
 - http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps
 - https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454#.kbd4izvh3
@@ -247,6 +243,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 ## Good Resources
 
+- http://openmymind.net/
 - https://www.findlectures.com/
 - http://goyalankit.com/
 - https://githubengineering.com/
@@ -265,7 +262,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
-- https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055
+- [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)
 - http://regexr.com/
 
 ## Uncategorized
