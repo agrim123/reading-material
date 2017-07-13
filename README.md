@@ -1,6 +1,6 @@
 # Reading Material
 
-Some resources that I found useful and interesting across various domains.  
+A collection of resources that I found useful and interesting across various domains.  
 It includes papers, docs, blogs, sites, github repos, etc.
 
 ## Javascript
@@ -18,15 +18,23 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Chrome Experiments](https://www.chromeexperiments.com/)
 - [Advanced JS](http://htmldog.com/guides/javascript/advanced/)
 - [Javascript Debugging](https://developer.chrome.com/devtools/docs/javascript-debugging)
-- [Javascript 3D Gae Engines](http://noeticforce.com/best-3d-javascript-game-engines-frameworks-webgl-html5)
+- [Javascript 3D Game Engines](http://noeticforce.com/best-3d-javascript-game-engines-frameworks-webgl-html5)
 - [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 - [What is Functional Programming ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-- https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo
+- [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+- [Want to learn JS in 2015](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo)
+- [How it feels to learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 - https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95
 - https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68
 - https://javascript.info/
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
+- [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
+- [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+- pro-router.js
+- https://github.com/ericelliott/the-two-pillars-of-javascript-talk
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- http://javascript.crockford.com/
 
 ## Security
 
@@ -40,6 +48,7 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Securing API with OAuth 2.0](https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/)
 - https://trailofbits.github.io/ctf/index.html
 - https://www.owasp.org/
+- [SSL Strip](https://github.com/moxie0/sslstrip)
 - http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
 - http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/
 - http://cryptopals.com/
@@ -78,6 +87,7 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - https://github.com/PaulSec/awesome-sec-talks
 - https://github.com/zbetcheckin/Security_list
 - https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/
+- [Radare 2](https://radare.gitbooks.io/radare2book/content/)
 
 ## Crypto
 
@@ -120,11 +130,15 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Essentials of Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 - [Sorting](https://mathbits.com/MathBits/CompSci/Arrays/Sorting.htm)
 - [Heap Algorithm](http://ruslanledesma.com/2016/06/17/why-does-heap-work.html)
+- [Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
+- https://github.com/coells/100days
+- https://brennan.io/2017/04/21/linked-lists-are-still-hard/
 
 ## Internet
 
 - [Locust](http://docs.locust.io/)
 - [Web Bloat](https://danluu.com/web-bloat/)
+- [API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
 - [Cache Docs](https://www.mnot.net/cache_docs/)
 - [](https://www.codecademy.com/articles)
 - http://toolboard.org/web-development-and-design-tools/
@@ -137,6 +151,9 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
+- [What happens when...](https://github.com/alex/what-happens-when)
+- [Breach: Reviving The Crime Attack](http://breachattack.com/resources/BREACH%20-%20SSL,%20gone%20in%2030%20seconds.pdf)
+- https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6
 
 ## Git
 
@@ -150,6 +167,7 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 
 - [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 - [Kernel Map](http://www.makelinux.net/kernel_map/)
+- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [Dirty Cow 1](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
 - [Dirty Cow 2](https://www.linux.com/blog/how-bad-dirty-cow)
 - [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
@@ -159,16 +177,14 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html)
 - [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
 - [chmod Tutorial](http://catcode.com/teachmod/)
+- https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
+- http://free-electrons.com/doc/books/ldd3.pdf
+- https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png?utm_content=buffer0b84a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
 ## C
 
 - [Lightweight HTTP Server](http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11)
 - [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
-
-## Lisp
-
-- [Practical Common Lisp](http://www.gigamonkeys.com/book/)
-- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 
 ## Ruby
 
@@ -191,11 +207,19 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Learning Go](https://www.miek.nl/go/)
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+- [Building Web Apps with Go 1](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+- [Building Web Apps with Go 2](https://github.com/astaxie/build-web-application-with-golang)
+- [MVC Framework](https://github.com/revel/revel)
+- [A lightweight MVC framework](https://github.com/gernest/utron)
+- [Why I Love Golang](https://hackernoon.com/why-i-love-golang-90085898b4f7)
+- [Why Go](https://hackernoon.com/5-reasons-why-we-switched-from-python-to-go-4414d5f42690)
+- https://dave.cheney.net/resources-for-new-go-programmers
 
 ## Database
 
 - http://heap.engineering/running-10-million-postgresql-indexes-in-production/
 - https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
+- [Spanner: Google’s Globally Distributed Database](http://delivery.acm.org/10.1145/2500000/2491245/a8-corbett.pdf)
 
 ## BlockChain
 
@@ -207,6 +231,9 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Introduction To Blockchain](https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf)
 - [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 - https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06
+- http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
+- http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html
+- [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 
 ## Tor
 
@@ -220,15 +247,16 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 ## Docs
 
 - [Functional Programming 1](http://wiki.c2.com/?FunctionalProgramming)
-- [Functional Programming 2](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
 - [Weapon of Mass Destruction](http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html)
 - [MooTools](https://github.com/mootools/mootools-core)
 - [Developer resources for desktop apps](http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps)
 - [Will JavaScript frameworks take over Rails ?](https://www.quora.com/Will-JavaScript-frameworks-take-over-Rails)
+- [The Software Developer's Library](https://github.com/ericelliott/the-software-developers-library) - Curated by Eric Elliott
 
 ## Good Resources
 
+- [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) **
 - http://openmymind.net/
 - https://www.findlectures.com/
 - http://goyalankit.com/
@@ -238,12 +266,10 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - https://www.codingforentrepreneurs.com/
 - https://www.freecodecamp.com/map
 - https://www.destroyallsoftware.com/screencasts
-- https://blog.ctf365.com/
 - https://www.learnenough.com/
 - http://conqueringthecommandline.com/book
 - https://learnxinyminutes.com/
 - https://learncodethehardway.org/
-- https://www.jmarshall.com/
 - http://tutorialzine.com/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://codingsec.net/2016/04/books-artificial/
@@ -266,3 +292,4 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 - http://zeekat.nl/articles/constructors-considered-mildly-confusing.html
 - https://github.com/jwasham/google-interview-university
+- https://blockstack.org/
