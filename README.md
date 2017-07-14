@@ -113,10 +113,6 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [PDF Diff](https://github.com/JoshData/pdf-diff)
 - [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
 
-## Haskell
-
-- [Open-source Haskell books](http://hn.premii.com/#/article/14392423)
-
 ## Docker
 
 - [Docker Internals 1](http://docker-saigon.github.io/post/Docker-Internals/)
@@ -133,12 +129,12 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 - https://github.com/coells/100days
 - https://brennan.io/2017/04/21/linked-lists-are-still-hard/
+- [Know Thy Complexities!](http://bigocheatsheet.com/#)
 
 ## Internet
 
 - [Locust](http://docs.locust.io/)
 - [Web Bloat](https://danluu.com/web-bloat/)
-- [API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
 - [Cache Docs](https://www.mnot.net/cache_docs/)
 - [](https://www.codecademy.com/articles)
 - http://toolboard.org/web-development-and-design-tools/
@@ -152,7 +148,6 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
 - [What happens when...](https://github.com/alex/what-happens-when)
-- [Breach: Reviving The Crime Attack](http://breachattack.com/resources/BREACH%20-%20SSL,%20gone%20in%2030%20seconds.pdf)
 - https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6
 
 ## Git
@@ -180,6 +175,7 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
 - http://free-electrons.com/doc/books/ldd3.pdf
 - https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png?utm_content=buffer0b84a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+- http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
 
 ## C
 
@@ -207,8 +203,7 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Learning Go](https://www.miek.nl/go/)
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
-- [Building Web Apps with Go 1](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
-- [Building Web Apps with Go 2](https://github.com/astaxie/build-web-application-with-golang)
+- [Building Web Apps with Go](https://github.com/astaxie/build-web-application-with-golang)
 - [MVC Framework](https://github.com/revel/revel)
 - [A lightweight MVC framework](https://github.com/gernest/utron)
 - [Why I Love Golang](https://hackernoon.com/why-i-love-golang-90085898b4f7)
@@ -219,16 +214,11 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 
 - http://heap.engineering/running-10-million-postgresql-indexes-in-production/
 - https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
-- [Spanner: Google’s Globally Distributed Database](http://delivery.acm.org/10.1145/2500000/2491245/a8-corbett.pdf)
 
 ## BlockChain
 
-- [Bitcoin Paper](https://bitcoin.org/bitcoin.pdf)
 - [Bitcoin Resources](https://bitcoin.org/en/resources)
 - [How Bitcoin Transaction Works](http://imgur.com/a/wvO9H)
-- [Blockchain Paper](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
-- [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
-- [Introduction To Blockchain](https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf)
 - [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 - https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06
 - http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
@@ -240,8 +230,6 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Research problems: Ten ways to discover Tor bridges](https://blog.torproject.org/blog/research-problems-ten-ways-discover-tor-bridges)
 - [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/topic.html)
 - [Onion Router](https://www.onion-router.net/)
-- [Tor Design](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
-- [Tor Bridge Discovery](http://www.cs.uml.edu/~xinwenfu/paper/Bridge.pdf)
 - [Handling bot attacks against a Tor hidden service](http://hn.premii.com/#/article/14280084)
 
 ## Docs
@@ -276,6 +264,8 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - https://www.hackerearth.com/hackathon-handbook/
 - [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)
 - http://regexr.com/
+- [Learn Anything](https://learn-anything.xyz/)
+- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
 ## Uncategorized
 

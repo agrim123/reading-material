@@ -11,3 +11,11 @@
 
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+
+## Go
+
+- [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+
+## Haskell
+
+- [Open-source Haskell books](http://hn.premii.com/#/article/14392423)
