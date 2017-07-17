@@ -24,21 +24,23 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [Want to learn JS in 2015](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo)
 - [How it feels to learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
-- https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95
-- https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68
-- https://javascript.info/
+- [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95)
+- [Using Lodash and Underscore](https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
 - [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 - pro-router.js
-- https://github.com/ericelliott/the-two-pillars-of-javascript-talk
+- [What ia a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
-- http://javascript.crockford.com/
+- [The JavaScript Encyclopedia](http://javascript.crockford.com/)
+- [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
+- [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) **
 
 ## Security
 
-- http://rumkin.com/tools/cipher/
 - [Wargames](http://overthewire.org/wargames/)
 - https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/
 - https://github.com/ctfs
@@ -52,11 +54,10 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
 - http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/
 - http://cryptopals.com/
-- http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/
+- [Blind SQL Injection Exploit](http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/)
 - https://www.upguard.com/
 - [John the Ripper](http://www.openwall.com/john/pro/linux/)
 - http://catb.org/~esr/faqs/hacker-howto.html
-- http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/
 - http://www.tecmint.com/create-apache-https-self-signed-certificate-using-nss/
 - http://www.haproxy.org/
 - https://cryptoservices.github.io/archives/
@@ -69,14 +70,12 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://www.vulnhub.com/
 - https://sakurity.com/
-- https://ashishchaudhary.in/pgp-to-ssh
 - https://www.virusbulletin.com/virusbulletin/2015/03/dylib-hijacking-os-x
-- https://radare.gitbooks.io/radare2book/content/introduction/commandline_flags.html
-- https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005)
+- [SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
 - https://cyber.harvard.edu/#
 - [Buffer Overflow](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
 - http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own
-- https://stormpath.com/blog/why-http-is-sometimes-better-than-https
+- [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
 - http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf
 - https://hashcat.net/hashcat/
 - [Tale of a DDoS](https://ictf.cs.ucsb.edu/pages/the-2016-2017-ictf-ddos.html)
@@ -86,13 +85,14 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - https://github.com/sbilly/awesome-security
 - https://github.com/PaulSec/awesome-sec-talks
 - https://github.com/zbetcheckin/Security_list
-- https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/
-- [Radare 2](https://radare.gitbooks.io/radare2book/content/)
+- [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
+- [Radare](https://radare.gitbooks.io/radare2book/content/)
 
 ## Crypto
 
+- [Cipher Tools](http://rumkin.com/tools/cipher/)
 - https://www.tutorialspoint.com/cryptography/index.htm
-- https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/
+- [So, You Want To Learn To Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
 
 ## Rails
 
@@ -101,11 +101,10 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [APIs on Rails](http://apionrails.icalialabs.com/)
 - [Predicting Test Failures](http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html)
 - [XSS and Rails](http://blog.bigbinary.com/2012/05/10/xss-and-rails.html)
-- https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017
+- [What makes Rails a framework worth learning in 2017](https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017)
 
 ## Python
 
-- http://masteringdjango.com/
 - [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0)
 - [Python Memory Management](http://deeplearning.net/software/theano/tutorial/python-memory-management.html)
 - [Making Photos Smaller](https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html)
@@ -128,7 +127,7 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Heap Algorithm](http://ruslanledesma.com/2016/06/17/why-does-heap-work.html)
 - [Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 - https://github.com/coells/100days
-- https://brennan.io/2017/04/21/linked-lists-are-still-hard/
+- [Linked lists are still hard](https://brennan.io/2017/04/21/linked-lists-are-still-hard/)
 - [Know Thy Complexities!](http://bigocheatsheet.com/#)
 
 ## Internet
@@ -136,7 +135,6 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Locust](http://docs.locust.io/)
 - [Web Bloat](https://danluu.com/web-bloat/)
 - [Cache Docs](https://www.mnot.net/cache_docs/)
-- [](https://www.codecademy.com/articles)
 - http://toolboard.org/web-development-and-design-tools/
 - [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 - [Apache vs Nginx](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
@@ -148,7 +146,7 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
 - [What happens when...](https://github.com/alex/what-happens-when)
-- https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6
+- [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
 
 ## Git
 
@@ -172,15 +170,19 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html)
 - [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
 - [chmod Tutorial](http://catcode.com/teachmod/)
-- https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
-- http://free-electrons.com/doc/books/ldd3.pdf
+- [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 - https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png?utm_content=buffer0b84a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 - http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
+- [Linux tracing systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
+- http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf
+- [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 
 ## C
 
 - [Lightweight HTTP Server](http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11)
 - [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
+- http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
+- https://www.gnu.org/software/gdb/documentation/
 
 ## Ruby
 
@@ -195,7 +197,6 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 
 - [Tour of Go](https://tour.golang.org/)
 - [Go by example](https://gobyexample.com/)
-- [Go Books](https://github.com/dariubs/GoBooks)
 - [RESTful routing in Go](http://openmymind.net/RESTful-routing-in-Go/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Bootcamp](http://www.golangbootcamp.com/book)
@@ -234,7 +235,8 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 
 ## Docs
 
-- [Functional Programming 1](http://wiki.c2.com/?FunctionalProgramming)
+- [Functional Programming](http://wiki.c2.com/?FunctionalProgramming)
+- [Functional Programming **](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
 - [Weapon of Mass Destruction](http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html)
 - [MooTools](https://github.com/mootools/mootools-core)
@@ -244,7 +246,6 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 
 ## Good Resources
 
-- [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) **
 - http://openmymind.net/
 - https://www.findlectures.com/
 - http://goyalankit.com/
@@ -272,10 +273,10 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [NSA dump password & Message to Trump released by “TheShadowBrokers”](http://hn.premii.com/#/article/14066596)
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
 - https://news.ycombinator.com/item?id=14486657
+- https://www.codecademy.com/articles
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
 - http://www2.informatik.uni-stuttgart.de/iste/ps/Lehre/stuff/rt.script.pdf
-- https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536
 - http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html
 - https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html
 - http://www.craftinginterpreters.com/statements-and-state.html
