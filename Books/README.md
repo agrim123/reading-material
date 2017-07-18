@@ -24,3 +24,11 @@
 ## Linux
 
 - [LINUX DEVICE DRIVERS](http://free-electrons.com/doc/books/ldd3.pdf)
+
+## Git
+
+- [Pro Git](https://git-scm.com/book/en/v2)
+
+## Random
+
+- [Coders at Work](https://www.amazon.com/gp/product/1430219483?ie=UTF8&camp=213733&creative=393185&creativeASIN=1430219483&linkCode=shr&tag=eejs-20&linkId=3MNWRRZU3C4Q4BDN)

@@ -9,11 +9,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Writing NodeJS Tests](https://github.com/nodejs/node/blob/master/doc/guides/writing-tests.md)
 - [Testing NodeJS](http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/#.WMHDGyF97Qo)
 - [Making NodeJS App faster](https://engineering.gosquared.com/making-dashboard-faster)
-- [Why I use Tape
-Instead of Mocha &
-So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
-- [Relay](https://facebook.github.io/relay/)
-- [Vivus](http://maxwellito.github.io/vivus/)
+- [Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
 - [Diving Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/)
 - [Chrome Experiments](https://www.chromeexperiments.com/)
 - [Advanced JS](http://htmldog.com/guides/javascript/advanced/)
@@ -24,6 +20,7 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [Want to learn JS in 2015](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo)
 - [How it feels to learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+- [Learning JS in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 - [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95)
 - [Using Lodash and Underscore](https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
@@ -32,12 +29,24 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
 - [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 - pro-router.js
-- [What ia a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [The JavaScript Encyclopedia](http://javascript.crockford.com/)
 - [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
 - [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) **
+- [Relay](https://facebook.github.io/relay/)
+- [Vivus](http://maxwellito.github.io/vivus/)
+- [What is the Difference Between Class and Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+- [Webpack How-to](https://github.com/petehunt/webpack-howto)
+- [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- [What is a Functional Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
+- [What is Pure function ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+
+## Elm
+
+- [Elm Tutorial](https://www.elm-tutorial.org/en/)
+- [Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial)
 
 ## Security
 
@@ -164,6 +173,7 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Dirty Cow 1](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
 - [Dirty Cow 2](https://www.linux.com/blog/how-bad-dirty-cow)
 - [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
+- [Bash Guide](https://github.com/Idnan/bash-guide)
 - [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 - [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 - [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
@@ -176,6 +186,7 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Linux tracing systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 - http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf
 - [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
+- [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
 
 ## C
 
@@ -215,6 +226,8 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 
 - http://heap.engineering/running-10-million-postgresql-indexes-in-production/
 - https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
+- [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)#Implementation_of_shards)
+- [SQL vs NoSQL](https://www.airpair.com/postgresql/posts/sql-vs-nosql-ko-postgres-vs-mongo)
 
 ## BlockChain
 
@@ -243,9 +256,12 @@ So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-moc
 - [Developer resources for desktop apps](http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps)
 - [Will JavaScript frameworks take over Rails ?](https://www.quora.com/Will-JavaScript-frameworks-take-over-Rails)
 - [The Software Developer's Library](https://github.com/ericelliott/the-software-developers-library) - Curated by Eric Elliott
+- [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf)
 
 ## Good Resources
 
+- [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
+- [Global Variables are Bad](http://wiki.c2.com/?GlobalVariablesAreBad)
 - http://openmymind.net/
 - https://www.findlectures.com/
 - http://goyalankit.com/
