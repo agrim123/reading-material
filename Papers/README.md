@@ -11,6 +11,8 @@
 
 - [Tor Design](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
 - [Tor Bridge Discovery](http://www.cs.uml.edu/~xinwenfu/paper/Bridge.pdf)
+- [A Model of Onion Routing with Provable Anonymity](https://www.onion-router.net/Publications/or-iomodel.pdf)
+- [Locating Hidden Servers](https://www.onion-router.net/Publications/locating-hidden-servers.pdf)
 
 ## Internet
 
