@@ -24,8 +24,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95)
 - [Using Lodash and Underscore](https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
-- https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
-- https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
 - [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 - pro-router.js
@@ -42,66 +40,58 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 - [What is a Functional Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
 - [What is Pure function ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+- https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
+- https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 
 ## Elm
 
 - [Elm Tutorial](https://www.elm-tutorial.org/en/)
 - [Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial)
+- [Beginning Elm](http://elmprogramming.com/)
 
 ## Security
 
 - [Wargames](http://overthewire.org/wargames/)
-- https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/
-- https://github.com/ctfs
-- http://www.techworm.net/2016/05/top-8-websites-learn-ethical-hacking-2016.html
-- https://www.pentesterlab.com/exercises/web_for_pentester/course
+- [Sites to practice InfoSec Skills](https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/)
+- [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving questions of the CTF)**
+- [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
 - [CVE-2016-4484: Cryptsetup Initrd root Shell](http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html)
 - [Securing API with OAuth 2.0](https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/)
-- https://trailofbits.github.io/ctf/index.html
-- https://www.owasp.org/
+- [CTF Field Guide](https://trailofbits.github.io/ctf/index.html)
+- [Owasp](https://www.owasp.org/)
 - [SSL Strip](https://github.com/moxie0/sslstrip)
-- http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/
-- http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/
-- http://cryptopals.com/
 - [Blind SQL Injection Exploit](http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/)
-- https://www.upguard.com/
 - [John the Ripper](http://www.openwall.com/john/pro/linux/)
-- http://catb.org/~esr/faqs/hacker-howto.html
-- http://www.tecmint.com/create-apache-https-self-signed-certificate-using-nss/
-- http://www.haproxy.org/
-- https://cryptoservices.github.io/archives/
-- https://www.shodan.io/
+- [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
+- [HAProxy](http://www.haproxy.org/)
 - [Modern CSRF](https://mixmax.com/blog/modern-csrf)
-- http://thehackernews.com/2016/04/artificial-intelligence-cyber-security.html
-- https://picoctf.com/learn
-- https://www.cybrary.it/
-- https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/
+- [SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
+- [Buffer Overflow](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
+- [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own)
+- [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
+- [Hashcat](https://hashcat.net/hashcat/)
+- [Tale of a DDoS](https://ictf.cs.ucsb.edu/pages/the-2016-2017-ictf-ddos.html)
+- [Binary Exploitation](https://github.com/CodeMaxx/Binary-Exploitation)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [List of Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks)
+- [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
+- [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
+- [Buffer Overflow Attack](http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf)
+- [Radare](https://radare.gitbooks.io/radare2book/content/)
+- [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
+- [Project Zero](https://googleprojectzero.blogspot.in/)
+- https://www.shodan.io/
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://www.vulnhub.com/
 - https://sakurity.com/
-- https://www.virusbulletin.com/virusbulletin/2015/03/dylib-hijacking-os-x
-- [SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
-- https://cyber.harvard.edu/#
-- [Buffer Overflow](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
-- http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own
-- [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
-- http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf
-- https://hashcat.net/hashcat/
-- [Tale of a DDoS](https://ictf.cs.ucsb.edu/pages/the-2016-2017-ictf-ddos.html)
-- http://pwning.net/
-- https://googleprojectzero.blogspot.in/
-- [Binary Exploitation](https://github.com/CodeMaxx/Binary-Exploitation)
-- https://github.com/sbilly/awesome-security
-- https://github.com/PaulSec/awesome-sec-talks
-- https://github.com/zbetcheckin/Security_list
-- [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
-- [Radare](https://radare.gitbooks.io/radare2book/content/)
 
 ## Crypto
 
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
-- https://www.tutorialspoint.com/cryptography/index.htm
+- [Crypto Challenges](http://cryptopals.com/)
 - [So, You Want To Learn To Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
+- https://cryptoservices.github.io/archives/
+- https://www.tutorialspoint.com/cryptography/index.htm
 
 ## Rails
 
@@ -156,6 +146,8 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
 - [What happens when...](https://github.com/alex/what-happens-when)
 - [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
+- [Nginx Web Server Security Hardening](http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/)
+- [Secure Nginx with SSL Certificate](http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/)
 
 ## Git
 
@@ -199,10 +191,18 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 - [Ruby Programming](https://www.theodinproject.com/courses/ruby-programming)
 - [* in Ruby](http://goyalankit.com/blog/the-star-in-ruby)
-- [Sinatra](http://www.sinatrarb.com/intro.html)
 - [Rake](https://github.com/ruby/rake)
-- [Sinatra Example](https://github.com/openshift-quickstart/sinatra-example)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
+
+## Sinatra
+
+- [Sinatra](http://www.sinatrarb.com/intro.html)
+- [Sinatra Example](https://github.com/openshift-quickstart/sinatra-example)
+
+## Haskell
+
+- [Official Documentation](https://www.haskell.org/documentation)
+- [How to learn Haskell](https://github.com/bitemyapp/learnhaskell)
 
 ## Go
 
@@ -216,28 +216,29 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [Building Web Apps with Go](https://github.com/astaxie/build-web-application-with-golang)
-- [MVC Framework](https://github.com/revel/revel)
+- [MVC Framework for Go](https://github.com/revel/revel)
 - [A lightweight MVC framework](https://github.com/gernest/utron)
 - [Why I Love Golang](https://hackernoon.com/why-i-love-golang-90085898b4f7)
 - [Why Go](https://hackernoon.com/5-reasons-why-we-switched-from-python-to-go-4414d5f42690)
-- https://dave.cheney.net/resources-for-new-go-programmers
+- [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 
 ## Database
 
-- http://heap.engineering/running-10-million-postgresql-indexes-in-production/
-- https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
+- [Secure PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
 - [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)#Implementation_of_shards)
 - [SQL vs NoSQL](https://www.airpair.com/postgresql/posts/sql-vs-nosql-ko-postgres-vs-mongo)
 
-## BlockChain
+## BlockChain, Bitcoin
 
 - [Bitcoin Resources](https://bitcoin.org/en/resources)
+- [Blockchain: the revolution we’re not ready for](https://medium.freecodecamp.org/blockchain-is-our-first-22nd-century-technology-d4ad45fca2ce)
 - [How Bitcoin Transaction Works](http://imgur.com/a/wvO9H)
 - [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
-- https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06
-- http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
-- http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
+- [Bitcoin, Ethereum, Blockchain, Tokens, ICOs](https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06)
+- [Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
+- [Bitcoin mining the hard way](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
+- [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList)
 
 ## Tor
 
@@ -262,6 +263,10 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 - [Global Variables are Bad](http://wiki.c2.com/?GlobalVariablesAreBad)
+- [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)
+- http://regexr.com/
+- [Learn Anything](https://learn-anything.xyz/)
+- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - http://openmymind.net/
 - https://www.findlectures.com/
 - http://goyalankit.com/
@@ -279,10 +284,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
-- [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)
-- http://regexr.com/
-- [Learn Anything](https://learn-anything.xyz/)
-- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
 ## Uncategorized
 
