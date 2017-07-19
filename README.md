@@ -40,6 +40,8 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 - [What is a Functional Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
 - [What is Pure function ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+- [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
+- [Learning Rx](http://reactivex.io/learnrx/)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 
@@ -48,9 +50,11 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Elm Tutorial](https://www.elm-tutorial.org/en/)
 - [Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial)
 - [Beginning Elm](http://elmprogramming.com/)
+- [Elm For Beginners](http://courses.knowthen.com/p/elm-for-beginners)
 
 ## Security
 
+- [CTF Wiki](https://github.com/lucyoa/ctf-wiki)
 - [Wargames](http://overthewire.org/wargames/)
 - [Sites to practice InfoSec Skills](https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/)
 - [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving questions of the CTF)**
@@ -72,15 +76,14 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Hashcat](https://hashcat.net/hashcat/)
 - [Tale of a DDoS](https://ictf.cs.ucsb.edu/pages/the-2016-2017-ictf-ddos.html)
 - [Binary Exploitation](https://github.com/CodeMaxx/Binary-Exploitation)
-- [Awesome Security](https://github.com/sbilly/awesome-security)
-- [List of Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks)
 - [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
 - [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
 - [Buffer Overflow Attack](http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf)
 - [Radare](https://radare.gitbooks.io/radare2book/content/)
 - [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
 - [Project Zero](https://googleprojectzero.blogspot.in/)
-- https://www.shodan.io/
+- [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
+- [Shodan](https://www.shodan.io/)
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://www.vulnhub.com/
 - https://sakurity.com/
@@ -107,15 +110,16 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0)
 - [Python Memory Management](http://deeplearning.net/software/theano/tutorial/python-memory-management.html)
 - [Making Photos Smaller](https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html)
-- https://pythonprogramming.net/regression-introduction-machine-learning-tutorial/?completed=/machine-learning-tutorial-python-introduction/
 - [PDF Diff](https://github.com/JoshData/pdf-diff)
 - [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
+- [The Python Language Reference](https://docs.python.org/3/reference/index.html)
 
 ## Docker
 
-- [Docker Internals 1](http://docker-saigon.github.io/post/Docker-Internals/)
-- [Docker Internals 2](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
+- [Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/)
+- [Understanding Docker Internals](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
 - [Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
+- [Docker Curriculum](https://prakhar.me/docker-curriculum/)
 
 ## Algorithms
 
@@ -148,6 +152,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
 - [Nginx Web Server Security Hardening](http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/)
 - [Secure Nginx with SSL Certificate](http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/)
+- [A New Internet for Decentralized Apps](https://blockstack.org/)
 
 ## Git
 
@@ -156,14 +161,14 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Git in 2016](https://hackernoon.com/git-in-2016-fad96ae22a15)
 - [Oh shit, git!](http://ohshitgit.com/)
+- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 
 ## Linux
 
 - [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 - [Kernel Map](http://www.makelinux.net/kernel_map/)
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [Dirty Cow 1](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
-- [Dirty Cow 2](https://www.linux.com/blog/how-bad-dirty-cow)
+- [Dirty Cow](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
 - [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
 - [Bash Guide](https://github.com/Idnan/bash-guide)
 - [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
@@ -173,10 +178,10 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
 - [chmod Tutorial](http://catcode.com/teachmod/)
 - [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
-- https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png?utm_content=buffer0b84a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
-- http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
+- [File System Hierarchy](https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png?utm_content=buffer0b84a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+- [UNIX / LINUX Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 - [Linux tracing systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
-- http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf
+- [BPF:	Tracing	and	More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
 - [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
 
@@ -184,8 +189,8 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 - [Lightweight HTTP Server](http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11)
 - [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
-- http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
-- https://www.gnu.org/software/gdb/documentation/
+- [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+- [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
 
 ## Ruby
 
@@ -246,6 +251,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/topic.html)
 - [Onion Router](https://www.onion-router.net/)
 - [Handling bot attacks against a Tor hidden service](http://hn.premii.com/#/article/14280084)
+- [Anti-Censorship & Transparency - Roger Dingledine](https://www.youtube.com/watch?v=35l56KjTCb8)
 
 ## Docs
 
@@ -259,16 +265,36 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [The Software Developer's Library](https://github.com/ericelliott/the-software-developers-library) - Curated by Eric Elliott
 - [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf)
 
+## Awesome Lists
+
+> Curated list of resources shared on github  
+
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [Awesome Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks)
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Awesome Ruby](https://github.com/markets/awesome-ruby)
+- [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
+- [Awesome Go](https://github.com/avelino/awesome-go)
+- [Awesome REST](https://github.com/marmelab/awesome-rest)
+- [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+
 ## Good Resources
 
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
+- [Password storage in source control](https://stackoverflow.com/questions/559611/password-storage-in-source-control)
 - [Global Variables are Bad](http://wiki.c2.com/?GlobalVariablesAreBad)
 - [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)
-- http://regexr.com/
+- [The language of choice](https://codewords.recurse.com/issues/four/the-language-of-choice)
+- [Learn Regex](http://regexr.com/)
 - [Learn Anything](https://learn-anything.xyz/)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Lecture Search](https://www.findlectures.com/)
 - http://openmymind.net/
-- https://www.findlectures.com/
 - http://goyalankit.com/
 - https://githubengineering.com/
 - http://www.geeksforgeeks.org/
@@ -280,24 +306,20 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - http://conqueringthecommandline.com/book
 - https://learnxinyminutes.com/
 - https://learncodethehardway.org/
-- http://tutorialzine.com/
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
 
 ## Uncategorized
 
 - [NSA dump password & Message to Trump released by “TheShadowBrokers”](http://hn.premii.com/#/article/14066596)
+- [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
+- [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
 - https://news.ycombinator.com/item?id=14486657
 - https://www.codecademy.com/articles
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
 - http://www2.informatik.uni-stuttgart.de/iste/ps/Lehre/stuff/rt.script.pdf
-- http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html
 - https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html
-- http://www.craftinginterpreters.com/statements-and-state.html
 - http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
-- http://zeekat.nl/articles/constructors-considered-mildly-confusing.html
 - https://github.com/jwasham/google-interview-university
-- https://blockstack.org/
