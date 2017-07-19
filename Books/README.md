@@ -17,6 +17,10 @@
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 - [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
 
+## Internet
+
+- [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
+
 ## Go
 
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
@@ -45,3 +49,4 @@
 - [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396)
 - [The Joy of Software Development](https://josd.captnemo.in/content/)
 - [The Mythical Man-Month](http://www.amazon.in/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+- [A handbook for making programming languages](http://www.craftinginterpreters.com/contents.html)
