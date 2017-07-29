@@ -42,6 +42,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [What is Pure function ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
 - [Learning Rx](http://reactivex.io/learnrx/)
+- [WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 
@@ -267,7 +268,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 ## Awesome Lists
 
-> Curated list of resources shared on github  
+> Curated list of good resources shared on github  
 
 - [Awesome Security](https://github.com/sbilly/awesome-security)
 - [Awesome Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks)
@@ -280,20 +281,27 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Awesome REST](https://github.com/marmelab/awesome-rest)
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+
+## Regex
+
+- [Learn Regex](http://regexr.com/)
+- [Interactive Exercise](https://regexone.com/)
 
 ## Good Resources
 
+- [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 - [Password storage in source control](https://stackoverflow.com/questions/559611/password-storage-in-source-control)
 - [Global Variables are Bad](http://wiki.c2.com/?GlobalVariablesAreBad)
 - [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)
 - [The language of choice](https://codewords.recurse.com/issues/four/the-language-of-choice)
-- [Learn Regex](http://regexr.com/)
 - [Learn Anything](https://learn-anything.xyz/)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Lecture Search](https://www.findlectures.com/)
+- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - http://openmymind.net/
 - http://goyalankit.com/
 - https://githubengineering.com/
