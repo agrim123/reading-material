@@ -26,7 +26,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
 - [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
-- pro-router.js
 - [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
@@ -43,6 +42,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
 - [Learning Rx](http://reactivex.io/learnrx/)
 - [WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
+- [Circular dependencies in JavaScript](https://medium.com/content-uneditable/circular-dependencies-in-javascript-a-k-a-coding-is-not-a-rock-paper-scissors-game-9c2a9eccd4bc)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 
@@ -58,11 +58,11 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [CTF Wiki](https://github.com/lucyoa/ctf-wiki)
 - [Wargames](http://overthewire.org/wargames/)
 - [Sites to practice InfoSec Skills](https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/)
-- [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving questions of the CTF)**
+- [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
 - [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
 - [CVE-2016-4484: Cryptsetup Initrd root Shell](http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html)
 - [Securing API with OAuth 2.0](https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/)
-- [CTF Field Guide](https://trailofbits.github.io/ctf/index.html)
+- [CTF Field Guide](https://trailofbits.github.io/ctf)
 - [Owasp](https://www.owasp.org/)
 - [SSL Strip](https://github.com/moxie0/sslstrip)
 - [Blind SQL Injection Exploit](http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/)
@@ -94,6 +94,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
 - [Crypto Challenges](http://cryptopals.com/)
 - [So, You Want To Learn To Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
+- [Alice & Bob : A History of The World’s Most Famous Cryptographic Couple](http://cryptocouple.com/)
 - https://cryptoservices.github.io/archives/
 - https://www.tutorialspoint.com/cryptography/index.htm
 
@@ -127,7 +128,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
 - [Data Structures & Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 - [Essentials of Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
-- [Sorting](https://mathbits.com/MathBits/CompSci/Arrays/Sorting.htm)
 - [Heap Algorithm](http://ruslanledesma.com/2016/06/17/why-does-heap-work.html)
 - [Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 - https://github.com/coells/100days
@@ -154,6 +154,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Nginx Web Server Security Hardening](http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/)
 - [Secure Nginx with SSL Certificate](http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/)
 - [A New Internet for Decentralized Apps](https://blockstack.org/)
+- [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
 
 ## Git
 
@@ -199,6 +200,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [* in Ruby](http://goyalankit.com/blog/the-star-in-ruby)
 - [Rake](https://github.com/ruby/rake)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
+- http://poignant.guide/book/
 
 ## Sinatra
 
@@ -218,7 +220,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Bootcamp](http://www.golangbootcamp.com/book)
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
-- [Learning Go](https://www.miek.nl/go/)
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [Building Web Apps with Go](https://github.com/astaxie/build-web-application-with-golang)
@@ -227,6 +228,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Why I Love Golang](https://hackernoon.com/why-i-love-golang-90085898b4f7)
 - [Why Go](https://hackernoon.com/5-reasons-why-we-switched-from-python-to-go-4414d5f42690)
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
+- [GORM](http://jinzhu.me/gorm/)
 
 ## Database
 
@@ -245,6 +247,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
 - [Bitcoin mining the hard way](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 - [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList)
+- [CryptoEconomics](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
 
 ## Tor
 
@@ -311,7 +314,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - https://www.freecodecamp.com/map
 - https://www.destroyallsoftware.com/screencasts
 - https://www.learnenough.com/
-- http://conqueringthecommandline.com/book
 - https://learnxinyminutes.com/
 - https://learncodethehardway.org/
 - https://codingsec.net/2016/04/books-artificial/
@@ -323,7 +325,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
-- https://news.ycombinator.com/item?id=14486657
 - https://www.codecademy.com/articles
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
