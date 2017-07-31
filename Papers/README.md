@@ -23,6 +23,7 @@
 - [Thinking about Availability in Large Service Infrastructures](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46181.pdf)
 - [A Look Back at “Security Problems in the TCP/IP Protocol Suite”](https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf)
 - [Filecoin: A Decentralized Storage Network](https://filecoin.io/filecoin.pdf)
+- [Breaking the Browser Language Barrier](http://plasma-umass.github.io/doppio-demo/paper.pdf)
 
 ## Database
 

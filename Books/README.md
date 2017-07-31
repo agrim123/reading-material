@@ -6,6 +6,7 @@
 - [Javascript: The Good Parts](http://www.amazon.in/Javascript-Good-Parts-D-Crockford/dp/0596517742)
 - [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
+- [The JavaScript Way](https://github.com/bpesquet/thejsway)
 
 ## Bitcoin
 
@@ -37,7 +38,7 @@
 
 ## Linux
 
-- [LINUX DEVICE DRIVERS](http://free-electrons.com/doc/books/ldd3.pdf)
+- [Linux Device Drivers](http://free-electrons.com/doc/books/ldd3.pdf)
 
 ## Git
 
@@ -51,7 +52,6 @@
 
 - [Understanding Message Brokers](http://www.oreilly.com/programming/free/files/understanding-message-brokers.pdf)
 - [Conquering The Command Line](http://conqueringthecommandline.com/book)
-- [Ask HN: What language-agnostic programming books should I read ?](https://news.ycombinator.com/item?id=14486657)
 - [Coders at Work](https://www.amazon.com/gp/product/1430219483?ie=UTF8&camp=213733&creative=393185&creativeASIN=1430219483&linkCode=shr&tag=eejs-20&linkId=3MNWRRZU3C4Q4BDN)
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396)
@@ -59,3 +59,5 @@
 - [The Mythical Man-Month](http://www.amazon.in/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [A handbook for making programming languages](http://www.craftinginterpreters.com/contents.html)
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?ie=UTF8&qid=1494993475&sr=8-1&keywords=design+patterns&linkCode=ll1&tag=eejs-20&linkId=6c553f16325f3939e5abadd4ee04e8b4)
+- https://jasonroell.com/2015/03/16/12-most-infuential-books-every-software-engineer-needs-to-read/
+- [Ask HN: What language-agnostic programming books should I read ?](https://news.ycombinator.com/item?id=14486657)

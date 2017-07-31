@@ -1,7 +1,6 @@
 # Reading Material
 
 A collection of resources that I found useful and interesting across various domains.  
-It includes papers, docs, blogs, sites, github repos, etc.
 
 ## Javascript
 
@@ -88,6 +87,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://www.vulnhub.com/
 - https://sakurity.com/
+- https://io.netgarage.org/
 
 ## Crypto
 
@@ -126,7 +126,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 ## Algorithms
 
 - [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
-- [Data Structures & Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 - [Essentials of Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 - [Heap Algorithm](http://ruslanledesma.com/2016/06/17/why-does-heap-work.html)
 - [Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
@@ -139,10 +138,8 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Locust](http://docs.locust.io/)
 - [Web Bloat](https://danluu.com/web-bloat/)
 - [Cache Docs](https://www.mnot.net/cache_docs/)
-- http://toolboard.org/web-development-and-design-tools/
 - [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 - [Apache vs Nginx](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
-- http://youbroketheinternet.org/
 - [IPFS](https://ipfs.io/)
 - [HTTP](https://www.jmarshall.com/easy/http/)
 - [Analysis of HTTP Performance](https://www.isi.edu/lsam/publications/http-perf/)
@@ -155,6 +152,8 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Secure Nginx with SSL Certificate](http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/)
 - [A New Internet for Decentralized Apps](https://blockstack.org/)
 - [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
+- http://toolboard.org/web-development-and-design-tools/
+- http://youbroketheinternet.org/
 
 ## Git
 
@@ -235,6 +234,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Secure PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
 - [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)#Implementation_of_shards)
 - [SQL vs NoSQL](https://www.airpair.com/postgresql/posts/sql-vs-nosql-ko-postgres-vs-mongo)
+- [What are Master and Slave databases?](https://www.quora.com/What-are-Master-and-Slave-databases-and-how-does-pairing-them-make-web-apps-faster)
 
 ## BlockChain, Bitcoin
 
@@ -248,6 +248,10 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - [Bitcoin mining the hard way](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 - [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList)
 - [CryptoEconomics](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
+
+## Ethereum
+
+- [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
 ## Tor
 
@@ -274,6 +278,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 > Curated list of good resources shared on github  
 
 - [Awesome Security](https://github.com/sbilly/awesome-security)
+- [Awesome Reversing](https://github.com/tylerph3/awesome-reversing)
 - [Awesome Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks)
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 - [Awesome Python](https://github.com/vinta/awesome-python)
@@ -291,6 +296,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 
 - [Learn Regex](http://regexr.com/)
 - [Interactive Exercise](https://regexone.com/)
+- https://github.com/zeeshanu/learn-regex
 
 ## Good Resources
 
@@ -319,7 +325,7 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
 
-## Uncategorized
+## More
 
 - [NSA dump password & Message to Trump released by “TheShadowBrokers”](http://hn.premii.com/#/article/14066596)
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
@@ -330,5 +336,6 @@ It includes papers, docs, blogs, sites, github repos, etc.
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
 - http://www2.informatik.uni-stuttgart.de/iste/ps/Lehre/stuff/rt.script.pdf
 - https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html
+- https://jvns.ca/
 - http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 - https://github.com/jwasham/google-interview-university
