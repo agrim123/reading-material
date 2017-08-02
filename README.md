@@ -229,6 +229,11 @@ A collection of resources that I found useful and interesting across various dom
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 - [GORM](http://jinzhu.me/gorm/)
 
+## Elixir
+
+- [Joy of Elixir](https://joyofelixir.com/toc.html)
+- [Elixir School](https://elixirschool.com/en/)
+
 ## Database
 
 - [Secure PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
