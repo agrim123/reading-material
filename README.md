@@ -2,6 +2,35 @@
 
 A collection of resources that I found useful and interesting across various domains.  
 
+## Contents
+
+- [Javascript](#javascript)
+- [Elm](#elm)
+- [Security](#security)
+- [Crypto](#crypto)
+- [Rails](#rails)
+- [Python](#python)
+- [Docker](#docker)
+- [Algorithms](#algorithms)
+- [Internet](#internet)
+- [Git](#git)
+- [Linux](#linux)
+- [C](#c)
+- [Ruby](#ruby)
+- [Sinatra](#sinatra)
+- [Haskell](#haskell)
+- [Go](#go)
+- [Elixir](#elixir)
+- [Database](#database)
+- [Blockchain, Bitcoin](#blockchain-bitcoin)
+- [Ethereum](#ethereum)
+- [Tor](#tor)
+- [Docs](#docs)
+- [Awesome Lists](#awesome-lists)
+- [Regex](#regex)
+- [Good Resources](#good-resources)
+- [More](#more)
+
 ## Javascript
 
 - [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
@@ -335,6 +364,7 @@ A collection of resources that I found useful and interesting across various dom
 - [NSA dump password & Message to Trump released by “TheShadowBrokers”](http://hn.premii.com/#/article/14066596)
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
+- [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
 - https://www.codecademy.com/articles
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
