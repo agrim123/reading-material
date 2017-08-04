@@ -30,6 +30,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Regex](#regex)
 - [Good Resources](#good-resources)
 - [More](#more)
+- [Books](/Books)
+- [Papers](/Papers)
+- [Courses](/Courses)
 
 ## Javascript
 
