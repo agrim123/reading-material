@@ -23,7 +23,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Elixir](#elixir)
 - [Database](#database)
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
-- [Ethereum](#ethereum)
 - [Tor](#tor)
 - [Docs](#docs)
 - [Awesome Lists](#awesome-lists)
@@ -285,10 +284,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Bitcoin mining the hard way](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 - [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList)
 - [CryptoEconomics](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
-
-## Ethereum
-
-- [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
 ## Tor
 

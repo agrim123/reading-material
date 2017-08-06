@@ -3,6 +3,7 @@
 ## Contents
 
 - [Blockchain](#blockchain)
+- [Ethereum](#ethereum)
 - [Tor](#tor)
 - [Internet](#internet)
 - [Database](#database)
@@ -15,6 +16,10 @@
 - [Blockchain Paper](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
 - [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
 - [Introduction To Blockchain](https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf)
+
+## Ethereum
+
+- [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
 ## Tor
 
