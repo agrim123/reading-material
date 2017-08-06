@@ -73,6 +73,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Learning Rx](http://reactivex.io/learnrx/)
 - [WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
 - [Circular dependencies in JavaScript](https://medium.com/content-uneditable/circular-dependencies-in-javascript-a-k-a-coding-is-not-a-rock-paper-scissors-game-9c2a9eccd4bc)
+- [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 
@@ -259,6 +260,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Why Go](https://hackernoon.com/5-reasons-why-we-switched-from-python-to-go-4414d5f42690)
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 - [GORM](http://jinzhu.me/gorm/)
+- [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 
 ## Elixir
 
@@ -363,6 +365,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
 - [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+- [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
+- http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
 - https://www.codecademy.com/articles
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/

@@ -20,6 +20,7 @@
 - [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 - [The JavaScript Way](https://github.com/bpesquet/thejsway)
+- [Speaking JS](http://speakingjs.com/es5/index.html)
 
 ## Bitcoin
 
