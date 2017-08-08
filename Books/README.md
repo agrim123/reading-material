@@ -38,6 +38,8 @@
 
 ## Go
 
+- [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+- [Go Bootcamp](http://www.golangbootcamp.com/book)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 - [Learning Go](https://www.miek.nl/go/)
 - [Go Books](https://github.com/dariubs/GoBooks)

@@ -251,7 +251,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Go by example](https://gobyexample.com/)
 - [RESTful routing in Go](http://openmymind.net/RESTful-routing-in-Go/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
-- [Go Bootcamp](http://www.golangbootcamp.com/book)
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
