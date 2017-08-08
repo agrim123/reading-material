@@ -184,6 +184,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Secure Nginx with SSL Certificate](http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/)
 - [A New Internet for Decentralized Apps](https://blockstack.org/)
 - [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
+- [Let 'localhost' be localhost](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04)
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
 
@@ -214,9 +215,10 @@ A collection of resources that I found useful and interesting across various dom
 - [File System Hierarchy](https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png?utm_content=buffer0b84a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 - [UNIX / LINUX Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 - [Linux tracing systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
-- [BPF:	Tracing	and	More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
+- [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
 - [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
+- [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
 
 ## C
 
