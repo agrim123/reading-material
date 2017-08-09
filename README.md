@@ -127,6 +127,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Crypto Challenges](http://cryptopals.com/)
 - [So, You Want To Learn To Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
 - [Alice & Bob : A History of The World’s Most Famous Cryptographic Couple](http://cryptocouple.com/)
+- [Implementing AES](http://blog.nindalf.com/implementing-aes/)
+- [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
 - https://cryptoservices.github.io/archives/
 - https://www.tutorialspoint.com/cryptography/index.htm
 
@@ -251,9 +253,13 @@ A collection of resources that I found useful and interesting across various dom
 - [Go by example](https://gobyexample.com/)
 - [RESTful routing in Go](http://openmymind.net/RESTful-routing-in-Go/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
+- [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30)
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+- [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/)
+- [Concurrency Is Not Parallelism](https://vimeo.com/49718712)
+- https://talks.golang.org/2012/waza.slide
 - [Building Web Apps with Go](https://github.com/astaxie/build-web-application-with-golang)
 - [MVC Framework for Go](https://github.com/revel/revel)
 - [A lightweight MVC framework](https://github.com/gernest/utron)

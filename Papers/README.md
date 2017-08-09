@@ -39,6 +39,10 @@
 - [Filecoin: A Decentralized Storage Network](https://filecoin.io/filecoin.pdf)
 - [Breaking the Browser Language Barrier](http://plasma-umass.github.io/doppio-demo/paper.pdf)
 
+## Go
+
+- [Analysis of the Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
+
 ## Database
 
 - [Spanner: Google’s Globally Distributed Database](http://delivery.acm.org/10.1145/2500000/2491245/a8-corbett.pdf)
