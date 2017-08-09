@@ -41,6 +41,7 @@
 - [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 - [Go Bootcamp](http://www.golangbootcamp.com/book)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+- [The Way to Go: A Thorough Introduction to the Go Programming Language](http://www.amazon.in/Way-Go-Thorough-Introduction-Programming/dp/1469769166)
 - [Learning Go](https://www.miek.nl/go/)
 - [Go Books](https://github.com/dariubs/GoBooks)
 
