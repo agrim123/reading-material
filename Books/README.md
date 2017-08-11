@@ -6,6 +6,7 @@
 - [Bitcoin](#bitcoin)
 - [Lisp](#lisp)
 - [Internet](#internet)
+- [Ruby](#ruby)
 - [Go](#go)
 - [Haskell](#haskell)
 - [Linux](#linux)
@@ -35,6 +36,10 @@
 ## Internet
 
 - [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
+
+## Ruby
+
+- [Guide to Ruby](http://poignant.guide/book/)
 
 ## Go
 
