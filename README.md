@@ -235,7 +235,6 @@ A collection of resources that I found useful and interesting across various dom
 - [* in Ruby](http://goyalankit.com/blog/the-star-in-ruby)
 - [Rake](https://github.com/ruby/rake)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
-- http://poignant.guide/book/
 
 ## Sinatra
 
@@ -268,6 +267,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 - [GORM](http://jinzhu.me/gorm/)
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
+- [The Way of the Gopher](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f)
 
 ## Elixir
 
@@ -280,6 +280,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)#Implementation_of_shards)
 - [SQL vs NoSQL](https://www.airpair.com/postgresql/posts/sql-vs-nosql-ko-postgres-vs-mongo)
 - [What are Master and Slave databases?](https://www.quora.com/What-are-Master-and-Slave-databases-and-how-does-pairing-them-make-web-apps-faster)
+- [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
 
 ## BlockChain, Bitcoin
 
