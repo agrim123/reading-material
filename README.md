@@ -268,6 +268,8 @@ A collection of resources that I found useful and interesting across various dom
 - [GORM](http://jinzhu.me/gorm/)
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [The Way of the Gopher](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f)
+- [The Case For Go](https://gist.github.com/ungerik/3731476)
+- [TCP/IP Networking in Go](https://appliedgo.net/networking/)
 
 ## Elixir
 
@@ -353,7 +355,11 @@ A collection of resources that I found useful and interesting across various dom
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Lecture Search](https://www.findlectures.com/)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+- [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI)
+- [Ruby vs. The World](https://matt.aimonetti.net/posts/2012/11/02/rubyconf-2012-ruby-vs-the-world/)
 - http://openmymind.net/
+- https://www.interviewcake.com/article/python/data-structures-coding-interview
+- https://appliedgo.net/
 - http://goyalankit.com/
 - https://githubengineering.com/
 - http://www.geeksforgeeks.org/
