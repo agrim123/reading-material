@@ -61,6 +61,9 @@
 ## Linux
 
 - [Linux Device Drivers](http://free-electrons.com/doc/books/ldd3.pdf)
+- [Conquering The Command Line](http://conqueringthecommandline.com/book)
+- [Bash Cookbook](http://www.amazon.in/Bash-Cookbook-Cookbooks-Cameron-Newham/dp/0596526784
+- [Learn Shell](http://www.learnshell.org/)
 
 ## Git
 
@@ -73,7 +76,6 @@
 ## Random
 
 - [Understanding Message Brokers](http://www.oreilly.com/programming/free/files/understanding-message-brokers.pdf)
-- [Conquering The Command Line](http://conqueringthecommandline.com/book)
 - [Coders at Work](https://www.amazon.com/gp/product/1430219483?ie=UTF8&camp=213733&creative=393185&creativeASIN=1430219483&linkCode=shr&tag=eejs-20&linkId=3MNWRRZU3C4Q4BDN)
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396)
