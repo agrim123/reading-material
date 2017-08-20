@@ -74,8 +74,10 @@ A collection of resources that I found useful and interesting across various dom
 - [WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
 - [Circular dependencies in JavaScript](https://medium.com/content-uneditable/circular-dependencies-in-javascript-a-k-a-coding-is-not-a-rock-paper-scissors-game-9c2a9eccd4bc)
 - [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
+- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
+- https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
 
 ## Elm
 
@@ -390,3 +392,4 @@ A collection of resources that I found useful and interesting across various dom
 - https://jvns.ca/
 - http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 - https://github.com/jwasham/google-interview-university
+- https://blog.ycombinator.com/ycs-2017-summer-reading-list/
