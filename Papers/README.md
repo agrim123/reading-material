@@ -38,6 +38,7 @@
 - [A Look Back at “Security Problems in the TCP/IP Protocol Suite”](https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf)
 - [Filecoin: A Decentralized Storage Network](https://filecoin.io/filecoin.pdf)
 - [Breaking the Browser Language Barrier](http://plasma-umass.github.io/doppio-demo/paper.pdf)
+- [Defending Internet Freedom through Decentralization Back to the Future?](http://dci.mit.edu/assets/papers/decentralized_web.pdf)
 
 ## Go
 
@@ -54,3 +55,4 @@
 ## Random
 
 - [Back to the Future: Lisp as a Base for a Statistical Computing System](https://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf)
+- [How Professional Hackers Understand Protected Code while Performing Attack Tasks](https://pdfs.semanticscholar.org/4bd1/2a9823b55d29a0d75c9ea9c8cd08b6fdca3e.pdf)
