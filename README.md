@@ -75,6 +75,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Circular dependencies in JavaScript](https://medium.com/content-uneditable/circular-dependencies-in-javascript-a-k-a-coding-is-not-a-rock-paper-scissors-game-9c2a9eccd4bc)
 - [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
 - [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+- [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
@@ -200,6 +201,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Git in 2016](https://hackernoon.com/git-in-2016-fad96ae22a15)
 - [Oh shit, git!](http://ohshitgit.com/)
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
+- [YOU'RE USING GIT WRONG](https://dpc.pw/blog/2017/08/youre-using-git-wrong/)
 
 ## Linux
 
@@ -247,6 +249,7 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Official Documentation](https://www.haskell.org/documentation)
 - [How to learn Haskell](https://github.com/bitemyapp/learnhaskell)
+- [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 
 ## Go
 
@@ -272,6 +275,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Way of the Gopher](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f)
 - [The Case For Go](https://gist.github.com/ungerik/3731476)
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
+- [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
 
 ## Elixir
 
@@ -337,6 +341,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
+- https://github.com/Hack-with-Github/Awesome-Hacking
 
 ## Regex
 
