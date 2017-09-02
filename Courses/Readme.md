@@ -6,3 +6,6 @@
 - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
 - [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/)
 - [CIS 194: Introduction to Haskell (Spring 2013)](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
+- [CS 140: Operating Systems](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)
+- [Offensive Computer Security](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
+- [CS155: Computer and Network Security](https://courseware.stanford.edu/pg/courses/lectures/349991)
