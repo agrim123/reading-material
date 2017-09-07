@@ -16,6 +16,7 @@
 - [Blockchain Paper](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
 - [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
 - [Introduction To Blockchain](https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf)
+- https://medium.com/founder-playbook/67-blockchain-articles-whitepapers-that-shaped-crypto-into-what-it-is-today-c538facfceb9
 
 ## Ethereum
 
