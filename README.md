@@ -76,6 +76,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
 - [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 - [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
+- [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
@@ -252,6 +253,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How to learn Haskell](https://github.com/bitemyapp/learnhaskell)
 - [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/) *
 - [Huge list of videos, talks, courses for Haskell programming language](https://github.com/hzlmn/haskell-must-watch)
+- [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
 ## Go
 
@@ -304,6 +306,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Bitcoin mining the hard way](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 - [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList)
 - [CryptoEconomics](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
+- [Emails from Satoshi Nakamoto to Hal Finney](http://online.wsj.com/public/resources/documents/finneynakamotoemails.pdf)
 
 ## Tor
 
@@ -390,6 +393,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
 - [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 - [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
+- [ON-LINE MAN-COMPUTER COMMUNICATION](https://pdfs.semanticscholar.org/a60a/b3654daeb20225ee0c9423448e48a786050d.pdf)
 - http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
 - https://www.codecademy.com/articles
