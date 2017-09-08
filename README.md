@@ -152,6 +152,7 @@ A collection of resources that I found useful and interesting across various dom
 - [PDF Diff](https://github.com/JoshData/pdf-diff)
 - [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ## Docker
 
@@ -249,7 +250,8 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Official Documentation](https://www.haskell.org/documentation)
 - [How to learn Haskell](https://github.com/bitemyapp/learnhaskell)
-- [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
+- [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/) *
+- [Huge list of videos, talks, courses for Haskell programming language](https://github.com/hzlmn/haskell-must-watch)
 
 ## Go
 
@@ -399,3 +401,4 @@ A collection of resources that I found useful and interesting across various dom
 - http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 - https://github.com/jwasham/google-interview-university
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
+- [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
