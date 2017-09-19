@@ -228,6 +228,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
 - [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
+- [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
 ## C
 
