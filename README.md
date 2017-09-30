@@ -243,6 +243,7 @@ A collection of resources that I found useful and interesting across various dom
 - [* in Ruby](http://goyalankit.com/blog/the-star-in-ruby)
 - [Rake](https://github.com/ruby/rake)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
+- [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
 
 ## Sinatra
 
