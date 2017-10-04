@@ -78,6 +78,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
 - [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 - [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
+- [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
@@ -121,6 +122,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Project Zero](https://googleprojectzero.blogspot.in/)
 - [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 - [Shodan](https://www.shodan.io/)
+- [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://www.vulnhub.com/
 - https://sakurity.com/
@@ -193,6 +195,7 @@ A collection of resources that I found useful and interesting across various dom
 - [A New Internet for Decentralized Apps](https://blockstack.org/)
 - [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
 - [Let 'localhost' be localhost](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04)
+- [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
 
@@ -229,6 +232,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
 - [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
 - [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+- [Interactive Vim Tutorial](http://www.openvim.com/)
 
 ## C
 
@@ -350,6 +354,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
 - https://github.com/Hack-with-Github/Awesome-Hacking
 
 ## Regex
