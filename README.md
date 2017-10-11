@@ -331,7 +331,7 @@ A collection of resources that I found useful and interesting across various dom
 ## Docs
 
 - [Functional Programming](http://wiki.c2.com/?FunctionalProgramming)
-- [Functional Programming **](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+- [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
 - [Weapon of Mass Destruction](http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html)
 - [MooTools](https://github.com/mootools/mootools-core)
