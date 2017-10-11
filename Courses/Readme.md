@@ -9,3 +9,4 @@
 - [CS 140: Operating Systems](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)
 - [Offensive Computer Security](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 - [CS155: Computer and Network Security](https://courseware.stanford.edu/pg/courses/lectures/349991)
+- [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/)
