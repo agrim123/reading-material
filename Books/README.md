@@ -4,6 +4,7 @@
 
 - [Javascript](#javascript)
 - [Bitcoin](#bitcoin)
+- [Security](#security)
 - [Lisp](#lisp)
 - [Internet](#internet)
 - [Ruby](#ruby)
@@ -12,6 +13,7 @@
 - [Linux](#linux)
 - [Git](#git)
 - [Algorithms](#algorithms)
+- [Software Development](#software-development)
 - [Random](#random)
 
 ## Javascript
@@ -25,7 +27,11 @@
 
 ## Bitcoin
 
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+- [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/)
+
+## Security
+
+- [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 ## Lisp
 
@@ -74,16 +80,24 @@
 
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
-## Random
+## Software Development
 
-- [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
-- [Understanding Message Brokers](http://www.oreilly.com/programming/free/files/understanding-message-brokers.pdf)
-- [Coders at Work](https://www.amazon.com/gp/product/1430219483?ie=UTF8&camp=213733&creative=393185&creativeASIN=1430219483&linkCode=shr&tag=eejs-20&linkId=3MNWRRZU3C4Q4BDN)
+- [Coders at Work](https://www.amazon.com/gp/product/1430219483)
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396)
-- [The Joy of Software Development](https://josd.captnemo.in/content/)
+- [Working Effectively with Legacy Code](https://www.amazon.com/gp/product/0131177052)
+- [Programming Pearls](https://www.amazon.com/gp/product/0201657880)
+- [The Art of Computer Programming](https://www.amazon.com/gp/product/0201896834)
+- [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/0201485672)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882)
+- [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/gp/product/0735619670)
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - [The Mythical Man-Month](http://www.amazon.in/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+- [The Joy of Software Development](https://josd.captnemo.in/content/)
+
+## Random
+
+- [Understanding Message Brokers](http://www.oreilly.com/programming/free/files/understanding-message-brokers.pdf)
 - [A handbook for making programming languages](http://www.craftinginterpreters.com/contents.html)
-- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?ie=UTF8&qid=1494993475&sr=8-1&keywords=design+patterns&linkCode=ll1&tag=eejs-20&linkId=6c553f16325f3939e5abadd4ee04e8b4)
-- https://jasonroell.com/2015/03/16/12-most-infuential-books-every-software-engineer-needs-to-read/
 - [Ask HN: What language-agnostic programming books should I read ?](https://news.ycombinator.com/item?id=14486657)
+- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
