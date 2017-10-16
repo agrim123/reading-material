@@ -234,6 +234,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
 - [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 - [Interactive Vim Tutorial](http://www.openvim.com/)
+- [Vim Galore](https://github.com/mhinz/vim-galore)
 
 ## C
 
@@ -319,6 +320,8 @@ A collection of resources that I found useful and interesting across various dom
 - [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList)
 - [CryptoEconomics](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
 - [Emails from Satoshi Nakamoto to Hal Finney](http://online.wsj.com/public/resources/documents/finneynakamotoemails.pdf)
+- [Quantifying Decentralization](https://news.21.co/quantifying-decentralization-e39db233c28e)
+- [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 
 ## Tor
 
