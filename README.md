@@ -27,7 +27,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Docs](#docs)
 - [Awesome Lists](#awesome-lists)
 - [Regex](#regex)
-- [Useful Command Line Tools]()
+- [Useful Command Line Tools](#useful-command-line-tools)
 - [Good Resources](#good-resources)
 - [More](#more)
 - [Books](/Books)
@@ -380,6 +380,7 @@ A collection of resources that I found useful and interesting across various dom
 - [tldr](https://github.com/tldr-pages/tldr)
 - [Rofi: A window switcher, application launcher and dmenu replacement](https://github.com/DaveDavenport/rofi)
 - [fd: A simple, fast and user-friendly alternative to find](https://github.com/sharkdp/fd)
+- [SCM breeze: Adds numbered shortcuts to the output git status, and much more ](https://github.com/scmbreeze/scm_breeze)
 
 ## Good Resources
 
