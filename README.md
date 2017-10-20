@@ -27,6 +27,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Docs](#docs)
 - [Awesome Lists](#awesome-lists)
 - [Regex](#regex)
+- [Useful Command Line Tools]()
 - [Good Resources](#good-resources)
 - [More](#more)
 - [Books](/Books)
@@ -80,6 +81,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
 - [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
 - [Ramda JS](http://ramdajs.com/)
+- [Object-oriented Programming in vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
+- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
@@ -371,6 +374,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Learn Regex](http://regexr.com/)
 - [Interactive Exercise](https://regexone.com/)
 - https://github.com/zeeshanu/learn-regex
+
+## Useful Command Line Tools
+
+- [tldr](https://github.com/tldr-pages/tldr)
+- [Rofi: A window switcher, application launcher and dmenu replacement](https://github.com/DaveDavenport/rofi)
+- [fd: A simple, fast and user-friendly alternative to find](https://github.com/sharkdp/fd)
 
 ## Good Resources
 
