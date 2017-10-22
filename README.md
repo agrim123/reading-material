@@ -83,6 +83,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Ramda JS](http://ramdajs.com/)
 - [Object-oriented Programming in vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
@@ -239,6 +240,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 - [Interactive Vim Tutorial](http://www.openvim.com/)
 - [Vim Galore](https://github.com/mhinz/vim-galore)
+- [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
 
 ## C
 
@@ -398,6 +400,8 @@ A collection of resources that I found useful and interesting across various dom
 - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI)
 - [Ruby vs. The World](https://matt.aimonetti.net/posts/2012/11/02/rubyconf-2012-ruby-vs-the-world/)
 - [Return to the Source](http://www.cipht.net/2017/10/05/why-read-code.html)
+- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
 - http://openmymind.net/
 - https://www.interviewcake.com/article/python/data-structures-coding-interview
 - https://appliedgo.net/
