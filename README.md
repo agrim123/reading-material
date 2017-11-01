@@ -84,6 +84,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Object-oriented Programming in vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
+- [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
@@ -148,7 +149,7 @@ A collection of resources that I found useful and interesting across various dom
 
 - [RoR Tutorial](https://www.railstutorial.org/book/frontmatter)
 - [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read)
-- [APIs on Rails](http://apionrails.icalialabs.com/)
+- [APIs on Rails](http://apionrails.icaFlialabs.com/)
 - [Predicting Test Failures](http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html)
 - [XSS and Rails](http://blog.bigbinary.com/2012/05/10/xss-and-rails.html)
 - [What makes Rails a framework worth learning in 2017](https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017)
@@ -169,6 +170,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Understanding Docker Internals](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
 - [Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
 - [Docker Curriculum](https://prakhar.me/docker-curriculum/)
+- [Docker Cheatsheet#F](https://github.com/eon01/DockerCheatSheet)
 
 ## Algorithms
 
@@ -203,6 +205,7 @@ A collection of resources that I found useful and interesting across various dom
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 - [Why privacy is important, and having "nothing to hide" is irrelevant](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
 - [nginx](http://www.aosabook.org/en/nginx.html)
+- [Nothing To Hide](https://vimeo.com/189016018)**
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
