@@ -247,6 +247,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Vim Galore](https://github.com/mhinz/vim-galore)
 - [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
 - [Kernel 101 – Let’s write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+- [Kernel development](http://www.osdever.net/bkerndev/Docs/intro.htm)
+- [Computer architecture for network engineers](https://github.com/lukego/blog/issues/18)
 
 ## C
 
