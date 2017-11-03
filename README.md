@@ -206,6 +206,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Why privacy is important, and having "nothing to hide" is irrelevant](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
 - [nginx](http://www.aosabook.org/en/nginx.html)
 - [Nothing To Hide](https://vimeo.com/189016018)**
+- [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
@@ -425,6 +426,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://learncodethehardway.org/
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
+- http://arjunsreedharan.org/
 
 ## More
 
