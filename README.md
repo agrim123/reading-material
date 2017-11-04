@@ -15,6 +15,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Internet](#internet)
 - [Git](#git)
 - [Linux](#linux)
+- [OS Dev](#os-dev)
 - [C](#c)
 - [Ruby](#ruby)
 - [Sinatra](#sinatra)
@@ -242,14 +243,18 @@ A collection of resources that I found useful and interesting across various dom
 - [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
 - [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
-- [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
-- [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 - [Interactive Vim Tutorial](http://www.openvim.com/)
 - [Vim Galore](https://github.com/mhinz/vim-galore)
 - [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
+
+## OS dev
+
+- [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+- [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
 - [Kernel 101 – Let’s write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 - [Kernel development](http://www.osdever.net/bkerndev/Docs/intro.htm)
 - [Computer architecture for network engineers](https://github.com/lukego/blog/issues/18)
+- [Building a simple Kernel](http://wiki.osdev.org/Bare_Bones)
 
 ## C
 
