@@ -11,6 +11,7 @@
 - [Go](#go)
 - [Haskell](#haskell)
 - [Linux](#linux)
+- [OS Dev](#os-dev)
 - [Git](#git)
 - [Algorithms](#algorithms)
 - [Software Development](#software-development)
@@ -72,6 +73,10 @@
 - [Conquering The Command Line](http://conqueringthecommandline.com/book)
 - [Bash Cookbook](http://www.amazon.in/Bash-Cookbook-Cookbooks-Cameron-Newham/dp/0596526784
 - [Learn Shell](http://www.learnshell.org/)
+
+## OS Dev
+
+- [Os Dev Books](http://wiki.osdev.org/Books#TCP.2FIP)
 
 ## Git
 
