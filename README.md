@@ -86,6 +86,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 - [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+- [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
@@ -246,6 +247,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Interactive Vim Tutorial](http://www.openvim.com/)
 - [Vim Galore](https://github.com/mhinz/vim-galore)
 - [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
+- [Explaining Dirty COW local root exploit - CVE-2016-5195](https://www.youtube.com/watch?v=kEsshExn7aE)
+- [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
 
 ## OS dev
 
@@ -309,6 +312,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Case For Go](https://gist.github.com/ungerik/3731476)
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
 - [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
+- [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 
 ## Elixir
 
@@ -342,6 +346,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Emails from Satoshi Nakamoto to Hal Finney](http://online.wsj.com/public/resources/documents/finneynakamotoemails.pdf)
 - [Quantifying Decentralization](https://news.21.co/quantifying-decentralization-e39db233c28e)
 - [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
+- [The Blockchain Dictionary](https://www.theblockchainnewsletter.com/glossary.html)
 
 ## Tor
 
@@ -432,6 +437,8 @@ A collection of resources that I found useful and interesting across various dom
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
 - http://arjunsreedharan.org/
+- https://blog.acolyer.org/
+- http://nullprogram.com/index/
 
 ## More
 
