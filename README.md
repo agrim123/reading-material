@@ -421,6 +421,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Return to the Source](http://www.cipht.net/2017/10/05/why-read-code.html)
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
+- [Collecting All Cheat Sheets](http://overapi.com/)
 - http://openmymind.net/
 - https://www.interviewcake.com/article/python/data-structures-coding-interview
 - https://appliedgo.net/
