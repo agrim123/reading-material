@@ -71,8 +71,9 @@
 
 - [Linux Device Drivers](http://free-electrons.com/doc/books/ldd3.pdf)
 - [Conquering The Command Line](http://conqueringthecommandline.com/book)
-- [Bash Cookbook](http://www.amazon.in/Bash-Cookbook-Cookbooks-Cameron-Newham/dp/0596526784
+- [Bash Cookbook](http://www.amazon.in/Bash-Cookbook-Cookbooks-Cameron-Newham/dp/0596526784)
 - [Learn Shell](http://www.learnshell.org/)
+- [The Linux Programming Interface](http://www.man7.org/tlpi/)
 
 ## OS Dev
 
