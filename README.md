@@ -86,6 +86,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 - [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+- [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
@@ -222,6 +223,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Oh shit, git!](http://ohshitgit.com/)
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 - [YOU'RE USING GIT WRONG](https://dpc.pw/blog/2017/08/youre-using-git-wrong/)
+- [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o)
+- [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0)
 
 ## Linux
 
@@ -249,6 +252,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
 - [Explaining Dirty COW local root exploit - CVE-2016-5195](https://www.youtube.com/watch?v=kEsshExn7aE)
 - [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
+- [Vim Cheatsheet](http://vimsheet.com/)
 
 ## OS dev
 
