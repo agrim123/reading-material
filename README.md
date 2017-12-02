@@ -253,6 +253,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Explaining Dirty COW local root exploit - CVE-2016-5195](https://www.youtube.com/watch?v=kEsshExn7aE)
 - [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
 - [Vim Cheatsheet](http://vimsheet.com/)
+- [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
+- [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
 
 ## OS dev
 
