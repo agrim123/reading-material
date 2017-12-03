@@ -271,6 +271,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
 - [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
+- [Smashing The Stack For Fun And Profit](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
 
 ## Ruby
 
