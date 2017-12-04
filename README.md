@@ -132,6 +132,7 @@ A collection of resources that I found useful and interesting across various dom
 - [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 - [Shodan](https://www.shodan.io/)
 - [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+- [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://www.vulnhub.com/
 - https://sakurity.com/
@@ -272,6 +273,7 @@ A collection of resources that I found useful and interesting across various dom
 - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
 - [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
 - [Smashing The Stack For Fun And Profit](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
+- [GNU Make: A Program for Directing Recompilation](http://web.mit.edu/gnu/doc/html/make_toc.html)
 
 ## Ruby
 
