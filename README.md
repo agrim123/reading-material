@@ -88,6 +88,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
+- [Essential Image Optimization](https://images.guide/)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
@@ -431,6 +432,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
 - [Collecting All Cheat Sheets](http://overapi.com/)
+- [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 - http://openmymind.net/
 - https://www.interviewcake.com/article/python/data-structures-coding-interview
 - https://appliedgo.net/
