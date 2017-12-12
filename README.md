@@ -227,6 +227,7 @@ A collection of resources that I found useful and interesting across various dom
 - [YOU'RE USING GIT WRONG](https://dpc.pw/blog/2017/08/youre-using-git-wrong/)
 - [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o)
 - [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0)
+- [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
 
 ## Linux
 
@@ -357,6 +358,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Quantifying Decentralization](https://news.21.co/quantifying-decentralization-e39db233c28e)
 - [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 - [The Blockchain Dictionary](https://www.theblockchainnewsletter.com/glossary.html)
+- [Bitcoin Resources](https://lopp.net/bitcoin.html)
+- [Is CPU mining even worth the Ether?](https://ethereum.stackexchange.com/questions/2325/is-cpu-mining-even-worth-the-ether)
 
 ## Tor
 
