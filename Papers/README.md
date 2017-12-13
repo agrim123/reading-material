@@ -2,6 +2,7 @@
 
 ## Contents
 
+- [Security](#security)
 - [Blockchain](#blockchain)
 - [Ethereum](#ethereum)
 - [Tor](#tor)
@@ -9,6 +10,14 @@
 - [Database](#database)
 - [Docker](#docker)
 - [Random](#random)
+
+## Security
+
+- [Untraceable electronic mail, return addresses, and digital pseudonyms](https://mirror.robert-marquardt.com/anonbib/cache/chaum-mix.pdf)
+
+## Cryptography
+
+- [Security, Authentication, and Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf)
 
 ## BlockChain
 
