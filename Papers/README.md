@@ -14,6 +14,7 @@
 ## Security
 
 - [Untraceable electronic mail, return addresses, and digital pseudonyms](https://mirror.robert-marquardt.com/anonbib/cache/chaum-mix.pdf)
+- [The Protection of Information in Computer Systems](https://www.acsac.org/secshelf/papers/protection_information.pdf)
 
 ## Cryptography
 
@@ -49,6 +50,7 @@
 - [Filecoin: A Decentralized Storage Network](https://filecoin.io/filecoin.pdf)
 - [Breaking the Browser Language Barrier](http://plasma-umass.github.io/doppio-demo/paper.pdf)
 - [Defending Internet Freedom through Decentralization Back to the Future?](http://dci.mit.edu/assets/papers/decentralized_web.pdf)
+- [The anatomy of a large-scale hypertextual Web search engine](http://zoo.cs.yale.edu/classes/cs426/2012/bib/brin98theanatomy.pdf)
 
 ## Go
 
@@ -66,3 +68,4 @@
 
 - [Back to the Future: Lisp as a Base for a Statistical Computing System](https://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf)
 - [How Professional Hackers Understand Protected Code while Performing Attack Tasks](https://pdfs.semanticscholar.org/4bd1/2a9823b55d29a0d75c9ea9c8cd08b6fdca3e.pdf)
+- [Papers We Love](https://github.com/papers-we-love)
