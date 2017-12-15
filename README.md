@@ -24,6 +24,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Elixir](#elixir)
 - [Database](#database)
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
+- [Machine Learning](#machine-learning)
 - [Tor](#tor)
 - [Docs](#docs)
 - [Awesome Lists](#awesome-lists)
@@ -161,11 +162,9 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Python
 
-- [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0)
 - [Python Memory Management](http://deeplearning.net/software/theano/tutorial/python-memory-management.html)
 - [Making Photos Smaller](https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html)
 - [PDF Diff](https://github.com/JoshData/pdf-diff)
-- [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
@@ -360,6 +359,11 @@ A collection of resources that I found useful and interesting across various dom
 - [The Blockchain Dictionary](https://www.theblockchainnewsletter.com/glossary.html)
 - [Bitcoin Resources](https://lopp.net/bitcoin.html)
 - [Is CPU mining even worth the Ether?](https://ethereum.stackexchange.com/questions/2325/is-cpu-mining-even-worth-the-ether)
+
+## Machine Learning
+
+- [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit
+- [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0)
 
 ## Tor
 
