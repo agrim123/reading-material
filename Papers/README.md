@@ -59,6 +59,7 @@
 ## Database
 
 - [Spanner: Google’s Globally Distributed Database](http://delivery.acm.org/10.1145/2500000/2491245/a8-corbett.pdf)
+- [A Call to Arms: Revisiting Database Design](https://arxiv.org/pdf/1105.6001.pdf)
 
 ## Docker
 
