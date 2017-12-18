@@ -362,7 +362,7 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Machine Learning
 
-- [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit
+- [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit)
 - [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0)
 
 ## Tor
@@ -420,6 +420,16 @@ A collection of resources that I found useful and interesting across various dom
 - [fd: A simple, fast and user-friendly alternative to find](https://github.com/sharkdp/fd)
 - [SCM breeze: Adds numbered shortcuts to the output git status, and much more ](https://github.com/scmbreeze/scm_breeze)
 
+## Blogs
+
+- https://lemire.me/blog/
+- http://arjunsreedharan.org/
+- https://jvns.ca/
+- https://githubengineering.com/
+- https://blog.acolyer.org/
+- http://nullprogram.com/index/
+
+
 ## Good Resources
 
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
@@ -444,7 +454,6 @@ A collection of resources that I found useful and interesting across various dom
 - https://www.interviewcake.com/article/python/data-structures-coding-interview
 - https://appliedgo.net/
 - http://goyalankit.com/
-- https://githubengineering.com/
 - http://www.geeksforgeeks.org/
 - https://www.interviewbit.com/dashboard/
 - https://www.codingforentrepreneurs.com/
@@ -455,9 +464,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://learncodethehardway.org/
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
-- http://arjunsreedharan.org/
-- https://blog.acolyer.org/
-- http://nullprogram.com/index/
+- https://sobotics.org/
 
 ## More
 
@@ -474,7 +481,6 @@ A collection of resources that I found useful and interesting across various dom
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
 - http://www2.informatik.uni-stuttgart.de/iste/ps/Lehre/stuff/rt.script.pdf
 - https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html
-- https://jvns.ca/
 - http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 - https://github.com/jwasham/google-interview-university
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
