@@ -257,6 +257,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Vim Cheatsheet](http://vimsheet.com/)
 - [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
 - [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
+- [Linux Firewall Tutorial: IPTables Tables, Chains, Rules Fundamentals](http://www.thegeekstuff.com/2011/01/iptables-fundamentals/)
 
 ## OS dev
 
@@ -283,6 +284,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Rake](https://github.com/ruby/rake)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
 - [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
+- [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
 
 ## Sinatra
 
@@ -303,7 +305,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Go by example](https://gobyexample.com/)
 - [RESTful routing in Go](http://openmymind.net/RESTful-routing-in-Go/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
-- [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30)
+- [Go Programming Video](https://www.youtube.com/watch?v=CF9S4QZuV30)
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
@@ -428,7 +430,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://githubengineering.com/
 - https://blog.acolyer.org/
 - http://nullprogram.com/index/
-
+- http://steve-yegge.blogspot.in/
 
 ## Good Resources
 
@@ -450,6 +452,7 @@ A collection of resources that I found useful and interesting across various dom
 - [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
 - [Collecting All Cheat Sheets](http://overapi.com/)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
+- [Explain Shell](https://explainshell.com/)
 - http://openmymind.net/
 - https://www.interviewcake.com/article/python/data-structures-coding-interview
 - https://appliedgo.net/
@@ -465,6 +468,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
 - https://sobotics.org/
+- https://blog.rpis.ec/
 
 ## More
 
