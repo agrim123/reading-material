@@ -110,3 +110,7 @@
 - [Ask HN: What language-agnostic programming books should I read ?](https://news.ycombinator.com/item?id=14486657)
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 - [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
+
+## List
+
+- https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
