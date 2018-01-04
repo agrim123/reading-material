@@ -472,6 +472,7 @@ A collection of resources that I found useful and interesting across various dom
 
 ## More
 
+- [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 - [NSA dump password & Message to Trump released by “TheShadowBrokers”](http://hn.premii.com/#/article/14066596)
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
