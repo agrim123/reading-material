@@ -114,3 +114,5 @@
 ## List
 
 - https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
+- https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
+- https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/

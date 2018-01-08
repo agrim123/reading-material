@@ -90,6 +90,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
 - [Essential Image Optimization](https://images.guide/)
+- [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
@@ -211,6 +212,7 @@ A collection of resources that I found useful and interesting across various dom
 - [nginx](http://www.aosabook.org/en/nginx.html)
 - [Nothing To Hide](https://vimeo.com/189016018)**
 - [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
+- [Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
@@ -431,6 +433,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://blog.acolyer.org/
 - http://nullprogram.com/index/
 - http://steve-yegge.blogspot.in/
+- http://nikgrozev.com/tags/
 
 ## Good Resources
 
