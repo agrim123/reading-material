@@ -424,6 +424,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Rofi: A window switcher, application launcher and dmenu replacement](https://github.com/DaveDavenport/rofi)
 - [fd: A simple, fast and user-friendly alternative to find](https://github.com/sharkdp/fd)
 - [SCM breeze: Adds numbered shortcuts to the output git status, and much more ](https://github.com/scmbreeze/scm_breeze)
+- [Pass: Simple password manager using gpg and ordinary unix directories](https://www.passwordstore.org/)
 
 ## Blogs
 
