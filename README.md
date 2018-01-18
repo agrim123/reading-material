@@ -21,6 +21,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Sinatra](#sinatra)
 - [Haskell](#haskell)
 - [Go](#go)
+- [Lua](#lua)
 - [Elixir](#elixir)
 - [Database](#database)
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
@@ -329,6 +330,10 @@ A collection of resources that I found useful and interesting across various dom
 - [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 
+## Lua
+
+- [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
+
 ## Elixir
 
 - [Joy of Elixir](https://joyofelixir.com/toc.html)
@@ -458,6 +463,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Collecting All Cheat Sheets](http://overapi.com/)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 - [Explain Shell](https://explainshell.com/)
+- [Design Patterns](https://sourcemaking.com/design_patterns) *
 - http://openmymind.net/
 - https://www.interviewcake.com/article/python/data-structures-coding-interview
 - https://appliedgo.net/
