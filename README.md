@@ -231,6 +231,7 @@ A collection of resources that I found useful and interesting across various dom
 - [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o)
 - [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0)
 - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
+- [Git Submodules](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
 
 ## Linux
 
@@ -333,6 +334,7 @@ A collection of resources that I found useful and interesting across various dom
 ## Lua
 
 - [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
+- [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
 
 ## Elixir
 
@@ -490,6 +492,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 - [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
 - [ON-LINE MAN-COMPUTER COMMUNICATION](https://pdfs.semanticscholar.org/a60a/b3654daeb20225ee0c9423448e48a786050d.pdf)
+- [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
+- [Hacker101](https://www.hacker101.com/)
 - http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
 - https://www.codecademy.com/articles
