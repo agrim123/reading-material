@@ -131,7 +131,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
 - [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
 - [Buffer Overflow Attack](http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf)
-- [Radare](https://radare.gitbooks.io/radare2book/content/)
+- [Radare 2 Book](https://radare.gitbooks.io/radare2book/content/)
 - [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
 - [Project Zero](https://googleprojectzero.blogspot.in/)
 - [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
@@ -232,6 +232,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0)
 - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
 - [Git Submodules](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
+- [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
 
 ## Linux
 
@@ -276,7 +277,7 @@ A collection of resources that I found useful and interesting across various dom
 ## C
 
 - [Lightweight HTTP Server](http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11)
-- [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
+- [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly) **
 - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
 - [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
 - [Smashing The Stack For Fun And Profit](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
