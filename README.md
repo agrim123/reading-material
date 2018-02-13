@@ -336,6 +336,7 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 - [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
+- [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 
 ## Elixir
 
@@ -444,6 +445,7 @@ A collection of resources that I found useful and interesting across various dom
 - http://nullprogram.com/index/
 - http://steve-yegge.blogspot.in/
 - http://nikgrozev.com/tags/
+- https://zwischenzugs.com/
 
 ## Good Resources
 
@@ -467,6 +469,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 - [Explain Shell](https://explainshell.com/)
 - [Design Patterns](https://sourcemaking.com/design_patterns) *
+- [10 Tips for 10x Application Performance](https://www.nginx.com/blog/10-tips-for-10x-application-performance/)
 - http://openmymind.net/
 - https://www.interviewcake.com/article/python/data-structures-coding-interview
 - https://appliedgo.net/
