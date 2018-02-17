@@ -446,6 +446,7 @@ A collection of resources that I found useful and interesting across various dom
 - http://steve-yegge.blogspot.in/
 - http://nikgrozev.com/tags/
 - https://zwischenzugs.com/
+- https://mkdev.me/en/posts
 
 ## Good Resources
 
@@ -498,6 +499,7 @@ A collection of resources that I found useful and interesting across various dom
 - [ON-LINE MAN-COMPUTER COMMUNICATION](https://pdfs.semanticscholar.org/a60a/b3654daeb20225ee0c9423448e48a786050d.pdf)
 - [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
 - [Hacker101](https://www.hacker101.com/)
+- [The three types of programmers](https://mkdev.me/en/posts/the-three-types-of-programmers)
 - http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
 - https://www.codecademy.com/articles
