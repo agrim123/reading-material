@@ -188,6 +188,8 @@ A collection of resources that I found useful and interesting across various dom
 - https://github.com/coells/100days
 - [Linked lists are still hard](https://brennan.io/2017/04/21/linked-lists-are-still-hard/)
 - [Know Thy Complexities!](http://bigocheatsheet.com/#)
+- [Understanding Dijkstra's Algorithm](https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/)
+- [How to think in graphs](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 
 ## Internet
 
@@ -197,6 +199,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 - [Apache vs Nginx](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
 - [IPFS](https://ipfs.io/)
+- [Paper review. IPFS: Content addressed, versioned, P2P file system](https://muratbuffalo.blogspot.in/2018/02/paper-review-ipfs-content-addressed.html)
 - [HTTP](https://www.jmarshall.com/easy/http/)
 - [Analysis of HTTP Performance](https://www.isi.edu/lsam/publications/http-perf/)
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
@@ -233,6 +236,7 @@ A collection of resources that I found useful and interesting across various dom
 - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
 - [Git Submodules](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
+- [Advanced Git Commands You Will Actually Use](https://stosb.com/blog/advanced-git-commands-you-will-actually-use/)
 
 ## Linux
 
@@ -265,6 +269,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
 - [Creating a bash completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
 - [Linux Firewall Tutorial: IPTables Tables, Chains, Rules Fundamentals](http://www.thegeekstuff.com/2011/01/iptables-fundamentals/)
+- [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/)**
+- [rm -rf remains](https://lambdaops.com/rm-rf-remains/)
 
 ## OS dev
 
@@ -340,6 +346,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 - [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
 - [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
+- [Creation of a complete game with Lua and LÖVE](https://github.com/SSYGEN/blog/issues/30)
 
 ## Elixir
 
@@ -450,6 +457,7 @@ A collection of resources that I found useful and interesting across various dom
 - http://nikgrozev.com/tags/
 - https://zwischenzugs.com/
 - https://mkdev.me/en/posts
+- http://www.uliaea.ca/
 
 ## Good Resources
 
@@ -490,6 +498,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://www.hackerearth.com/hackathon-handbook/
 - https://sobotics.org/
 - https://blog.rpis.ec/
+- https://libgen.pw
 
 ## More
 
