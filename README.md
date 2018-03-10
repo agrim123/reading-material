@@ -219,6 +219,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
 - [Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)
 - [The C10K problem](http://www.kegel.com/c10k.html)
+- [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
 
@@ -290,6 +291,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Smashing The Stack For Fun And Profit](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
 - [GNU Make: A Program for Directing Recompilation](http://web.mit.edu/gnu/doc/html/make_toc.html)
 - [NCURSES Programming HOWTO](http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
+- [Make your own build system](http://jstimpfle.de/blah/buildsystem/buildsystem.html)
 
 ## Ruby
 
@@ -340,6 +342,7 @@ A collection of resources that I found useful and interesting across various dom
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
 - [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
+- [Learning Go as a Node.js Developer](https://nemethgergely.com/learning-go-as-a-nodejs-developer/)
 
 ## Lua
 
@@ -458,6 +461,8 @@ A collection of resources that I found useful and interesting across various dom
 - https://zwischenzugs.com/
 - https://mkdev.me/en/posts
 - http://www.uliaea.ca/
+- https://blog.cloudflare.com/
+- http://jensimmons.com/writing
 
 ## Good Resources
 
@@ -524,4 +529,5 @@ A collection of resources that I found useful and interesting across various dom
 - http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 - https://github.com/jwasham/google-interview-university
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
+- [IF PROGRAMMING LANGUAGES WERE HARRY POTTER CHARACTERS](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)

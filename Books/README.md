@@ -45,6 +45,7 @@
 - [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
 - [CGI Programming 101](http://www.cgi101.com/)
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+- [Site Reliability Engineering](https://landing.google.com/sre/book.html)
 
 ## Ruby
 
