@@ -5,6 +5,8 @@
 - [Security](#security)
 - [Blockchain](#blockchain)
 - [Ethereum](#ethereum)
+- [Cryptocurrencies](#cryptocurrencies)
+- [Machine Learning](#machine-learning)
 - [Tor](#tor)
 - [Internet](#internet)
 - [Database](#database)
@@ -27,10 +29,33 @@
 - [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
 - [Introduction To Blockchain](https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf)
 - https://medium.com/founder-playbook/67-blockchain-articles-whitepapers-that-shaped-crypto-into-what-it-is-today-c538facfceb9
+- [Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
+- [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://www.usenix.org/system/files/conference/atc16/atc16_paper-ali.pdf)
+- [IPFS](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf)
+- [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/abs/1510.02037)
+- [A Secure Sharding Protocol For Open Blockchain](https://www.comp.nus.edu.sg/~loiluu/papers/elastico.pdf)
+- [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf)
+- [Service-Oriented Sharding for Blockchain](https://arxiv.org/pdf/1611.06816.pdf)
+- [The stellar consensus protocol: A federated model for internet-level consensus](https://cdn.relayto.com/media/files/bHseNPaMRnmuKKqyO8hT_stellar-consensus-protocol.pdf)
 
 ## Ethereum
 
 - [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf)
+- [A Concurrent Perspective on Smart Contracts](https://arxiv.org/pdf/1702.05511.pdf)
+
+## Cryptocurrencies
+
+- [Zerocash: Decentralized Anonymous Payments from Bitcoin](http://ieeexplore.ieee.org/abstract/document/6956581/)
+- [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](https://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf)
+- [Lightning Network](https://lightning.network/lightning-network-paper.pdf)
+
+## Machine Learning
+
+- [SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows ](http://strymon.systems.ethz.ch/pdf/snailtrail_draft.pdf)
+- [TUX2: Distributed Graph Computation for Machine Learning](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-xiao.pdf)
+- [Litz: An Elastic Framework for High-Performance Distributed Machine Learning](http://www.petuum.com/pdf/litz-pdl-report.pdf)
+- [Scalable Asynchronous Gradient Descent Optimization for Out-of-Core Models](http://www.vldb.org/pvldb/vol10/p986-rusu.pdf)
 
 ## Tor
 
