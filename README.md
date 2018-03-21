@@ -272,6 +272,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Linux Firewall Tutorial: IPTables Tables, Chains, Rules Fundamentals](http://www.thegeekstuff.com/2011/01/iptables-fundamentals/)
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/)**
 - [rm -rf remains](https://lambdaops.com/rm-rf-remains/)
+- [Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 
 ## OS dev
 
@@ -292,6 +293,7 @@ A collection of resources that I found useful and interesting across various dom
 - [GNU Make: A Program for Directing Recompilation](http://web.mit.edu/gnu/doc/html/make_toc.html)
 - [NCURSES Programming HOWTO](http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
 - [Make your own build system](http://jstimpfle.de/blah/buildsystem/buildsystem.html)
+- [Malloc tutorial](https://danluu.com/malloc-tutorial/)
 
 ## Ruby
 
@@ -367,6 +369,7 @@ A collection of resources that I found useful and interesting across various dom
 - [SQL vs NoSQL](https://www.airpair.com/postgresql/posts/sql-vs-nosql-ko-postgres-vs-mongo)
 - [What are Master and Slave databases?](https://www.quora.com/What-are-Master-and-Slave-databases-and-how-does-pairing-them-make-web-apps-faster)
 - [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
+- [Build a simple database](https://cstack.github.io/db_tutorial/)
 
 ## BlockChain, Bitcoin
 
@@ -386,6 +389,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Blockchain Dictionary](https://www.theblockchainnewsletter.com/glossary.html)
 - [Bitcoin Resources](https://lopp.net/bitcoin.html)
 - [Is CPU mining even worth the Ether?](https://ethereum.stackexchange.com/questions/2325/is-cpu-mining-even-worth-the-ether)
+- [Nativecoin - build your own crypto-currency](https://lhartikk.github.io/)
 
 ## Machine Learning
 
@@ -487,6 +491,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Explain Shell](https://explainshell.com/)
 - [Design Patterns](https://sourcemaking.com/design_patterns) *
 - [10 Tips for 10x Application Performance](https://www.nginx.com/blog/10-tips-for-10x-application-performance/)
+- https://news.ycombinator.com/item?id=16591918
 - http://openmymind.net/
 - https://www.interviewcake.com/article/python/data-structures-coding-interview
 - https://appliedgo.net/
