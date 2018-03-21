@@ -531,3 +531,10 @@ A collection of resources that I found useful and interesting across various dom
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
 - [IF PROGRAMMING LANGUAGES WERE HARRY POTTER CHARACTERS](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
+
+## Interview Questions
+
+- [Front-end Interview Questions](https://github.com/yangshun/front-end-interview-handbook)
+- [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
