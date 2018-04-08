@@ -5,6 +5,9 @@ A collection of resources that I found useful and interesting across various dom
 ## Contents
 
 - [Javascript](#javascript)
+- [Node.js](#node.js)
+- [Webpack](#webpack)
+- [React, Redux](#react,-redux)
 - [Elm](#elm)
 - [Security](#security)
 - [Crypto](#crypto)
@@ -27,6 +30,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
 - [Machine Learning](#machine-learning)
 - [Tor](#tor)
+- [Functional Programming](#functional-programming)
 - [Docs](#docs)
 - [Awesome Lists](#awesome-lists)
 - [Regex](#regex)
@@ -39,43 +43,25 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Javascript
 
-- [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
-- [Writing NodeJS Tests](https://github.com/nodejs/node/blob/master/doc/guides/writing-tests.md)
-- [Testing NodeJS](http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/#.WMHDGyF97Qo)
-- [Making NodeJS App faster](https://engineering.gosquared.com/making-dashboard-faster)
-- [Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
-- [Diving Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/)
-- [Chrome Experiments](https://www.chromeexperiments.com/)
-- [Advanced JS](http://htmldog.com/guides/javascript/advanced/)
-- [Javascript Debugging](https://developer.chrome.com/devtools/docs/javascript-debugging)
-- [Javascript 3D Game Engines](http://noeticforce.com/best-3d-javascript-game-engines-frameworks-webgl-html5)
-- [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
-- [What is Functional Programming ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-- [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [Want to learn JS in 2015](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo)
 - [How it feels to learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 - [Learning JS in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 - [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95)
-- [Using Lodash and Underscore](https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
-- [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
-- [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
-- [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
-- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [The JavaScript Encyclopedia](http://javascript.crockford.com/)
 - [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
-- [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) **
-- [Relay](https://facebook.github.io/relay/)
-- [Vivus](http://maxwellito.github.io/vivus/)
-- [What is the Difference Between Class and Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
-- [Webpack How-to](https://github.com/petehunt/webpack-howto)
-- [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
-- [What is a Functional Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
-- [What is Pure function ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
-- [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
-- [Learning Rx](http://reactivex.io/learnrx/)
 - [WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
+- [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) **
+- [What is the Difference Between Class and Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+- [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
+- [Advanced JS](http://htmldog.com/guides/javascript/advanced/)
+- [Javascript Debugging](https://developer.chrome.com/devtools/docs/javascript-debugging)
+- [Javascript 3D Game Engines](http://noeticforce.com/best-3d-javascript-game-engines-frameworks-webgl-html5)
+- [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
+- [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Circular dependencies in JavaScript](https://medium.com/content-uneditable/circular-dependencies-in-javascript-a-k-a-coding-is-not-a-rock-paper-scissors-game-9c2a9eccd4bc)
 - [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
 - [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
@@ -83,20 +69,44 @@ A collection of resources that I found useful and interesting across various dom
 - [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 - [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
 - [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
-- [Ramda JS](http://ramdajs.com/)
 - [Object-oriented Programming in vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-- [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
-- [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
 - [Essential Image Optimization](https://images.guide/)
 - [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
 - [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected)
 - [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Relay](https://facebook.github.io/relay/)
+- [Vivus](http://maxwellito.github.io/vivus/)
+- [Ramda JS](http://ramdajs.com/)
+- [Learning Rx](http://reactivex.io/learnrx/)
+- [Using Lodash and Underscore](https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68)
+- [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+- [Chrome Experiments](https://www.chromeexperiments.com/)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
+
+## Node.js
+
+- [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
+- [Writing NodeJS Tests](https://github.com/nodejs/node/blob/master/doc/guides/writing-tests.md)
+- [Testing NodeJS](http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/#.WMHDGyF97Qo)
+- [Making NodeJS App faster](https://engineering.gosquared.com/making-dashboard-faster)
+
+## Webpack
+
+- [Diving Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/)
+- [Webpack How-to](https://github.com/petehunt/webpack-howto)
+
+## React, Redux
+
+- [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [Redux](https://redux.js.org/)
+- [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
+- [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
 ## Elm
 
@@ -107,42 +117,53 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Security
 
+### Attacks
+
+- [Blind SQL Injection Exploit](http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/)
+- [SSL Strip](https://github.com/moxie0/sslstrip)
+- [SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
+- [Binary Exploitation](https://github.com/CodeMaxx/Binary-Exploitation)
+- [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
+- [Buffer Overflow Attack](http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf)
+- [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
+
+### Tools
+
+- [John the Ripper](http://www.openwall.com/john/pro/linux/)
+- [HAProxy](http://www.haproxy.org/)
+- [Hashcat](https://hashcat.net/hashcat/)
+
+### Guides
+
 - [CTF Wiki](https://github.com/lucyoa/ctf-wiki)
-- [Wargames](http://overthewire.org/wargames/)
 - [Sites to practice InfoSec Skills](https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/)
 - [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
-- [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
 - [CVE-2016-4484: Cryptsetup Initrd root Shell](http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html)
 - [Securing API with OAuth 2.0](https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/)
 - [CTF Field Guide](https://trailofbits.github.io/ctf)
 - [Owasp](https://www.owasp.org/)
-- [SSL Strip](https://github.com/moxie0/sslstrip)
-- [Blind SQL Injection Exploit](http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/)
-- [John the Ripper](http://www.openwall.com/john/pro/linux/)
 - [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
-- [HAProxy](http://www.haproxy.org/)
 - [Modern CSRF](https://mixmax.com/blog/modern-csrf)
-- [SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
 - [Buffer Overflow](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
 - [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own)
 - [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
-- [Hashcat](https://hashcat.net/hashcat/)
 - [Tale of a DDoS](https://ictf.cs.ucsb.edu/pages/the-2016-2017-ictf-ddos.html)
-- [Binary Exploitation](https://github.com/CodeMaxx/Binary-Exploitation)
 - [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
-- [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
-- [Buffer Overflow Attack](http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf)
 - [Radare 2 Book](https://radare.gitbooks.io/radare2book/content/)
-- [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
 - [Project Zero](https://googleprojectzero.blogspot.in/)
 - [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
-- [Shodan](https://www.shodan.io/)
 - [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+- [Shodan](https://www.shodan.io/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://www.vulnhub.com/
 - https://sakurity.com/
 - https://io.netgarage.org/
+
+### Games
+
+- [Wargames](http://overthewire.org/wargames/)
+- [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
 
 ## Crypto
 
@@ -305,6 +326,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
 - [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
 - [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
+- [Ruby vs. The World](https://matt.aimonetti.net/posts/2012/11/02/rubyconf-2012-ruby-vs-the-world/)
 
 ## Sinatra
 
@@ -347,6 +369,7 @@ A collection of resources that I found useful and interesting across various dom
 - [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 - [Learning Go as a Node.js Developer](https://nemethgergely.com/learning-go-as-a-nodejs-developer/)
+- [Applied Go](https://appliedgo.net/)
 
 ## Lua
 
@@ -406,10 +429,18 @@ A collection of resources that I found useful and interesting across various dom
 - [Handling bot attacks against a Tor hidden service](http://hn.premii.com/#/article/14280084)
 - [Anti-Censorship & Transparency - Roger Dingledine](https://www.youtube.com/watch?v=35l56KjTCb8)
 
-## Docs
+## Functional Programming
 
+- [What is Functional Programming ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- [What is a Functional Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
+- [What is Pure function ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [Functional Programming](http://wiki.c2.com/?FunctionalProgramming)
 - [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+- [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
+
+## Docs
+
 - [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
 - [Weapon of Mass Destruction](http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html)
 - [MooTools](https://github.com/mootools/mootools-core)
@@ -486,25 +517,21 @@ A collection of resources that I found useful and interesting across various dom
 - [Lecture Search](https://www.findlectures.com/)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI)
-- [Ruby vs. The World](https://matt.aimonetti.net/posts/2012/11/02/rubyconf-2012-ruby-vs-the-world/)
 - [Return to the Source](http://www.cipht.net/2017/10/05/why-read-code.html)
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
 - [Collecting All Cheat Sheets](http://overapi.com/)
-- [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 - [Explain Shell](https://explainshell.com/)
 - [Design Patterns](https://sourcemaking.com/design_patterns) *
 - [10 Tips for 10x Application Performance](https://www.nginx.com/blog/10-tips-for-10x-application-performance/)
-- https://news.ycombinator.com/item?id=16591918
+- [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - http://openmymind.net/
 - https://www.interviewcake.com/article/python/data-structures-coding-interview
-- https://appliedgo.net/
 - http://goyalankit.com/
 - http://www.geeksforgeeks.org/
 - https://www.interviewbit.com/dashboard/
 - https://www.codingforentrepreneurs.com/
 - https://www.freecodecamp.com/map
-- https://www.destroyallsoftware.com/screencasts
 - https://www.learnenough.com/
 - https://learnxinyminutes.com/
 - https://learncodethehardway.org/
@@ -528,18 +555,18 @@ A collection of resources that I found useful and interesting across various dom
 - [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
 - [Hacker101](https://www.hacker101.com/)
 - [The three types of programmers](https://mkdev.me/en/posts/the-three-types-of-programmers)
-- http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/
+- [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
+- [Leaving Clojure for Ruby](https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html)
+- [If Programming languages were harry potter characters](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
+- [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
 - https://www.codecademy.com/articles
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
 - http://www2.informatik.uni-stuttgart.de/iste/ps/Lehre/stuff/rt.script.pdf
-- https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html
 - http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 - https://github.com/jwasham/google-interview-university
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
-- [IF PROGRAMMING LANGUAGES WERE HARRY POTTER CHARACTERS](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
-- [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
 
 ## Interview Questions
 
