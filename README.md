@@ -5,9 +5,9 @@ A collection of resources that I found useful and interesting across various dom
 ## Contents
 
 - [Javascript](#javascript)
-- [Node.js](#node.js)
+- [Node.js](#nodejs)
 - [Webpack](#webpack)
-- [React, Redux](#react,-redux)
+- [React, Redux](#react-redux)
 - [Elm](#elm)
 - [Security](#security)
 - [Crypto](#crypto)
@@ -84,6 +84,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Using Lodash and Underscore](https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68)
 - [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 - [Chrome Experiments](https://www.chromeexperiments.com/)
+- [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
+- [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected#29422900)
 - https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
 - https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
 - https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
