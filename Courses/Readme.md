@@ -10,3 +10,4 @@
 - [Offensive Computer Security](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 - [CS155: Computer and Network Security](https://courseware.stanford.edu/pg/courses/lectures/349991)
 - [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/)
+- [CS143: Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
