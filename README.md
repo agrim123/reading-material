@@ -397,6 +397,7 @@ A collection of resources that I found useful and interesting across various dom
 - [What are Master and Slave databases?](https://www.quora.com/What-are-Master-and-Slave-databases-and-how-does-pairing-them-make-web-apps-faster)
 - [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
 - [Build a simple database](https://cstack.github.io/db_tutorial/)
+- [Five ways to paginate in Postgres, from the basic to the exotic](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
 
 ## BlockChain, Bitcoin
 
