@@ -128,6 +128,7 @@ A collection of resources that I found useful and interesting across various dom
 - [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
 - [Buffer Overflow Attack](http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf)
 - [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
+- [What is a DDoS Attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
 
 ### Tools
 
