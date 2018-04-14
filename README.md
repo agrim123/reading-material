@@ -86,9 +86,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Chrome Experiments](https://www.chromeexperiments.com/)
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 - [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected#29422900)
-- https://medium.com/scrimba/5-array-methods-all-javascript-beginners-should-know-48b5795d77f8
-- https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses
-- https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae
+- [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
+- [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
 
 ## Node.js
 
@@ -109,6 +108,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Redux](https://redux.js.org/)
 - [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 - [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+- [Paul O Shannessy - Building React From Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg)
+- [React Implementation Notes](https://reactjs.org/docs/implementation-notes.html)
+- [React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 
 ## Elm
 
