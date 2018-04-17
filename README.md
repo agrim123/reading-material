@@ -300,7 +300,8 @@ A collection of resources that I found useful and interesting across various dom
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/)**
 - [rm -rf remains](https://lambdaops.com/rm-rf-remains/)
 - [Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-- https://www.tecmint.com/linux-server-hardening-security-tips/
+- [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
+- [Security Tips for Linux Servers](https://www.tecmint.com/linux-server-hardening-security-tips/)
 
 ## OS dev
 
@@ -322,6 +323,7 @@ A collection of resources that I found useful and interesting across various dom
 - [NCURSES Programming HOWTO](http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
 - [Make your own build system](http://jstimpfle.de/blah/buildsystem/buildsystem.html)
 - [Malloc tutorial](https://danluu.com/malloc-tutorial/)
+- [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
 
 ## Ruby
 
@@ -508,6 +510,7 @@ A collection of resources that I found useful and interesting across various dom
 - http://jensimmons.com/writing
 - https://blog.cryptographyengineering.com
 - https://blog.filippo.io/hi/
+- http://prog21.dadgum.com/
 
 ## Good Resources
 
