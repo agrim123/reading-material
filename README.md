@@ -160,6 +160,7 @@ A collection of resources that I found useful and interesting across various dom
 - [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 - [Shodan](https://www.shodan.io/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
+- [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) *
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://www.vulnhub.com/
 - https://sakurity.com/
@@ -247,6 +248,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
+- [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
 
@@ -376,6 +378,7 @@ A collection of resources that I found useful and interesting across various dom
 - [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 - [Learning Go as a Node.js Developer](https://nemethgergely.com/learning-go-as-a-nodejs-developer/)
+- [HTTPS and Go](https://www.kaihag.com/https-and-go/)
 - [Applied Go](https://appliedgo.net/)
 
 ## Lua
