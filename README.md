@@ -537,6 +537,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Design Patterns](https://sourcemaking.com/design_patterns) *
 - [10 Tips for 10x Application Performance](https://www.nginx.com/blog/10-tips-for-10x-application-performance/)
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
+- [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
 - http://openmymind.net/
 - https://www.interviewcake.com/article/python/data-structures-coding-interview
 - http://goyalankit.com/
