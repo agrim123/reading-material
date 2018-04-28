@@ -31,6 +31,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Machine Learning](#machine-learning)
 - [Tor](#tor)
 - [Functional Programming](#functional-programming)
+- [OAuth](#oauth)
 - [Docs](#docs)
 - [Awesome Lists](#awesome-lists)
 - [Regex](#regex)
@@ -450,6 +451,13 @@ A collection of resources that I found useful and interesting across various dom
 - [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 
+## OAuth
+
+- [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+- [The OAuth 2.0 Authorization Framework RFC](https://tools.ietf.org/html/rfc6749)
+- [OAuth 2 Client](http://oauth2-client.thephpleague.com/)
+- [OAuth 2.0 Server](http://oauth2.thephpleague.com/)
+
 ## Docs
 
 - [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
@@ -572,6 +580,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Leaving Clojure for Ruby](https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html)
 - [If Programming languages were harry potter characters](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
+- [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
 - https://www.codecademy.com/articles
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
