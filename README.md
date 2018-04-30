@@ -381,6 +381,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Learning Go as a Node.js Developer](https://nemethgergely.com/learning-go-as-a-nodejs-developer/)
 - [HTTPS and Go](https://www.kaihag.com/https-and-go/)
 - [Applied Go](https://appliedgo.net/)
+- [Hello Go!](https://medium.com/@caspervonb/hello-go-3e207da92da0)
 
 ## Lua
 
@@ -407,6 +408,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
 - [Build a simple database](https://cstack.github.io/db_tutorial/)
 - [Five ways to paginate in Postgres, from the basic to the exotic](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
+- [One Giant Leap For SQL: MySQL 8.0 Released](https://modern-sql.com/blog/2018-04/mysql-8.0) *
+- [MongoDB is to NoSQL like MySQL to SQL — in the most harmful way](https://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql)
 
 ## BlockChain, Bitcoin
 
