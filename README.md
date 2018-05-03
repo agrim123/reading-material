@@ -89,6 +89,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected#29422900)
 - [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
 - [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
+- [Essential Chrome Developer Tools: Beginner to Master](https://apsdehal.in/blog/chrome-developer-tools-to-master)
 
 ## Node.js
 
@@ -525,6 +526,8 @@ A collection of resources that I found useful and interesting across various dom
 - https://blog.cryptographyengineering.com
 - https://blog.filippo.io/hi/
 - http://prog21.dadgum.com/
+- https://increment.com/programming-languages/
+- https://blog.filippo.io/
 
 ## Good Resources
 
