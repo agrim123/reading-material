@@ -306,6 +306,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
 - [Security Tips for Linux Servers](https://www.tecmint.com/linux-server-hardening-security-tips/)
+- [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) **
 
 ## OS dev
 
