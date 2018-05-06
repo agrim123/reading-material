@@ -307,6 +307,7 @@ A collection of resources that I found useful and interesting across various dom
 - [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
 - [Security Tips for Linux Servers](https://www.tecmint.com/linux-server-hardening-security-tips/)
 - [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) **
+- [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 
 ## OS dev
 
