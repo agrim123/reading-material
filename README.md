@@ -308,6 +308,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Security Tips for Linux Servers](https://www.tecmint.com/linux-server-hardening-security-tips/)
 - [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) **
 - [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
+- [How does the system shutdown of a linux kernel work internally?](https://unix.stackexchange.com/a/122667/)
+- [Documentation extracted from the Linux kernel](https://www.kernel.org/doc/)
 
 ## OS dev
 
