@@ -269,6 +269,11 @@ A collection of resources that I found useful and interesting across various dom
 - [Git Submodules](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
 - [Advanced Git Commands You Will Actually Use](https://stosb.com/blog/advanced-git-commands-you-will-actually-use/)
+- [Git Memo](http://git-memo.mzlinux.org/en/latest/index.html)
+- [Commit Often, Perfect Later, Publish Once: Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
+- [Rebase with history -- implementation ideas](http://softwareswirl.blogspot.in/2009/08/rebase-with-history-implementation.html)
+- [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
+- [GIT introduction – .git directory](http://slidedeck.io/mikhail-vnukov/git-basics)
 
 ## Linux
 
