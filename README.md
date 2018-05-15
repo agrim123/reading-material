@@ -1,6 +1,6 @@
 # Reading Material
 
-A collection of resources that I found useful and interesting across various domains.  
+A collection of resources that I found useful and interesting across various domains.
 
 ## Contents
 
@@ -312,6 +312,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Documentation extracted from the Linux kernel](https://www.kernel.org/doc/)
 - [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
 - [Three kinds of memory leaks](https://blog.nelhage.com/post/three-kinds-of-leaks/)
+- [Linux PAM](http://www.linux-pam.org/Linux-PAM-html/sag-overview.html)
+- [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/intro.html)
 
 ## OS dev
 
@@ -460,6 +462,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Functional Programming](http://wiki.c2.com/?FunctionalProgramming)
 - [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
+- [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) *
 
 ## OAuth
 
@@ -480,7 +483,7 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Awesome Lists
 
-> Curated list of good resources shared on github  
+> Curated list of good resources shared on github
 
 - [Awesome Security](https://github.com/sbilly/awesome-security)
 - [Awesome Reversing](https://github.com/tylerph3/awesome-reversing)
