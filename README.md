@@ -168,7 +168,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://sakurity.com/
 - https://io.netgarage.org/
 
-### Games
+### Wargames
 
 - [Wargames](http://overthewire.org/wargames/)
 - [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
@@ -251,6 +251,8 @@ A collection of resources that I found useful and interesting across various dom
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [EFAIL](https://efail.de/)
+- [FTP: File Transfer Protocol](http://cr.yp.to/ftp.html)
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
 
@@ -319,6 +321,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Three kinds of memory leaks](https://blog.nelhage.com/post/three-kinds-of-leaks/)
 - [Linux PAM](http://www.linux-pam.org/Linux-PAM-html/sag-overview.html)
 - [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/intro.html)
+- [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) *
 
 ## OS dev
 
