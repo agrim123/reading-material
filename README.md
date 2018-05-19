@@ -344,6 +344,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Make your own build system](http://jstimpfle.de/blah/buildsystem/buildsystem.html)
 - [Malloc tutorial](https://danluu.com/malloc-tutorial/)
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
+- [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 
 ## Ruby
 
