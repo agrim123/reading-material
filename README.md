@@ -253,6 +253,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [EFAIL](https://efail.de/)
 - [FTP: File Transfer Protocol](http://cr.yp.to/ftp.html)
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
 
