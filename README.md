@@ -21,7 +21,6 @@ A collection of resources that I found useful and interesting across various dom
 - [OS Dev](#os-dev)
 - [C](#c)
 - [Ruby](#ruby)
-- [Sinatra](#sinatra)
 - [Haskell](#haskell)
 - [Go](#go)
 - [Lua](#lua)
@@ -70,6 +69,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
 - [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
 - [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
+- [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) *
 
 ### Libraries
 
@@ -95,7 +95,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Essential Image Optimization](https://images.guide/) *
-- [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) *
 - [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
 
 ## Node.js
@@ -238,6 +237,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [Cache Docs](https://www.mnot.net/cache_docs/)
+- [10 Tips for 10x Application Performance](https://www.nginx.com/blog/10-tips-for-10x-application-performance/)
 - [nginx](http://www.aosabook.org/en/nginx.html)
 
 ### Protocols
@@ -270,6 +270,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
+- [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 
 ## Git
 
@@ -338,7 +339,9 @@ A collection of resources that I found useful and interesting across various dom
 - [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/intro.html)
 - [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) *
 - [Using PAM](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules)
+- [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
 - [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
+- [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
 
 ## OS dev
 
@@ -375,11 +378,6 @@ A collection of resources that I found useful and interesting across various dom
 - [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
 - [Ruby vs. The World](https://matt.aimonetti.net/posts/2012/11/02/rubyconf-2012-ruby-vs-the-world/)
 
-## Sinatra
-
-- [Sinatra](http://www.sinatrarb.com/intro.html)
-- [Sinatra Example](https://github.com/openshift-quickstart/sinatra-example)
-
 ## Haskell
 
 - [Official Documentation](https://www.haskell.org/documentation)
@@ -408,7 +406,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Why I Love Golang](https://hackernoon.com/why-i-love-golang-90085898b4f7)
 - [Why Go](https://hackernoon.com/5-reasons-why-we-switched-from-python-to-go-4414d5f42690)
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
-- [GORM](http://jinzhu.me/gorm/)
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [The Way of the Gopher](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f)
 - [The Case For Go](https://gist.github.com/ungerik/3731476)
@@ -506,8 +503,6 @@ A collection of resources that I found useful and interesting across various dom
 - [MooTools](https://github.com/mootools/mootools-core)
 - [Developer resources for desktop apps](http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps)
 - [Will JavaScript frameworks take over Rails ?](https://www.quora.com/Will-JavaScript-frameworks-take-over-Rails)
-- [The Software Developer's Library](https://github.com/ericelliott/the-software-developers-library) - Curated by Eric Elliott
-- [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf)
 
 ## Awesome Lists
 
@@ -551,19 +546,15 @@ A collection of resources that I found useful and interesting across various dom
 - http://arjunsreedharan.org/
 - https://jvns.ca/
 - https://githubengineering.com/
-- https://blog.acolyer.org/
 - http://nullprogram.com/index/
-- http://steve-yegge.blogspot.in/
-- http://nikgrozev.com/tags/
 - https://zwischenzugs.com/
 - https://mkdev.me/en/posts
 - http://www.uliaea.ca/
 - https://blog.cloudflare.com/
 - http://jensimmons.com/writing
 - https://blog.cryptographyengineering.com
-- https://blog.filippo.io/hi/
 - http://prog21.dadgum.com/
-- https://increment.com/programming-languages/
+- https://increment.com/programming-languages/ *
 - https://blog.filippo.io/
 
 ## Good Resources
@@ -586,14 +577,10 @@ A collection of resources that I found useful and interesting across various dom
 - [Collecting All Cheat Sheets](http://overapi.com/)
 - [Explain Shell](https://explainshell.com/)
 - [Design Patterns](https://sourcemaking.com/design_patterns) *
-- [10 Tips for 10x Application Performance](https://www.nginx.com/blog/10-tips-for-10x-application-performance/)
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
 - http://openmymind.net/
-- https://www.interviewcake.com/article/python/data-structures-coding-interview
 - http://goyalankit.com/
-- http://www.geeksforgeeks.org/
-- https://www.interviewbit.com/dashboard/
 - https://www.codingforentrepreneurs.com/
 - https://www.freecodecamp.com/map
 - https://www.learnenough.com/
@@ -601,22 +588,17 @@ A collection of resources that I found useful and interesting across various dom
 - https://learncodethehardway.org/
 - https://codingsec.net/2016/04/books-artificial/
 - https://www.hackerearth.com/hackathon-handbook/
-- https://sobotics.org/
 - https://blog.rpis.ec/
 - https://libgen.pw
 
 ## More
 
-- [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 - [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
 - [NSA dump password & Message to Trump released by “TheShadowBrokers”](http://hn.premii.com/#/article/14066596)
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 - [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
-- [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
-- [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
 - [ON-LINE MAN-COMPUTER COMMUNICATION](https://pdfs.semanticscholar.org/a60a/b3654daeb20225ee0c9423448e48a786050d.pdf)
-- [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
 - [Hacker101](https://www.hacker101.com/)
 - [The three types of programmers](https://mkdev.me/en/posts/the-three-types-of-programmers)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
@@ -625,13 +607,11 @@ A collection of resources that I found useful and interesting across various dom
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
 - [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 - https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
-- https://www.codecademy.com/articles
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
-- http://www2.informatik.uni-stuttgart.de/iste/ps/Lehre/stuff/rt.script.pdf
-- http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 - https://github.com/jwasham/google-interview-university
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
+- [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf) *
 
 ## Interview Questions
 
