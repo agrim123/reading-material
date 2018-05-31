@@ -398,8 +398,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/)
-- [Concurrency Is Not Parallelism](https://vimeo.com/49718712)
-- https://talks.golang.org/2012/waza.slide
+- [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide)
 - [Building Web Apps with Go](https://github.com/astaxie/build-web-application-with-golang)
 - [MVC Framework for Go](https://github.com/revel/revel)
 - [A lightweight MVC framework](https://github.com/gernest/utron)
@@ -416,6 +415,9 @@ A collection of resources that I found useful and interesting across various dom
 - [HTTPS and Go](https://www.kaihag.com/https-and-go/)
 - [Applied Go](https://appliedgo.net/)
 - [Hello Go!](https://medium.com/@caspervonb/hello-go-3e207da92da0)
+- [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
+- [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
+- [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 
 ## Lua
 
