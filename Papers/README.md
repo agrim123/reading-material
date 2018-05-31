@@ -85,6 +85,7 @@
 
 - [Spanner: Google’s Globally Distributed Database](http://delivery.acm.org/10.1145/2500000/2491245/a8-corbett.pdf)
 - [A Call to Arms: Revisiting Database Design](https://arxiv.org/pdf/1105.6001.pdf)
+- [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
 
 ## Docker
 
@@ -95,3 +96,5 @@
 - [Back to the Future: Lisp as a Base for a Statistical Computing System](https://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf)
 - [How Professional Hackers Understand Protected Code while Performing Attack Tasks](https://pdfs.semanticscholar.org/4bd1/2a9823b55d29a0d75c9ea9c8cd08b6fdca3e.pdf)
 - [Papers We Love](https://github.com/papers-we-love)
+- [Communicating Sequential Processes](https://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
+- [Hints on programming language design](http://flint.cs.yale.edu/cs428/doc/HintsPL.pdf)
