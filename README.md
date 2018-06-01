@@ -271,6 +271,7 @@ A collection of resources that I found useful and interesting across various dom
 - http://toolboard.org/web-development-and-design-tools/
 - http://youbroketheinternet.org/
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
+- [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 
 ## Git
 
@@ -342,6 +343,7 @@ A collection of resources that I found useful and interesting across various dom
 - [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
 - [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
 - [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
+- [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 
 ## OS dev
 
