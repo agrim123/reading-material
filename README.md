@@ -262,7 +262,6 @@ A collection of resources that I found useful and interesting across various dom
 - [A New Internet for Decentralized Apps](https://blockstack.org/)
 - [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
 - [Let 'localhost' be localhost](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04)
-- [Why privacy is important, and having "nothing to hide" is irrelevant](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
 - [Nothing To Hide](https://vimeo.com/189016018)**
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
@@ -374,7 +373,6 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Ruby Programming](https://www.theodinproject.com/courses/ruby-programming)
 - [* in Ruby](http://goyalankit.com/blog/the-star-in-ruby)
-- [Rake](https://github.com/ruby/rake)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
 - [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
 - [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
@@ -400,7 +398,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/)
-- [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide)
+- [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) *
 - [Building Web Apps with Go](https://github.com/astaxie/build-web-application-with-golang)
 - [MVC Framework for Go](https://github.com/revel/revel)
 - [A lightweight MVC framework](https://github.com/gernest/utron)
@@ -543,6 +541,7 @@ A collection of resources that I found useful and interesting across various dom
 - [fd: A simple, fast and user-friendly alternative to find](https://github.com/sharkdp/fd)
 - [SCM breeze: Adds numbered shortcuts to the output git status, and much more ](https://github.com/scmbreeze/scm_breeze)
 - [Pass: Simple password manager using gpg and ordinary unix directories](https://www.passwordstore.org/)
+- [peerflix](https://github.com/mafintosh/peerflix)
 
 ## Blogs
 
@@ -555,7 +554,6 @@ A collection of resources that I found useful and interesting across various dom
 - https://mkdev.me/en/posts
 - http://www.uliaea.ca/
 - https://blog.cloudflare.com/
-- http://jensimmons.com/writing
 - https://blog.cryptographyengineering.com
 - http://prog21.dadgum.com/
 - https://increment.com/programming-languages/ *
@@ -591,7 +589,6 @@ A collection of resources that I found useful and interesting across various dom
 - https://learnxinyminutes.com/
 - https://learncodethehardway.org/
 - https://codingsec.net/2016/04/books-artificial/
-- https://www.hackerearth.com/hackathon-handbook/
 - https://blog.rpis.ec/
 - https://libgen.pw
 
