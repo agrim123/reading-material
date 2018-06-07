@@ -343,6 +343,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
 - [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
 - [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
+- [Writing a simple rootkit for linux](https://w3.cs.jmu.edu/kirkpams/550-f12/papers/linux_rootkit.pdf)
 
 ## OS dev
 
@@ -558,6 +559,7 @@ A collection of resources that I found useful and interesting across various dom
 - http://prog21.dadgum.com/
 - https://increment.com/programming-languages/ *
 - https://blog.filippo.io/
+- https://notes.shichao.io/
 
 ## Good Resources
 
