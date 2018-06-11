@@ -21,6 +21,7 @@
 ## Cryptography
 
 - [Security, Authentication, and Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf)
+- [A Future-Adaptable Password Scheme](https://www.usenix.org/legacy/events/usenix99/provos/provos.pdf)
 
 ## BlockChain
 
@@ -98,3 +99,5 @@
 - [Papers We Love](https://github.com/papers-we-love)
 - [Communicating Sequential Processes](https://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
 - [Hints on programming language design](http://flint.cs.yale.edu/cs428/doc/HintsPL.pdf)
+- [The Fault Tolerance of Botnets](https://www.dropbox.com/s/rvk6ybbl85zce00/The%20Fault%20Tolerance%20of%20Botnets.pdf?dl=0)
+- [Paradigm Shift in Software Development](https://www.dropbox.com/s/db2tbau0jdv9pym/Paradigm%20Exercise.pdf?dl=0)
