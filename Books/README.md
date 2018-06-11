@@ -58,6 +58,7 @@
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 - [The Way to Go: A Thorough Introduction to the Go Programming Language](http://www.amazon.in/Way-Go-Thorough-Introduction-Programming/dp/1469769166)
 - [Learning Go](https://www.miek.nl/go/)
+- [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 - [Go Books](https://github.com/dariubs/GoBooks)
 
 ## Haskell
