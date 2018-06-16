@@ -70,6 +70,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
 - [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
 - [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) *
+- [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
 
 ### Libraries
 
@@ -139,6 +140,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Buffer Overflow Attack](http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf)
 - [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
 - [What is a DDoS Attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
+- [SSRF](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
 
 ### Tools
 
@@ -169,6 +171,10 @@ A collection of resources that I found useful and interesting across various dom
 - [Shodan](https://www.shodan.io/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
 - [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) *
+- [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
+- [Use bcrypt](https://codahale.com/how-to-safely-store-a-password/)
+- [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
+- [A SELF-STUDY COURSE IN BLOCK-CIPHER CRYPTANALYSIS](https://www.schneier.com/academic/paperfiles/paper-self-study.pdf)
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://www.vulnhub.com/
 - https://sakurity.com/
@@ -248,6 +254,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
 - [FTP: File Transfer Protocol](http://cr.yp.to/ftp.html)
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
+- [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 
 ### Random
 
@@ -344,6 +351,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
 - [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 - [Writing a simple rootkit for linux](https://w3.cs.jmu.edu/kirkpams/550-f12/papers/linux_rootkit.pdf)
+- [Do sudo and .profile/.bashrc enable trivial privilege escalation?](https://security.stackexchange.com/questions/187502/do-sudo-and-profile-bashrc-enable-trivial-privilege-escalation)
+- [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) *
 
 ## OS dev
 
@@ -387,6 +396,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Huge list of videos, talks, courses for Haskell programming language](https://github.com/hzlmn/haskell-must-watch)
 - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 - [Some Notes About How I Write Haskell](https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell)
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 
 ## Go
 
@@ -447,6 +457,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Five ways to paginate in Postgres, from the basic to the exotic](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
 - [One Giant Leap For SQL: MySQL 8.0 Released](https://modern-sql.com/blog/2018-04/mysql-8.0) *
 - [MongoDB is to NoSQL like MySQL to SQL — in the most harmful way](https://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql)
+- [https://eng.uber.com/mysql-migration/](Why Uber Engineering Switched from Postgres to MySQL)
 
 ## BlockChain, Bitcoin
 
@@ -583,6 +594,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Design Patterns](https://sourcemaking.com/design_patterns) *
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
+- [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
 - http://openmymind.net/
 - http://goyalankit.com/
 - https://www.codingforentrepreneurs.com/
@@ -615,6 +627,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://github.com/jwasham/google-interview-university
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
 - [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf) *
+- [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
 ## Interview Questions
 
