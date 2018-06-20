@@ -71,6 +71,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
 - [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) *
 - [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
+- [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) *
 
 ### Libraries
 
