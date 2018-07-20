@@ -279,6 +279,7 @@ A collection of resources that I found useful and interesting across various dom
 - http://youbroketheinternet.org/
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 - [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
+- [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 
 ## Git
 
@@ -430,6 +431,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 - [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
+- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 
 ## Lua
 
