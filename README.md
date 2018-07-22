@@ -355,6 +355,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Writing a simple rootkit for linux](https://w3.cs.jmu.edu/kirkpams/550-f12/papers/linux_rootkit.pdf)
 - [Do sudo and .profile/.bashrc enable trivial privilege escalation?](https://security.stackexchange.com/questions/187502/do-sudo-and-profile-bashrc-enable-trivial-privilege-escalation)
 - [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) *
+- [In UNIX Everything is a File](https://ph7spot.com/musings/in-unix-everything-is-a-file)
 
 ## OS dev
 
