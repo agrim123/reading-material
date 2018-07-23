@@ -256,6 +256,7 @@ A collection of resources that I found useful and interesting across various dom
 - [FTP: File Transfer Protocol](http://cr.yp.to/ftp.html)
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 - [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
+- [Building Protocols with HTTP](https://tools.ietf.org/html/draft-ietf-httpbis-bcp56bis-06)
 
 ### Random
 
@@ -280,6 +281,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 - [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
+- [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
 
 ## Git
 
@@ -356,6 +358,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Do sudo and .profile/.bashrc enable trivial privilege escalation?](https://security.stackexchange.com/questions/187502/do-sudo-and-profile-bashrc-enable-trivial-privilege-escalation)
 - [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) *
 - [In UNIX Everything is a File](https://ph7spot.com/musings/in-unix-everything-is-a-file)
+- [Linux file descriptors](https://monometric.io/article/file-descriptors-in-2018)
 
 ## OS dev
 
