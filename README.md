@@ -359,6 +359,7 @@ A collection of resources that I found useful and interesting across various dom
 - [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) *
 - [In UNIX Everything is a File](https://ph7spot.com/musings/in-unix-everything-is-a-file)
 - [Linux file descriptors](https://monometric.io/article/file-descriptors-in-2018)
+- [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
 
 ## OS dev
 
