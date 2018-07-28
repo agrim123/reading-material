@@ -257,6 +257,7 @@ A collection of resources that I found useful and interesting across various dom
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 - [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 - [Building Protocols with HTTP](https://tools.ietf.org/html/draft-ietf-httpbis-bcp56bis-06)
+- [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
 
 ### Random
 
