@@ -11,7 +11,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Elm](#elm)
 - [Security](#security)
 - [Crypto](#crypto)
-- [Rails](#rails)
 - [Python](#python)
 - [Docker](#docker)
 - [Algorithms](#algorithms)
@@ -21,6 +20,7 @@ A collection of resources that I found useful and interesting across various dom
 - [OS Dev](#os-dev)
 - [C](#c)
 - [Ruby](#ruby)
+- [Rails](#rails)
 - [Haskell](#haskell)
 - [Go](#go)
 - [Lua](#lua)
@@ -31,9 +31,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Tor](#tor)
 - [Functional Programming](#functional-programming)
 - [OAuth](#oauth)
+- [Regex](#regex)
 - [Docs](#docs)
 - [Awesome Lists](#awesome-lists)
-- [Regex](#regex)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [Good Resources](#good-resources)
 - [More](#more)
@@ -59,7 +59,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 - [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected#29422900)
 - [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
 - [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
 - [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) **
 - [What is the Difference Between Class and Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
@@ -98,6 +97,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Essential Image Optimization](https://images.guide/) *
 - [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
+- [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
 
 ## Node.js
 
@@ -153,7 +153,6 @@ A collection of resources that I found useful and interesting across various dom
 
 - [CTF Wiki](https://github.com/lucyoa/ctf-wiki)
 - [Sites to practice InfoSec Skills](https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/)
-- [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
 - [CVE-2016-4484: Cryptsetup Initrd root Shell](http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html)
 - [Securing API with OAuth 2.0](https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/)
 - [CTF Field Guide](https://trailofbits.github.io/ctf)
@@ -180,6 +179,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://www.vulnhub.com/
 - https://sakurity.com/
 - https://io.netgarage.org/
+- [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
 
 ### Games
 
@@ -196,15 +196,6 @@ A collection of resources that I found useful and interesting across various dom
 - [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
 - https://cryptoservices.github.io/archives/
 - https://www.tutorialspoint.com/cryptography/index.htm
-
-## Rails
-
-- [RoR Tutorial](https://www.railstutorial.org/book/frontmatter)
-- [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read)
-- [APIs on Rails](http://apionrails.icaFlialabs.com/)
-- [Predicting Test Failures](http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html)
-- [XSS and Rails](http://blog.bigbinary.com/2012/05/10/xss-and-rails.html)
-- [What makes Rails a framework worth learning in 2017](https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017)
 
 ## Python
 
@@ -395,6 +386,14 @@ A collection of resources that I found useful and interesting across various dom
 - [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
 - [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
 - [Ruby vs. The World](https://matt.aimonetti.net/posts/2012/11/02/rubyconf-2012-ruby-vs-the-world/)
+- [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read)
+
+## Rails
+
+- [RoR Tutorial](https://www.railstutorial.org/book/frontmatter)
+- [APIs on Rails](http://apionrails.icaFlialabs.com/)
+- [Predicting Test Failures](http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html)
+- [XSS and Rails](http://blog.bigbinary.com/2012/05/10/xss-and-rails.html)
 
 ## Haskell
 
@@ -466,7 +465,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Five ways to paginate in Postgres, from the basic to the exotic](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
 - [One Giant Leap For SQL: MySQL 8.0 Released](https://modern-sql.com/blog/2018-04/mysql-8.0) *
 - [MongoDB is to NoSQL like MySQL to SQL — in the most harmful way](https://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql)
-- [https://eng.uber.com/mysql-migration/](Why Uber Engineering Switched from Postgres to MySQL)
+- [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
 
 ## BlockChain, Bitcoin
 
@@ -519,13 +518,18 @@ A collection of resources that I found useful and interesting across various dom
 - [OAuth 2 Client](http://oauth2-client.thephpleague.com/)
 - [OAuth 2.0 Server](http://oauth2.thephpleague.com/)
 
+## Regex
+
+- [Learn Regex](http://regexr.com/)
+- [Interactive Exercise](https://regexone.com/)
+- https://github.com/zeeshanu/learn-regex
+
 ## Docs
 
 - [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
 - [Weapon of Mass Destruction](http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html)
 - [MooTools](https://github.com/mootools/mootools-core)
 - [Developer resources for desktop apps](http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps)
-- [Will JavaScript frameworks take over Rails ?](https://www.quora.com/Will-JavaScript-frameworks-take-over-Rails)
 
 ## Awesome Lists
 
@@ -548,12 +552,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
 - https://github.com/Hack-with-Github/Awesome-Hacking
-
-## Regex
-
-- [Learn Regex](http://regexr.com/)
-- [Interactive Exercise](https://regexone.com/)
-- https://github.com/zeeshanu/learn-regex
 
 ## Useful Command Line Tools
 
@@ -604,6 +602,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
 - [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
+- [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
 - http://openmymind.net/
 - http://goyalankit.com/
 - https://www.codingforentrepreneurs.com/
