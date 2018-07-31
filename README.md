@@ -24,6 +24,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Haskell](#haskell)
 - [Go](#go)
 - [Lua](#lua)
+- [Rust](#rust)
 - [Elixir](#elixir)
 - [Database](#database)
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
@@ -60,7 +61,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected#29422900)
 - [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
-- [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) **
+- [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) :sparkles::sparkles:
 - [What is the Difference Between Class and Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 - [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
@@ -68,9 +69,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
 - [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
 - [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
-- [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) *
+- [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) :sparkles:
 - [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
-- [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) *
+- [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :sparkles:
 
 ### Libraries
 
@@ -95,7 +96,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Object-oriented Programming in vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
-- [Essential Image Optimization](https://images.guide/) *
+- [Essential Image Optimization](https://images.guide/) :sparkles:
 - [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
 - [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
 
@@ -170,7 +171,7 @@ A collection of resources that I found useful and interesting across various dom
 - [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 - [Shodan](https://www.shodan.io/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
-- [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) *
+- [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) :sparkles:
 - [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
 - [Use bcrypt](https://codahale.com/how-to-safely-store-a-password/)
 - [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
@@ -259,11 +260,11 @@ A collection of resources that I found useful and interesting across various dom
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
-- [What happens when...](https://github.com/alex/what-happens-when)
+- [What happens when...](https://github.com/alex/what-happens-when) :sparkles::sparkles:
 - [A New Internet for Decentralized Apps](https://blockstack.org/)
 - [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
 - [Let 'localhost' be localhost](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04)
-- [Nothing To Hide](https://vimeo.com/189016018)**
+- [Nothing To Hide](https://vimeo.com/189016018):sparkles::sparkles:
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [EFAIL](https://efail.de/)
@@ -327,12 +328,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
 - [Creating a bash completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
 - [Linux Firewall Tutorial: IPTables Tables, Chains, Rules Fundamentals](http://www.thegeekstuff.com/2011/01/iptables-fundamentals/)
-- [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/)**
+- [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/):sparkles::sparkles:
 - [rm -rf remains](https://lambdaops.com/rm-rf-remains/)
 - [Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
 - [Security Tips for Linux Servers](https://www.tecmint.com/linux-server-hardening-security-tips/)
-- [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) **
+- [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) :sparkles::sparkles:
 - [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 - [How does the system shutdown of a linux kernel work internally?](https://unix.stackexchange.com/a/122667/)
 - [Documentation extracted from the Linux kernel](https://www.kernel.org/doc/)
@@ -340,7 +341,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Three kinds of memory leaks](https://blog.nelhage.com/post/three-kinds-of-leaks/)
 - [Linux PAM](http://www.linux-pam.org/Linux-PAM-html)
 - [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/intro.html)
-- [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) *
+- [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) :sparkles:
 - [Using PAM](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules)
 - [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
 - [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
@@ -348,7 +349,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 - [Writing a simple rootkit for linux](https://w3.cs.jmu.edu/kirkpams/550-f12/papers/linux_rootkit.pdf)
 - [Do sudo and .profile/.bashrc enable trivial privilege escalation?](https://security.stackexchange.com/questions/187502/do-sudo-and-profile-bashrc-enable-trivial-privilege-escalation)
-- [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) *
+- [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) :sparkles:
 - [In UNIX Everything is a File](https://ph7spot.com/musings/in-unix-everything-is-a-file)
 - [Linux file descriptors](https://monometric.io/article/file-descriptors-in-2018)
 - [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
@@ -365,7 +366,7 @@ A collection of resources that I found useful and interesting across various dom
 ## C
 
 - [Lightweight HTTP Server](http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11)
-- [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly) **
+- [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly) :sparkles::sparkles:
 - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
 - [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
 - [Smashing The Stack For Fun And Profit](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
@@ -376,12 +377,13 @@ A collection of resources that I found useful and interesting across various dom
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
 - [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 - [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
-- [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html) **
+- [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html) :sparkles::sparkles:
+- [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 
 ## Ruby
 
 - [Ruby Programming](https://www.theodinproject.com/courses/ruby-programming)
-- [* in Ruby](http://goyalankit.com/blog/the-star-in-ruby)
+- [:sparkles: in Ruby](http://goyalankit.com/blog/the-star-in-ruby)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
 - [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
 - [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
@@ -399,7 +401,7 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Official Documentation](https://www.haskell.org/documentation)
 - [How to learn Haskell](https://github.com/bitemyapp/learnhaskell)
-- [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/) *
+- [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/) :sparkles:
 - [Huge list of videos, talks, courses for Haskell programming language](https://github.com/hzlmn/haskell-must-watch)
 - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 - [Some Notes About How I Write Haskell](https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell)
@@ -416,7 +418,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/)
-- [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) *
+- [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) :sparkles:
 - [Building Web Apps with Go](https://github.com/astaxie/build-web-application-with-golang)
 - [MVC Framework for Go](https://github.com/revel/revel)
 - [A lightweight MVC framework](https://github.com/gernest/utron)
@@ -445,6 +447,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 - [Creation of a complete game with Lua and LÖVE](https://github.com/SSYGEN/blog/issues/30)
 
+## Rust
+
+- [Learning Rust](https://learning-rust.github.io/docs/a3.hello_world.html)
+- [Rust Intro](https://stevedonovan.github.io/rust-gentle-intro/1-basics.html)
+- [Rust Docs](https://doc.rust-lang.org/rust-by-example/std/result.html)
+
 ## Elixir
 
 - [Joy of Elixir](https://joyofelixir.com/toc.html)
@@ -463,7 +471,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
 - [Build a simple database](https://cstack.github.io/db_tutorial/)
 - [Five ways to paginate in Postgres, from the basic to the exotic](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
-- [One Giant Leap For SQL: MySQL 8.0 Released](https://modern-sql.com/blog/2018-04/mysql-8.0) *
+- [One Giant Leap For SQL: MySQL 8.0 Released](https://modern-sql.com/blog/2018-04/mysql-8.0) :sparkles:
 - [MongoDB is to NoSQL like MySQL to SQL — in the most harmful way](https://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql)
 - [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
 
@@ -509,7 +517,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Functional Programming](http://wiki.c2.com/?FunctionalProgramming)
 - [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
-- [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) *
+- [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) :sparkles:
 
 ## OAuth
 
@@ -575,7 +583,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://blog.cloudflare.com/
 - https://blog.cryptographyengineering.com
 - http://prog21.dadgum.com/
-- https://increment.com/programming-languages/ *
+- https://increment.com/programming-languages/ :sparkles:
 - https://blog.filippo.io/
 - https://notes.shichao.io/
 
@@ -598,7 +606,7 @@ A collection of resources that I found useful and interesting across various dom
 - [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
 - [Collecting All Cheat Sheets](http://overapi.com/)
 - [Explain Shell](https://explainshell.com/)
-- [Design Patterns](https://sourcemaking.com/design_patterns) *
+- [Design Patterns](https://sourcemaking.com/design_patterns) :sparkles:
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
 - [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
