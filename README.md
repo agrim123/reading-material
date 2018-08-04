@@ -238,6 +238,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Cache Docs](https://www.mnot.net/cache_docs/)
 - [10 Tips for 10x Application Performance](https://www.nginx.com/blog/10-tips-for-10x-application-performance/)
 - [nginx](http://www.aosabook.org/en/nginx.html)
+- [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
 
 ### Protocols
 
@@ -275,6 +276,7 @@ A collection of resources that I found useful and interesting across various dom
 - [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 - [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
+- [DHCP configuration file /etc/dhcp/dhcpd.conf explained](https://www.thegeekdiary.com/dhcp-configuration-file-etcdhcpdhcpd-conf-explained/)
 
 ## Git
 
@@ -353,6 +355,8 @@ A collection of resources that I found useful and interesting across various dom
 - [In UNIX Everything is a File](https://ph7spot.com/musings/in-unix-everything-is-a-file)
 - [Linux file descriptors](https://monometric.io/article/file-descriptors-in-2018)
 - [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
+- [SSH Agent Vulnerabilities](http://www-arc.com/sara/cve/SSH_vulnerabilities.html)
+- [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
 
 ## OS dev
 
