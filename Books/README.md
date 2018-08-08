@@ -80,6 +80,7 @@
 ## OS Dev
 
 - [Os Dev Books](http://wiki.osdev.org/Books#TCP.2FIP)
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Git
 

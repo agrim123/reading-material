@@ -357,6 +357,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
 - [SSH Agent Vulnerabilities](http://www-arc.com/sara/cve/SSH_vulnerabilities.html)
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
+- [UNIX Syscalls](https://john-millikin.com/unix-syscalls)
 
 ## OS dev
 
