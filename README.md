@@ -54,6 +54,7 @@ A collection of resources that I found useful and interesting across various dom
 
 ### Advanced Concepts
 
+- [this in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 - [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
 - [Advanced JS](http://htmldog.com/guides/javascript/advanced/)
@@ -239,6 +240,7 @@ A collection of resources that I found useful and interesting across various dom
 - [10 Tips for 10x Application Performance](https://www.nginx.com/blog/10-tips-for-10x-application-performance/)
 - [nginx](http://www.aosabook.org/en/nginx.html)
 - [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
+- [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
 
 ### Protocols
 
@@ -277,6 +279,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 - [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
 - [DHCP configuration file /etc/dhcp/dhcpd.conf explained](https://www.thegeekdiary.com/dhcp-configuration-file-etcdhcpdhcpd-conf-explained/)
+- http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache
 
 ## Git
 
@@ -358,6 +361,9 @@ A collection of resources that I found useful and interesting across various dom
 - [SSH Agent Vulnerabilities](http://www-arc.com/sara/cve/SSH_vulnerabilities.html)
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
 - [UNIX Syscalls](https://john-millikin.com/unix-syscalls)
+- [How statically linked programs run on Linux](https://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux) :sparkles:
+- [How to break out of a chroot() jail](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)
+- [File Types in Linux](https://linuxconfig.org/identifying-file-types-in-linux)
 
 ## OS dev
 
