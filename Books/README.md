@@ -6,7 +6,7 @@
 - [Bitcoin](#bitcoin)
 - [Security](#security)
 - [Lisp](#lisp)
-- [Internet](#internet)
+- [Networking](#networking)
 - [Ruby](#ruby)
 - [Go](#go)
 - [Haskell](#haskell)
@@ -40,12 +40,16 @@
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 - [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
 
-## Internet
+## Networking
 
 - [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
 - [CGI Programming 101](http://www.cgi101.com/)
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 - [Site Reliability Engineering](https://landing.google.com/sre/book.html)
+- [Understanding IP Addressing: Everything You Ever Wanted To Know](http://pages.di.unipi.it/ricci/501302.pdf)
+- [A. Tanenbaum - Bottom Up Networking](https://montcs.bloomu.edu/Readings/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf)
+- [Kurose and Ross - Top Down Networking](http://amzn.in/d/3S7Wd4s)
+- [TCP/IP Illustrated](http://www.cs.newpaltz.edu/~pletcha/NET_PY/the-protocols-tcp-ip-illustrated-volume-1.9780201633467.24290.pdf)
 
 ## Ruby
 
