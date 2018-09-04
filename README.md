@@ -41,6 +41,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Books](/Books)
 - [Papers](/Papers)
 - [Courses](/Courses)
+- [Topics](/Topics)
 
 ## Javascript
 
