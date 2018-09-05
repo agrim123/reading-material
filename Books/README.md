@@ -118,6 +118,8 @@
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 - [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
 - [How to Design Programs, Second Edition](http://www.htdp.org/2018-01-06/Book/index.html)
+- [An Illustrated Book of Bad Arguments](https://bookofbadarguments.com/)
+- [An illustrated introduction to computational thinking](https://bookofbadchoices.com/index.html#page/3)
 
 ## List
 
