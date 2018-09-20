@@ -48,7 +48,6 @@ A collection of resources that I found useful and interesting across various dom
 ### Beginning JS
 
 - [Want to learn JS in 2015](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo)
-- [How it feels to learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 - [Learning JS in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 - [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
 - [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
@@ -77,8 +76,6 @@ A collection of resources that I found useful and interesting across various dom
 
 ### Libraries
 
-- [Relay](https://facebook.github.io/relay/)
-- [Vivus](http://maxwellito.github.io/vivus/)
 - [Ramda JS](http://ramdajs.com/)
 - [Learning Rx](http://reactivex.io/learnrx/)
 - [WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
@@ -105,8 +102,6 @@ A collection of resources that I found useful and interesting across various dom
 ## Node.js
 
 - [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
-- [Writing NodeJS Tests](https://github.com/nodejs/node/blob/master/doc/guides/writing-tests.md)
-- [Testing NodeJS](http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/#.WMHDGyF97Qo)
 - [Making NodeJS App faster](https://engineering.gosquared.com/making-dashboard-faster)
 
 ## Webpack
