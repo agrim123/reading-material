@@ -649,6 +649,8 @@ A collection of resources that I found useful and interesting across various dom
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
 - https://github.com/jwasham/google-interview-university
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
+- https://www.7pace.com/blog/become-a-better-programmer-skills-development
+- https://ovid.github.io/articles/death-by-database.html
 - [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf) *
 - [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
