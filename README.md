@@ -360,6 +360,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How statically linked programs run on Linux](https://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux) :sparkles:
 - [How to break out of a chroot() jail](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)
 - [File Types in Linux](https://linuxconfig.org/identifying-file-types-in-linux)
+- [Killing processes that don't want to die](https://lwn.net/Articles/754980/)
 
 ## OS dev
 
@@ -653,6 +654,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://ovid.github.io/articles/death-by-database.html
 - [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf) *
 - [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+- [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
 
 ## Interview Questions
 
