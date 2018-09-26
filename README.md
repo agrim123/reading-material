@@ -447,6 +447,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
+- [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 
 ## Lua
 
