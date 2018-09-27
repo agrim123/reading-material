@@ -361,6 +361,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How to break out of a chroot() jail](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)
 - [File Types in Linux](https://linuxconfig.org/identifying-file-types-in-linux)
 - [Killing processes that don't want to die](https://lwn.net/Articles/754980/)
+- [Threads and fork(): think twice before mixing them](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
 
 ## OS dev
 
