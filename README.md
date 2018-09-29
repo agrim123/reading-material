@@ -98,6 +98,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Essential Image Optimization](https://images.guide/) :sparkles:
 - [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
 - [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
+- [In defense of Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
 
 ## Node.js
 
