@@ -636,11 +636,9 @@ A collection of resources that I found useful and interesting across various dom
 ## More
 
 - [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
-- [NSA dump password & Message to Trump released by “TheShadowBrokers”](http://hn.premii.com/#/article/14066596)
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 - [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
-- [ON-LINE MAN-COMPUTER COMMUNICATION](https://pdfs.semanticscholar.org/a60a/b3654daeb20225ee0c9423448e48a786050d.pdf)
 - [Hacker101](https://www.hacker101.com/)
 - [The three types of programmers](https://mkdev.me/en/posts/the-three-types-of-programmers)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
