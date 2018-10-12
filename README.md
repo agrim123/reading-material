@@ -270,13 +270,14 @@ A collection of resources that I found useful and interesting across various dom
 - [EFAIL](https://efail.de/)
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - http://toolboard.org/web-development-and-design-tools/
-- http://youbroketheinternet.org/
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 - [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 - [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
 - [DHCP configuration file /etc/dhcp/dhcpd.conf explained](https://www.thegeekdiary.com/dhcp-configuration-file-etcdhcpdhcpd-conf-explained/)
-- http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache
+- [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+- [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
+- [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 
 ## Git
 
@@ -372,6 +373,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Kernel development](http://www.osdever.net/bkerndev/Docs/intro.htm)
 - [Computer architecture for network engineers](https://github.com/lukego/blog/issues/18)
 - [Building a simple Kernel](http://wiki.osdev.org/Bare_Bones)
+- [How Does an Intel Processor Boot?](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
 
 ## C
 

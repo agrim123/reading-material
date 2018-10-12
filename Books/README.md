@@ -50,6 +50,8 @@
 - [A. Tanenbaum - Bottom Up Networking](https://montcs.bloomu.edu/Readings/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf)
 - [Kurose and Ross - Top Down Networking](http://amzn.in/d/3S7Wd4s)
 - [TCP/IP Illustrated](http://www.cs.newpaltz.edu/~pletcha/NET_PY/the-protocols-tcp-ip-illustrated-volume-1.9780201633467.24290.pdf)
+- [High Performance Browser Networking](https://hpbn.co/)
+- [Computer Networking : Principles, Protocols and Practice, 2nd edition](http://cnp3book.info.ucl.ac.be/2nd/html/)
 
 ## Ruby
 
