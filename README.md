@@ -250,6 +250,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 - [Building Protocols with HTTP](https://tools.ietf.org/html/draft-ietf-httpbis-bcp56bis-06)
 - [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
+- [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 
 ### Random
 
