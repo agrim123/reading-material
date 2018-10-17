@@ -223,6 +223,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Know Thy Complexities!](http://bigocheatsheet.com/#)
 - [Understanding Dijkstra's Algorithm](https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/)
 - [How to think in graphs](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
+- [Ask HN: What's your favorite elegant/beautiful algorithm?](https://news.ycombinator.com/item?id=18236396)
 
 ## Internet
 
