@@ -280,6 +280,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
 - [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
+- [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 
 ## Git
 
@@ -410,6 +411,7 @@ A collection of resources that I found useful and interesting across various dom
 - [APIs on Rails](http://apionrails.icaFlialabs.com/)
 - [Predicting Test Failures](http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html)
 - [XSS and Rails](http://blog.bigbinary.com/2012/05/10/xss-and-rails.html)
+- [RailsConf 2014 - All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 
 ## Haskell
 

@@ -77,6 +77,7 @@
 - [Breaking the Browser Language Barrier](http://plasma-umass.github.io/doppio-demo/paper.pdf)
 - [Defending Internet Freedom through Decentralization Back to the Future?](http://dci.mit.edu/assets/papers/decentralized_web.pdf)
 - [The anatomy of a large-scale hypertextual Web search engine](http://zoo.cs.yale.edu/classes/cs426/2012/bib/brin98theanatomy.pdf)
+- [The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
 
 ## Go
 
