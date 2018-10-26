@@ -301,7 +301,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Commit Often, Perfect Later, Publish Once: Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
 - [Rebase with history -- implementation ideas](http://softwareswirl.blogspot.in/2009/08/rebase-with-history-implementation.html)
 - [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
-- [GIT introduction – .git directory](http://slidedeck.io/mikhail-vnukov/git-basics)
+- [Git introduction – .git directory](http://slidedeck.io/mikhail-vnukov/git-basics)
+- [Git](http://aosabook.org/en/git.html)
 
 ## Linux
 
@@ -662,6 +663,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf) *
 - [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
+- [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
 
 ## Interview Questions
 
