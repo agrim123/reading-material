@@ -47,7 +47,6 @@ A collection of resources that I found useful and interesting across various dom
 
 ### Beginning JS
 
-- [Want to learn JS in 2015](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.z0bsq15vo)
 - [Learning JS in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 - [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
 - [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
@@ -58,7 +57,6 @@ A collection of resources that I found useful and interesting across various dom
 - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 - [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
 - [Advanced JS](http://htmldog.com/guides/javascript/advanced/)
-- [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 - [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected#29422900)
 - [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
@@ -82,7 +80,6 @@ A collection of resources that I found useful and interesting across various dom
 
 ### Random
 
-- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 - [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
@@ -104,6 +101,8 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 - [Making NodeJS App faster](https://engineering.gosquared.com/making-dashboard-faster)
+- [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
+- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 
 ## Webpack
 
@@ -194,7 +193,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Implementing AES](http://blog.nindalf.com/implementing-aes/)
 - [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
 - https://cryptoservices.github.io/archives/
-- https://www.tutorialspoint.com/cryptography/index.htm
 
 ## Python
 
@@ -217,7 +215,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
 - [Essentials of Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 - [Heap Algorithm](http://ruslanledesma.com/2016/06/17/why-does-heap-work.html)
-- [Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 - https://github.com/coells/100days
 - [Linked lists are still hard](https://brennan.io/2017/04/21/linked-lists-are-still-hard/)
 - [Know Thy Complexities!](http://bigocheatsheet.com/#)
@@ -281,6 +278,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
+- [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
 
 ## Git
 
@@ -368,6 +366,7 @@ A collection of resources that I found useful and interesting across various dom
 - [File Types in Linux](https://linuxconfig.org/identifying-file-types-in-linux)
 - [Killing processes that don't want to die](https://lwn.net/Articles/754980/)
 - [Threads and fork(): think twice before mixing them](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
+- [Explain Shell](https://explainshell.com/)
 
 ## OS dev
 
@@ -623,16 +622,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
 - [Collecting All Cheat Sheets](http://overapi.com/)
-- [Explain Shell](https://explainshell.com/)
 - [Design Patterns](https://sourcemaking.com/design_patterns) :sparkles:
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
-- [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
 - [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
 - http://openmymind.net/
 - http://goyalankit.com/
-- https://www.codingforentrepreneurs.com/
-- https://www.freecodecamp.com/map
 - https://www.learnenough.com/
 - https://learnxinyminutes.com/
 - https://learncodethehardway.org/
