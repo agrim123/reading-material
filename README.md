@@ -456,6 +456,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
+- [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)\
 
 ## Lua
 
