@@ -146,6 +146,7 @@ A collection of resources that I found useful and interesting across various dom
 - [John the Ripper](http://www.openwall.com/john/pro/linux/)
 - [HAProxy](http://www.haproxy.org/)
 - [Hashcat](https://hashcat.net/hashcat/)
+- [XSStrike](https://github.com/s0md3v/XSStrike)
 
 ### Guides
 
@@ -201,6 +202,7 @@ A collection of resources that I found useful and interesting across various dom
 - [PDF Diff](https://github.com/JoshData/pdf-diff)
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) :sparkles:
 
 ## Docker
 
@@ -249,6 +251,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Building Protocols with HTTP](https://tools.ietf.org/html/draft-ietf-httpbis-bcp56bis-06)
 - [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+- [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 
 ### Random
 
