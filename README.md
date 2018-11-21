@@ -282,6 +282,7 @@ A collection of resources that I found useful and interesting across various dom
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
+- [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks ](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
 
 ## Git
 
@@ -606,6 +607,7 @@ A collection of resources that I found useful and interesting across various dom
 - http://prog21.dadgum.com/
 - https://increment.com/programming-languages/ :sparkles:
 - https://blog.filippo.io/
+- http://highscalability.com
 - https://notes.shichao.io/
 
 ## Good Resources
@@ -663,6 +665,7 @@ A collection of resources that I found useful and interesting across various dom
 - [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
 - [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
+- [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/)
 
 ## Interview Questions
 
