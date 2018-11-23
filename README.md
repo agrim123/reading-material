@@ -140,6 +140,8 @@ A collection of resources that I found useful and interesting across various dom
 - [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
 - [What is a DDoS Attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
 - [SSRF](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
+- [All you need to know about SYN floods](https://blog.dubbelboer.com/2012/04/09/syn-cookies.html)
+- ["kernel: Possible SYN flooding on port X. Sending cookies" is logged](https://access.redhat.com/solutions/30453)
 
 ### Tools
 
@@ -179,6 +181,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://sakurity.com/
 - https://io.netgarage.org/
 - [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
+- [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
 
 ### Games
 
@@ -296,7 +299,7 @@ A collection of resources that I found useful and interesting across various dom
 - [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o)
 - [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0)
 - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
-- [Git Submodules](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
+- [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
 - [Advanced Git Commands You Will Actually Use](https://stosb.com/blog/advanced-git-commands-you-will-actually-use/)
 - [Git Memo](http://git-memo.mzlinux.org/en/latest/index.html)
@@ -521,6 +524,8 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit)
 - [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0)
+- [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.iamwire.com/2016/10/the-10-algorithms-machine-learning-engineers-need-to-know/142223)
+
 
 ## Tor
 
@@ -609,6 +614,9 @@ A collection of resources that I found useful and interesting across various dom
 - https://blog.filippo.io/
 - http://highscalability.com
 - https://notes.shichao.io/
+- https://blog.acolyer.org/
+- https://lwn.net/
+- http://www.jimmyr.com/
 
 ## Good Resources
 
@@ -666,6 +674,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
 - [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
 - [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/)
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 
 ## Interview Questions
 
