@@ -226,6 +226,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Understanding Dijkstra's Algorithm](https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/)
 - [How to think in graphs](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 - [Ask HN: What's your favorite elegant/beautiful algorithm?](https://news.ycombinator.com/item?id=18236396)
+- [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
 
 ## Internet
 
@@ -617,6 +618,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://blog.acolyer.org/
 - https://lwn.net/
 - http://www.jimmyr.com/
+- https://queue.acm.org/
 
 ## Good Resources
 
