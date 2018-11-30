@@ -227,6 +227,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How to think in graphs](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 - [Ask HN: What's your favorite elegant/beautiful algorithm?](https://news.ycombinator.com/item?id=18236396)
 - [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
+ -[The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
 
 ## Internet
 
@@ -286,7 +287,9 @@ A collection of resources that I found useful and interesting across various dom
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
-- [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks ](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
+- [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
+- https://www.nginx.com/resources/glossary/load-balancing/
+- https://www.nginx.com/blog/introduction-to-microservices/
 
 ## Git
 
@@ -375,6 +378,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Killing processes that don't want to die](https://lwn.net/Articles/754980/)
 - [Threads and fork(): think twice before mixing them](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
 - [Explain Shell](https://explainshell.com/)
+- [Loading and ptrace'ing a process on Linux](http://system.joekain.com/2015/06/08/debugger.html)
 
 ## OS dev
 
@@ -464,7 +468,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
-- [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)\
+- [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
+- [Five things that make Go faster](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 
 ## Lua
 
@@ -619,6 +624,8 @@ A collection of resources that I found useful and interesting across various dom
 - https://lwn.net/
 - http://www.jimmyr.com/
 - https://queue.acm.org/
+- https://blog.aqnichol.com/
+- https://www.linuxjournal.com/
 
 ## Good Resources
 
@@ -676,7 +683,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
 - [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
 - [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/)
-- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :sparkles:
 
 ## Interview Questions
 
