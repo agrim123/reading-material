@@ -290,6 +290,8 @@ A collection of resources that I found useful and interesting across various dom
 - [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
 - https://www.nginx.com/resources/glossary/load-balancing/
 - https://www.nginx.com/blog/introduction-to-microservices/
+- [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+- [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
 
 ## Git
 
@@ -626,6 +628,9 @@ A collection of resources that I found useful and interesting across various dom
 - https://queue.acm.org/
 - https://blog.aqnichol.com/
 - https://www.linuxjournal.com/
+- https://www.the-paper-trail.org/
+- https://overreacted.io/
+- https://robertheaton.com/
 
 ## Good Resources
 
