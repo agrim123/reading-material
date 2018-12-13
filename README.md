@@ -292,6 +292,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://www.nginx.com/blog/introduction-to-microservices/
 - [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 - [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
+- [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
 
 ## Git
 
@@ -631,6 +632,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://www.the-paper-trail.org/
 - https://overreacted.io/
 - https://robertheaton.com/
+- https://www.mnot.net/blog/
 
 ## Good Resources
 
