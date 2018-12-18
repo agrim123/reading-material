@@ -142,6 +142,7 @@ A collection of resources that I found useful and interesting across various dom
 - [SSRF](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
 - [All you need to know about SYN floods](https://blog.dubbelboer.com/2012/04/09/syn-cookies.html)
 - ["kernel: Possible SYN flooding on port X. Sending cookies" is logged](https://access.redhat.com/solutions/30453)
+- [SSL Strip for Newbies](https://avicoder.me/2016/02/22/SSLstrip-for-newbies/)
 
 ### Tools
 
