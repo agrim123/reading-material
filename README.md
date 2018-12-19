@@ -183,6 +183,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://io.netgarage.org/
 - [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
 - [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
+- [GOT and PLT for pwning](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
 
 ### Games
 
@@ -634,6 +635,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://overreacted.io/
 - https://robertheaton.com/
 - https://www.mnot.net/blog/
+- https://systemoverlord.com/
 
 ## Good Resources
 
