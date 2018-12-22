@@ -178,8 +178,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
 - [A SELF-STUDY COURSE IN BLOCK-CIPHER CRYPTANALYSIS](https://www.schneier.com/academic/paperfiles/paper-self-study.pdf)
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
-- https://www.vulnhub.com/
-- https://sakurity.com/
 - https://io.netgarage.org/
 - [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
 - [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
@@ -198,7 +196,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Alice & Bob : A History of The World’s Most Famous Cryptographic Couple](http://cryptocouple.com/)
 - [Implementing AES](http://blog.nindalf.com/implementing-aes/)
 - [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
-- https://cryptoservices.github.io/archives/
+- [Cryptography Services Archives](https://cryptoservices.github.io/archives/)
 
 ## Python
 
@@ -222,7 +220,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
 - [Essentials of Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 - [Heap Algorithm](http://ruslanledesma.com/2016/06/17/why-does-heap-work.html)
-- https://github.com/coells/100days
 - [Linked lists are still hard](https://brennan.io/2017/04/21/linked-lists-are-still-hard/)
 - [Know Thy Complexities!](http://bigocheatsheet.com/#)
 - [Understanding Dijkstra's Algorithm](https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/)
@@ -290,8 +287,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
 - [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
-- https://www.nginx.com/resources/glossary/load-balancing/
-- https://www.nginx.com/blog/introduction-to-microservices/
+- [What Is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
+- [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 - [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 - [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
@@ -636,6 +633,15 @@ A collection of resources that I found useful and interesting across various dom
 - https://robertheaton.com/
 - https://www.mnot.net/blog/
 - https://systemoverlord.com/
+- http://openmymind.net/
+- http://goyalankit.com/
+- https://www.learnenough.com/
+- https://learnxinyminutes.com/
+- https://learncodethehardway.org/
+- https://codingsec.net/2016/04/books-artificial/
+- https://blog.rpis.ec/
+- https://www.vulnhub.com/
+- https://sakurity.com/
 
 ## Good Resources
 
@@ -659,14 +665,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
 - [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-- http://openmymind.net/
-- http://goyalankit.com/
-- https://www.learnenough.com/
-- https://learnxinyminutes.com/
-- https://learncodethehardway.org/
-- https://codingsec.net/2016/04/books-artificial/
-- https://blog.rpis.ec/
-- https://libgen.pw
 
 ## More
 
@@ -681,19 +679,16 @@ A collection of resources that I found useful and interesting across various dom
 - [If Programming languages were harry potter characters](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
 - [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
-- https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml
-- http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
-- https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html
-- https://github.com/jwasham/google-interview-university
-- https://blog.ycombinator.com/ycs-2017-summer-reading-list/
-- https://www.7pace.com/blog/become-a-better-programmer-skills-development
-- https://ovid.github.io/articles/death-by-database.html
+- [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
+- [Death By Database](https://ovid.github.io/articles/death-by-database.html)
 - [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf) *
 - [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
 - [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
 - [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/)
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :sparkles:
+- http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
+- https://blog.ycombinator.com/ycs-2017-summer-reading-list/
 
 ## Interview Questions
 
@@ -701,3 +696,4 @@ A collection of resources that I found useful and interesting across various dom
 - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- https://github.com/jwasham/google-interview-university
