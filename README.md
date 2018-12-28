@@ -292,6 +292,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 - [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
+- [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
 
 ## Git
 
@@ -381,6 +382,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Threads and fork(): think twice before mixing them](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
 - [Explain Shell](https://explainshell.com/)
 - [Loading and ptrace'ing a process on Linux](http://system.joekain.com/2015/06/08/debugger.html)
+- [SSH Examples, Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
 
 ## OS dev
 

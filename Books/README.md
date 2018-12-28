@@ -66,6 +66,7 @@
 - [Learning Go](https://www.miek.nl/go/)
 - [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 - [Go Books](https://github.com/dariubs/GoBooks)
+- [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 
 ## Haskell
 
