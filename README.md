@@ -182,6 +182,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
 - [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
 - [GOT and PLT for pwning](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
+- [A Look at The Draft for JWT Best Current Practices](https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/)
 
 ### Games
 
