@@ -11,3 +11,5 @@
 - [CS155: Computer and Network Security](https://courseware.stanford.edu/pg/courses/lectures/349991)
 - [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/)
 - [CS143: Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
+- [CNIT 127: Exploit Development](https://samsclass.info/127/127_S18.shtml)
+- [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)

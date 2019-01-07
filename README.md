@@ -143,6 +143,13 @@ A collection of resources that I found useful and interesting across various dom
 - [All you need to know about SYN floods](https://blog.dubbelboer.com/2012/04/09/syn-cookies.html)
 - ["kernel: Possible SYN flooding on port X. Sending cookies" is logged](https://access.redhat.com/solutions/30453)
 - [SSL Strip for Newbies](https://avicoder.me/2016/02/22/SSLstrip-for-newbies/)
+- [Cold Boot Attack](https://en.wikipedia.org/wiki/Cold_boot_attack)
+- [Heartbleed Bug](http://heartbleed.com/)
+- [Shellshock](https://en.wikipedia.org/wiki/Shellshock_%28software_bug%29)
+- [Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware))
+- [POODLE](https://en.wikipedia.org/wiki/POODLE)
+- [Format string attack](https://www.owasp.org/index.php/Format_string_attack)
+- [Off-by-one error](https://en.wikipedia.org/wiki/Off-by-one_error)
 
 ### Tools
 
@@ -183,11 +190,25 @@ A collection of resources that I found useful and interesting across various dom
 - [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
 - [GOT and PLT for pwning](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
 - [A Look at The Draft for JWT Best Current Practices](https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/)
+- [GOT and PLT for pwning.](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
+- [LiveOverflow Binary Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+- https://rpis.ec/
 
-### Games
+### Games and CTF's
 
 - [Wargames](http://overthewire.org/wargames/)
 - [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
+- https://io.netgarage.org/
+- https://picoctf.com/
+- http://pwnable.kr
+- http://gracker.org/
+- https://cryptopals.com/
+- https://ringzer0ctf.com/challenges
+- [Overthewire: Bandit](http://overthewire.org/wargames/bandit/)
+- [Overthewire: Natas](http://overthewire.org/wargames/natas/)
+- http://websec.fr/
+- https://365.csaw.io/
+- https://crackmes.one/
 
 ## Crypto
 
@@ -198,6 +219,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Implementing AES](http://blog.nindalf.com/implementing-aes/)
 - [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
 - [Cryptography Services Archives](https://cryptoservices.github.io/archives/)
+- [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
 
 ## Python
 
@@ -243,6 +265,8 @@ A collection of resources that I found useful and interesting across various dom
 - [nginx](http://www.aosabook.org/en/nginx.html)
 - [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
 - [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
+- [13 Apache Web Server Security and Hardening Tips](https://www.tecmint.com/apache-security-tips/)
+- [Nginx Web Server Security and Hardening Guide](https://geekflare.com/nginx-webserver-security-hardening-guide/)
 
 ### Protocols
 
@@ -562,8 +586,7 @@ A collection of resources that I found useful and interesting across various dom
 
 - [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 - [The OAuth 2.0 Authorization Framework RFC](https://tools.ietf.org/html/rfc6749)
-- [OAuth 2 Client](http://oauth2-client.thephpleague.com/)
-- [OAuth 2.0 Server](http://oauth2.thephpleague.com/)
+- [OAuth 2 Client](http://oauth2-client.thephpleague.com/) and [OAuth 2.0 Server](http://oauth2.thephpleague.com/)
 
 ## Regex
 
