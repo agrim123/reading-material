@@ -96,6 +96,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
 - [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
 - [In defense of Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
+- [Douglas Crockford: Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) :tv:
 
 ## Node.js
 
@@ -114,9 +115,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [Redux](https://redux.js.org/)
-- [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
+- [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) :tv:
 - [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-- [Paul O Shannessy - Building React From Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg)
+- [Paul O Shannessy - Building React From Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg) :tv:
 - [React Implementation Notes](https://reactjs.org/docs/implementation-notes.html)
 - [React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 
@@ -191,7 +192,7 @@ A collection of resources that I found useful and interesting across various dom
 - [GOT and PLT for pwning](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
 - [A Look at The Draft for JWT Best Current Practices](https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/)
 - [GOT and PLT for pwning.](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
-- [LiveOverflow Binary Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+- [LiveOverflow Binary Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) :tv:
 - https://rpis.ec/
 
 ### Games and CTF's
@@ -328,8 +329,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Oh shit, git!](http://ohshitgit.com/)
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 - [YOU'RE USING GIT WRONG](https://dpc.pw/blog/2017/08/youre-using-git-wrong/)
-- [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o)
-- [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0)
+- [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o) :tv:
+- [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0) :tv:
 - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
 - [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
@@ -365,7 +366,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Interactive Vim Tutorial](http://www.openvim.com/)
 - [Vim Galore](https://github.com/mhinz/vim-galore)
 - [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
-- [Explaining Dirty COW local root exploit - CVE-2016-5195](https://www.youtube.com/watch?v=kEsshExn7aE)
+- [Explaining Dirty COW local root exploit - CVE-2016-5195](https://www.youtube.com/watch?v=kEsshExn7aE) :tv:
 - [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
 - [Vim Cheatsheet](http://vimsheet.com/)
 - [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
@@ -453,7 +454,7 @@ A collection of resources that I found useful and interesting across various dom
 - [APIs on Rails](http://apionrails.icaFlialabs.com/)
 - [Predicting Test Failures](http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html)
 - [XSS and Rails](http://blog.bigbinary.com/2012/05/10/xss-and-rails.html)
-- [RailsConf 2014 - All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+- [RailsConf 2014 - All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE) :tv:
 
 ## Haskell
 
@@ -471,7 +472,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Go by example](https://gobyexample.com/)
 - [RESTful routing in Go](http://openmymind.net/RESTful-routing-in-Go/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
-- [Go Programming Video](https://www.youtube.com/watch?v=CF9S4QZuV30)
+- [Go Programming Video](https://www.youtube.com/watch?v=CF9S4QZuV30) :tv:
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
@@ -541,7 +542,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Bitcoin Resources](https://bitcoin.org/en/resources)
 - [Blockchain: the revolution we’re not ready for](https://medium.freecodecamp.org/blockchain-is-our-first-22nd-century-technology-d4ad45fca2ce)
 - [How Bitcoin Transaction Works](http://imgur.com/a/wvO9H)
-- [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+- [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) :tv:
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Bitcoin, Ethereum, Blockchain, Tokens, ICOs](https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06)
 - [Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
@@ -569,7 +570,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/topic.html)
 - [Onion Router](https://www.onion-router.net/)
 - [Handling bot attacks against a Tor hidden service](http://hn.premii.com/#/article/14280084)
-- [Anti-Censorship & Transparency - Roger Dingledine](https://www.youtube.com/watch?v=35l56KjTCb8)
+- [Anti-Censorship & Transparency - Roger Dingledine](https://www.youtube.com/watch?v=35l56KjTCb8) :tv:
 
 ## Functional Programming
 
@@ -683,7 +684,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Lecture Search](https://www.findlectures.com/)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
-- [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI)
+- [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
 - [Return to the Source](http://www.cipht.net/2017/10/05/why-read-code.html)
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
@@ -713,7 +714,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
 - [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
 - [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/)
-- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :sparkles:
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
 
