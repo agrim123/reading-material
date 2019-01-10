@@ -468,39 +468,48 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Go
 
+### Pilot run
+
 - [Tour of Go](https://tour.golang.org/)
 - [Go by example](https://gobyexample.com/)
-- [RESTful routing in Go](http://openmymind.net/RESTful-routing-in-Go/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Programming Video](https://www.youtube.com/watch?v=CF9S4QZuV30) :tv:
-- [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
-- [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
+- [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
+- [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
+- [Hello Go!](https://medium.com/@caspervonb/hello-go-3e207da92da0)
+
+### Advanced Concepts
+
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/)
 - [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) :sparkles:
+- [The Case For Go](https://gist.github.com/ungerik/3731476)
+- [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
+- [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
+- [Applied Go](https://appliedgo.net/)
+- [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
+- [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
+- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
+- [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
+- [Five things that make Go faster](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
+
+### Web Dev in Go
+
+- [RESTful routing in Go](http://openmymind.net/RESTful-routing-in-Go/)
 - [Building Web Apps with Go](https://github.com/astaxie/build-web-application-with-golang)
 - [MVC Framework for Go](https://github.com/revel/revel)
 - [A lightweight MVC framework](https://github.com/gernest/utron)
-- [Why I Love Golang](https://hackernoon.com/why-i-love-golang-90085898b4f7)
-- [Why Go](https://hackernoon.com/5-reasons-why-we-switched-from-python-to-go-4414d5f42690)
-- [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
-- [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
-- [The Way of the Gopher](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f)
-- [The Case For Go](https://gist.github.com/ungerik/3731476)
-- [TCP/IP Networking in Go](https://appliedgo.net/networking/)
-- [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
-- [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 - [Learning Go as a Node.js Developer](https://nemethgergely.com/learning-go-as-a-nodejs-developer/)
-- [HTTPS and Go](https://www.kaihag.com/https-and-go/)
-- [Applied Go](https://appliedgo.net/)
-- [Hello Go!](https://medium.com/@caspervonb/hello-go-3e207da92da0)
-- [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
-- [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
-- [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
-- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
-- [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
+- [The Way of the Gopher](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f)
+
+### Networking with Go
+
 - [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
-- [Five things that make Go faster](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
+- [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
+- [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
+- [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
+- [TCP/IP Networking in Go](https://appliedgo.net/networking/)
+- [HTTPS and Go](https://www.kaihag.com/https-and-go/)
 
 ## Lua
 
