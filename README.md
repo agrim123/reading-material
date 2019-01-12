@@ -17,6 +17,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Internet](#internet)
 - [Git](#git)
 - [Linux](#linux)
+    - [Kernel](#kernel)
+    - [PAM](#pam)
+    - [SSH](#ssh)
+    - [Security](#linux-security)
+    - [Vim](#vim)
+    - [Bash](#bash)
 - [OS Dev](#os-dev)
 - [C](#c)
 - [Ruby](#ruby)
@@ -36,7 +42,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Docs](#docs)
 - [Awesome Lists](#awesome-lists)
 - [Useful Command Line Tools](#useful-command-line-tools)
-- [Good Resources](#good-resources)
 - [More](#more)
 - [Books](/Books)
 - [Papers](/Papers)
@@ -71,6 +76,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) :sparkles:
 - [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
 - [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :sparkles:
+- https://github.com/tc39
 
 ### Libraries
 
@@ -158,6 +164,10 @@ A collection of resources that I found useful and interesting across various dom
 - [HAProxy](http://www.haproxy.org/)
 - [Hashcat](https://hashcat.net/hashcat/)
 - [XSStrike](https://github.com/s0md3v/XSStrike)
+- [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
+    - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+    - [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
+    - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
 
 ### Guides
 
@@ -193,6 +203,8 @@ A collection of resources that I found useful and interesting across various dom
 - [A Look at The Draft for JWT Best Current Practices](https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/)
 - [GOT and PLT for pwning.](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
 - [LiveOverflow Binary Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) :tv:
+- [Advanced web security topics](https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/)
+- [Don't publicly expose .git](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/) :sparkles:
 - https://rpis.ec/
 
 ### Games and CTF's
@@ -237,7 +249,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Understanding Docker Internals](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
 - [Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
 - [Docker Curriculum](https://prakhar.me/docker-curriculum/)
-- [Docker Cheatsheet#F](https://github.com/eon01/DockerCheatSheet)
+- [Docker Cheatsheet](https://github.com/eon01/DockerCheatSheet)
 
 ## Algorithms
 
@@ -319,10 +331,10 @@ A collection of resources that I found useful and interesting across various dom
 - [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
 - [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
+- [How does Team Viewer establish a Remote Desktop Connection?](https://security.stackexchange.com/questions/14280/how-does-team-viewer-establish-a-remote-desktop-connection)
 
 ## Git
 
-- [Don't publicly expose .git](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/)
 - [Making Commit in past](http://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past)
 - [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Git in 2016](https://hackernoon.com/git-in-2016-fad96ae22a15)
@@ -344,75 +356,95 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Linux
 
-- [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
-- [Kernel Map](http://www.makelinux.net/kernel_map/)
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [Dirty Cow](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
-- [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
-- [Bash Guide](https://github.com/Idnan/bash-guide)
-- [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-- [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
-- [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
-- [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html)
-- [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
 - [chmod Tutorial](http://catcode.com/teachmod/)
 - [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 - [File System Hierarchy](https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png?utm_content=buffer0b84a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
-- [UNIX / LINUX Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 - [Linux tracing systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 - [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
 - [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
-- [Interactive Vim Tutorial](http://www.openvim.com/)
-- [Vim Galore](https://github.com/mhinz/vim-galore)
 - [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
-- [Explaining Dirty COW local root exploit - CVE-2016-5195](https://www.youtube.com/watch?v=kEsshExn7aE) :tv:
+- [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
 - [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
-- [Vim Cheatsheet](http://vimsheet.com/)
-- [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
-- [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
-- [Creating a bash completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
-- [Linux Firewall Tutorial: IPTables Tables, Chains, Rules Fundamentals](http://www.thegeekstuff.com/2011/01/iptables-fundamentals/)
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/):sparkles::sparkles:
 - [rm -rf remains](https://lambdaops.com/rm-rf-remains/)
-- [Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- [Linux Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
-- [Security Tips for Linux Servers](https://www.tecmint.com/linux-server-hardening-security-tips/)
 - [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) :sparkles::sparkles:
-- [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 - [How does the system shutdown of a linux kernel work internally?](https://unix.stackexchange.com/a/122667/)
-- [Documentation extracted from the Linux kernel](https://www.kernel.org/doc/)
-- [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
-- [Three kinds of memory leaks](https://blog.nelhage.com/post/three-kinds-of-leaks/)
-- [Linux PAM](http://www.linux-pam.org/Linux-PAM-html)
 - [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/intro.html)
 - [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) :sparkles:
-- [Using PAM](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules)
 - [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
 - [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
-- [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
 - [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
-- [Writing a simple rootkit for linux](https://w3.cs.jmu.edu/kirkpams/550-f12/papers/linux_rootkit.pdf)
-- [Do sudo and .profile/.bashrc enable trivial privilege escalation?](https://security.stackexchange.com/questions/187502/do-sudo-and-profile-bashrc-enable-trivial-privilege-escalation)
 - [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) :sparkles:
 - [In UNIX Everything is a File](https://ph7spot.com/musings/in-unix-everything-is-a-file)
 - [Linux file descriptors](https://monometric.io/article/file-descriptors-in-2018)
-- [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
-- [SSH Agent Vulnerabilities](http://www-arc.com/sara/cve/SSH_vulnerabilities.html)
-- [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
 - [UNIX Syscalls](https://john-millikin.com/unix-syscalls)
 - [How statically linked programs run on Linux](https://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux) :sparkles:
-- [How to break out of a chroot() jail](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)
 - [File Types in Linux](https://linuxconfig.org/identifying-file-types-in-linux)
+- [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/?fbclid=IwAR10_Mr9b--R5KaentRh_W2d4gyDcHt70jbIOuF_FYDXy8NwyFRN9qkQC10)
 - [Killing processes that don't want to die](https://lwn.net/Articles/754980/)
 - [Threads and fork(): think twice before mixing them](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
-- [Explain Shell](https://explainshell.com/)
 - [Loading and ptrace'ing a process on Linux](http://system.joekain.com/2015/06/08/debugger.html)
+- [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
+
+### Kernel
+
+- [Kernel Map](http://www.makelinux.net/kernel_map/)
+- [Documentation extracted from the Linux kernel](https://www.kernel.org/doc/)
+- [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
+- [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
+- [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+
+### PAM
+
+- [Linux PAM](http://www.linux-pam.org/Linux-PAM-html)
+- [Using PAM](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules)
+
+### SSH
+
+- [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
+- [SSH Agent Vulnerabilities](http://www-arc.com/sara/cve/SSH_vulnerabilities.html)
+- [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
 - [SSH Examples, Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
+
+### Linux Security
+
+- [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
+- [Dirty Cow](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
+- [Explaining Dirty COW local root exploit - CVE-2016-5195](https://www.youtube.com/watch?v=kEsshExn7aE) :tv:
+- [Linux Firewall Tutorial: IPTables Tables, Chains, Rules Fundamentals](http://www.thegeekstuff.com/2011/01/iptables-fundamentals/)
+- [Security Tips for Linux Servers](https://www.tecmint.com/linux-server-hardening-security-tips/)
+- [Three kinds of memory leaks](https://blog.nelhage.com/post/three-kinds-of-leaks/)
+- [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
+- [Writing a simple rootkit for linux](https://w3.cs.jmu.edu/kirkpams/550-f12/papers/linux_rootkit.pdf)
+- [Do sudo and .profile/.bashrc enable trivial privilege escalation?](https://security.stackexchange.com/questions/187502/do-sudo-and-profile-bashrc-enable-trivial-privilege-escalation)
+- [How to break out of a chroot() jail](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)
+- [Securing Debian Manual](https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html#contents)
+
+### Vim
+
+- [Interactive Vim Tutorial](http://www.openvim.com/)
+- [Vim Galore](https://github.com/mhinz/vim-galore)
+- [Vim Cheatsheet](http://vimsheet.com/)
+
+### Bash
+
+- [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
+- [Bash Guide](https://github.com/Idnan/bash-guide)
+- [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+- [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
+- [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html)
+- [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
+- [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
+- [Creating a bash completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
+- [Explain Shell](https://explainshell.com/)
+- [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 
 ## OS dev
 
-- [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 - [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
 - [Kernel 101 – Let’s write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 - [Kernel development](http://www.osdever.net/bkerndev/Docs/intro.htm)
@@ -425,8 +457,6 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Lightweight HTTP Server](http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11)
 - [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly) :sparkles::sparkles:
-- [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
-- [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
 - [Smashing The Stack For Fun And Profit](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
 - [GNU Make: A Program for Directing Recompilation](http://web.mit.edu/gnu/doc/html/make_toc.html)
 - [NCURSES Programming HOWTO](http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
@@ -436,7 +466,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 - [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
 - [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html) :sparkles::sparkles:
-- [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 
 ## Ruby
 
@@ -492,6 +521,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 - [Five things that make Go faster](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
+- [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
 
 ### Web Dev in Go
 
@@ -523,6 +553,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Learning Rust](https://learning-rust.github.io/docs/a3.hello_world.html)
 - [Rust Intro](https://stevedonovan.github.io/rust-gentle-intro/1-basics.html)
 - [Rust Docs](https://doc.rust-lang.org/rust-by-example/std/result.html)
+- [Why is Rust difficult?](https://vorner.github.io/difficult.html)
 
 ## Elixir
 
@@ -532,6 +563,7 @@ A collection of resources that I found useful and interesting across various dom
 ## Lisp
 
 - [Land of Lisp](http://landoflisp.com/)
+- [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 
 ## Database
 
@@ -680,7 +712,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://www.vulnhub.com/
 - https://sakurity.com/
 
-## Good Resources
+## More
 
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
@@ -690,10 +722,8 @@ A collection of resources that I found useful and interesting across various dom
 - [The language of choice](https://codewords.recurse.com/issues/four/the-language-of-choice)
 - [Learn Anything](https://learn-anything.xyz/)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Lecture Search](https://www.findlectures.com/)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
-- [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
 - [Return to the Source](http://www.cipht.net/2017/10/05/why-read-code.html)
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
@@ -702,9 +732,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
 - [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-
-## More
-
 - [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 - [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
@@ -722,8 +749,10 @@ A collection of resources that I found useful and interesting across various dom
 - [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
 - [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
-- [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/)
+- [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
+- [top Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
+- https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
 
