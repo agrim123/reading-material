@@ -5,16 +5,27 @@ A collection of resources that I found useful and interesting across various dom
 ## Contents
 
 - [Javascript](#javascript)
-- [Node.js](#nodejs)
-- [Webpack](#webpack)
-- [React, Redux](#react-redux)
+    - [Pilot Run](#pilot-run)
+    - [Advanced Concepts](#advanced-concepts)
+    - [Libraries](#libraries)
+    - [Random](#random)
+    - [Node.js](#nodejs)
+    - [Webpack](#webpack)
+    - [React, Redux](#react-redux)
 - [Elm](#elm)
 - [Security](#security)
-- [Crypto](#crypto)
+    - [Attacks](#attacks)
+    - [Tools](#tools)
+    - [Guides](#guides)
+    - [Games and CTF's](#games-and-ctfs)
+    - [Crypto](#crypto)
 - [Python](#python)
 - [Docker](#docker)
 - [Algorithms](#algorithms)
 - [Internet](#internet)
+    - [Webservers](#webservers)
+    - [Protocols](#protocols)
+    - [Random](#random)
 - [Git](#git)
 - [Linux](#linux)
     - [Kernel](#kernel)
@@ -50,7 +61,7 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Javascript
 
-### Beginning JS
+### Pilot Run
 
 - [Learning JS in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 - [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
@@ -104,19 +115,19 @@ A collection of resources that I found useful and interesting across various dom
 - [In defense of Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
 - [Douglas Crockford: Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) :tv:
 
-## Node.js
+### Node.js
 
 - [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 - [Making NodeJS App faster](https://engineering.gosquared.com/making-dashboard-faster)
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 - [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 
-## Webpack
+### Webpack
 
 - [Diving Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/)
 - [Webpack How-to](https://github.com/petehunt/webpack-howto)
 
-## React, Redux
+### React, Redux
 
 - [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
@@ -223,7 +234,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://365.csaw.io/
 - https://crackmes.one/
 
-## Crypto
+### Crypto
 
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
 - [Crypto Challenges](http://cryptopals.com/)
