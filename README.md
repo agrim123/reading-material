@@ -364,6 +364,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
 - [Git introduction – .git directory](http://slidedeck.io/mikhail-vnukov/git-basics)
 - [Git](http://aosabook.org/en/git.html)
+- [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 
 ## Linux
 
