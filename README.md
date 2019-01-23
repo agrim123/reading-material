@@ -365,6 +365,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Git introduction – .git directory](http://slidedeck.io/mikhail-vnukov/git-basics)
 - [Git](http://aosabook.org/en/git.html)
 - [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
+- [Git Immersion](http://gitimmersion.com/index.html)
 
 ## Linux
 
@@ -401,6 +402,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Threads and fork(): think twice before mixing them](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
 - [Loading and ptrace'ing a process on Linux](http://system.joekain.com/2015/06/08/debugger.html)
 - [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
+- [Why does APT not use HTTPS?](https://whydoesaptnotusehttps.com/)
 
 ### Kernel
 
