@@ -114,6 +114,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
 - [In defense of Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
 - [Douglas Crockford: Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) :tv:
+- [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
 
 ### Node.js
 
@@ -217,6 +218,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Advanced web security topics](https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/)
 - [Don't publicly expose .git](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/) :sparkles:
 - https://rpis.ec/
+- [The State Of Software Security In 2019](https://noncombatant.org/2019/01/06/state-of-security-2019/) :lock:
 
 ### Games and CTF's
 
@@ -343,6 +345,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
 - [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
 - [How does Team Viewer establish a Remote Desktop Connection?](https://security.stackexchange.com/questions/14280/how-does-team-viewer-establish-a-remote-desktop-connection)
+- [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
+- [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols) :sparkles:
 
 ## Git
 
@@ -366,6 +370,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Git](http://aosabook.org/en/git.html)
 - [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 - [Git Immersion](http://gitimmersion.com/index.html)
+- [Git Compression of Blobs and Packfiles.](https://gist.github.com/matthewmccullough/2695758)
+- [Why do Git/Mercurial repositories use less space?](https://softwareengineering.stackexchange.com/questions/148434/why-do-git-mercurial-repositories-use-less-space/148498#148498)
 
 ## Linux
 
@@ -725,6 +731,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://blog.rpis.ec/
 - https://www.vulnhub.com/
 - https://sakurity.com/
+- https://blog.jessfraz.com/
 
 ## More
 
