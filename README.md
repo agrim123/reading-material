@@ -42,15 +42,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Go](#go)
 - [Lua](#lua)
 - [Rust](#rust)
-- [Elixir](#elixir)
 - [Database](#database)
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
-- [Machine Learning](#machine-learning)
 - [Tor](#tor)
 - [Functional Programming](#functional-programming)
 - [OAuth](#oauth)
 - [Regex](#regex)
-- [Docs](#docs)
 - [Awesome Lists](#awesome-lists)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
@@ -222,16 +219,16 @@ A collection of resources that I found useful and interesting across various dom
 
 ### Games and CTF's
 
-- [Wargames](http://overthewire.org/wargames/)
 - [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
+- [Overthewire: Bandit](http://overthewire.org/wargames/bandit/)
+- [Overthewire: Natas](http://overthewire.org/wargames/natas/)
+- [Crypto Challenges](http://cryptopals.com/)
 - https://io.netgarage.org/
 - https://picoctf.com/
-- http://pwnable.kr
+- https://pwnable.kr
 - http://gracker.org/
 - https://cryptopals.com/
 - https://ringzer0ctf.com/challenges
-- [Overthewire: Bandit](http://overthewire.org/wargames/bandit/)
-- [Overthewire: Natas](http://overthewire.org/wargames/natas/)
 - http://websec.fr/
 - https://365.csaw.io/
 - https://crackmes.one/
@@ -239,7 +236,6 @@ A collection of resources that I found useful and interesting across various dom
 ### Crypto
 
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
-- [Crypto Challenges](http://cryptopals.com/)
 - [So, You Want To Learn To Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
 - [Alice & Bob : A History of The World’s Most Famous Cryptographic Couple](http://cryptocouple.com/)
 - [Implementing AES](http://blog.nindalf.com/implementing-aes/)
@@ -251,8 +247,6 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Python Memory Management](http://deeplearning.net/software/theano/tutorial/python-memory-management.html)
 - [Making Photos Smaller](https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html)
-- [PDF Diff](https://github.com/JoshData/pdf-diff)
-- [The Python Language Reference](https://docs.python.org/3/reference/index.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) :sparkles:
 
@@ -282,7 +276,6 @@ A collection of resources that I found useful and interesting across various dom
 ### Webservers
 
 - [Apache vs Nginx](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
-- [Nginx Web Server Security Hardening](http://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/)
 - [Secure Nginx with SSL Certificate](http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/)
 - [Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)
 - [The C10K problem](http://www.kegel.com/c10k.html)
@@ -291,12 +284,11 @@ A collection of resources that I found useful and interesting across various dom
 - [nginx](http://www.aosabook.org/en/nginx.html)
 - [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
 - [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
-- [13 Apache Web Server Security and Hardening Tips](https://www.tecmint.com/apache-security-tips/)
-- [Nginx Web Server Security and Hardening Guide](https://geekflare.com/nginx-webserver-security-hardening-guide/)
 
 ### Protocols
 
 - [IPFS](https://ipfs.io/)
+- [Paper review. IPFS: Content addressed, versioned, P2P file system](https://muratbuffalo.blogspot.in/2018/02/paper-review-ipfs-content-addressed.html)
 - [HTTP](https://www.jmarshall.com/easy/http/)
 - [Analysis of HTTP Performance](https://www.isi.edu/lsam/publications/http-perf/)
 - [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
@@ -310,23 +302,18 @@ A collection of resources that I found useful and interesting across various dom
 
 ### Random
 
-- [Locust](http://docs.locust.io/)
 - [Web Bloat](https://danluu.com/web-bloat/)
 - [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
-- [Paper review. IPFS: Content addressed, versioned, P2P file system](https://muratbuffalo.blogspot.in/2018/02/paper-review-ipfs-content-addressed.html)
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
 - [What happens when...](https://github.com/alex/what-happens-when) :sparkles::sparkles:
-- [A New Internet for Decentralized Apps](https://blockstack.org/)
 - [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
 - [Let 'localhost' be localhost](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04)
-- [Nothing To Hide](https://vimeo.com/189016018):sparkles::sparkles:
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [EFAIL](https://efail.de/)
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
-- http://toolboard.org/web-development-and-design-tools/
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 - [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
@@ -352,7 +339,6 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Making Commit in past](http://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past)
 - [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
-- [Git in 2016](https://hackernoon.com/git-in-2016-fad96ae22a15)
 - [Oh shit, git!](http://ohshitgit.com/)
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 - [YOU'RE USING GIT WRONG](https://dpc.pw/blog/2017/08/youre-using-git-wrong/)
@@ -367,7 +353,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Rebase with history -- implementation ideas](http://softwareswirl.blogspot.in/2009/08/rebase-with-history-implementation.html)
 - [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
 - [Git introduction – .git directory](http://slidedeck.io/mikhail-vnukov/git-basics)
-- [Git](http://aosabook.org/en/git.html)
 - [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [Git Compression of Blobs and Packfiles.](https://gist.github.com/matthewmccullough/2695758)
@@ -378,7 +363,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [chmod Tutorial](http://catcode.com/teachmod/)
 - [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
-- [File System Hierarchy](https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png?utm_content=buffer0b84a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+- [File System Hierarchy](https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png)
 - [Linux tracing systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 - [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
 - [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
@@ -392,7 +377,6 @@ A collection of resources that I found useful and interesting across various dom
 - [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
 - [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) :sparkles::sparkles:
 - [How does the system shutdown of a linux kernel work internally?](https://unix.stackexchange.com/a/122667/)
-- [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/intro.html)
 - [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) :sparkles:
 - [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
 - [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
@@ -409,6 +393,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Loading and ptrace'ing a process on Linux](http://system.joekain.com/2015/06/08/debugger.html)
 - [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 - [Why does APT not use HTTPS?](https://whydoesaptnotusehttps.com/)
+- [Systemd as tragedy](https://lwn.net/SubscriberLink/777595/a71362cc65b1c271/)
 
 ### Kernel
 
@@ -453,11 +438,8 @@ A collection of resources that I found useful and interesting across various dom
 ### Bash
 
 - [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
-- [Bash Guide](https://github.com/Idnan/bash-guide)
-- [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 - [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
 - [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html)
-- [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
 - [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
 - [Creating a bash completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
 - [Explain Shell](https://explainshell.com/)
@@ -575,11 +557,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Rust Docs](https://doc.rust-lang.org/rust-by-example/std/result.html)
 - [Why is Rust difficult?](https://vorner.github.io/difficult.html)
 
-## Elixir
-
-- [Joy of Elixir](https://joyofelixir.com/toc.html)
-- [Elixir School](https://elixirschool.com/en/)
-
 ## Lisp
 
 - [Land of Lisp](http://landoflisp.com/)
@@ -618,13 +595,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Is CPU mining even worth the Ether?](https://ethereum.stackexchange.com/questions/2325/is-cpu-mining-even-worth-the-ether)
 - [Nativecoin - build your own crypto-currency](https://lhartikk.github.io/)
 
-## Machine Learning
-
-- [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit)
-- [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.vciwkiyw0)
-- [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.iamwire.com/2016/10/the-10-algorithms-machine-learning-engineers-need-to-know/142223)
-
-
 ## Tor
 
 - [Research problems: Ten ways to discover Tor bridges](https://blog.torproject.org/blog/research-problems-ten-ways-discover-tor-bridges)
@@ -656,13 +626,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Interactive Exercise](https://regexone.com/)
 - https://github.com/zeeshanu/learn-regex
 
-## Docs
-
-- [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
-- [Weapon of Mass Destruction](http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html)
-- [MooTools](https://github.com/mootools/mootools-core)
-- [Developer resources for desktop apps](http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps)
-
 ## Awesome Lists
 
 > Curated list of good resources shared on github
@@ -680,7 +643,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Awesome REST](https://github.com/marmelab/awesome-rest)
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
 - https://github.com/Hack-with-Github/Awesome-Hacking
@@ -758,6 +720,10 @@ A collection of resources that I found useful and interesting across various dom
 - [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
 - [Hacker101](https://www.hacker101.com/)
+- [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
+- [Weapon of Mass Destruction](http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html)
+- [MooTools](https://github.com/mootools/mootools-core)
+- [Developer resources for desktop apps](http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps)
 - [The three types of programmers](https://mkdev.me/en/posts/the-three-types-of-programmers)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 - [Leaving Clojure for Ruby](https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html)
