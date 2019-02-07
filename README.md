@@ -7,8 +7,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Javascript](#javascript)
     - [Pilot Run](#pilot-run)
     - [Advanced Concepts](#advanced-concepts)
-    - [Libraries](#libraries)
-    - [Random](#random)
     - [Node.js](#nodejs)
     - [Webpack](#webpack)
     - [React, Redux](#react-redux)
@@ -60,9 +58,12 @@ A collection of resources that I found useful and interesting across various dom
 
 ### Pilot Run
 
-- [Learning JS in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 - [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
-- [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
+- [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+- [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) :sparkles:
+- [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
+- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ### Advanced Concepts
 
@@ -70,30 +71,17 @@ A collection of resources that I found useful and interesting across various dom
 - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 - [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
 - [Advanced JS](http://htmldog.com/guides/javascript/advanced/)
-- [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected#29422900)
-- [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
 - [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) :sparkles::sparkles:
 - [What is the Difference Between Class and Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 - [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
-- [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Circular dependencies in JavaScript](https://medium.com/content-uneditable/circular-dependencies-in-javascript-a-k-a-coding-is-not-a-rock-paper-scissors-game-9c2a9eccd4bc)
 - [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
 - [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
 - [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
-- [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) :sparkles:
 - [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
 - [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :sparkles:
-- https://github.com/tc39
-
-### Libraries
-
-- [Ramda JS](http://ramdajs.com/)
-- [Learning Rx](http://reactivex.io/learnrx/)
-- [WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
-
-### Random
-
+- [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
 - [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
@@ -104,14 +92,13 @@ A collection of resources that I found useful and interesting across various dom
 - [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
 - [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 - [Object-oriented Programming in vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
-- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-- [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Essential Image Optimization](https://images.guide/) :sparkles:
 - [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
 - [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
 - [In defense of Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
 - [Douglas Crockford: Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) :tv:
 - [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
+- https://github.com/tc39
 
 ### Node.js
 
@@ -166,6 +153,7 @@ A collection of resources that I found useful and interesting across various dom
 - [POODLE](https://en.wikipedia.org/wiki/POODLE)
 - [Format string attack](https://www.owasp.org/index.php/Format_string_attack)
 - [Off-by-one error](https://en.wikipedia.org/wiki/Off-by-one_error)
+- [EFAIL](https://efail.de/)
 
 ### Tools
 
@@ -299,6 +287,7 @@ A collection of resources that I found useful and interesting across various dom
 - [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
+- [HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained)
 
 ### Random
 
@@ -312,7 +301,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Let 'localhost' be localhost](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04)
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-- [EFAIL](https://efail.de/)
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 - [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
@@ -320,7 +308,6 @@ A collection of resources that I found useful and interesting across various dom
 - [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
 - [DHCP configuration file /etc/dhcp/dhcpd.conf explained](https://www.thegeekdiary.com/dhcp-configuration-file-etcdhcpdhcpd-conf-explained/)
 - [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
-- [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
@@ -394,6 +381,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 - [Why does APT not use HTTPS?](https://whydoesaptnotusehttps.com/)
 - [Systemd as tragedy](https://lwn.net/SubscriberLink/777595/a71362cc65b1c271/)
+- [The Good, the Bad, and the Ugly: The Unix! Legacy](http://herpolhode.com/rob/ugly.pdf)
 
 ### Kernel
 
