@@ -382,6 +382,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Why does APT not use HTTPS?](https://whydoesaptnotusehttps.com/)
 - [Systemd as tragedy](https://lwn.net/SubscriberLink/777595/a71362cc65b1c271/)
 - [The Good, the Bad, and the Ugly: The Unix! Legacy](http://herpolhode.com/rob/ugly.pdf)
+- [Rethinking PID 1](http://0pointer.de/blog/projects/systemd.html)
 
 ### Kernel
 
