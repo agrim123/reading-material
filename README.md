@@ -64,6 +64,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/a/34361380)
 
 ### Advanced Concepts
 
@@ -191,7 +192,6 @@ A collection of resources that I found useful and interesting across various dom
 - [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
 - [Use bcrypt](https://codahale.com/how-to-safely-store-a-password/)
 - [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
-- [A SELF-STUDY COURSE IN BLOCK-CIPHER CRYPTANALYSIS](https://www.schneier.com/academic/paperfiles/paper-self-study.pdf)
 - https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
 - https://io.netgarage.org/
 - [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
@@ -230,6 +230,7 @@ A collection of resources that I found useful and interesting across various dom
 - [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
 - [Cryptography Services Archives](https://cryptoservices.github.io/archives/)
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
+- [How to prevent cryptographic pitfalls by design](https://fosdem.org/2019/schedule/event/crypto_pitfalls/)
 
 ## Python
 
@@ -383,6 +384,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Systemd as tragedy](https://lwn.net/SubscriberLink/777595/a71362cc65b1c271/)
 - [The Good, the Bad, and the Ugly: The Unix! Legacy](http://herpolhode.com/rob/ugly.pdf)
 - [Rethinking PID 1](http://0pointer.de/blog/projects/systemd.html)
+- [Inside the Linux boot process](https://www.ibm.com/developerworks/library/l-linuxboot/index.html)
 
 ### Kernel
 
@@ -683,6 +685,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://www.vulnhub.com/
 - https://sakurity.com/
 - https://blog.jessfraz.com/
+- https://www.schneier.com/
 
 ## More
 
