@@ -385,6 +385,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Good, the Bad, and the Ugly: The Unix! Legacy](http://herpolhode.com/rob/ugly.pdf)
 - [Rethinking PID 1](http://0pointer.de/blog/projects/systemd.html)
 - [Inside the Linux boot process](https://www.ibm.com/developerworks/library/l-linuxboot/index.html)
+- [What is Overcommit? And why is it bad?](https://www.etalabs.net/overcommit.html)
 
 ### Kernel
 
@@ -686,6 +687,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://sakurity.com/
 - https://blog.jessfraz.com/
 - https://www.schneier.com/
+- https://fgiesen.wordpress.com/
 
 ## More
 
