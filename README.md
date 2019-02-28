@@ -288,6 +288,7 @@ A collection of resources that I found useful and interesting across various dom
 - [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
+- [HTTP3](https://blog.cloudflare.com/http-3-from-root-to-tip/)
 - [HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained)
 
 ### Random
