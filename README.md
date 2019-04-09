@@ -346,6 +346,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [Git Compression of Blobs and Packfiles.](https://gist.github.com/matthewmccullough/2695758)
 - [Why do Git/Mercurial repositories use less space?](https://softwareengineering.stackexchange.com/questions/148434/why-do-git-mercurial-repositories-use-less-space/148498#148498)
+- [How bad can it git? Characterizing secret leakage in public GitHub repositories](https://blog.acolyer.org/2019/04/08/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
 
 ## Linux
 
@@ -387,6 +388,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Rethinking PID 1](http://0pointer.de/blog/projects/systemd.html)
 - [Inside the Linux boot process](https://www.ibm.com/developerworks/library/l-linuxboot/index.html)
 - [What is Overcommit? And why is it bad?](https://www.etalabs.net/overcommit.html)
+- [What you need may be “pipeline +Unix commands” only](https://nanxiao.me/en/what-you-need-may-be-pipeline-unix-commands-only/)
 
 ### Kernel
 
