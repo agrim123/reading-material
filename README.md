@@ -99,6 +99,7 @@ A collection of resources that I found useful and interesting across various dom
 - [In defense of Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
 - [Douglas Crockford: Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) :tv:
 - [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
+- [What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
 - https://github.com/tc39
 
 ### Node.js
@@ -290,6 +291,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 - [HTTP3](https://blog.cloudflare.com/http-3-from-root-to-tip/)
 - [HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained)
+- [The Web Developer's Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
 
 ### Random
 
@@ -736,6 +738,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
 - [top Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
+- [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 - https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
