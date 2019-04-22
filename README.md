@@ -124,6 +124,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Paul O Shannessy - Building React From Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg) :tv:
 - [React Implementation Notes](https://reactjs.org/docs/implementation-notes.html)
 - [React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
+- [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
 
 ## Elm
 
@@ -391,6 +392,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Inside the Linux boot process](https://www.ibm.com/developerworks/library/l-linuxboot/index.html)
 - [What is Overcommit? And why is it bad?](https://www.etalabs.net/overcommit.html)
 - [What you need may be “pipeline +Unix commands” only](https://nanxiao.me/en/what-you-need-may-be-pipeline-unix-commands-only/)
+- [Your terminal is not a terminal: An Introduction to Streams](https://lucasfcosta.com/2019/04/07/streams-introduction.html)
 
 ### Kernel
 
@@ -692,6 +694,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://sakurity.com/
 - https://blog.jessfraz.com/
 - https://www.schneier.com/
+- http://harmful.cat-v.org
 - https://fgiesen.wordpress.com/
 
 ## More
