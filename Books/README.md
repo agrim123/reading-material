@@ -56,6 +56,7 @@
 ## Ruby
 
 - [Guide to Ruby](http://poignant.guide/book/)
+- [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope)
 
 ## Go
 
