@@ -328,6 +328,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How does Team Viewer establish a Remote Desktop Connection?](https://security.stackexchange.com/questions/14280/how-does-team-viewer-establish-a-remote-desktop-connection)
 - [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols) :sparkles:
+- [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 
 ## Git
 
