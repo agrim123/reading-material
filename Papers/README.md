@@ -90,6 +90,7 @@
 - [Spanner: Google’s Globally Distributed Database](http://delivery.acm.org/10.1145/2500000/2491245/a8-corbett.pdf)
 - [A Call to Arms: Revisiting Database Design](https://arxiv.org/pdf/1105.6001.pdf)
 - [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
+- [ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications](http://www.bailis.org/papers/acidrain-sigmod2017.pdf)
 
 ## Docker
 

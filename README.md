@@ -748,6 +748,7 @@ A collection of resources that I found useful and interesting across various dom
 - [top Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 - [When setting an environment variable gives you a 40x speedup](https://news.sherlock.stanford.edu/posts/when-setting-an-environment-variable-gives-you-a-40-x-speedup)
+- [Meet the Flexbox Inspector](https://gedd.ski/) :sparkles:
 - https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
