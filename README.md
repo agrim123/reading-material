@@ -512,6 +512,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Hello Go!](https://medium.com/@caspervonb/hello-go-3e207da92da0)
+- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 
 ### Advanced Concepts
 
