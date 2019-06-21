@@ -262,6 +262,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Ask HN: What's your favorite elegant/beautiful algorithm?](https://news.ycombinator.com/item?id=18236396)
 - [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
  -[The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
+- [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
 ## Internet
 
@@ -513,6 +514,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Hello Go!](https://medium.com/@caspervonb/hello-go-3e207da92da0)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
+- [Go talks](https://talks.golang.org/)
 
 ### Advanced Concepts
 
@@ -529,6 +531,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 - [Five things that make Go faster](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
+- [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 
 ### Web Dev in Go
 
