@@ -3,6 +3,7 @@
 ## Contents
 
 - [Javascript](#javascript)
+- [Python](#python)
 - [Bitcoin](#bitcoin)
 - [Security](#security)
 - [Lisp](#lisp)
@@ -25,6 +26,9 @@
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 - [The JavaScript Way](https://github.com/bpesquet/thejsway)
 - [Speaking JS](http://speakingjs.com/es5/index.html)
+
+## Python
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ## Bitcoin
 
