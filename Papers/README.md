@@ -18,6 +18,7 @@
 - [Untraceable electronic mail, return addresses, and digital pseudonyms](https://mirror.robert-marquardt.com/anonbib/cache/chaum-mix.pdf)
 - [The Protection of Information in Computer Systems](https://www.acsac.org/secshelf/papers/protection_information.pdf)
 - [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf)
+- [Exposing Private Information by Timing Web Applications](https://crypto.stanford.edu/~dabo/papers/webtiming.pdf)
 
 ## Cryptography
 

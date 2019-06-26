@@ -529,7 +529,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
-- [Five things that make Go faster](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 
