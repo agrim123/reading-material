@@ -330,6 +330,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols) :sparkles:
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
+- [Latency Numbers](https://gist.github.com/jboner/2841832)
+- [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
+- [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
 
 ## Git
 
@@ -561,6 +564,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Rust Intro](https://stevedonovan.github.io/rust-gentle-intro/1-basics.html)
 - [Rust Docs](https://doc.rust-lang.org/rust-by-example/std/result.html)
 - [Why is Rust difficult?](https://vorner.github.io/difficult.html)
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [Rust Design Patterns](https://github.com/rust-unofficial/patterns)
 
 ## Lisp
 
