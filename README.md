@@ -52,7 +52,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Books](/Books)
 - [Papers](/Papers)
 - [Courses](/Courses)
-- [Topics](/Topics)
+- [Topics](/Topics) [WIP]
 
 ## Javascript
 
@@ -509,12 +509,11 @@ A collection of resources that I found useful and interesting across various dom
 - [Tour of Go](https://tour.golang.org/)
 - [Go by example](https://gobyexample.com/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
-- [Go Programming Video](https://www.youtube.com/watch?v=CF9S4QZuV30) :tv:
-- [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
-- [Hello Go!](https://medium.com/@caspervonb/hello-go-3e207da92da0)
-- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 - [Go talks](https://talks.golang.org/)
+    - [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
+    - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
+- [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 
 ### Advanced Concepts
 
@@ -531,13 +530,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 - [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
+- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 
 ### Web Dev in Go
 
 - [RESTful routing in Go](http://openmymind.net/RESTful-routing-in-Go/)
 - [Building Web Apps with Go](https://github.com/astaxie/build-web-application-with-golang)
-- [MVC Framework for Go](https://github.com/revel/revel)
-- [A lightweight MVC framework](https://github.com/gernest/utron)
 - [Learning Go as a Node.js Developer](https://nemethgergely.com/learning-go-as-a-nodejs-developer/)
 - [The Way of the Gopher](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f)
 
