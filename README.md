@@ -249,6 +249,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
 - [Docker Curriculum](https://prakhar.me/docker-curriculum/)
 - [Docker Cheatsheet](https://github.com/eon01/DockerCheatSheet)
+- [A tiny but valid `init` for containers](https://github.com/krallin/tini)
 
 ## Algorithms
 
@@ -357,6 +358,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Git Compression of Blobs and Packfiles.](https://gist.github.com/matthewmccullough/2695758)
 - [Why do Git/Mercurial repositories use less space?](https://softwareengineering.stackexchange.com/questions/148434/why-do-git-mercurial-repositories-use-less-space/148498#148498)
 - [How bad can it git? Characterizing secret leakage in public GitHub repositories](https://blog.acolyer.org/2019/04/08/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
+- [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
+- [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
 
 ## Linux
 
