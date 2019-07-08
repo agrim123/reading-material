@@ -10,7 +10,6 @@ A collection of resources that I found useful and interesting across various dom
     - [Node.js](#nodejs)
     - [Webpack](#webpack)
     - [React, Redux](#react-redux)
-- [Elm](#elm)
 - [Security](#security)
     - [Attacks](#attacks)
     - [Tools](#tools)
@@ -46,6 +45,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Functional Programming](#functional-programming)
 - [OAuth](#oauth)
 - [Regex](#regex)
+- [Distributed Systems](#distributed-sytems)
 - [Awesome Lists](#awesome-lists)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
@@ -126,13 +126,6 @@ A collection of resources that I found useful and interesting across various dom
 - [React Implementation Notes](https://reactjs.org/docs/implementation-notes.html)
 - [React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
-
-## Elm
-
-- [Elm Tutorial](https://www.elm-tutorial.org/en/)
-- [Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial)
-- [Beginning Elm](http://elmprogramming.com/)
-- [Elm For Beginners](http://courses.knowthen.com/p/elm-for-beginners)
 
 ## Security
 
@@ -250,6 +243,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Docker Curriculum](https://prakhar.me/docker-curriculum/)
 - [Docker Cheatsheet](https://github.com/eon01/DockerCheatSheet)
 - [A tiny but valid `init` for containers](https://github.com/krallin/tini)
+- [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 
 ## Algorithms
 
@@ -287,7 +281,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Analysis of HTTP Performance](https://www.isi.edu/lsam/publications/http-perf/)
 - [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
 - [FTP: File Transfer Protocol](http://cr.yp.to/ftp.html)
-- [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 - [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 - [Building Protocols with HTTP](https://tools.ietf.org/html/draft-ietf-httpbis-bcp56bis-06)
 - [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
@@ -570,11 +563,6 @@ A collection of resources that I found useful and interesting across various dom
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Rust Design Patterns](https://github.com/rust-unofficial/patterns)
 
-## Lisp
-
-- [Land of Lisp](http://landoflisp.com/)
-- [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
-
 ## Database
 
 - [Secure PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
@@ -601,7 +589,6 @@ A collection of resources that I found useful and interesting across various dom
 - [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList)
 - [CryptoEconomics](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
 - [Emails from Satoshi Nakamoto to Hal Finney](http://online.wsj.com/public/resources/documents/finneynakamotoemails.pdf)
-- [Quantifying Decentralization](https://news.21.co/quantifying-decentralization-e39db233c28e)
 - [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 - [The Blockchain Dictionary](https://www.theblockchainnewsletter.com/glossary.html)
 - [Bitcoin Resources](https://lopp.net/bitcoin.html)
@@ -639,6 +626,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Interactive Exercise](https://regexone.com/)
 - https://github.com/zeeshanu/learn-regex
 
+## Distributed Systems
+
+- [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
+- [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
+- [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
+
 ## Awesome Lists
 
 > Curated list of good resources shared on github
@@ -647,8 +640,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Awesome Reversing](https://github.com/tylerph3/awesome-reversing)
 - [Awesome Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks)
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
-- [Awesome Python](https://github.com/vinta/awesome-python)
-- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Awesome Ruby](https://github.com/markets/awesome-ruby)
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
@@ -713,8 +704,6 @@ A collection of resources that I found useful and interesting across various dom
 
 ## More
 
-- [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
-- [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 - [Password storage in source control](https://stackoverflow.com/questions/559611/password-storage-in-source-control)
 - [Global Variables are Bad](http://wiki.c2.com/?GlobalVariablesAreBad)
 - [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)

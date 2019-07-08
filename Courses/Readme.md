@@ -14,3 +14,4 @@
 - [CNIT 127: Exploit Development](https://samsclass.info/127/127_S18.shtml)
 - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 - [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
