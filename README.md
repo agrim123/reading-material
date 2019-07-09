@@ -101,6 +101,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
 - [What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
 - [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1/)
+- [Mistakes we make using JavaScript Promises](https://www.betamark.com/blog/mistakes-using-javascript-promises/)
 - https://github.com/tc39
 
 ### Node.js
@@ -530,6 +531,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
+- [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
 
 ### Web Dev in Go
 
@@ -750,6 +752,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
+- [Client side caching in Redis 6](http://antirez.com/news/130)
 
 ## Interview Questions
 
