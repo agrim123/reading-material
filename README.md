@@ -577,6 +577,7 @@ A collection of resources that I found useful and interesting across various dom
 - [One Giant Leap For SQL: MySQL 8.0 Released](https://modern-sql.com/blog/2018-04/mysql-8.0) :sparkles:
 - [MongoDB is to NoSQL like MySQL to SQL — in the most harmful way](https://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql)
 - [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
+- [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
 
 ## BlockChain, Bitcoin
 
@@ -753,6 +754,7 @@ A collection of resources that I found useful and interesting across various dom
 - http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
 - [Client side caching in Redis 6](http://antirez.com/news/130)
+- [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 
 ## Interview Questions
 
