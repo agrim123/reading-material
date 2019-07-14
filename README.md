@@ -46,6 +46,7 @@ A collection of resources that I found useful and interesting across various dom
 - [OAuth](#oauth)
 - [Regex](#regex)
 - [Distributed Systems](#distributed-sytems)
+- [ArArchitecture](#architecture)
 - [Awesome Lists](#awesome-lists)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
@@ -399,6 +400,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Your terminal is not a terminal: An Introduction to Streams](https://lucasfcosta.com/2019/04/07/streams-introduction.html)
 - [How fast are Unix domain sockets?](https://blog.myhro.info/2017/01/how-fast-are-unix-domain-sockets)
 - [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
+- [Linux namespaces](http://ifeanyi.co/posts/linux-namespaces-part-1/)
 
 ### Kernel
 
@@ -634,6 +636,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
+
+## Architecture
+
+- [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
+- [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
+- []()
 
 ## Awesome Lists
 
