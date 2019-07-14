@@ -46,7 +46,8 @@ A collection of resources that I found useful and interesting across various dom
 - [OAuth](#oauth)
 - [Regex](#regex)
 - [Distributed Systems](#distributed-sytems)
-- [ArArchitecture](#architecture)
+- [Architecture](#architecture)
+- [Kafka](#kafka)
 - [Awesome Lists](#awesome-lists)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
@@ -641,7 +642,12 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
 - [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
-- []()
+
+## Kafka
+
+- ["Apache Kafka and the Next 700 Stream Processing Systems" by Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro) :tv:
+- [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
+- [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 
 ## Awesome Lists
 
