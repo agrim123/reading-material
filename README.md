@@ -769,6 +769,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://blog.ycombinator.com/ycs-2017-summer-reading-list/
 - [Client side caching in Redis 6](http://antirez.com/news/130)
 - [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
+- [Race Condition vs. Data Race](https://blog.regehr.org/archives/490) :sparkles:
 
 ## Interview Questions
 
