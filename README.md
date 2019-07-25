@@ -648,6 +648,8 @@ A collection of resources that I found useful and interesting across various dom
 - ["Apache Kafka and the Next 700 Stream Processing Systems" by Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro) :tv:
 - [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
 - [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
+- [Kafka and Zookeeper with Docker](https://medium.com/rahasak/kafka-and-zookeeper-with-docker-65cff2c2c34f)
+- [Kafka in a Nutshell](https://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
 
 ## Awesome Lists
 
