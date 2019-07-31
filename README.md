@@ -772,6 +772,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Client side caching in Redis 6](http://antirez.com/news/130)
 - [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 - [Race Condition vs. Data Race](https://blog.regehr.org/archives/490) :sparkles:
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) :sparkles:
+- [A byte’s not 8 bits.](https://burstingdynamics.wordpress.com/2015/11/10/a-byte-is-not-8-bits/) :sparkles:
 
 ## Interview Questions
 
