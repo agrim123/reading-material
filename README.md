@@ -535,6 +535,8 @@ A collection of resources that I found useful and interesting across various dom
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 - [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
+- [The Go Memory Model](https://golang.org/ref/mem)
+- [GO FAQ](https://golang.org/doc/faq)
 
 ### Web Dev in Go
 
