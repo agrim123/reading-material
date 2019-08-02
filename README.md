@@ -37,7 +37,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Rails](#rails)
 - [Haskell](#haskell)
 - [Go](#go)
-- [Lua](#lua)
 - [Rust](#rust)
 - [Database](#database)
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
@@ -537,6 +536,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
 - [The Go Memory Model](https://golang.org/ref/mem)
 - [GO FAQ](https://golang.org/doc/faq)
+- [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
+- [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
+- [Functional options for friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
 
 ### Web Dev in Go
 
@@ -553,13 +555,6 @@ A collection of resources that I found useful and interesting across various dom
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
 - [HTTPS and Go](https://www.kaihag.com/https-and-go/)
-
-## Lua
-
-- [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
-- [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
-- [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
-- [Creation of a complete game with Lua and LÖVE](https://github.com/SSYGEN/blog/issues/30)
 
 ## Rust
 
@@ -680,6 +675,7 @@ A collection of resources that I found useful and interesting across various dom
 - [SCM breeze: Adds numbered shortcuts to the output git status, and much more ](https://github.com/scmbreeze/scm_breeze)
 - [Pass: Simple password manager using gpg and ordinary unix directories](https://www.passwordstore.org/)
 - [peerflix](https://github.com/mafintosh/peerflix)
+- [kaf: Modern CLI for Apache Kafka](https://github.com/birdayz/kaf)
 
 ## Blogs
 
