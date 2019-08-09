@@ -528,17 +528,22 @@ A collection of resources that I found useful and interesting across various dom
 - [Applied Go](https://appliedgo.net/)
 - [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 - [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
-- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 - [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
+- [GO FAQ](https://golang.org/doc/faq)
+- [Functional options for friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
+- [Channels in Go](https://go101.org/article/channel.html)
+
+### Internals
+
+- [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 - [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
 - [The Go Memory Model](https://golang.org/ref/mem)
-- [GO FAQ](https://golang.org/doc/faq)
 - [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
 - [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
-- [Functional options for friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
+- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 
 ### Web Dev in Go
 
