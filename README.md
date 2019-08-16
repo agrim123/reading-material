@@ -355,6 +355,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How bad can it git? Characterizing secret leakage in public GitHub repositories](https://blog.acolyer.org/2019/04/08/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
 - [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
 - [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
+- [Git gc](https://www.atlassian.com/git/tutorials/git-gc)
 
 ## Linux
 
@@ -401,6 +402,8 @@ A collection of resources that I found useful and interesting across various dom
 - [How fast are Unix domain sockets?](https://blog.myhro.info/2017/01/how-fast-are-unix-domain-sockets)
 - [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
 - [Linux namespaces](http://ifeanyi.co/posts/linux-namespaces-part-1/)
+- [Why should text files end with a newline?](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline)
+- [What has to happen with Unix virtual memory when you have no swap space](https://utcc.utoronto.ca/~cks/space/blog/unix/NoSwapConsequence)
 
 ### Kernel
 
@@ -633,6 +636,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Learn Regex](http://regexr.com/)
 - [Interactive Exercise](https://regexone.com/)
 - https://github.com/zeeshanu/learn-regex
+- [Regex For Noobs](https://www.janmeppe.com/blog/regex-for-noobs/)
 
 ## Distributed Systems
 
