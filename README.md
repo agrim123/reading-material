@@ -292,6 +292,7 @@ A collection of resources that I found useful and interesting across various dom
 - [HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained)
 - [The Web Developer's Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
 - [Messing With Telnet](https://jott.live/markdown/telnet_writeup)
+- [Discussion: UDP in web](https://news.ycombinator.com/item?id=13741155)
 
 ### Random
 
