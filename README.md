@@ -586,6 +586,7 @@ A collection of resources that I found useful and interesting across various dom
 - [MongoDB is to NoSQL like MySQL to SQL — in the most harmful way](https://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql)
 - [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
 - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
+- [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity)
 
 ## BlockChain, Bitcoin
 
