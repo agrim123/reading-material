@@ -153,6 +153,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Format string attack](https://www.owasp.org/index.php/Format_string_attack)
 - [Off-by-one error](https://en.wikipedia.org/wiki/Off-by-one_error)
 - [EFAIL](https://efail.de/)
+- [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 
 ### Tools
 
@@ -330,6 +331,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Latency Numbers](https://gist.github.com/jboner/2841832)
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 - [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
+- [When TCP sockets refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
 
 ## Git
 
@@ -539,6 +541,7 @@ A collection of resources that I found useful and interesting across various dom
 - [GO FAQ](https://golang.org/doc/faq)
 - [Functional options for friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
 - [Channels in Go](https://go101.org/article/channel.html)
+- [The Case For A Go Worker Pool](https://brandur.org/go-worker-pool)
 
 ### Internals
 
