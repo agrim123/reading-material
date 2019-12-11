@@ -407,6 +407,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Linux namespaces](http://ifeanyi.co/posts/linux-namespaces-part-1/)
 - [Why should text files end with a newline?](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline)
 - [What has to happen with Unix virtual memory when you have no swap space](https://utcc.utoronto.ca/~cks/space/blog/unix/NoSwapConsequence)
+- [htop explained](https://peteris.rocks/blog/htop/)
+- [The Linux Scheduler: a Decade of Wasted Cores](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
 
 ### Kernel
 
@@ -629,6 +631,7 @@ A collection of resources that I found useful and interesting across various dom
 - [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) :sparkles:
+- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 
 ## OAuth
 
@@ -661,6 +664,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Kafka and Zookeeper with Docker](https://medium.com/rahasak/kafka-and-zookeeper-with-docker-65cff2c2c34f)
 - [Kafka in a Nutshell](https://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
+- [Kafka Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf)
 
 ## Awesome Lists
 
@@ -787,6 +791,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) :sparkles:
 - [A byte’s not 8 bits.](https://burstingdynamics.wordpress.com/2015/11/10/a-byte-is-not-8-bits/) :sparkles:
 - [EPIGRAMS IN PROGRAMMING](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+- [The Danger of “Simplicity”](https://asthasr.github.io/posts/danger-of-simplicity)
 
 ## Interview Questions
 
