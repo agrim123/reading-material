@@ -553,7 +553,8 @@ A collection of resources that I found useful and interesting across various dom
 - [The Go Memory Model](https://golang.org/ref/mem)
 - [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
 - [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
-- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
+i- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
+- [The Go scheduler](https://morsmachine.dk/go-scheduler)
 
 ### Web Dev in Go
 
