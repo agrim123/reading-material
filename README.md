@@ -16,7 +16,6 @@ A collection of resources that I found useful and interesting across various dom
     - [Guides](#guides)
     - [Games and CTF's](#games-and-ctfs)
     - [Crypto](#crypto)
-- [Python](#python)
 - [Docker](#docker)
 - [Algorithms](#algorithms)
 - [Internet](#internet)
@@ -121,10 +120,6 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-- [Redux](https://redux.js.org/)
-- [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) :tv:
-- [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-- [Paul O Shannessy - Building React From Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg) :tv:
 - [React Implementation Notes](https://reactjs.org/docs/implementation-notes.html)
 - [React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
@@ -191,8 +186,6 @@ A collection of resources that I found useful and interesting across various dom
 - [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
 - [Use bcrypt](https://codahale.com/how-to-safely-store-a-password/)
 - [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
-- https://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies-Teaser.pdf
-- https://io.netgarage.org/
 - [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
 - [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
 - [GOT and PLT for pwning](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
@@ -230,13 +223,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Cryptography Services Archives](https://cryptoservices.github.io/archives/)
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
 - [How to prevent cryptographic pitfalls by design](https://fosdem.org/2019/schedule/event/crypto_pitfalls/)
-
-## Python
-
-- [Python Memory Management](http://deeplearning.net/software/theano/tutorial/python-memory-management.html)
-- [Making Photos Smaller](https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) :sparkles:
 
 ## Docker
 
@@ -665,8 +651,7 @@ A collection of resources that I found useful and interesting across various dom
 - [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
 - [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Kafka and Zookeeper with Docker](https://medium.com/rahasak/kafka-and-zookeeper-with-docker-65cff2c2c34f)
-- [Kafka in a Nutshell](https://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
-- [Kafka Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf)
+- [Kafka Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf) :books:
 
 ## Awesome Lists
 
@@ -780,7 +765,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
 - [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
-- [top Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 - [When setting an environment variable gives you a 40x speedup](https://news.sherlock.stanford.edu/posts/when-setting-an-environment-variable-gives-you-a-40-x-speedup)
 - [Meet the Flexbox Inspector](https://gedd.ski/) :sparkles:
