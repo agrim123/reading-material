@@ -531,6 +531,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Functional options for friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
 - [Channels in Go](https://go101.org/article/channel.html)
 - [The Case For A Go Worker Pool](https://brandur.org/go-worker-pool)
+- [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
 
 ### Internals
 
