@@ -88,10 +88,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
 - [The JavaScript Encyclopedia](http://javascript.crockford.com/)
 - [Javascript Debugging](https://developer.chrome.com/devtools/docs/javascript-debugging)
-- [Javascript 3D Game Engines](http://noeticforce.com/best-3d-javascript-game-engines-frameworks-webgl-html5)
 - [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 - [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
-- [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 - [Object-oriented Programming in vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
 - [Essential Image Optimization](https://images.guide/) :sparkles:
 - [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
@@ -172,7 +170,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
 - [Modern CSRF](https://mixmax.com/blog/modern-csrf)
 - [Buffer Overflow](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
-- [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own)
+- [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own) :sparkles:
 - [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
 - [Tale of a DDoS](https://ictf.cs.ucsb.edu/pages/the-2016-2017-ictf-ddos.html)
 - [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
@@ -283,7 +281,6 @@ A collection of resources that I found useful and interesting across various dom
 
 ### Random
 
-- [Web Bloat](https://danluu.com/web-bloat/)
 - [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
@@ -508,14 +505,14 @@ A collection of resources that I found useful and interesting across various dom
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Go talks](https://talks.golang.org/)
-    - [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
+    - [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1) :sparkles:
     - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 
 ### Advanced Concepts
 
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
-- [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/)
+- [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/) :sparkles:
 - [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) :sparkles:
 - [The Case For Go](https://gist.github.com/ungerik/3731476)
 - [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
@@ -523,14 +520,11 @@ A collection of resources that I found useful and interesting across various dom
 - [Applied Go](https://appliedgo.net/)
 - [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 - [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
-- [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 - [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
-- [GO FAQ](https://golang.org/doc/faq)
-- [Functional options for friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
+- [Go FAQ](https://golang.org/doc/faq)
 - [Channels in Go](https://go101.org/article/channel.html)
-- [The Case For A Go Worker Pool](https://brandur.org/go-worker-pool)
 - [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
 
 ### Internals
@@ -542,13 +536,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 - [The Go scheduler](https://morsmachine.dk/go-scheduler)
-
-### Web Dev in Go
-
-- [RESTful routing in Go](http://openmymind.net/RESTful-routing-in-Go/)
-- [Building Web Apps with Go](https://github.com/astaxie/build-web-application-with-golang)
-- [Learning Go as a Node.js Developer](https://nemethgergely.com/learning-go-as-a-nodejs-developer/)
-- [The Way of the Gopher](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f)
+- [The Case For A Go Worker Pool](https://brandur.org/go-worker-pool)
+- [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 
 ### Networking with Go
 
@@ -615,7 +604,7 @@ A collection of resources that I found useful and interesting across various dom
 - [What is Functional Programming ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [What is a Functional Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
-- [What is Pure function ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+- [What is Pure function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [Functional Programming](http://wiki.c2.com/?FunctionalProgramming)
 - [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
@@ -685,7 +674,6 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Blogs
 
-- https://lemire.me/blog/
 - http://arjunsreedharan.org/
 - https://jvns.ca/
 - https://githubengineering.com/
@@ -694,7 +682,6 @@ A collection of resources that I found useful and interesting across various dom
 - https://mkdev.me/en/posts
 - http://www.uliaea.ca/
 - https://blog.cloudflare.com/
-- https://blog.cryptographyengineering.com
 - http://prog21.dadgum.com/
 - https://increment.com/programming-languages/ :sparkles:
 - https://blog.filippo.io/
@@ -702,9 +689,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://notes.shichao.io/
 - https://blog.acolyer.org/
 - https://lwn.net/
-- http://www.jimmyr.com/
 - https://queue.acm.org/
-- https://blog.aqnichol.com/
 - https://www.linuxjournal.com/
 - https://www.the-paper-trail.org/
 - https://overreacted.io/
@@ -712,18 +697,11 @@ A collection of resources that I found useful and interesting across various dom
 - https://www.mnot.net/blog/
 - https://systemoverlord.com/
 - http://openmymind.net/
-- http://goyalankit.com/
-- https://www.learnenough.com/
 - https://learnxinyminutes.com/
-- https://learncodethehardway.org/
-- https://codingsec.net/2016/04/books-artificial/
 - https://blog.rpis.ec/
-- https://www.vulnhub.com/
-- https://sakurity.com/
 - https://blog.jessfraz.com/
 - https://www.schneier.com/
-- http://harmful.cat-v.org
-- https://fgiesen.wordpress.com/
+- https://www.hackinglinuxexposed.com/articles/
 
 ## More
 
@@ -769,9 +747,6 @@ A collection of resources that I found useful and interesting across various dom
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 - [When setting an environment variable gives you a 40x speedup](https://news.sherlock.stanford.edu/posts/when-setting-an-environment-variable-gives-you-a-40-x-speedup)
 - [Meet the Flexbox Inspector](https://gedd.ski/) :sparkles:
-- https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/
-- http://www.alexkras.com/i-tried-to-virtually-stalk-mark-zuckerberg/
-- https://blog.ycombinator.com/ycs-2017-summer-reading-list/
 - [Client side caching in Redis 6](http://antirez.com/news/130)
 - [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 - [Race Condition vs. Data Race](https://blog.regehr.org/archives/490) :sparkles:
