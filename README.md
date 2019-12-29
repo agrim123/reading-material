@@ -2,6 +2,8 @@
 
 A collection of resources that I found useful and interesting across various domains.
 
+> [The Tao of Programming](http://www.mit.edu/~xela/tao.html)
+
 ## Contents
 
 - [Javascript](/JS.md)
