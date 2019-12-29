@@ -346,6 +346,7 @@ A collection of resources that I found useful and interesting across various dom
 - [A byte’s not 8 bits.](https://burstingdynamics.wordpress.com/2015/11/10/a-byte-is-not-8-bits/) :sparkles:
 - [EPIGRAMS IN PROGRAMMING](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [The Danger of “Simplicity”](https://asthasr.github.io/posts/danger-of-simplicity)
+- [Why Rust and not Go](https://blog.juliobiason.me/thoughts/why-rust-and-not-go/) :sparkles:
 
 ## Interview Questions
 
