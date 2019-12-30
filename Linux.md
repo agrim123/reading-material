@@ -59,6 +59,9 @@
 - [What has to happen with Unix virtual memory when you have no swap space](https://utcc.utoronto.ca/~cks/space/blog/unix/NoSwapConsequence)
 - [htop explained](https://peteris.rocks/blog/htop/)
 - [The Linux Scheduler: a Decade of Wasted Cores](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
+- [Linux Log Files that are Located under /var/log Directory](https://www.thegeekstuff.com/2011/08/linux-var-log-files/)
+- [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+- [An Evening with Berferd In Which a Cracker is Lured, Endured, and Studied](https://www.cheswick.com/ches/papers/berferd.pdf)
 
 ## Kernel
 
