@@ -32,6 +32,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Awesome Lists](#awesome-lists)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
+- [Fun](#fun)
+- [Interview Questions](#interview-questions)
 - [Books](/Books.md)
 - [Papers](/Papers.md)
 - [Courses](/Courses.md)
@@ -885,6 +887,12 @@ A collection of resources that I found useful and interesting across various dom
 - [EPIGRAMS IN PROGRAMMING](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [The Danger of “Simplicity”](https://asthasr.github.io/posts/danger-of-simplicity)
 - [Why Rust and not Go](https://blog.juliobiason.me/thoughts/why-rust-and-not-go/) :sparkles:
+
+## Fun
+
+- https://turnoff.us
+- https://xkcd.com
+- https://impurepics.com/
 
 ## Interview Questions
 
