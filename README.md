@@ -7,41 +7,18 @@ A collection of resources that I found useful and interesting across various dom
 ## Contents
 
 - [Javascript](#js)
-    - [Pilot Run](#pilot-run)
-    - [Advanced Concepts](#advanced-concepts)
-    - [Node.js](#nodejs)
-    - [Webpack](#webpack)
-    - [React, Redux](#react-redux)
 - [Security](#security)
-    - [Attacks](#attacks)
-    - [Tools](#tools)
-    - [Guides](#guides)
-    - [Games and CTF's](#games-and-ctfs)
-    - [Crypto](#crypto)
 - [Docker](#docker)
 - [Algorithms](#algorithms)
 - [Internet](#internet)
-    - [Webservers](#webservers)
-    - [Protocols](#protocols)
-    - [Random](#random)
 - [Git](#git)
 - [Linux](#linux)
-    - [Kernel](#kernel)
-    - [PAM](#pam)
-    - [SSH](#ssh)
-    - [Security](#linux-security)
-    - [Vim](#vim)
-    - [Bash](#bash)
 - [OS Dev](#os-dev)
 - [C](#c)
 - [Ruby](#ruby)
 - [Rails](#rails)
 - [Haskell](#haskell)
 - [Go](#go)
-    - [Pilot run](#pilot-run)
-    - [Advanced Concepts](#advanced-concepts)
-    - [Internals](#internals)
-    - [Networking with Go](#networking-with-go)
 - [Rust](#rust)
 - [Database](#database)
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
@@ -62,7 +39,9 @@ A collection of resources that I found useful and interesting across various dom
 
 ## JS
 
-### Pilot Run
+<details>
+<summary>Pilot Run</summary>
+<p>
 
 - [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
 - [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
@@ -72,7 +51,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/a/34361380)
 
-### Advanced Concepts
+</p>
+</details>
+
+<details>
+<summary>Advanced Concepts</summary>
+<p>
 
 - [this in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
@@ -108,19 +92,34 @@ A collection of resources that I found useful and interesting across various dom
 - [Mistakes we make using JavaScript Promises](https://www.betamark.com/blog/mistakes-using-javascript-promises/)
 - https://github.com/tc39
 
-### Node.js
+</p>
+</details>
+
+<details>
+<summary>Node.js</summary>
+<p>
 
 - [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 - [Making NodeJS App faster](https://engineering.gosquared.com/making-dashboard-faster)
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 - [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 
-### Webpack
+</p>
+</details>
+
+<details>
+<summary>Webpack</summary>
+<p>
 
 - [Diving Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/)
 - [Webpack How-to](https://github.com/petehunt/webpack-howto)
 
-### React, Redux
+</p>
+</details>
+
+<details>
+<summary>React, Redux</summary>
+<p>
 
 - [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
@@ -128,9 +127,14 @@ A collection of resources that I found useful and interesting across various dom
 - [React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
 
+</p>
+</details>
+
 ## Security
 
-### Attacks
+<details>
+<summary>Attacks</summary>
+<p>
 
 - [Blind SQL Injection Exploit](http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/)
 - [SSL Strip](https://github.com/moxie0/sslstrip)
@@ -154,7 +158,12 @@ A collection of resources that I found useful and interesting across various dom
 - [EFAIL](https://efail.de/)
 - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 
-### Tools
+</p>
+</details>
+
+<details>
+<summary>Tools</summary>
+<p>
 
 - [John the Ripper](http://www.openwall.com/john/pro/linux/)
 - [HAProxy](http://www.haproxy.org/)
@@ -165,7 +174,12 @@ A collection of resources that I found useful and interesting across various dom
     - [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
     - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
 
-### Guides
+</p>
+</details>
+
+<details>
+<summary>Guides</summary>
+<p>
 
 - [CTF Wiki](https://github.com/lucyoa/ctf-wiki)
 - [Sites to practice InfoSec Skills](https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/)
@@ -199,7 +213,12 @@ A collection of resources that I found useful and interesting across various dom
 - [The State Of Software Security In 2019](https://noncombatant.org/2019/01/06/state-of-security-2019/) :lock:
 - [CSRF](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 
-### Games and CTF's
+</p>
+</details>
+
+<details>
+<summary>Games and CTF's</summary>
+<p>
 
 - [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
 - [Overthewire: Bandit](http://overthewire.org/wargames/bandit/)
@@ -215,7 +234,12 @@ A collection of resources that I found useful and interesting across various dom
 - https://365.csaw.io/
 - https://crackmes.one/
 
-### Crypto
+</p>
+</details>
+
+<details>
+<summary>Crypto</summary>
+<p>
 
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
 - [So, You Want To Learn To Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
@@ -226,6 +250,9 @@ A collection of resources that I found useful and interesting across various dom
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
 - [How to prevent cryptographic pitfalls by design](https://fosdem.org/2019/schedule/event/crypto_pitfalls/)
 - [First SHA1 Collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
+
+</p>
+</details>
 
 ## Docker
 
@@ -253,7 +280,9 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Internet
 
-### Webservers
+<details>
+<summary>Webservers</summary>
+<p>
 
 - [Apache vs Nginx](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
 - [Secure Nginx with SSL Certificate](http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/)
@@ -265,7 +294,12 @@ A collection of resources that I found useful and interesting across various dom
 - [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
 - [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
 
-### Protocols
+</p>
+</details>
+
+<details>
+<summary>Protocols</summary>
+<p>
 
 - [IPFS](https://ipfs.io/)
 - [Paper review. IPFS: Content addressed, versioned, P2P file system](https://muratbuffalo.blogspot.in/2018/02/paper-review-ipfs-content-addressed.html)
@@ -284,7 +318,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Messing With Telnet](https://jott.live/markdown/telnet_writeup)
 - [Discussion: UDP in web](https://news.ycombinator.com/item?id=13741155)
 
-### Random
+</p>
+</details>
+
+<details>
+<summary>Random</summary>
+<p>
 
 - [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
@@ -321,6 +360,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
 - [When TCP sockets refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
 
+</p>
+</details>
+
 ## Git
 
 - [Making Commit in past](http://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past)
@@ -350,7 +392,9 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Linux
 
-### Linux
+<details>
+<summary>Linux</summary>
+<p>
 
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [chmod Tutorial](http://catcode.com/teachmod/)
@@ -403,7 +447,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [An Evening with Berferd In Which a Cracker is Lured, Endured, and Studied](https://www.cheswick.com/ches/papers/berferd.pdf)
 
-### Kernel
+</p>
+</details>
+
+<details>
+<summary>Kernel</summary>
+<p>
 
 - [Kernel Map](http://www.makelinux.net/kernel_map/)
 - [Documentation extracted from the Linux kernel](https://www.kernel.org/doc/)
@@ -411,12 +460,22 @@ A collection of resources that I found useful and interesting across various dom
 - [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
 - [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
-### PAM
+</p>
+</details>
+
+<details>
+<summary>PAM</summary>
+<p>
 
 - [Linux PAM](http://www.linux-pam.org/Linux-PAM-html)
 - [Using PAM](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules)
 
-### SSH
+</p>
+</details>
+
+<details>
+<summary>SSH</summary>
+<p>
 
 - [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 - [SSH Agent Vulnerabilities](http://www-arc.com/sara/cve/SSH_vulnerabilities.html)
@@ -424,7 +483,12 @@ A collection of resources that I found useful and interesting across various dom
 - [SSH Examples, Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
 - [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
 
-### Linux Security
+</p>
+</details>
+
+<details>
+<summary>Linux Security</summary>
+<p>
 
 - [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 - [Dirty Cow](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
@@ -438,13 +502,25 @@ A collection of resources that I found useful and interesting across various dom
 - [How to break out of a chroot() jail](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)
 - [Securing Debian Manual](https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html#contents)
 
-### Vim
+</p>
+</details>
+
+<details>
+<summary>Vim</summary>
+<p>
+
 
 - [Interactive Vim Tutorial](http://www.openvim.com/)
 - [Vim Galore](https://github.com/mhinz/vim-galore)
 - [Vim Cheatsheet](http://vimsheet.com/)
 
-### Bash
+</p>
+</details>
+
+<details>
+<summary>Bash</summary>
+<p>
+
 
 - [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
 - [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
@@ -453,6 +529,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Creating a bash completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
 - [Explain Shell](https://explainshell.com/)
 - [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
+
+</p>
+</details>
 
 ## OS dev
 
@@ -508,7 +587,9 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Go
 
-### Pilot run
+<details>
+<summary>Pilot run</summary>
+<p>
 
 - [Tour of Go](https://tour.golang.org/)
 - [Go by example](https://gobyexample.com/)
@@ -519,7 +600,12 @@ A collection of resources that I found useful and interesting across various dom
     - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 
-### Advanced Concepts
+</p>
+</details>
+
+<details>
+<summary>Advanced Concepts</summary>
+<p>
 
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/) :sparkles:
@@ -537,7 +623,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Channels in Go](https://go101.org/article/channel.html)
 - [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
 
-### Internals
+</p>
+</details>
+
+<details>
+<summary>Internals</summary>
+<p>
 
 - [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 - [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
@@ -549,7 +640,12 @@ A collection of resources that I found useful and interesting across various dom
 - [The Case For A Go Worker Pool](https://brandur.org/go-worker-pool)
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 
-### Networking with Go
+</p>
+</details>
+
+<details>
+<summary>Networking with Go</summary>
+<p>
 
 - [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
@@ -557,6 +653,9 @@ A collection of resources that I found useful and interesting across various dom
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
 - [HTTPS and Go](https://www.kaihag.com/https-and-go/)
+
+</p>
+</details>
 
 ## Rust
 
