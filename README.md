@@ -157,6 +157,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Off-by-one error](https://en.wikipedia.org/wiki/Off-by-one_error)
 - [EFAIL](https://efail.de/)
 - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
+- [The SSL FREAK vulnerability explained](https://robertheaton.com/2015/04/06/the-ssl-freak-vulnerability/)
+- [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 
 </p>
 </details>
@@ -301,22 +303,49 @@ A collection of resources that I found useful and interesting across various dom
 <summary>Protocols</summary>
 <p>
 
-- [IPFS](https://ipfs.io/)
-- [Paper review. IPFS: Content addressed, versioned, P2P file system](https://muratbuffalo.blogspot.in/2018/02/paper-review-ipfs-content-addressed.html)
+### HTTP(S)
+
 - [HTTP](https://www.jmarshall.com/easy/http/)
 - [Analysis of HTTP Performance](https://www.isi.edu/lsam/publications/http-perf/)
 - [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
-- [FTP: File Transfer Protocol](http://cr.yp.to/ftp.html)
 - [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 - [Building Protocols with HTTP](https://tools.ietf.org/html/draft-ietf-httpbis-bcp56bis-06)
-- [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
-- [The Illustrated TLS Connection](https://tls.ulfheim.net/)
-- [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 - [HTTP3](https://blog.cloudflare.com/http-3-from-root-to-tip/)
 - [HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained)
-- [The Web Developer's Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
-- [Messing With Telnet](https://jott.live/markdown/telnet_writeup)
+- [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
+- [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+- [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
+- [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
+
+### IPFS
+
+- [IPFS](https://ipfs.io/)
+- [Paper review. IPFS: Content addressed, versioned, P2P file system](https://muratbuffalo.blogspot.in/2018/02/paper-review-ipfs-content-addressed.html)
+
+### FTP
+
+- [FTP: File Transfer Protocol](http://cr.yp.to/ftp.html)
+
+### TCP/UDP
+
+- [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+- [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 - [Discussion: UDP in web](https://news.ycombinator.com/item?id=13741155)
+- [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
+- [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
+- [When TCP sockets refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
+- [Messing With Telnet](https://jott.live/markdown/telnet_writeup)
+
+### DHCP
+
+- [DHCP configuration file /etc/dhcp/dhcpd.conf explained](https://www.thegeekdiary.com/dhcp-configuration-file-etcdhcpdhcpd-conf-explained/)
+
+### DNS
+
+- [The Web Developer's Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
+- [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
+
+> [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 
 </p>
 </details>
@@ -325,7 +354,6 @@ A collection of resources that I found useful and interesting across various dom
 <summary>Random</summary>
 <p>
 
-- [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
@@ -336,29 +364,18 @@ A collection of resources that I found useful and interesting across various dom
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
-- [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
-- [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
-- [DHCP configuration file /etc/dhcp/dhcpd.conf explained](https://www.thegeekdiary.com/dhcp-configuration-file-etcdhcpdhcpd-conf-explained/)
 - [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
-- [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
-- [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
 - [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
 - [What Is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
 - [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
-- [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
-- [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
-- [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
 - [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
 - [How does Team Viewer establish a Remote Desktop Connection?](https://security.stackexchange.com/questions/14280/how-does-team-viewer-establish-a-remote-desktop-connection)
 - [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols) :sparkles:
-- [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Latency Numbers](https://gist.github.com/jboner/2841832)
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
-- [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
-- [When TCP sockets refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
 
 </p>
 </details>
@@ -402,6 +419,7 @@ A collection of resources that I found useful and interesting across various dom
 - [File System Hierarchy](https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png)
 - [Linux tracing systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 - [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
+- [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
 - [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
 - [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
@@ -509,7 +527,6 @@ A collection of resources that I found useful and interesting across various dom
 <summary>Vim</summary>
 <p>
 
-
 - [Interactive Vim Tutorial](http://www.openvim.com/)
 - [Vim Galore](https://github.com/mhinz/vim-galore)
 - [Vim Cheatsheet](http://vimsheet.com/)
@@ -520,7 +537,6 @@ A collection of resources that I found useful and interesting across various dom
 <details>
 <summary>Bash</summary>
 <p>
-
 
 - [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
 - [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
@@ -587,6 +603,8 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Go
 
+> [Go FAQ](https://golang.org/doc/faq)
+
 <details>
 <summary>Pilot run</summary>
 <p>
@@ -607,20 +625,24 @@ A collection of resources that I found useful and interesting across various dom
 <summary>Advanced Concepts</summary>
 <p>
 
-- [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+### Concurrency
+
 - [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/) :sparkles:
 - [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) :sparkles:
+- [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
+- [Channels in Go](https://go101.org/article/channel.html)
+
+### More
+
+- [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [The Case For Go](https://gist.github.com/ungerik/3731476)
 - [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 - [Applied Go](https://appliedgo.net/)
-- [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 - [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
 - [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
-- [Go FAQ](https://golang.org/doc/faq)
-- [Channels in Go](https://go101.org/article/channel.html)
 - [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
 
 </p>
@@ -707,6 +729,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Onion Router](https://www.onion-router.net/)
 - [Handling bot attacks against a Tor hidden service](http://hn.premii.com/#/article/14280084)
 - [Anti-Censorship & Transparency - Roger Dingledine](https://www.youtube.com/watch?v=35l56KjTCb8) :tv:
+- [How does Tor work?](https://robertheaton.com/2019/04/06/how-does-tor-work/)
+- [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
 
 ## Functional Programming
 
@@ -844,7 +868,6 @@ A collection of resources that I found useful and interesting across various dom
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
 - [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 - [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
-- [Death By Database](https://ovid.github.io/articles/death-by-database.html)
 - [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf) *
 - [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
