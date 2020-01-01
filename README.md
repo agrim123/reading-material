@@ -18,6 +18,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Ruby](#ruby)
 - [Rails](#rails)
 - [Haskell](#haskell)
+- [Lisp](#lisp)
 - [Go](#go)
 - [Rust](#rust)
 - [Database](#database)
@@ -34,7 +35,9 @@ A collection of resources that I found useful and interesting across various dom
 - [More](#more)
 - [Fun](#fun)
 - [Interview Questions](#interview-questions)
-- [Books](/Books.md)
+- [More Books](#more-books)
+    - [Software Development](#software-development)
+    - [Random](#random)
 - [Papers](/Papers.md)
 - [Courses](/Courses.md)
 - [Topics](/Topics) [WIP]
@@ -128,6 +131,20 @@ A collection of resources that I found useful and interesting across various dom
 - [React Implementation Notes](https://reactjs.org/docs/implementation-notes.html)
 - [React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
+
+</p>
+</details>
+
+<details>
+<summary>Books</summary>
+<p>
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Javascript: The Good Parts](http://www.amazon.in/Javascript-Good-Parts-D-Crockford/dp/0596517742)
+- [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
+- [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
+- [The JavaScript Way](https://github.com/bpesquet/thejsway)
+- [Speaking JS](http://speakingjs.com/es5/index.html)
 
 </p>
 </details>
@@ -258,6 +275,15 @@ A collection of resources that I found useful and interesting across various dom
 </p>
 </details>
 
+<details>
+<summary>Books</summary>
+<p>
+
+- [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
+
+</p>
+</details>
+
 ## Docker
 
 - [Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/)
@@ -281,6 +307,16 @@ A collection of resources that I found useful and interesting across various dom
 - [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
  -[The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
 - [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+
+<details>
+<summary>Books</summary>
+<p>
+
+- [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+- [Clever Algorithms: Nature-Inspired Programming Recipes](http://www.cleveralgorithms.com/nature-inspired/index.html)
+
+</p>
+</details>
 
 ## Internet
 
@@ -382,6 +418,24 @@ A collection of resources that I found useful and interesting across various dom
 </p>
 </details>
 
+<details>
+<summary>Books</summary>
+<p>
+
+- [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
+- [CGI Programming 101](http://www.cgi101.com/)
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+- [Site Reliability Engineering](https://landing.google.com/sre/book.html)
+- [Understanding IP Addressing: Everything You Ever Wanted To Know](http://pages.di.unipi.it/ricci/501302.pdf)
+- [A. Tanenbaum - Bottom Up Networking](https://montcs.bloomu.edu/Readings/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf)
+- [Kurose and Ross - Top Down Networking](http://amzn.in/d/3S7Wd4s)
+- [TCP/IP Illustrated](http://www.cs.newpaltz.edu/~pletcha/NET_PY/the-protocols-tcp-ip-illustrated-volume-1.9780201633467.24290.pdf)
+- [High Performance Browser Networking](https://hpbn.co/)
+- [Computer Networking : Principles, Protocols and Practice, 2nd edition](http://cnp3book.info.ucl.ac.be/2nd/html/)
+
+</p>
+</details>
+
 ## Git
 
 - [Making Commit in past](http://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past)
@@ -408,6 +462,15 @@ A collection of resources that I found useful and interesting across various dom
 - [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
 - [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
 - [Git gc](https://www.atlassian.com/git/tutorials/git-gc)
+
+<details>
+<summary>Books</summary>
+<p>
+
+- [Pro Git](https://git-scm.com/book/en/v2)
+
+</p>
+</details>
 
 ## Linux
 
@@ -551,6 +614,19 @@ A collection of resources that I found useful and interesting across various dom
 </p>
 </details>
 
+<details>
+<summary>Books</summary>
+<p>
+
+- [Linux Device Drivers](http://free-electrons.com/doc/books/ldd3.pdf)
+- [Conquering The Command Line](http://conqueringthecommandline.com/book)
+- [Bash Cookbook](http://www.amazon.in/Bash-Cookbook-Cookbooks-Cameron-Newham/dp/0596526784)
+- [Learn Shell](http://www.learnshell.org/)
+- [The Linux Programming Interface](http://www.man7.org/tlpi/)
+
+</p>
+</details>
+
 ## OS dev
 
 - [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
@@ -560,6 +636,16 @@ A collection of resources that I found useful and interesting across various dom
 - [Building a simple Kernel](http://wiki.osdev.org/Bare_Bones)
 - [How Does an Intel Processor Boot?](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
 - [implement your own Linux kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
+
+<details>
+<summary>Books</summary>
+<p>
+
+- [Os Dev Books](http://wiki.osdev.org/Books#TCP.2FIP)
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+</p>
+</details>
 
 ## C
 
@@ -585,6 +671,16 @@ A collection of resources that I found useful and interesting across various dom
 - [Ruby vs. The World](https://matt.aimonetti.net/posts/2012/11/02/rubyconf-2012-ruby-vs-the-world/)
 - [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read)
 
+<details>
+<summary>Books</summary>
+<p>
+
+- [Guide to Ruby](http://poignant.guide/book/)
+- [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope)
+
+</p>
+</details>
+
 ## Rails
 
 - [RoR Tutorial](https://www.railstutorial.org/book/frontmatter)
@@ -602,6 +698,32 @@ A collection of resources that I found useful and interesting across various dom
 - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 - [Some Notes About How I Write Haskell](https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell)
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+
+<details>
+<summary>Books</summary>
+<p>
+
+- [Open-source Haskell books](http://hn.premii.com/#/article/14392423)
+- [Learn You a Haskell](http://learnyouahaskell.com)
+- [Real World Haskell](http://book.realworldhaskell.org/read/)
+- [Haskell Programming from first principles](http://haskellbook.com/)
+- [Beginning Haskell](http://www.apress.com/in/book/9781430262503)
+
+</p>
+</details>
+
+## Lisp
+
+<details>
+<summary>Books</summary>
+<p>
+
+- [Practical Common Lisp](http://www.gigamonkeys.com/book/)
+- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+- [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
+
+</p>
+</details>
 
 ## Go
 
@@ -681,6 +803,22 @@ A collection of resources that I found useful and interesting across various dom
 </p>
 </details>
 
+<details>
+<summary>Books</summary>
+<p>
+
+- [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+- [Go Bootcamp](http://www.golangbootcamp.com/book)
+- [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+- [The Way to Go: A Thorough Introduction to the Go Programming Language](http://www.amazon.in/Way-Go-Thorough-Introduction-Programming/dp/1469769166)
+- [Learning Go](https://www.miek.nl/go/)
+- [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
+- [Go Books](https://github.com/dariubs/GoBooks)
+- [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+
+</p>
+</details>
+
 ## Rust
 
 - [Learning Rust](https://learning-rust.github.io/docs/a3.hello_world.html)
@@ -723,6 +861,15 @@ A collection of resources that I found useful and interesting across various dom
 - [Bitcoin Resources](https://lopp.net/bitcoin.html)
 - [Is CPU mining even worth the Ether?](https://ethereum.stackexchange.com/questions/2325/is-cpu-mining-even-worth-the-ether)
 - [Nativecoin - build your own crypto-currency](https://lhartikk.github.io/)
+
+<details>
+<summary>Books</summary>
+<p>
+
+[Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/)
+
+</p>
+</details>
 
 ## Tor
 
@@ -901,3 +1048,37 @@ A collection of resources that I found useful and interesting across various dom
 - [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - https://github.com/jwasham/google-interview-university
+
+## More Books
+
+### Software Development
+
+- [Coders at Work](https://www.amazon.com/gp/product/1430219483)
+- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396)
+- [Working Effectively with Legacy Code](https://www.amazon.com/gp/product/0131177052)
+- [Programming Pearls](https://www.amazon.com/gp/product/0201657880)
+- [The Art of Computer Programming](https://www.amazon.com/gp/product/0201896834)
+- [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/0201485672)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882)
+- [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/gp/product/0735619670)
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [The Mythical Man-Month](http://www.amazon.in/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+- [The Joy of Software Development](https://josd.captnemo.in/content/)
+
+### Random
+
+- [Understanding Message Brokers](http://www.oreilly.com/programming/free/files/understanding-message-brokers.pdf)
+- [A handbook for making programming languages](http://www.craftinginterpreters.com/contents.html)
+- [Ask HN: What language-agnostic programming books should I read ?](https://news.ycombinator.com/item?id=14486657)
+- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+- [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
+- [How to Design Programs, Second Edition](http://www.htdp.org/2018-01-06/Book/index.html)
+- [An Illustrated Book of Bad Arguments](https://bookofbadarguments.com/)
+- [An illustrated introduction to computational thinking](https://bookofbadchoices.com/index.html#page/3)
+- [Distributed systems: for fun and profit](http://book.mixu.net/distsys/intro.html)
+- [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
+- https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
+- https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
+- https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/
+- https://libgen.pw
