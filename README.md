@@ -178,6 +178,8 @@ A collection of resources that I found useful and interesting across various dom
 - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 - [The SSL FREAK vulnerability explained](https://robertheaton.com/2015/04/06/the-ssl-freak-vulnerability/)
 - [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
+- [Abusing HTTP hop-by-hop request headers](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers)
+- [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 
 </p>
 </details>
@@ -294,6 +296,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Exposing Private Information by Timing Web Applications](https://crypto.stanford.edu/~dabo/papers/webtiming.pdf)
 - [Security, Authentication, and Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf)
 - [A Future-Adaptable Password Scheme](https://www.usenix.org/legacy/events/usenix99/provos/provos.pdf)
+- [Too Much Crypto](https://eprint.iacr.org/2019/1492.pdf)
 
 </p>
 </details>
