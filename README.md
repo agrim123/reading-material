@@ -797,6 +797,7 @@ A collection of resources that I found useful and interesting across various dom
 
 ### Concurrency
 
+- [Go Concurrency from the Ground Up](http://www.doxsey.net/blog/go-concurrency-from-the-ground-up)
 - [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/) :sparkles:
 - [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) :sparkles:
 - [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
@@ -831,6 +832,8 @@ A collection of resources that I found useful and interesting across various dom
 - [The Go scheduler](https://morsmachine.dk/go-scheduler)
 - [The Case For A Go Worker Pool](https://brandur.org/go-worker-pool)
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
+- [Go & Assembly](http://www.doxsey.net/blog/go-and-assembly)
+- [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 
 </p>
 </details>
@@ -1150,6 +1153,8 @@ A collection of resources that I found useful and interesting across various dom
 - [EPIGRAMS IN PROGRAMMING](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [The Danger of “Simplicity”](https://asthasr.github.io/posts/danger-of-simplicity)
 - [Why Rust and not Go](https://blog.juliobiason.me/thoughts/why-rust-and-not-go/) :sparkles:
+- [Why Go and Rust are Competitors](http://www.doxsey.net/blog/why-go-and-rust-are-competitors)
+- [A Response to Hello World](http://www.doxsey.net/blog/a-response-to-hello-world)
 
 ## Fun
 
