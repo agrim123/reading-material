@@ -795,7 +795,11 @@ A collection of resources that I found useful and interesting across various dom
 <summary>Advanced Concepts</summary>
 <p>
 
+> Do not communicate by sharing memory; instead, share memory by communicating.
+
 ### Concurrency
+
+> Concurrency is not Parallelism
 
 - [Go Concurrency from the Ground Up](http://www.doxsey.net/blog/go-concurrency-from-the-ground-up)
 - [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/) :sparkles:
@@ -803,12 +807,21 @@ A collection of resources that I found useful and interesting across various dom
 - [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 - [Channels in Go](https://go101.org/article/channel.html)
 
+### Profiling
+
+> [Go Diagnostics](https://golang.org/doc/diagnostics.html)
+
+- [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
+- [Scheduler Tracing In Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
+- [Profiling and optimizing Go web applications](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/)
+- [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
+- [Profiling Go programs with pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
+
 ### More
 
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [The Case For Go](https://gist.github.com/ungerik/3731476)
 - [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
-- [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 - [Applied Go](https://appliedgo.net/)
 - [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
 - [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
