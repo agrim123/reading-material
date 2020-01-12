@@ -4,6 +4,8 @@ A collection of resources that I found useful and interesting across various dom
 
 > [The Tao of Programming](http://www.mit.edu/~xela/tao.html)
 
+> [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+
 ## Contents
 
 - [Javascript](#js)
@@ -55,6 +57,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/a/34361380)
+- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 
 </p>
 </details>
@@ -95,7 +98,6 @@ A collection of resources that I found useful and interesting across various dom
 - [What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
 - [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1/)
 - [Mistakes we make using JavaScript Promises](https://www.betamark.com/blog/mistakes-using-javascript-promises/)
-- https://github.com/tc39
 
 </p>
 </details>
@@ -105,9 +107,7 @@ A collection of resources that I found useful and interesting across various dom
 <p>
 
 - [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
-- [Making NodeJS App faster](https://engineering.gosquared.com/making-dashboard-faster)
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
-- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 
 </p>
 </details>
@@ -208,14 +208,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Sites to practice InfoSec Skills](https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/)
 - [CVE-2016-4484: Cryptsetup Initrd root Shell](http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html)
 - [Securing API with OAuth 2.0](https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/)
-- [CTF Field Guide](https://trailofbits.github.io/ctf)
-- [Owasp](https://www.owasp.org/)
+- [CTF Field Guide](https://trailofbits.github.io/ctf) :sparkles:
 - [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
 - [Buffer Overflow](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
 - [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own) :sparkles:
 - [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
 - [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
-- [Radare 2 Book](https://radare.gitbooks.io/radare2book/content/)
 - [Project Zero](https://googleprojectzero.blogspot.in/)
 - [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 - [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
@@ -225,14 +223,13 @@ A collection of resources that I found useful and interesting across various dom
 - [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
 - [Use bcrypt](https://codahale.com/how-to-safely-store-a-password/)
 - [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
-- [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if you are really stuck solving CTF questions)**
+- [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if really stuck solving CTF questions)**
 - [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
 - [GOT and PLT for pwning](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
 - [A Look at The Draft for JWT Best Current Practices](https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/)
 - [LiveOverflow Binary Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) :tv:
 - [Advanced web security topics](https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/)
 - [Don't publicly expose .git](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/) :sparkles:
-- https://rpis.ec/
 - [The State Of Software Security In 2019](https://noncombatant.org/2019/01/06/state-of-security-2019/) :lock:
 - [CSRF](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 
@@ -282,6 +279,7 @@ A collection of resources that I found useful and interesting across various dom
 <p>
 
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
+- [Radare 2 Book](https://radare.gitbooks.io/radare2book/content/)
 
 </p>
 </details>
@@ -429,7 +427,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
-- [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+- [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) :sparkles:
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
 - [What Is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
@@ -1114,6 +1112,8 @@ A collection of resources that I found useful and interesting across various dom
 - https://blog.rpis.ec/
 - https://blog.jessfraz.com/
 - https://www.hackinglinuxexposed.com/articles/
+- [Owasp](https://www.owasp.org/)
+- https://rpis.ec/
 
 ## More
 
