@@ -232,6 +232,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Don't publicly expose .git](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/) :sparkles:
 - [The State Of Software Security In 2019](https://noncombatant.org/2019/01/06/state-of-security-2019/) :lock:
 - [CSRF](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+- [The definitive super list for "Google Hacking"](https://gist.github.com/cmartinbaughman/5877945)
 
 </p>
 </details>
@@ -573,6 +574,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Linux Log Files that are Located under /var/log Directory](https://www.thegeekstuff.com/2011/08/linux-var-log-files/)
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [An Evening with Berferd In Which a Cracker is Lured, Endured, and Studied](https://www.cheswick.com/ches/papers/berferd.pdf)
+- [“zero copy networking” vs “kernel bypass”?](https://stackoverflow.com/a/18346526)
 
 </p>
 </details>
@@ -826,6 +828,9 @@ A collection of resources that I found useful and interesting across various dom
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 - [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
+- [A whirlwind tour of Go’s runtime environment variables](https://dave.cheney.net/tag/godebug)
+- [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
+- [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709)
 
 </p>
 </details>
@@ -1070,7 +1075,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Awesome REST](https://github.com/marmelab/awesome-rest)
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
-- [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
 - https://github.com/Hack-with-Github/Awesome-Hacking
 
