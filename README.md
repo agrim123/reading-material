@@ -398,6 +398,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 - [When TCP sockets refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
 - [Messing With Telnet](https://jott.live/markdown/telnet_writeup)
+- [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
+- [Employing QUIC Protocol to Optimize Uber’s App Performance](https://eng.uber.com/employing-quic-protocol/)
 
 ### DHCP
 
@@ -439,6 +441,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols) :sparkles:
 - [Latency Numbers](https://gist.github.com/jboner/2841832)
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
+- [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
+- [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
 
 </p>
 </details>
@@ -783,16 +787,13 @@ A collection of resources that I found useful and interesting across various dom
 - [Go by example](https://gobyexample.com/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
-- [Go talks](https://talks.golang.org/)
-    - [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1) :sparkles:
-    - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 
 </p>
 </details>
 
 <details>
-<summary>Advanced Concepts</summary>
+<summary>Concepts</summary>
 <p>
 
 > Do not communicate by sharing memory; instead, share memory by communicating.
@@ -806,6 +807,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) :sparkles:
 - [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 - [Channels in Go](https://go101.org/article/channel.html)
+- [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
 
 ### Profiling
 
@@ -831,6 +833,7 @@ A collection of resources that I found useful and interesting across various dom
 - [A whirlwind tour of Go’s runtime environment variables](https://dave.cheney.net/tag/godebug)
 - [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
 - [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709)
+- [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/)
 
 </p>
 </details>
@@ -838,6 +841,8 @@ A collection of resources that I found useful and interesting across various dom
 <details>
 <summary>Internals</summary>
 <p>
+
+> [Everything about Go: internals, concurrency, compiler, or packages available in the Go community.](https://medium.com/a-journey-with-go)
 
 - [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 - [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
@@ -850,6 +855,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 - [Go & Assembly](http://www.doxsey.net/blog/go-and-assembly)
 - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
+- [Memory Leaking Scenarios](https://go101.org/article/memory-leaking.html)
+- [Memory Order Guarantees in Go](https://go101.org/article/memory-model.html)
+- [Go: g0, Special Goroutine](https://medium.com/a-journey-with-go/go-g0-special-goroutine-8c778c6704d8)
 
 </p>
 </details>
