@@ -579,6 +579,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [An Evening with Berferd In Which a Cracker is Lured, Endured, and Studied](https://www.cheswick.com/ches/papers/berferd.pdf)
 - [“zero copy networking” vs “kernel bypass”?](https://stackoverflow.com/a/18346526)
+- [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 
 </p>
 </details>
@@ -822,6 +823,7 @@ A collection of resources that I found useful and interesting across various dom
 ### More
 
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+- [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
 - [The Case For Go](https://gist.github.com/ungerik/3731476)
 - [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
 - [Applied Go](https://appliedgo.net/)
@@ -834,6 +836,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
 - [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709)
 - [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/)
+- [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 
 </p>
 </details>
@@ -858,6 +861,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Memory Leaking Scenarios](https://go101.org/article/memory-leaking.html)
 - [Memory Order Guarantees in Go](https://go101.org/article/memory-model.html)
 - [Go: g0, Special Goroutine](https://medium.com/a-journey-with-go/go-g0-special-goroutine-8c778c6704d8)
+- [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
 
 </p>
 </details>
@@ -1126,6 +1130,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://www.hackinglinuxexposed.com/articles/
 - [Owasp](https://www.owasp.org/)
 - https://rpis.ec/
+- https://dave.cheney.net/
 
 ## More
 
@@ -1186,6 +1191,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://turnoff.us
 - https://xkcd.com
 - https://impurepics.com/
+- https://www.commitstrip.com
 
 ## Interview Questions
 
