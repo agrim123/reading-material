@@ -1055,6 +1055,8 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Distributed Systems
 
+> [Distributed Systems](http://book.mixu.net/distsys/)
+
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
@@ -1131,6 +1133,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Owasp](https://www.owasp.org/)
 - https://rpis.ec/
 - https://dave.cheney.net/
+- http://www.brendangregg.com/
+- [Learn Anything](https://learn-anything.xyz/)
 
 ## More
 
@@ -1138,7 +1142,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Global Variables are Bad](http://wiki.c2.com/?GlobalVariablesAreBad)
 - [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)
 - [The language of choice](https://codewords.recurse.com/issues/four/the-language-of-choice)
-- [Learn Anything](https://learn-anything.xyz/)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Lecture Search](https://www.findlectures.com/)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
@@ -1162,7 +1165,6 @@ A collection of resources that I found useful and interesting across various dom
 - [The three types of programmers](https://mkdev.me/en/posts/the-three-types-of-programmers)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 - [Leaving Clojure for Ruby](https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html)
-- [If Programming languages were harry potter characters](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
 - [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 - [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
@@ -1192,6 +1194,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://xkcd.com
 - https://impurepics.com/
 - https://www.commitstrip.com
+- [If Programming languages were harry potter characters](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
 
 ## Interview Questions
 
@@ -1228,7 +1231,6 @@ A collection of resources that I found useful and interesting across various dom
 - [How to Design Programs, Second Edition](http://www.htdp.org/2018-01-06/Book/index.html)
 - [An Illustrated Book of Bad Arguments](https://bookofbadarguments.com/)
 - [An illustrated introduction to computational thinking](https://bookofbadchoices.com/index.html#page/3)
-- [Distributed systems: for fun and profit](http://book.mixu.net/distsys/intro.html)
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
 - https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
 - https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
