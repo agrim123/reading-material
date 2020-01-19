@@ -98,6 +98,7 @@ A collection of resources that I found useful and interesting across various dom
 - [What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
 - [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1/)
 - [Mistakes we make using JavaScript Promises](https://www.betamark.com/blog/mistakes-using-javascript-promises/)
+- [Webpack How-to](https://github.com/petehunt/webpack-howto)
 
 </p>
 </details>
@@ -108,16 +109,6 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
-
-</p>
-</details>
-
-<details>
-<summary>Webpack</summary>
-<p>
-
-- [Diving Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/)
-- [Webpack How-to](https://github.com/petehunt/webpack-howto)
 
 </p>
 </details>
@@ -1135,6 +1126,8 @@ A collection of resources that I found useful and interesting across various dom
 - https://dave.cheney.net/
 - http://www.brendangregg.com/
 - [Learn Anything](https://learn-anything.xyz/)
+- https://www.scalescale.com/
+- https://medium.com/@blanchon.vincent
 
 ## More
 
