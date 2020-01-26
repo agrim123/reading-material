@@ -4,8 +4,6 @@ A collection of resources that I found useful and interesting across various dom
 
 > [The Tao of Programming](http://www.mit.edu/~xela/tao.html)
 
-> [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
-
 ## Contents
 
 - [Javascript](#js)
@@ -32,6 +30,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Distributed Systems](#distributed-sytems)
 - [Architecture](#architecture)
 - [Kafka](#kafka)
+    - [Prometheus](#prometheus)
 - [Awesome Lists](#awesome-lists)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
@@ -91,7 +90,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Object-oriented Programming in vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
 - [Essential Image Optimization](https://images.guide/) :sparkles:
 - [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
-- [The Curious Case of Mobx State Tree](https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f)
 - [In defense of Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
 - [Douglas Crockford: Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) :tv:
 - [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
@@ -336,28 +334,19 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Internet
 
-<details>
-<summary>Webservers</summary>
-<p>
+### Webservers
 
 - [Apache vs Nginx](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
-- [Secure Nginx with SSL Certificate](http://www.tecmint.com/secure-nginx-with-lets-encrypt-ssl-certificate-on-ubuntu-and-debian/)
 - [Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [Cache Docs](https://www.mnot.net/cache_docs/)
-- [10 Tips for 10x Application Performance](https://www.nginx.com/blog/10-tips-for-10x-application-performance/)
 - [nginx](http://www.aosabook.org/en/nginx.html)
 - [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
 - [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
 
-</p>
-</details>
+### Protocols
 
-<details>
-<summary>Protocols</summary>
-<p>
-
-### HTTP(S)
+#### HTTP(S)
 
 - [HTTP](https://www.jmarshall.com/easy/http/)
 - [Analysis of HTTP Performance](https://www.isi.edu/lsam/publications/http-perf/)
@@ -371,16 +360,16 @@ A collection of resources that I found useful and interesting across various dom
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 
-### IPFS
+#### IPFS
 
 - [IPFS](https://ipfs.io/)
 - [Paper review. IPFS: Content addressed, versioned, P2P file system](https://muratbuffalo.blogspot.in/2018/02/paper-review-ipfs-content-addressed.html)
 
-### FTP
+#### FTP
 
 - [FTP: File Transfer Protocol](http://cr.yp.to/ftp.html)
 
-### TCP/UDP
+#### TCP/UDP
 
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
@@ -392,23 +381,18 @@ A collection of resources that I found useful and interesting across various dom
 - [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
 - [Employing QUIC Protocol to Optimize Uber’s App Performance](https://eng.uber.com/employing-quic-protocol/)
 
-### DHCP
+#### DHCP
 
 - [DHCP configuration file /etc/dhcp/dhcpd.conf explained](https://www.thegeekdiary.com/dhcp-configuration-file-etcdhcpdhcpd-conf-explained/)
 
-### DNS
+#### DNS
 
 - [The Web Developer's Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
 - [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
 
 > [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 
-</p>
-</details>
-
-<details>
-<summary>Random</summary>
-<p>
+### Random
 
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
@@ -424,10 +408,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) :sparkles:
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
-- [What Is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
 - [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 - [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
-- [How does Team Viewer establish a Remote Desktop Connection?](https://security.stackexchange.com/questions/14280/how-does-team-viewer-establish-a-remote-desktop-connection)
 - [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols) :sparkles:
 - [Latency Numbers](https://gist.github.com/jboner/2841832)
@@ -496,21 +478,13 @@ A collection of resources that I found useful and interesting across various dom
 - [Git introduction – .git directory](http://slidedeck.io/mikhail-vnukov/git-basics)
 - [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 - [Git Immersion](http://gitimmersion.com/index.html)
-- [Git Compression of Blobs and Packfiles.](https://gist.github.com/matthewmccullough/2695758)
+- [Git Compression of Blobs and Packfiles](https://gist.github.com/matthewmccullough/2695758)
 - [Why do Git/Mercurial repositories use less space?](https://softwareengineering.stackexchange.com/questions/148434/why-do-git-mercurial-repositories-use-less-space/148498#148498)
 - [How bad can it git? Characterizing secret leakage in public GitHub repositories](https://blog.acolyer.org/2019/04/08/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
 - [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
 - [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
 - [Git gc](https://www.atlassian.com/git/tutorials/git-gc)
-
-<details>
-<summary>Books</summary>
-<p>
-
-- [Pro Git](https://git-scm.com/book/en/v2)
-
-</p>
-</details>
+- [Pro Git](https://git-scm.com/book/en/v2) :books:
 
 ## Linux
 
@@ -522,7 +496,6 @@ A collection of resources that I found useful and interesting across various dom
 - [chmod Tutorial](http://catcode.com/teachmod/)
 - [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 - [File System Hierarchy](https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png)
-- [Linux tracing systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 - [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
 - [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
 - [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
@@ -530,8 +503,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
 - [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
 - [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
-- [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/):sparkles::sparkles:
-- [rm -rf remains](https://lambdaops.com/rm-rf-remains/)
+- [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) :sparkles::sparkles:
+- [rm -rf remains](https://lambdaops.com/rm-rf-remains/) :sparkles:
 - [Linux Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
 - [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) :sparkles::sparkles:
@@ -541,7 +514,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
 - [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 - [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) :sparkles:
-- [In UNIX Everything is a File](https://ph7spot.com/musings/in-unix-everything-is-a-file)
 - [Linux file descriptors](https://monometric.io/article/file-descriptors-in-2018)
 - [UNIX Syscalls](https://john-millikin.com/unix-syscalls)
 - [How statically linked programs run on Linux](https://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux) :sparkles:
@@ -695,33 +667,22 @@ A collection of resources that I found useful and interesting across various dom
 - [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly) :sparkles::sparkles:
 - [Smashing The Stack For Fun And Profit](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
 - [GNU Make: A Program for Directing Recompilation](http://web.mit.edu/gnu/doc/html/make_toc.html)
-- [NCURSES Programming HOWTO](http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
+- [ncurses Programming HOWTO](http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
 - [Make your own build system](http://jstimpfle.de/blah/buildsystem/buildsystem.html)
 - [Malloc tutorial](https://danluu.com/malloc-tutorial/)
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
 - [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
-- [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
 - [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html) :sparkles::sparkles:
 
 ## Ruby
 
 - [Ruby Programming](https://www.theodinproject.com/courses/ruby-programming)
-- [:sparkles: in Ruby](http://goyalankit.com/blog/the-star-in-ruby)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
 - [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
 - [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
 - [Ruby vs. The World](https://matt.aimonetti.net/posts/2012/11/02/rubyconf-2012-ruby-vs-the-world/)
-- [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read)
-
-<details>
-<summary>Books</summary>
-<p>
-
-- [Guide to Ruby](http://poignant.guide/book/)
-- [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope)
-
-</p>
-</details>
+- [Guide to Ruby](http://poignant.guide/book/) :books:
+- [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) :books:
 
 ## Rails
 
@@ -810,6 +771,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Profiling and optimizing Go web applications](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/)
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [Profiling Go programs with pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
+- [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
 
 ### More
 
@@ -1064,6 +1026,14 @@ A collection of resources that I found useful and interesting across various dom
 - [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Kafka and Zookeeper with Docker](https://medium.com/rahasak/kafka-and-zookeeper-with-docker-65cff2c2c34f)
 - [Kafka Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf) :books:
+- [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol#AGuideToTheKafkaProtocol-Introduction)
+
+## Monitoring
+
+### Prometheus
+
+- [When to use the Pushgateway](https://prometheus.io/docs/practices/pushing/)
+- [Common pitfalls when using the Pushgateway](https://www.robustperception.io/common-pitfalls-when-using-the-pushgateway)
 
 ## Awesome Lists
 
@@ -1180,6 +1150,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Why Rust and not Go](https://blog.juliobiason.me/thoughts/why-rust-and-not-go/) :sparkles:
 - [Why Go and Rust are Competitors](http://www.doxsey.net/blog/why-go-and-rust-are-competitors)
 - [A Response to Hello World](http://www.doxsey.net/blog/a-response-to-hello-world)
+- [See Python, See Python Go, Go Python Go](https://blog.heroku.com/see_python_see_python_go_go_python_go)
 
 ## Fun
 
