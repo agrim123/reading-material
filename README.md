@@ -11,8 +11,23 @@ A collection of resources that I found useful and interesting across various dom
 - [Docker](#docker)
 - [Algorithms](#algorithms)
 - [Internet](#internet)
+    - [Webservers](#webservers)
+    - [Protocols](#protocols)
+        - [HTTP](#https)
+        - [IPFS](#ipfs)
+        - [FTP](#ftp)
+        - [TCP/UDP](#tcpudp)
+        - [DHCP](#dhcp)
+        - [DNS](#dns)
 - [Git](#git)
 - [Linux](#linux)
+    - [Linux](#linux)
+    - [Kernel](#kernel)
+    - [PAM](#pam)
+    - [SSH](#ssh)
+    - [Linux Security](#linuxsecurity)
+    - [Vim](#vim)
+    - [Bash](#bash)
 - [OS Dev](#os-dev)
 - [C](#c)
 - [Ruby](#ruby)
@@ -20,6 +35,11 @@ A collection of resources that I found useful and interesting across various dom
 - [Haskell](#haskell)
 - [Lisp](#lisp)
 - [Go](#go)
+    - [Concepts](#concepts)
+        - [Concurrency](#concurrency)
+        - [Profiling](#profiling)
+    - [Go Internals](#go-internals)
+    - [Networking with Go](#networking-with-go)
 - [Rust](#rust)
 - [Database](#database)
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
@@ -488,9 +508,7 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Linux
 
-<details>
-<summary>Linux</summary>
-<p>
+### Linux
 
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [chmod Tutorial](http://catcode.com/teachmod/)
@@ -544,12 +562,7 @@ A collection of resources that I found useful and interesting across various dom
 - [“zero copy networking” vs “kernel bypass”?](https://stackoverflow.com/a/18346526)
 - [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 
-</p>
-</details>
-
-<details>
-<summary>Kernel</summary>
-<p>
+### Kernel
 
 - [Kernel Map](http://www.makelinux.net/kernel_map/)
 - [Documentation extracted from the Linux kernel](https://www.kernel.org/doc/)
@@ -557,22 +570,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
 - [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
-</p>
-</details>
-
-<details>
-<summary>PAM</summary>
-<p>
+### PAM
 
 - [Linux PAM](http://www.linux-pam.org/Linux-PAM-html)
 - [Using PAM](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules)
 
-</p>
-</details>
-
-<details>
-<summary>SSH</summary>
-<p>
+### SSH
 
 - [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 - [SSH Agent Vulnerabilities](http://www-arc.com/sara/cve/SSH_vulnerabilities.html)
@@ -580,12 +583,7 @@ A collection of resources that I found useful and interesting across various dom
 - [SSH Examples, Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
 - [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
 
-</p>
-</details>
-
-<details>
-<summary>Linux Security</summary>
-<p>
+### Linux Security
 
 - [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 - [Dirty Cow](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
@@ -599,23 +597,13 @@ A collection of resources that I found useful and interesting across various dom
 - [How to break out of a chroot() jail](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)
 - [Securing Debian Manual](https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html#contents)
 
-</p>
-</details>
-
-<details>
-<summary>Vim</summary>
-<p>
+### Vim
 
 - [Interactive Vim Tutorial](http://www.openvim.com/)
 - [Vim Galore](https://github.com/mhinz/vim-galore)
 - [Vim Cheatsheet](http://vimsheet.com/)
 
-</p>
-</details>
-
-<details>
-<summary>Bash</summary>
-<p>
+### Bash
 
 - [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
 - [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
@@ -625,12 +613,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Explain Shell](https://explainshell.com/)
 - [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 
-</p>
-</details>
-
-<details>
-<summary>Books</summary>
-<p>
+### Books
 
 - [Linux Device Drivers](http://free-electrons.com/doc/books/ldd3.pdf)
 - [Conquering The Command Line](http://conqueringthecommandline.com/book)
@@ -638,8 +621,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Learn Shell](http://www.learnshell.org/)
 - [The Linux Programming Interface](http://www.man7.org/tlpi/)
 
-</p>
-</details>
 
 ## OS dev
 
@@ -715,26 +696,11 @@ A collection of resources that I found useful and interesting across various dom
 </p>
 </details>
 
-## Lisp
-
-<details>
-<summary>Books</summary>
-<p>
-
-- [Practical Common Lisp](http://www.gigamonkeys.com/book/)
-- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
-- [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
-
-</p>
-</details>
-
 ## Go
 
 > [Go FAQ](https://golang.org/doc/faq)
 
-<details>
-<summary>Pilot run</summary>
-<p>
+### Pilot run
 
 - [Tour of Go](https://tour.golang.org/)
 - [Go by example](https://gobyexample.com/)
@@ -742,16 +708,11 @@ A collection of resources that I found useful and interesting across various dom
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 
-</p>
-</details>
-
-<details>
-<summary>Concepts</summary>
-<p>
+### Concepts
 
 > Do not communicate by sharing memory; instead, share memory by communicating.
 
-### Concurrency
+#### Concurrency
 
 > Concurrency is not Parallelism
 
@@ -762,7 +723,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Channels in Go](https://go101.org/article/channel.html)
 - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
 
-### Profiling
+#### Profiling
 
 > [Go Diagnostics](https://golang.org/doc/diagnostics.html)
 
@@ -773,7 +734,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Profiling Go programs with pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
 - [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
 
-### More
+#### More
 
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
@@ -791,12 +752,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/)
 - [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 
-</p>
-</details>
-
-<details>
-<summary>Internals</summary>
-<p>
+### Go Internals
 
 > [Everything about Go: internals, concurrency, compiler, or packages available in the Go community.](https://medium.com/a-journey-with-go)
 
@@ -816,12 +772,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Go: g0, Special Goroutine](https://medium.com/a-journey-with-go/go-g0-special-goroutine-8c778c6704d8)
 - [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
 
-</p>
-</details>
-
-<details>
-<summary>Networking with Go</summary>
-<p>
+### Networking with Go
 
 - [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
@@ -830,12 +781,7 @@ A collection of resources that I found useful and interesting across various dom
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
 - [HTTPS and Go](https://www.kaihag.com/https-and-go/)
 
-</p>
-</details>
-
-<details>
-<summary>Books</summary>
-<p>
+### Books
 
 - [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 - [Go Bootcamp](http://www.golangbootcamp.com/book)
@@ -846,18 +792,10 @@ A collection of resources that I found useful and interesting across various dom
 - [Go Books](https://github.com/dariubs/GoBooks)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 
-</p>
-</details>
-
-<details>
-<summary>Papers</summary>
-<p>
+### Papers
 
 - [Analysis of the Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
 - [An Implementation and Analysis of a Kernel Network Stack in Go with the CSP Style](https://arxiv.org/abs/1603.05636)
-
-</p>
-</details>
 
 ## Rust
 
@@ -1035,24 +973,6 @@ A collection of resources that I found useful and interesting across various dom
 - [When to use the Pushgateway](https://prometheus.io/docs/practices/pushing/)
 - [Common pitfalls when using the Pushgateway](https://www.robustperception.io/common-pitfalls-when-using-the-pushgateway)
 
-## Awesome Lists
-
-> Curated list of good resources shared on github
-
-- [Awesome Security](https://github.com/sbilly/awesome-security)
-- [Awesome Reversing](https://github.com/tylerph3/awesome-reversing)
-- [Awesome Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks)
-- [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
-- [Awesome Ruby](https://github.com/markets/awesome-ruby)
-- [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
-- [Awesome Go](https://github.com/avelino/awesome-go)
-- [Awesome REST](https://github.com/marmelab/awesome-rest)
-- [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
-- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
-- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
-- https://github.com/Hack-with-Github/Awesome-Hacking
-
 ## Useful Command Line Tools
 
 - [tldr](https://github.com/tldr-pages/tldr)
@@ -1095,7 +1015,6 @@ A collection of resources that I found useful and interesting across various dom
 - https://rpis.ec/
 - https://dave.cheney.net/
 - http://www.brendangregg.com/
-- [Learn Anything](https://learn-anything.xyz/)
 - https://www.scalescale.com/
 - https://medium.com/@blanchon.vincent
 
@@ -1106,7 +1025,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)
 - [The language of choice](https://codewords.recurse.com/issues/four/the-language-of-choice)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
-- [Lecture Search](https://www.findlectures.com/)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [Return to the Source](http://www.cipht.net/2017/10/05/why-read-code.html)
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
@@ -1135,8 +1053,6 @@ A collection of resources that I found useful and interesting across various dom
 - [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
 - [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
-- [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
-- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 - [When setting an environment variable gives you a 40x speedup](https://news.sherlock.stanford.edu/posts/when-setting-an-environment-variable-gives-you-a-40-x-speedup)
 - [Meet the Flexbox Inspector](https://gedd.ski/) :sparkles:
@@ -1145,12 +1061,14 @@ A collection of resources that I found useful and interesting across various dom
 - [Race Condition vs. Data Race](https://blog.regehr.org/archives/490) :sparkles:
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) :sparkles:
 - [A byte’s not 8 bits.](https://burstingdynamics.wordpress.com/2015/11/10/a-byte-is-not-8-bits/) :sparkles:
-- [EPIGRAMS IN PROGRAMMING](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+- [Epigrams in programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [The Danger of “Simplicity”](https://asthasr.github.io/posts/danger-of-simplicity)
 - [Why Rust and not Go](https://blog.juliobiason.me/thoughts/why-rust-and-not-go/) :sparkles:
 - [Why Go and Rust are Competitors](http://www.doxsey.net/blog/why-go-and-rust-are-competitors)
 - [A Response to Hello World](http://www.doxsey.net/blog/a-response-to-hello-world)
 - [See Python, See Python Go, Go Python Go](https://blog.heroku.com/see_python_see_python_go_go_python_go)
+- [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
 
 ## Fun
 
@@ -1159,14 +1077,6 @@ A collection of resources that I found useful and interesting across various dom
 - https://impurepics.com/
 - https://www.commitstrip.com
 - [If Programming languages were harry potter characters](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
-
-## Interview Questions
-
-- [Front-end Interview Questions](https://github.com/yangshun/front-end-interview-handbook)
-- [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-- [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- https://github.com/jwasham/google-interview-university
 
 ## More Books
 
@@ -1184,6 +1094,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - [The Mythical Man-Month](http://www.amazon.in/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [The Joy of Software Development](https://josd.captnemo.in/content/)
+
+### Lisp
+
+- [Practical Common Lisp](http://www.gigamonkeys.com/book/)
+- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+- [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
 
 ### Random
 
