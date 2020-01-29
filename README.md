@@ -771,6 +771,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Memory Order Guarantees in Go](https://go101.org/article/memory-model.html)
 - [Go: g0, Special Goroutine](https://medium.com/a-journey-with-go/go-g0-special-goroutine-8c778c6704d8)
 - [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
+- [Go Internals](https://github.com/teh-cmc/go-internals)
 
 ### Networking with Go
 
@@ -930,6 +931,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) :sparkles:
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) :sparkles: :sparkles:
 
 ## OAuth
 
@@ -1069,6 +1071,7 @@ A collection of resources that I found useful and interesting across various dom
 - [See Python, See Python Go, Go Python Go](https://blog.heroku.com/see_python_see_python_go_go_python_go)
 - [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
+- [Why stack grows down](https://gist.github.com/cpq/8598782)
 
 ## Fun
 
