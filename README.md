@@ -189,6 +189,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [Abusing HTTP hop-by-hop request headers](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers)
 - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
+- [Memcrashed - Major amplification attacks from UDP port 11211](https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/amp/)
+- [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 
 </p>
 </details>
@@ -733,6 +735,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [Profiling Go programs with pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
 - [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
+- [go tool trace](https://making.pusher.com/go-tool-trace/)
 
 #### More
 
@@ -748,7 +751,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
 - [A whirlwind tour of Go’s runtime environment variables](https://dave.cheney.net/tag/godebug)
 - [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
-- [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709)
+- [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709) :sparkles:
 - [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/)
 - [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 
@@ -772,6 +775,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Go: g0, Special Goroutine](https://medium.com/a-journey-with-go/go-g0-special-goroutine-8c778c6704d8)
 - [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
 - [Go Internals](https://github.com/teh-cmc/go-internals)
+- [Go: Work-Stealing in Go Scheduler](https://medium.com/a-journey-with-go/go-work-stealing-in-go-scheduler-d439231be64d)
 
 ### Networking with Go
 
@@ -970,10 +974,10 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Monitoring
 
-### Prometheus
-
 - [When to use the Pushgateway](https://prometheus.io/docs/practices/pushing/)
 - [Common pitfalls when using the Pushgateway](https://www.robustperception.io/common-pitfalls-when-using-the-pushgateway)
+- [Statsd: Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
+- [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
 
 ## Useful Command Line Tools
 
@@ -1018,7 +1022,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://dave.cheney.net/
 - http://www.brendangregg.com/
 - https://www.scalescale.com/
-- https://medium.com/@blanchon.vincent
+- https://medium.com/@blanchon.vincent :sparkles:
 
 ## More
 
@@ -1072,6 +1076,9 @@ A collection of resources that I found useful and interesting across various dom
 - [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
 - [Why stack grows down](https://gist.github.com/cpq/8598782)
+- [(A few) Ops Lessons We All Learn The Hard Way -- a Twitter](https://twitter.com/jschauma/status/1220902743482814467?s=19)
+- [Programmer's critique of missing structure of operating systems](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html)
+- [S2 Cells](https://s2geometry.io/devguide/s2cell_hierarchy.html)
 
 ## Fun
 
