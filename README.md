@@ -776,6 +776,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
 - [Go Internals](https://github.com/teh-cmc/go-internals)
 - [Go: Work-Stealing in Go Scheduler](https://medium.com/a-journey-with-go/go-work-stealing-in-go-scheduler-d439231be64d)
+- [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones)
 
 ### Networking with Go
 
@@ -789,9 +790,7 @@ A collection of resources that I found useful and interesting across various dom
 ### Books
 
 - [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
-- [Go Bootcamp](http://www.golangbootcamp.com/book)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
-- [The Way to Go: A Thorough Introduction to the Go Programming Language](http://www.amazon.in/Way-Go-Thorough-Introduction-Programming/dp/1469769166)
 - [Learning Go](https://www.miek.nl/go/)
 - [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 - [Go Books](https://github.com/dariubs/GoBooks)
