@@ -216,11 +216,8 @@ A collection of resources that I found useful and interesting across various dom
 <p>
 
 - [CTF Wiki](https://github.com/lucyoa/ctf-wiki)
-- [Sites to practice InfoSec Skills](https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/)
 - [CVE-2016-4484: Cryptsetup Initrd root Shell](http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html)
-- [Securing API with OAuth 2.0](https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/)
 - [CTF Field Guide](https://trailofbits.github.io/ctf) :sparkles:
-- [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
 - [Buffer Overflow](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
 - [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own) :sparkles:
 - [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
@@ -941,6 +938,7 @@ A collection of resources that I found useful and interesting across various dom
 - [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 - [The OAuth 2.0 Authorization Framework RFC](https://tools.ietf.org/html/rfc6749)
 - [OAuth 2 Client](http://oauth2-client.thephpleague.com/) and [OAuth 2.0 Server](http://oauth2.thephpleague.com/)
+- [Securing API with OAuth 2.0](https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/)
 
 ## Regex
 
