@@ -51,7 +51,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Architecture](#architecture)
 - [Kafka](#kafka)
     - [Prometheus](#prometheus)
-- [Awesome Lists](#awesome-lists)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
 - [Fun](#fun)
@@ -739,7 +738,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
 - [The Case For Go](https://gist.github.com/ungerik/3731476)
-- [5 things about programming I learned with Go](http://mjk.space/5-things-about-programming-learned-with-go/)
 - [Applied Go](https://appliedgo.net/)
 - [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
 - [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
@@ -1030,9 +1028,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [Return to the Source](http://www.cipht.net/2017/10/05/why-read-code.html)
-- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-- [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
-- [Collecting All Cheat Sheets](http://overapi.com/)
+- [A list of everything that could go in the \<head\> of your document](https://github.com/joshbuchea/HEAD)
 - [Design Patterns](https://sourcemaking.com/design_patterns) :sparkles:
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
@@ -1079,6 +1075,11 @@ A collection of resources that I found useful and interesting across various dom
 - [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
 - [Queryparser, an Open Source Tool for Parsing and Analyzing SQL](https://eng.uber.com/queryparser/)
 - [Enabling Machine Learning with Apache Flink - Sherin Thomas](https://www.youtube.com/watch?v=_4lXkjqpMxI&t=12s) :tv:
+
+## Lists
+
+- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [Collecting All Cheat Sheets](http://overapi.com/)
 
 ## Fun
 
