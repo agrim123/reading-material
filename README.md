@@ -75,7 +75,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/a/34361380)
-- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 
 </p>
 </details>
@@ -96,7 +95,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
 - [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
 - [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
-- [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
 - [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :sparkles:
 - [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
 - [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95)
@@ -156,6 +154,13 @@ A collection of resources that I found useful and interesting across various dom
 
 </p>
 </details>
+
+### v8
+
+- [v8 Resource](https://github.com/ray-cp/browser_pwn_resources/blob/master/v8_resources.md)
+- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+- [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
+- [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)
 
 ## Security
 
@@ -240,6 +245,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The State Of Software Security In 2019](https://noncombatant.org/2019/01/06/state-of-security-2019/) :lock:
 - [CSRF](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 - [The definitive super list for "Google Hacking"](https://gist.github.com/cmartinbaughman/5877945)
+- [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/)
 
 </p>
 </details>
@@ -337,7 +343,7 @@ A collection of resources that I found useful and interesting across various dom
 - [How to think in graphs](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 - [Ask HN: What's your favorite elegant/beautiful algorithm?](https://news.ycombinator.com/item?id=18236396)
 - [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
- -[The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
+- [The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
 - [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
 <details>
