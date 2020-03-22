@@ -760,7 +760,7 @@ A collection of resources that I found useful and interesting across various dom
 
 > [Everything about Go: internals, concurrency, compiler, or packages available in the Go community.](https://medium.com/a-journey-with-go)
 
-- [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
+- [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) :sparkles:
 - [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
 - [The Go Memory Model](https://golang.org/ref/mem)
 - [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
@@ -778,6 +778,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Go Internals](https://github.com/teh-cmc/go-internals)
 - [Go: Work-Stealing in Go Scheduler](https://medium.com/a-journey-with-go/go-work-stealing-in-go-scheduler-d439231be64d)
 - [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones)
+- [The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
 
 ### Networking with Go
 
@@ -810,6 +811,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Why is Rust difficult?](https://vorner.github.io/difficult.html)
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Rust Design Patterns](https://github.com/rust-unofficial/patterns)
+- [Programming in Rust: the good, the bad, the ugly.](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
 
 ## Database
 
