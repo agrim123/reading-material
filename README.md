@@ -773,10 +773,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 - [Memory Leaking Scenarios](https://go101.org/article/memory-leaking.html)
 - [Memory Order Guarantees in Go](https://go101.org/article/memory-model.html)
-- [Go: g0, Special Goroutine](https://medium.com/a-journey-with-go/go-g0-special-goroutine-8c778c6704d8)
 - [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
 - [Go Internals](https://github.com/teh-cmc/go-internals)
-- [Go: Work-Stealing in Go Scheduler](https://medium.com/a-journey-with-go/go-work-stealing-in-go-scheduler-d439231be64d)
 - [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones)
 - [The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
 
