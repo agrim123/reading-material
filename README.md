@@ -573,6 +573,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
 - [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
 - [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+- [The Linux Kernel](https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html)
 
 ### PAM
 
@@ -803,13 +804,14 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Rust
 
-- [Learning Rust](https://learning-rust.github.io/docs/a3.hello_world.html)
-- [Rust Intro](https://stevedonovan.github.io/rust-gentle-intro/1-basics.html)
+- [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/1-basics.html)
 - [Rust Docs](https://doc.rust-lang.org/rust-by-example/std/result.html)
-- [Why is Rust difficult?](https://vorner.github.io/difficult.html)
-- [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Rust Design Patterns](https://github.com/rust-unofficial/patterns)
-- [Programming in Rust: the good, the bad, the ugly.](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
+- [Rethinking Systems Programming](https://thoughtram.io/rust-and-nickel/#/) :sparkles:
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [Learning systems programming with Rust](https://jvns.ca/blog/2016/09/11/rustconf-keynote/)
+- [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
+- [Fearless Concurrency with Rust](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
 
 ## Database
 
@@ -1081,6 +1083,7 @@ A collection of resources that I found useful and interesting across various dom
 - [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
 - [Queryparser, an Open Source Tool for Parsing and Analyzing SQL](https://eng.uber.com/queryparser/)
 - [Enabling Machine Learning with Apache Flink - Sherin Thomas](https://www.youtube.com/watch?v=_4lXkjqpMxI&t=12s) :tv:
+- [High-Throughput, Thread-Safe, LRU Caching](https://tech.ebayinc.com/engineering/high-throughput-thread-safe-lru-caching/)
 
 ## Lists
 
@@ -1157,7 +1160,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Back to the Future: Lisp as a Base for a Statistical Computing System](https://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf)
 - [How Professional Hackers Understand Protected Code while Performing Attack Tasks](https://pdfs.semanticscholar.org/4bd1/2a9823b55d29a0d75c9ea9c8cd08b6fdca3e.pdf)
 - [Papers We Love](https://github.com/papers-we-love) :sparkles:
-- [Communicating Sequential Processes](https://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
+- [Communicating Sequential Processes](https://spinroot.com/courses/summer/Papers/hoare_1978.pdf) :sparkles:
 - [Hints on programming language design](http://flint.cs.yale.edu/cs428/doc/HintsPL.pdf)
 - [The Fault Tolerance of Botnets](https://www.dropbox.com/s/rvk6ybbl85zce00/The%20Fault%20Tolerance%20of%20Botnets.pdf?dl=0)
 - [Paradigm Shift in Software Development](https://www.dropbox.com/s/db2tbau0jdv9pym/Paradigm%20Exercise.pdf?dl=0)
