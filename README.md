@@ -51,6 +51,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Architecture](#architecture)
 - [Kafka](#kafka)
     - [Prometheus](#prometheus)
+- [Spark](#spark)
+- [Monitoring](#monitoring)
+- [System Design](#system-design)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
 - [Fun](#fun)
@@ -727,6 +730,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 - [Channels in Go](https://go101.org/article/channel.html)
 - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
+- [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html?hn=1)
 
 #### Profiling
 
@@ -975,12 +979,22 @@ A collection of resources that I found useful and interesting across various dom
 - [Kafka Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf) :books:
 - [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol#AGuideToTheKafkaProtocol-Introduction)
 
+## Spark
+
+- [Memory Management Overview](http://spark.apache.org/docs/latest/tuning.html#memory-management-overview)
+- [Tricks of the Trade: Tuning JVM Memory for Large-scale Services](https://eng.uber.com/jvm-tuning-garbage-collection/)
+
 ## Monitoring
 
 - [When to use the Pushgateway](https://prometheus.io/docs/practices/pushing/)
 - [Common pitfalls when using the Pushgateway](https://www.robustperception.io/common-pitfalls-when-using-the-pushgateway)
 - [Statsd: Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 - [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
+
+## System Design
+
+- [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
+
 
 ## Useful Command Line Tools
 
@@ -1042,7 +1056,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
 - [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
 - [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
-- [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 - [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
 - [Hacker101](https://www.hacker101.com/)
@@ -1154,6 +1167,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 - [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+- [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 
 ## Papers
 
