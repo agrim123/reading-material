@@ -431,12 +431,7 @@ A collection of resources that I found useful and interesting across various dom
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
-- [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) :sparkles:
-- [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
-- [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
-- [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 - [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
-- [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols) :sparkles:
 - [Latency Numbers](https://gist.github.com/jboner/2841832)
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
@@ -781,6 +776,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Go Internals](https://github.com/teh-cmc/go-internals)
 - [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones)
 - [The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
+- [Contiguous stacks in Go](https://agis.io/post/contiguous-stacks-golang/)
 
 ### Networking with Go
 
@@ -994,6 +990,11 @@ A collection of resources that I found useful and interesting across various dom
 - [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
 - [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
 - [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
+- [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) :sparkles:
+- [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
+- [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
+- [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
+- [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 
 ## Useful Command Line Tools
 
