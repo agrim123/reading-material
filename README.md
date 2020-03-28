@@ -48,7 +48,6 @@ A collection of resources that I found useful and interesting across various dom
 - [OAuth](#oauth)
 - [Regex](#regex)
 - [Distributed Systems](#distributed-sytems)
-- [Architecture](#architecture)
 - [Kafka](#kafka)
     - [Prometheus](#prometheus)
 - [Spark](#spark)
@@ -964,11 +963,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
-
-## Architecture
-
-- [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
-- [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
+- Rack Model
 
 ## Kafka
 
@@ -994,7 +989,11 @@ A collection of resources that I found useful and interesting across various dom
 ## System Design
 
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
-
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
+- [(A few) Ops Lessons We All Learn The Hard Way -- a Twitter](https://twitter.com/jschauma/status/1220902743482814467?s=19)
+- [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
+- [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
+- [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
 
 ## Useful Command Line Tools
 
@@ -1063,14 +1062,11 @@ A collection of resources that I found useful and interesting across various dom
 - [Weapon of Mass Destruction](http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html)
 - [MooTools](https://github.com/mootools/mootools-core)
 - [Developer resources for desktop apps](http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps)
-- [The three types of programmers](https://mkdev.me/en/posts/the-three-types-of-programmers)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 - [Leaving Clojure for Ruby](https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
 - [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 - [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
-- [Beauty of Programming](http://www.bowdoin.edu/~ltoma/teaching/beautyOfProgramming.pdf) *
-- [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
 - [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
@@ -1087,10 +1083,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Why Go and Rust are Competitors](http://www.doxsey.net/blog/why-go-and-rust-are-competitors)
 - [A Response to Hello World](http://www.doxsey.net/blog/a-response-to-hello-world)
 - [See Python, See Python Go, Go Python Go](https://blog.heroku.com/see_python_see_python_go_go_python_go)
-- [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
-- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
 - [Why stack grows down](https://gist.github.com/cpq/8598782)
-- [(A few) Ops Lessons We All Learn The Hard Way -- a Twitter](https://twitter.com/jschauma/status/1220902743482814467?s=19)
 - [Programmer's critique of missing structure of operating systems](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html)
 - [S2 Cells](https://s2geometry.io/devguide/s2cell_hierarchy.html)
 - [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
