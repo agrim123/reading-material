@@ -14,11 +14,9 @@ A collection of resources that I found useful and interesting across various dom
     - [Webservers](#webservers)
     - [Protocols](#protocols)
         - [HTTP](#https)
-        - [IPFS](#ipfs)
-        - [FTP](#ftp)
         - [TCP/UDP](#tcpudp)
-        - [DHCP](#dhcp)
         - [DNS](#dns)
+    - [Load Balancing](#load-balancing)
 - [Git](#git)
 - [Linux](#linux)
     - [Linux](#linux)
@@ -63,6 +61,17 @@ A collection of resources that I found useful and interesting across various dom
 - [Papers](#papers)
 - [Courses](#courses)
 - [Topics](/Topics) [WIP]
+
+## Legend
+
+You might some emojis (:sparkles:, :construction: etc) crawling all over this collection. 
+
+:sparkles: -> More the number, the more I liked the blog :3  
+:construction: -> Pending learning on this :(  
+:tv: -> It's video!  
+:books: -> It's a book!  
+:page_with_curl: -> It's a white paper!
+
 
 ## JS
 
@@ -336,11 +345,11 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Algorithms
 
+> [Know Thy Complexities!](http://bigocheatsheet.com/#)
+
 - [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
-- [Essentials of Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 - [Heap Algorithm](http://ruslanledesma.com/2016/06/17/why-does-heap-work.html)
 - [Linked lists are still hard](https://brennan.io/2017/04/21/linked-lists-are-still-hard/)
-- [Know Thy Complexities!](http://bigocheatsheet.com/#)
 - [Understanding Dijkstra's Algorithm](https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/)
 - [How to think in graphs](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 - [Ask HN: What's your favorite elegant/beautiful algorithm?](https://news.ycombinator.com/item?id=18236396)
@@ -368,44 +377,36 @@ A collection of resources that I found useful and interesting across various dom
 - [Cache Docs](https://www.mnot.net/cache_docs/)
 - [nginx](http://www.aosabook.org/en/nginx.html)
 - [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
-- [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
+- [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 
 ### Protocols
 
 #### HTTP(S)
 
 - [HTTP](https://www.jmarshall.com/easy/http/)
-- [Analysis of HTTP Performance](https://www.isi.edu/lsam/publications/http-perf/)
 - [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
 - [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
-- [Building Protocols with HTTP](https://tools.ietf.org/html/draft-ietf-httpbis-bcp56bis-06)
-- [HTTP3](https://blog.cloudflare.com/http-3-from-root-to-tip/)
-- [HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained)
 - [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
 - [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 
-#### IPFS
+#### HTTP3
 
-- [IPFS](https://ipfs.io/)
-- [Paper review. IPFS: Content addressed, versioned, P2P file system](https://muratbuffalo.blogspot.in/2018/02/paper-review-ipfs-content-addressed.html)
-
-#### FTP
-
-- [FTP: File Transfer Protocol](http://cr.yp.to/ftp.html)
+- [HTTP3](https://blog.cloudflare.com/http-3-from-root-to-tip/)
+- [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
+- [Employing QUIC Protocol to Optimize Uber’s App Performance](https://eng.uber.com/employing-quic-protocol/)
+- [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
 
 #### TCP/UDP
 
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 - [Discussion: UDP in web](https://news.ycombinator.com/item?id=13741155)
-- [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
 - [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 - [When TCP sockets refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
 - [Messing With Telnet](https://jott.live/markdown/telnet_writeup)
 - [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
-- [Employing QUIC Protocol to Optimize Uber’s App Performance](https://eng.uber.com/employing-quic-protocol/)
 
 #### DHCP
 
@@ -418,9 +419,13 @@ A collection of resources that I found useful and interesting across various dom
 
 > [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 
-### Random
+### Load Balancing
 
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
+- [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
+
+### Random
+
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
 - [What happens when...](https://github.com/alex/what-happens-when) :sparkles::sparkles:
@@ -429,14 +434,13 @@ A collection of resources that I found useful and interesting across various dom
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
-- [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 - [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols) :sparkles:
 - [Latency Numbers](https://gist.github.com/jboner/2841832)
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 - [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
-- [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
+- [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy) :construction:
 
 </p>
 </details>
@@ -463,7 +467,6 @@ A collection of resources that I found useful and interesting across various dom
 <summary>Papers</summary>
 <p>
 
-- [IPFS - Content Addressed, Versioned, P2P File System](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf)
 - [API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
 - [Breach: Reviving The Crime Attack](http://breachattack.com/resources/BREACH%20-%20SSL,%20gone%20in%2030%20seconds.pdf)
 - [Cloak of Visibility](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45365.pdf)
@@ -485,14 +488,12 @@ A collection of resources that I found useful and interesting across various dom
 - [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Oh shit, git!](http://ohshitgit.com/)
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
-- [YOU'RE USING GIT WRONG](https://dpc.pw/blog/2017/08/youre-using-git-wrong/)
 - [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o) :tv:
 - [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0) :tv:
 - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
 - [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
 - [Advanced Git Commands You Will Actually Use](https://stosb.com/blog/advanced-git-commands-you-will-actually-use/)
-- [Git Memo](http://git-memo.mzlinux.org/en/latest/index.html)
 - [Commit Often, Perfect Later, Publish Once: Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
 - [Rebase with history -- implementation ideas](http://softwareswirl.blogspot.in/2009/08/rebase-with-history-implementation.html)
 - [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
@@ -726,7 +727,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
 - [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html?hn=1)
 
-#### Profiling
+#### Profiling :mag:
 
 > [Go Diagnostics](https://golang.org/doc/diagnostics.html)
 
@@ -881,7 +882,7 @@ A collection of resources that I found useful and interesting across various dom
 - https://medium.com/founder-playbook/67-blockchain-articles-whitepapers-that-shaped-crypto-into-what-it-is-today-c538facfceb9
 - [Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 - [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://www.usenix.org/system/files/conference/atc16/atc16_paper-ali.pdf)
-- [IPFS](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf)
+- [IPFS](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) :page_with_curl:
 - [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/abs/1510.02037)
 - [A Secure Sharding Protocol For Open Blockchain](https://www.comp.nus.edu.sg/~loiluu/papers/elastico.pdf)
 - [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf)
@@ -974,6 +975,12 @@ A collection of resources that I found useful and interesting across various dom
 
 - [Memory Management Overview](http://spark.apache.org/docs/latest/tuning.html#memory-management-overview)
 - [Tricks of the Trade: Tuning JVM Memory for Large-scale Services](https://eng.uber.com/jvm-tuning-garbage-collection/)
+
+### Logging
+
+- [Spark Streaming Logging Configuration](http://shzhangji.com/blog/2015/05/31/spark-streaming-logging-configuration/)
+- [S3 Log4j Appender](https://www.therealvan.com/s3loggerappender.html)
+- [Log4j appender with S3 and search publishing](https://github.com/bluedenim/log4j-s3-search)
 
 ## Monitoring
 
