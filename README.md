@@ -54,24 +54,28 @@ A collection of resources that I found useful and interesting across various dom
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
 - [Fun](#fun)
-- [Interview Questions](#interview-questions)
 - [More Books](#more-books)
     - [Software Development](#software-development)
     - [Random](#random)
-- [Papers](#papers)
 - [Courses](#courses)
-- [Topics](/Topics) [WIP]
+- [Papers](#papers_)
+- [Notes](/Notes) [WIP]
 
 ## Legend
 
 You might some emojis (:sparkles:, :construction: etc) crawling all over this collection. 
 
-:sparkles: -> More the number, the more I liked the blog :3  
-:construction: -> Pending learning on this :(  
-:tv: -> It's video!  
-:books: -> It's a book!  
-:page_with_curl: -> It's a white paper!
-
+| emoji  |  meaning |
+| ------------ | ------------ |
+| :sparkles:  | More the number, the more I liked the blog :3 |
+| :zap:  | super duper awesome blog |
+| :construction:  | Pending learning on this :( |
+| :tv:  | It's video! |
+| :books:  | It's a book! |
+| :page_with_curl:  | It's a white paper! |
+| :wrench:  | Debugging |
+| :file_folder:  | List |
+| :hocho:  | faceoff |
 
 ## JS
 
@@ -729,13 +733,13 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 #### Profiling :mag:
 
-> [Go Diagnostics](https://golang.org/doc/diagnostics.html)
+> [Go Diagnostics](https://golang.org/doc/diagnostics.html) :wrench:
 
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 - [Scheduler Tracing In Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
 - [Profiling and optimizing Go web applications](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/)
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
-- [Profiling Go programs with pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
+- [pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
 - [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
 - [go tool trace](https://making.pusher.com/go-tool-trace/)
 
@@ -753,7 +757,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A whirlwind tour of Go’s runtime environment variables](https://dave.cheney.net/tag/godebug)
 - [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
 - [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709) :sparkles:
-- [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/)
+- [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/) :sparkles:
 - [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 
 ### Go Internals
@@ -775,7 +779,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Memory Order Guarantees in Go](https://go101.org/article/memory-model.html)
 - [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
 - [Go Internals](https://github.com/teh-cmc/go-internals)
-- [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones)
+- [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones) :mag:
 - [The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
 - [Contiguous stacks in Go](https://agis.io/post/contiguous-stacks-golang/)
 
@@ -787,15 +791,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
 - [HTTPS and Go](https://www.kaihag.com/https-and-go/)
-
-### Books
-
-- [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
-- [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
-- [Learning Go](https://www.miek.nl/go/)
-- [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
-- [Go Books](https://github.com/dariubs/GoBooks)
-- [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 
 ### Papers
 
@@ -824,7 +819,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Five ways to paginate in Postgres, from the basic to the exotic](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
 - [One Giant Leap For SQL: MySQL 8.0 Released](https://modern-sql.com/blog/2018-04/mysql-8.0) :sparkles:
 - [MongoDB is to NoSQL like MySQL to SQL — in the most harmful way](https://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql)
-- [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
 - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
 - [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity)
 
@@ -836,7 +830,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A Call to Arms: Revisiting Database Design](https://arxiv.org/pdf/1105.6001.pdf)
 - [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications](http://www.bailis.org/papers/acidrain-sigmod2017.pdf)
-
 
 </p>
 </details>
@@ -937,7 +930,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) :sparkles:
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
-- [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) :sparkles: :sparkles:
+- [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) :sparkles: :sparkles: :zap: :zap:
 
 ## OAuth
 
@@ -1002,6 +995,16 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
+- [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
+
+## x vs y :hocho:
+
+- [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
+- [Weapon of Mass Destruction](http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html)
+- [Leaving Clojure for Ruby](https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html)
+- [Why Rust and not Go](https://blog.juliobiason.me/thoughts/why-rust-and-not-go/) :sparkles:
+- [Why Go and Rust are Competitors](http://www.doxsey.net/blog/why-go-and-rust-are-competitors)
+- [A Response to Hello World](http://www.doxsey.net/blog/a-response-to-hello-world)
 
 ## Useful Command Line Tools
 
@@ -1066,12 +1069,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
 - [Hacker101](https://www.hacker101.com/)
-- [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.xptk2egps)
-- [Weapon of Mass Destruction](http://www.kitploit.com/2017/02/wmd-weapon-of-mass-destruction-python.html)
 - [MooTools](https://github.com/mootools/mootools-core)
 - [Developer resources for desktop apps](http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
-- [Leaving Clojure for Ruby](https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
 - [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 - [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
@@ -1087,9 +1087,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A byte’s not 8 bits.](https://burstingdynamics.wordpress.com/2015/11/10/a-byte-is-not-8-bits/) :sparkles:
 - [Epigrams in programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [The Danger of “Simplicity”](https://asthasr.github.io/posts/danger-of-simplicity)
-- [Why Rust and not Go](https://blog.juliobiason.me/thoughts/why-rust-and-not-go/) :sparkles:
-- [Why Go and Rust are Competitors](http://www.doxsey.net/blog/why-go-and-rust-are-competitors)
-- [A Response to Hello World](http://www.doxsey.net/blog/a-response-to-hello-world)
+- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :file_folder:
 - [See Python, See Python Go, Go Python Go](https://blog.heroku.com/see_python_see_python_go_go_python_go)
 - [Why stack grows down](https://gist.github.com/cpq/8598782)
 - [Programmer's critique of missing structure of operating systems](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html)
@@ -1098,11 +1096,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Queryparser, an Open Source Tool for Parsing and Analyzing SQL](https://eng.uber.com/queryparser/)
 - [Enabling Machine Learning with Apache Flink - Sherin Thomas](https://www.youtube.com/watch?v=_4lXkjqpMxI&t=12s) :tv:
 - [High-Throughput, Thread-Safe, LRU Caching](https://tech.ebayinc.com/engineering/high-throughput-thread-safe-lru-caching/)
-
-## Lists
-
-- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-- [Collecting All Cheat Sheets](http://overapi.com/)
 
 ## Fun
 
@@ -1170,7 +1163,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 - [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 
-## Papers
+## Papers_
 
 - [Back to the Future: Lisp as a Base for a Statistical Computing System](https://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf)
 - [How Professional Hackers Understand Protected Code while Performing Attack Tasks](https://pdfs.semanticscholar.org/4bd1/2a9823b55d29a0d75c9ea9c8cd08b6fdca3e.pdf)
