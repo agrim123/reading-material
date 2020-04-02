@@ -511,6 +511,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
 - [Git gc](https://www.atlassian.com/git/tutorials/git-gc)
 - [Pro Git](https://git-scm.com/book/en/v2) :books:
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ## Linux
 
@@ -954,6 +955,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 - Rack Model
+- [If you need a global lock in your distributed system, then you're already in trouble](https://news.ycombinator.com/item?id=11066258) :sparkles:
+    - Parent Thread [Is Redlock Safe? Reply to Redlock Analysis](https://news.ycombinator.com/item?id=11065933)
 
 ## Kafka
 
@@ -996,6 +999,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 - [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
+- [Jeremy Edberg - Scalable Cloud Architectures | Tech Talk](https://www.youtube.com/watch?v=cCAO9moDucI&t=1s) :tv:
 
 ## x vs y :hocho:
 
@@ -1015,6 +1019,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Pass: Simple password manager using gpg and ordinary unix directories](https://www.passwordstore.org/)
 - [peerflix](https://github.com/mafintosh/peerflix)
 - [kaf: Modern CLI for Apache Kafka](https://github.com/birdayz/kaf)
+- [curl statistics made simple](https://github.com/reorx/httpstat)
 
 ## Blogs
 
@@ -1080,7 +1085,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 - [When setting an environment variable gives you a 40x speedup](https://news.sherlock.stanford.edu/posts/when-setting-an-environment-variable-gives-you-a-40-x-speedup)
 - [Meet the Flexbox Inspector](https://gedd.ski/) :sparkles:
-- [Client side caching in Redis 6](http://antirez.com/news/130)
 - [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 - [Race Condition vs. Data Race](https://blog.regehr.org/archives/490) :sparkles:
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) :sparkles:
@@ -1096,6 +1100,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Queryparser, an Open Source Tool for Parsing and Analyzing SQL](https://eng.uber.com/queryparser/)
 - [Enabling Machine Learning with Apache Flink - Sherin Thomas](https://www.youtube.com/watch?v=_4lXkjqpMxI&t=12s) :tv:
 - [High-Throughput, Thread-Safe, LRU Caching](https://tech.ebayinc.com/engineering/high-throughput-thread-safe-lru-caching/)
+- [Sorting 1 million 8-decimal-digit numbers with 1 MB of RAM](https://stackoverflow.com/questions/12748246/sorting-1-million-8-decimal-digit-numbers-with-1-mb-of-ram)
+- Null References: The Billion Dollar Mistake - Tony Hoare :tv:
 
 ## Fun
 
