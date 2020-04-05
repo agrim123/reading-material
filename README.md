@@ -375,13 +375,15 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### Webservers
 
-- [Apache vs Nginx](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
-- [Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)
+- [Apache vs Nginx: Practical Considerations](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
 - [The C10K problem](http://www.kegel.com/c10k.html)
-- [Cache Docs](https://www.mnot.net/cache_docs/)
 - [nginx](http://www.aosabook.org/en/nginx.html)
-- [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
+
+### Web Caching
+
+- [Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)
+- [Cache Docs](https://www.mnot.net/cache_docs/)
 
 ### Protocols
 
@@ -389,7 +391,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [HTTP](https://www.jmarshall.com/easy/http/)
 - [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
-- [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 - [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
 - [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
@@ -404,6 +405,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 #### TCP/UDP
 
+- [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 - [Discussion: UDP in web](https://news.ycombinator.com/item?id=13741155)
@@ -418,6 +420,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 #### DNS
 
+- [DNS in One Picture](https://medium.com/@kamranahmedse/dns-in-one-picture-d7f4783db06a)
 - [The Web Developer's Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
 - [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
 
@@ -432,7 +435,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
-- [What happens when...](https://github.com/alex/what-happens-when) :sparkles::sparkles:
+- [What happens when...](https://github.com/alex/what-happens-when) :sparkles::zap:
 - [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
 - [Let 'localhost' be localhost](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04)
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
@@ -446,12 +449,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
 - [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy) :construction:
 
-</p>
-</details>
-
-<details>
-<summary>Books</summary>
-<p>
+### Books
 
 - [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
 - [CGI Programming 101](http://www.cgi101.com/)
@@ -464,12 +462,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [High Performance Browser Networking](https://hpbn.co/)
 - [Computer Networking : Principles, Protocols and Practice, 2nd edition](http://cnp3book.info.ucl.ac.be/2nd/html/)
 
-</p>
-</details>
-
-<details>
-<summary>Papers</summary>
-<p>
+### Papers
 
 - [API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
 - [Breach: Reviving The Crime Attack](http://breachattack.com/resources/BREACH%20-%20SSL,%20gone%20in%2030%20seconds.pdf)
@@ -482,9 +475,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The anatomy of a large-scale hypertextual Web search engine](http://zoo.cs.yale.edu/classes/cs426/2012/bib/brin98theanatomy.pdf)
 - [The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
 - [Automating chaos experiments in production](https://arxiv.org/pdf/1905.04648.pdf)
-
-</p>
-</details>
 
 ## Git
 
@@ -512,6 +502,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Git gc](https://www.atlassian.com/git/tutorials/git-gc)
 - [Pro Git](https://git-scm.com/book/en/v2) :books:
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Git Hooks](https://githooks.com/)
 
 ## Linux
 
@@ -949,7 +940,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## Distributed Systems
 
-> [Distributed Systems](http://book.mixu.net/distsys/)
+> [Distributed Systems for fun and profit](http://book.mixu.net/distsys/)
 
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
@@ -1000,6 +991,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 - [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
 - [Jeremy Edberg - Scalable Cloud Architectures | Tech Talk](https://www.youtube.com/watch?v=cCAO9moDucI&t=1s) :tv:
+- [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
 
 ## x vs y :hocho:
 
@@ -1020,6 +1012,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [peerflix](https://github.com/mafintosh/peerflix)
 - [kaf: Modern CLI for Apache Kafka](https://github.com/birdayz/kaf)
 - [curl statistics made simple](https://github.com/reorx/httpstat)
+- [mkcert](https://github.com/FiloSottile/mkcert)
 
 ## Blogs
 
@@ -1055,6 +1048,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - http://www.brendangregg.com/
 - https://www.scalescale.com/
 - https://medium.com/@blanchon.vincent :sparkles:
+- https://sysadvent.blogspot.com/
 
 ## More
 
