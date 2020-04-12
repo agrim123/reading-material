@@ -722,6 +722,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Channels in Go](https://go101.org/article/channel.html)
 - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
 - [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html?hn=1)
+- [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/)
 
 #### Profiling :mag:
 
@@ -1049,6 +1050,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://www.scalescale.com/
 - https://medium.com/@blanchon.vincent :sparkles:
 - https://sysadvent.blogspot.com/
+- [A handbook for making programming languages](http://craftinginterpreters.com/)
 
 ## More
 
