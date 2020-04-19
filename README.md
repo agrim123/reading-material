@@ -21,10 +21,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Linux](#linux)
     - [Linux](#linux)
     - [Kernel](#kernel)
-    - [PAM](#pam)
     - [SSH](#ssh)
     - [Linux Security](#linuxsecurity)
-    - [Vim](#vim)
     - [Bash](#bash)
 - [OS Dev](#os-dev)
 - [C](#c)
@@ -395,6 +393,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
+- [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) :sparkles:
 
 #### HTTP3
 
@@ -514,9 +513,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [File System Hierarchy](https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png)
 - [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
 - [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
-- [Automate linux system maintenance tasks](http://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
-- [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
 - [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
 - [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) :sparkles::sparkles:
@@ -527,7 +524,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How does the system shutdown of a linux kernel work internally?](https://unix.stackexchange.com/a/122667/)
 - [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) :sparkles:
 - [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
-- [Iptables](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
 - [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 - [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) :sparkles:
 - [Linux file descriptors](https://monometric.io/article/file-descriptors-in-2018)
@@ -569,11 +565,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 - [The Linux Kernel](https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html)
 
-### PAM
-
-- [Linux PAM](http://www.linux-pam.org/Linux-PAM-html)
-- [Using PAM](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules)
-
 ### SSH
 
 - [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
@@ -596,12 +587,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How to break out of a chroot() jail](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)
 - [Securing Debian Manual](https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html#contents)
 
-### Vim
-
-- [Interactive Vim Tutorial](http://www.openvim.com/)
-- [Vim Galore](https://github.com/mhinz/vim-galore)
-- [Vim Cheatsheet](http://vimsheet.com/)
-
 ### Bash
 
 - [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
@@ -620,7 +605,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Learn Shell](http://www.learnshell.org/)
 - [The Linux Programming Interface](http://www.man7.org/tlpi/)
 
-
 ## OS dev
 
 - [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
@@ -637,6 +621,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Os Dev Books](http://wiki.osdev.org/Books#TCP.2FIP)
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
 
 </p>
 </details>
