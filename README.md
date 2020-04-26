@@ -394,6 +394,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) :sparkles:
+- [Comparing HTTP/3 vs. HTTP/2 Performance](https://blog.cloudflare.com/http-3-vs-http-2/)
 
 #### HTTP3
 
@@ -978,6 +979,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
 - [Jeremy Edberg - Scalable Cloud Architectures | Tech Talk](https://www.youtube.com/watch?v=cCAO9moDucI&t=1s) :tv:
 - [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
+- [AWS re:Invent 2017: How Netflix Tunes Amazon EC2 Instances for Performance (CMP325)](https://www.youtube.com/watch?v=89fYOo1V2pA) :tv:
+- [Building fast.com](https://netflixtechblog.com/building-fast-com-4857fe0f8adb)
+- [Principles of chaos engineering](http://principlesofchaos.org/)
 
 ## x vs y :hocho:
 
@@ -1097,7 +1101,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ### Software Development
 
 - [Coders at Work](https://www.amazon.com/gp/product/1430219483)
-- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) :sparkles:
 - [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396)
 - [Working Effectively with Legacy Code](https://www.amazon.com/gp/product/0131177052)
 - [Programming Pearls](https://www.amazon.com/gp/product/0201657880)
@@ -1105,7 +1109,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/0201485672)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882)
 - [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/gp/product/0735619670)
-- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) :sparkles:
 - [The Mythical Man-Month](http://www.amazon.in/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [The Joy of Software Development](https://josd.captnemo.in/content/)
 
@@ -1122,13 +1126,12 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Ask HN: What language-agnostic programming books should I read ?](https://news.ycombinator.com/item?id=14486657)
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 - [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
-- [How to Design Programs, Second Edition](http://www.htdp.org/2018-01-06/Book/index.html)
 - [An Illustrated Book of Bad Arguments](https://bookofbadarguments.com/)
 - [An illustrated introduction to computational thinking](https://bookofbadchoices.com/index.html#page/3)
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
 - https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
-- https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
-- https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/
+- [What is the single most influential book every programmer should read? [closed]](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) :books:
+- [A Reading List For the Self-Taught Computer Scientist](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/) :books:
 - https://libgen.pw
 
 ## Courses
