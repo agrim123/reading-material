@@ -45,7 +45,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Regex](#regex)
 - [Distributed Systems](#distributed-sytems)
 - [Kafka](#kafka)
-    - [Prometheus](#prometheus)
 - [Spark](#spark)
 - [Monitoring](#monitoring)
 - [System Design](#system-design)
@@ -209,6 +208,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Memcrashed - Major amplification attacks from UDP port 11211](https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/amp/)
 - [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 - [How does a TCP reset attack work](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
+- [Cracking the lens: targeting HTTP's hidden attack-surface](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface)
 
 </p>
 </details>
@@ -269,14 +269,12 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 <p>
 
 - [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
-- [Overthewire: Bandit](http://overthewire.org/wargames/bandit/)
-- [Overthewire: Natas](http://overthewire.org/wargames/natas/)
+- [Overthewire](http://overthewire.org/wargames/)
 - [Crypto Challenges](http://cryptopals.com/)
 - https://io.netgarage.org/
 - https://picoctf.com/
 - https://pwnable.kr
 - http://gracker.org/
-- https://cryptopals.com/
 - https://ringzer0ctf.com/challenges
 - http://websec.fr/
 - https://365.csaw.io/
@@ -762,6 +760,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones) :mag:
 - [The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
 - [Contiguous stacks in Go](https://agis.io/post/contiguous-stacks-golang/)
+- [How does the go build command work ?](https://dave.cheney.net/2013/10/15/how-does-the-go-build-command-work)
 
 ### Networking with Go
 
@@ -951,6 +950,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Memory Management Overview](http://spark.apache.org/docs/latest/tuning.html#memory-management-overview)
 - [Tricks of the Trade: Tuning JVM Memory for Large-scale Services](https://eng.uber.com/jvm-tuning-garbage-collection/)
+- [Managing Spark Partitions with Coalesce and Repartition](https://medium.com/@mrpowers/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4#.36o8a7b5j)
 
 ### Logging
 
@@ -1090,6 +1090,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [High-Throughput, Thread-Safe, LRU Caching](https://tech.ebayinc.com/engineering/high-throughput-thread-safe-lru-caching/)
 - [Sorting 1 million 8-decimal-digit numbers with 1 MB of RAM](https://stackoverflow.com/questions/12748246/sorting-1-million-8-decimal-digit-numbers-with-1-mb-of-ram)
 - Null References: The Billion Dollar Mistake - Tony Hoare :tv:
+- [Mathematical attack on RSA](https://www.nku.edu/~christensen/Mathematical%20attack%20on%20RSA.pdf)
 
 ## Fun
 
