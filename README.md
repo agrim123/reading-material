@@ -567,8 +567,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### SSH
 
-- [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
-- [SSH Agent Vulnerabilities](http://www-arc.com/sara/cve/SSH_vulnerabilities.html)
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
 - [SSH Examples, Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
 - [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
