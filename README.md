@@ -555,6 +555,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [An Evening with Berferd In Which a Cracker is Lured, Endured, and Studied](https://www.cheswick.com/ches/papers/berferd.pdf)
 - [“zero copy networking” vs “kernel bypass”?](https://stackoverflow.com/a/18346526)
 - [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
+- [The brokenness of the sendfile() system call](https://blog.phusion.nl/2015/06/04/the-brokenness-of-the-sendfile-system-call/)
 
 ### Kernel
 
@@ -943,6 +944,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Kafka and Zookeeper with Docker](https://medium.com/rahasak/kafka-and-zookeeper-with-docker-65cff2c2c34f)
 - [Kafka Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf) :books:
 - [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol#AGuideToTheKafkaProtocol-Introduction)
+- [The Unofficial Kafka Rebalance How-To](https://tomlee.co/2019/03/the-unofficial-kafka-rebalance-how-to/)
 
 ## Spark
 
@@ -1089,6 +1091,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Sorting 1 million 8-decimal-digit numbers with 1 MB of RAM](https://stackoverflow.com/questions/12748246/sorting-1-million-8-decimal-digit-numbers-with-1-mb-of-ram)
 - Null References: The Billion Dollar Mistake - Tony Hoare :tv:
 - [Mathematical attack on RSA](https://www.nku.edu/~christensen/Mathematical%20attack%20on%20RSA.pdf)
+- [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+- [The Twelve-Factor App](https://12factor.net/)
 
 ## Fun
 
