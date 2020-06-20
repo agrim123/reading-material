@@ -707,6 +707,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
 - [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html?hn=1)
 - [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/)
+- [How to Gracefully Close Channels](https://go101.org/article/channel-closing.html) :sparkles:
 
 #### Profiling :mag:
 
