@@ -394,13 +394,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) :sparkles:
 - [Comparing HTTP/3 vs. HTTP/2 Performance](https://blog.cloudflare.com/http-3-vs-http-2/)
-
-#### HTTP3
-
 - [HTTP3](https://blog.cloudflare.com/http-3-from-root-to-tip/)
 - [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
 - [Employing QUIC Protocol to Optimize Uber’s App Performance](https://eng.uber.com/employing-quic-protocol/)
 - [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
+- [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
 
 #### TCP/UDP
 
