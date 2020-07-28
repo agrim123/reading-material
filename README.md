@@ -742,7 +742,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) :sparkles:
 - [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
-- [The Go Memory Model](https://golang.org/ref/mem)
+- [The Go Memory Model](https://golang.org/ref/mem) :sparkles:
 - [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
 - [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
@@ -1042,6 +1042,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://medium.com/@blanchon.vincent :sparkles:
 - https://sysadvent.blogspot.com/
 - [A handbook for making programming languages](http://craftinginterpreters.com/)
+- https://codewithoutrules.com/
 
 ## More
 
@@ -1092,6 +1093,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Mathematical attack on RSA](https://www.nku.edu/~christensen/Mathematical%20attack%20on%20RSA.pdf)
 - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 - [The Twelve-Factor App](https://12factor.net/)
+- https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
+- [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 
 ## Fun
 
@@ -1138,6 +1141,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [What is the single most influential book every programmer should read? [closed]](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) :books:
 - [A Reading List For the Self-Taught Computer Scientist](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/) :books:
 - https://libgen.pw
+- [SRE Books](https://landing.google.com/sre/books/)
 
 ## Courses
 
