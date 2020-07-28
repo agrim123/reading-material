@@ -37,6 +37,7 @@ A collection of resources that I found useful and interesting across various dom
     - [Go Internals](#go-internals)
     - [Networking with Go](#networking-with-go)
 - [Rust](#rust)
+- [Kubernetes](#kubernetes)
 - [Database](#database)
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
 - [Tor](#tor)
@@ -785,6 +786,12 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 - [Fearless Concurrency with Rust](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
 
+## Kubernetes
+
+- [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/)
+- [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/)
+- [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
+
 ## Database
 
 - [Secure PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
@@ -799,6 +806,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
 - [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity)
 - [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+- [Building Robust Systems with ACID and Constraints](https://brandur.org/acid) :sparkles:
 
 <details>
 <summary>Papers</summary>
@@ -1095,6 +1103,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Twelve-Factor App](https://12factor.net/)
 - https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
 - [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
+- [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 
 ## Fun
 
