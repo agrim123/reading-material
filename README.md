@@ -297,6 +297,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
 - [How to prevent cryptographic pitfalls by design](https://fosdem.org/2019/schedule/event/crypto_pitfalls/)
 - [First SHA1 Collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
+- [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/#blocking)
 
 </p>
 </details>
@@ -445,7 +446,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Latency Numbers](https://gist.github.com/jboner/2841832)
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 - [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
-- [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy) :construction:
+- [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
 
 ### Books
 
@@ -707,6 +708,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html?hn=1)
 - [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/)
 - [How to Gracefully Close Channels](https://go101.org/article/channel-closing.html) :sparkles:
+- [Go channels on steroids](https://docs.google.com/document/d/1yIAYmbvL3JxOKOjuCyon7JhW4cSv1wy5hC0ApeGMV9s/pub)
 
 #### Profiling :mag:
 
@@ -1101,9 +1103,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Mathematical attack on RSA](https://www.nku.edu/~christensen/Mathematical%20attack%20on%20RSA.pdf)
 - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 - [The Twelve-Factor App](https://12factor.net/)
-- https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
+- [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 - [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
+- [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) :sparkles:
 
 ## Fun
 
