@@ -49,6 +49,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Spark](#spark)
 - [Monitoring](#monitoring)
 - [System Design](#system-design)
+- [AWS](#aws)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
 - [Fun](#fun)
@@ -412,6 +413,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [When TCP sockets refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
 - [Messing With Telnet](https://jott.live/markdown/telnet_writeup)
 - [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
+- [How Does TCP Work?](https://sookocheff.com/post/networking/how-does-tcp-work/)
 
 #### DHCP
 
@@ -976,7 +978,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## System Design
 
-- [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
 - [(A few) Ops Lessons We All Learn The Hard Way -- a Twitter](https://twitter.com/jschauma/status/1220902743482814467?s=19)
 - [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
@@ -993,7 +994,12 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [AWS re:Invent 2017: How Netflix Tunes Amazon EC2 Instances for Performance (CMP325)](https://www.youtube.com/watch?v=89fYOo1V2pA) :tv:
 - [Building fast.com](https://netflixtechblog.com/building-fast-com-4857fe0f8adb)
 - [Principles of chaos engineering](http://principlesofchaos.org/)
+
+## AWS
+
 - [AWS re:Invent 2015: A Day in the Life of a Netflix Engineer (DVO203)](https://www.youtube.com/watch?v=-mL3zT1iIKw) :zap:
+- [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
+- [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 
 ## x vs y :hocho:
 
