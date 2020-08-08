@@ -49,7 +49,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Spark](#spark)
 - [Monitoring](#monitoring)
 - [System Design](#system-design)
-- [AWS](#aws)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [More](#more)
 - [Fun](#fun)
@@ -449,6 +448,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 - [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
 - [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
+- [High Performance Browser Networking](https://hpbn.co/)
 
 ### Books
 
@@ -795,6 +795,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/)
 - [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/)
 - [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
+- [Kubernetes: Getting Started With a Local Deployment](https://blog.jetstack.io/blog/k8s-getting-started-part2/)
+- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
 ## Database
 
@@ -994,9 +996,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [AWS re:Invent 2017: How Netflix Tunes Amazon EC2 Instances for Performance (CMP325)](https://www.youtube.com/watch?v=89fYOo1V2pA) :tv:
 - [Building fast.com](https://netflixtechblog.com/building-fast-com-4857fe0f8adb)
 - [Principles of chaos engineering](http://principlesofchaos.org/)
-
-## AWS
-
 - [AWS re:Invent 2015: A Day in the Life of a Netflix Engineer (DVO203)](https://www.youtube.com/watch?v=-mL3zT1iIKw) :zap:
 - [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
@@ -1113,6 +1112,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) :sparkles:
+- [PHP The Wrong Way](https://phpthewrongway.com/)
 
 ## Fun
 
