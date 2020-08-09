@@ -439,7 +439,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
 - [Let 'localhost' be localhost](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04)
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
-- [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) :page_with_curl:
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 - [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
@@ -1113,6 +1113,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) :sparkles:
 - [PHP The Wrong Way](https://phpthewrongway.com/)
+- [Laws of UX](https://lawsofux.com/)
 
 ## Fun
 
