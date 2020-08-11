@@ -7,7 +7,12 @@ A collection of resources that I found useful and interesting across various dom
 ## Contents
 
 - [Javascript](#js)
+    - [Pilot Run](#pilot-run)
+    - [Advanced Concepts](#advanced-concepts)
 - [Security](#security)
+    - [Attacks](#attacks)
+    - [Guides](#guides)
+    - [Games and CTF's](#games-and-ctfs)
 - [Docker](#docker)
 - [Algorithms](#algorithms)
 - [Internet](#internet)
@@ -77,9 +82,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## JS
 
-<details>
-<summary>Pilot Run</summary>
-<p>
+### Pilot Run
 
 - [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
 - [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
@@ -92,9 +95,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 </p>
 </details>
 
-<details>
-<summary>Advanced Concepts</summary>
-<p>
+### Advanced Concepts
 
 - [this in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
@@ -127,9 +128,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1/)
 - [Mistakes we make using JavaScript Promises](https://www.betamark.com/blog/mistakes-using-javascript-promises/)
 - [Webpack How-to](https://github.com/petehunt/webpack-howto)
-
-</p>
-</details>
 
 <details>
 <summary>Node.js</summary>
