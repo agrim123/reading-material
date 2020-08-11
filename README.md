@@ -177,9 +177,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## Security
 
-<details>
-<summary>Attacks</summary>
-<p>
+### Attacks
 
 - [Blind SQL Injection Exploit](http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/)
 - [SSL Strip](https://github.com/moxie0/sslstrip)
@@ -210,9 +208,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 - [How does a TCP reset attack work](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
 - [Cracking the lens: targeting HTTP's hidden attack-surface](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface)
-
-</p>
-</details>
+- [Web Cache Entanglement: Novel Pathways to Poisoning](https://portswigger.net/research/web-cache-entanglement)
 
 <details>
 <summary>Tools</summary>
@@ -226,13 +222,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
     - [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
     - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
-
 </p>
 </details>
 
-<details>
-<summary>Guides</summary>
-<p>
+### Guides
 
 - [CTF Wiki](https://github.com/lucyoa/ctf-wiki)
 - [CVE-2016-4484: Cryptsetup Initrd root Shell](http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html)
@@ -262,12 +255,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The definitive super list for "Google Hacking"](https://gist.github.com/cmartinbaughman/5877945)
 - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/)
 
-</p>
-</details>
-
-<details>
-<summary>Games and CTF's</summary>
-<p>
+### Games and CTF's
 
 - [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
 - [Overthewire](http://overthewire.org/wargames/)
@@ -280,9 +268,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - http://websec.fr/
 - https://365.csaw.io/
 - https://crackmes.one/
-
-</p>
-</details>
 
 <details>
 <summary>Crypto</summary>
