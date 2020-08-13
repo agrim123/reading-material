@@ -4,6 +4,8 @@ A collection of resources that I found useful and interesting across various dom
 
 > [The Tao of Programming](http://www.mit.edu/~xela/tao.html)
 
+> [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
+
 ## Contents
 
 - [Javascript](#js)
