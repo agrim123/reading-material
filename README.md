@@ -489,6 +489,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Pro Git](https://git-scm.com/book/en/v2) :books:
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Git Hooks](https://githooks.com/)
+- `git rebase --onto`
+    - https://twitter.com/mluisbrown/status/1291756770445099009
+    - https://git-scm.com/docs/git-rebase
+- `git push --force-with-lease`
+    - https://git-scm.com/docs/git-push#Documentation/git-push.txt---force-with-leaseltrefnamegtltexpectgt
 
 ## Linux
 
@@ -943,6 +948,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Kafka Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf) :books:
 - [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol#AGuideToTheKafkaProtocol-Introduction)
 - [The Unofficial Kafka Rebalance How-To](https://tomlee.co/2019/03/the-unofficial-kafka-rebalance-how-to/)
+- [High Performance Kafka Producers](https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html)
+- [__consumer_offsets topic in kafka](https://kafka.apache.org/0110/documentation.html#impl_offsettracking)
 
 ## Spark
 
@@ -962,6 +969,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Common pitfalls when using the Pushgateway](https://www.robustperception.io/common-pitfalls-when-using-the-pushgateway)
 - [Statsd: Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 - [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
+- [Telltale: Netflix Application Monitoring Simplified](https://netflixtechblog.com/telltale-netflix-application-monitoring-simplified-5c08bfa780ba)
 
 ## System Design
 
@@ -1099,6 +1107,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) :sparkles:
 - [PHP The Wrong Way](https://phpthewrongway.com/)
 - [Laws of UX](https://lawsofux.com/)
+- [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
+- [lzop vs compress vs gzip vs bzip2 vs lzma vs lzma2/xz benchmark, reloaded](https://stephane.lesimple.fr/blog/lzop-vs-compress-vs-gzip-vs-bzip2-vs-lzma-vs-lzma2xz-benchmark-reloaded/)
 
 ## Fun
 
