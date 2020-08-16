@@ -950,6 +950,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Unofficial Kafka Rebalance How-To](https://tomlee.co/2019/03/the-unofficial-kafka-rebalance-how-to/)
 - [High Performance Kafka Producers](https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html)
 - [__consumer_offsets topic in kafka](https://kafka.apache.org/0110/documentation.html#impl_offsettracking)
+- [Vertically scaling Kafka consumers](https://www.jesseyates.com/2019/12/04/vertically-scaling-kafka-consumers.html)
+- [Apache Kafka Rebalance Protocol, or the magic behind your streams applications](https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2)
 
 ## Spark
 
