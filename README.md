@@ -996,6 +996,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [AWS re:Invent 2015: A Day in the Life of a Netflix Engineer (DVO203)](https://www.youtube.com/watch?v=-mL3zT1iIKw) :zap:
 - [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
+- [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/)
 
 ## x vs y :hocho:
 
