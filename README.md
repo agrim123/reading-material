@@ -913,6 +913,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) :sparkles:
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) :sparkles: :sparkles: :zap: :zap:
+- [A Glossary of Functional Programming](https://degoes.net/articles/fp-glossary)
 
 ## OAuth
 
@@ -952,6 +953,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [__consumer_offsets topic in kafka](https://kafka.apache.org/0110/documentation.html#impl_offsettracking)
 - [Vertically scaling Kafka consumers](https://www.jesseyates.com/2019/12/04/vertically-scaling-kafka-consumers.html)
 - [Apache Kafka Rebalance Protocol, or the magic behind your streams applications](https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2)
+- [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster/)
 
 ## Spark
 
