@@ -997,6 +997,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
 - [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
 - [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/)
+- [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
+- [How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 
 ## x vs y :hocho:
 
