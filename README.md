@@ -11,9 +11,10 @@ A collection of resources that I found useful and interesting across various dom
 - [Javascript](#js)
     - [Pilot Run](#pilot-run)
     - [Advanced Concepts](#advanced-concepts)
-    - [Node.js](#node-js)
+    - [Node.js](#nodejs)
     - [React, Redux](#react-redux)
     - [v8](#v8)
+    - [Books](#js-books)
 - [Security](#security)
     - [Attacks](#attacks)
     - [Guides](#guides)
@@ -23,10 +24,13 @@ A collection of resources that I found useful and interesting across various dom
 - [Internet](#internet)
     - [Webservers](#webservers)
     - [Protocols](#protocols)
-        - [HTTP](#https)
+        - [HTTP(S)](#https)
         - [TCP/UDP](#tcpudp)
+        - [DHCP](#dhcp)
         - [DNS](#dns)
     - [Load Balancing](#load-balancing)
+    - [Books](#networking-books)
+    - [Papers](#networking-papers)
 - [Git](#git)
 - [Linux](#linux)
     - [Linux](#linux)
@@ -34,18 +38,20 @@ A collection of resources that I found useful and interesting across various dom
     - [SSH](#ssh)
     - [Linux Security](#linuxsecurity)
     - [Bash](#bash)
+    - [Books](#linux-books)
 - [OS Dev](#os-dev)
 - [C](#c)
 - [Ruby](#ruby)
 - [Rails](#rails)
 - [Haskell](#haskell)
-- [Lisp](#lisp)
 - [Go](#go)
+    - [Pilot Run](#go-pilot-run)
     - [Concepts](#concepts)
         - [Concurrency](#concurrency)
         - [Profiling](#profiling)
     - [Go Internals](#go-internals)
     - [Networking with Go](#networking-with-go)
+    - [Papers](#go-papers)
 - [Rust](#rust)
 - [Kubernetes](#kubernetes)
 - [Database](#database)
@@ -59,14 +65,17 @@ A collection of resources that I found useful and interesting across various dom
 - [Spark](#spark)
 - [Monitoring](#monitoring)
 - [System Design](#system-design)
+- [x vs y :hocho:](#x-vs-y-hocho)
 - [Useful Command Line Tools](#useful-command-line-tools)
+- [Blogs](#blogs)
 - [More](#more)
 - [Fun](#fun)
 - [More Books](#more-books)
     - [Software Development](#software-development)
+    - [Lisp](#lisp)
     - [Random](#random)
 - [Courses](#courses)
-- [Papers](#papers_)
+- [Papers](#papers)
 - [Notes](/Notes) [WIP]
 
 ## Legend
@@ -413,14 +422,13 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 - [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
-- [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols) :sparkles:
 - [Latency Numbers](https://gist.github.com/jboner/2841832)
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 - [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
 - [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
 - [High Performance Browser Networking](https://hpbn.co/)
 
-### Books
+### Networking Books
 
 - [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
 - [CGI Programming 101](http://www.cgi101.com/)
@@ -433,7 +441,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [High Performance Browser Networking](https://hpbn.co/)
 - [Computer Networking : Principles, Protocols and Practice, 2nd edition](http://cnp3book.info.ucl.ac.be/2nd/html/)
 
-### Papers
+### Networking Papers
 
 - [API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
 - [Breach: Reviving The Crime Attack](http://breachattack.com/resources/BREACH%20-%20SSL,%20gone%20in%2030%20seconds.pdf)
@@ -573,7 +581,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Explain Shell](https://explainshell.com/)
 - [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 
-### Books
+### Linux Books
 
 - [Linux Device Drivers](http://free-electrons.com/doc/books/ldd3.pdf)
 - [Conquering The Command Line](http://conqueringthecommandline.com/book)
@@ -591,16 +599,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How Does an Intel Processor Boot?](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
 - [implement your own Linux kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
 
-<details>
-<summary>Books</summary>
-<p>
+### Books
 
 - [Os Dev Books](http://wiki.osdev.org/Books#TCP.2FIP)
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
-
-</p>
-</details>
 
 ## C
 
@@ -660,7 +663,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 > [Go FAQ](https://golang.org/doc/faq)
 
-### Pilot run
+### Go Pilot run
 
 - [Tour of Go](https://tour.golang.org/)
 - [Go by example](https://gobyexample.com/)
@@ -749,7 +752,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
 - [HTTPS and Go](https://www.kaihag.com/https-and-go/)
 
-### Papers
+### Go Papers
 
 - [Analysis of the Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
 - [An Implementation and Analysis of a Kernel Network Stack in Go with the CSP Style](https://arxiv.org/abs/1603.05636)
@@ -1139,16 +1142,13 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A handbook for making programming languages](http://www.craftinginterpreters.com/contents.html)
 - [Ask HN: What language-agnostic programming books should I read ?](https://news.ycombinator.com/item?id=14486657)
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
-- [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
 - [An Illustrated Book of Bad Arguments](https://bookofbadarguments.com/)
 - [An illustrated introduction to computational thinking](https://bookofbadchoices.com/index.html#page/3)
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
 - https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
 - [What is the single most influential book every programmer should read? [closed]](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) :books:
 - [A Reading List For the Self-Taught Computer Scientist](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/) :books:
-- https://libgen.pw
 - [SRE Books](https://landing.google.com/sre/books/)
-- An Illustrated Book of Bad Arguments
 
 ## Courses
 
@@ -1169,7 +1169,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 - [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 
-## Papers_
+## Papers
 
 - [Back to the Future: Lisp as a Base for a Statistical Computing System](https://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf)
 - [How Professional Hackers Understand Protected Code while Performing Attack Tasks](https://pdfs.semanticscholar.org/4bd1/2a9823b55d29a0d75c9ea9c8cd08b6fdca3e.pdf)
