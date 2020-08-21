@@ -1024,7 +1024,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://blog.filippo.io/
 - http://highscalability.com
 - https://notes.shichao.io/
-- https://blog.acolyer.org/
+- https://blog.acolyer.org/ - If you are into research papers
 - https://lwn.net/
 - https://queue.acm.org/
 - https://www.linuxjournal.com/
@@ -1033,13 +1033,12 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://robertheaton.com/
 - https://www.mnot.net/blog/
 - https://systemoverlord.com/
-- https://learnxinyminutes.com/
 - https://blog.rpis.ec/
 - https://blog.jessfraz.com/
 - https://www.hackinglinuxexposed.com/articles/
 - [Owasp](https://www.owasp.org/)
 - https://rpis.ec/
-- https://dave.cheney.net/
+- https://dave.cheney.net/ - Mostly Golang related
 - http://www.brendangregg.com/
 - https://www.scalescale.com/
 - https://medium.com/@blanchon.vincent :sparkles:
