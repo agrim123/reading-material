@@ -11,6 +11,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Javascript](#js)
     - [Pilot Run](#pilot-run)
     - [Advanced Concepts](#advanced-concepts)
+    - [Node.js](#node-js)
+    - [React, Redux](#react-redux)
+    - [v8](#v8)
 - [Security](#security)
     - [Attacks](#attacks)
     - [Guides](#guides)
@@ -94,9 +97,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/a/34361380)
 
-</p>
-</details>
-
 ### Advanced Concepts
 
 - [this in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
@@ -131,19 +131,12 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Mistakes we make using JavaScript Promises](https://www.betamark.com/blog/mistakes-using-javascript-promises/)
 - [Webpack How-to](https://github.com/petehunt/webpack-howto)
 
-<details>
-<summary>Node.js</summary>
-<p>
+### Node.js
 
 - [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 
-</p>
-</details>
-
-<details>
-<summary>React, Redux</summary>
-<p>
+### React, Redux
 
 - [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
@@ -151,12 +144,14 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
 
-</p>
-</details>
+### v8
 
-<details>
-<summary>Books</summary>
-<p>
+- [v8 Resource](https://github.com/ray-cp/browser_pwn_resources/blob/master/v8_resources.md)
+- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+- [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
+- [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)
+
+### JS Books
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Javascript: The Good Parts](http://www.amazon.in/Javascript-Good-Parts-D-Crockford/dp/0596517742)
@@ -164,16 +159,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 - [The JavaScript Way](https://github.com/bpesquet/thejsway)
 - [Speaking JS](http://speakingjs.com/es5/index.html)
-
-</p>
-</details>
-
-### v8
-
-- [v8 Resource](https://github.com/ray-cp/browser_pwn_resources/blob/master/v8_resources.md)
-- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
-- [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
-- [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)
 
 ## Security
 
@@ -1163,6 +1148,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A Reading List For the Self-Taught Computer Scientist](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/) :books:
 - https://libgen.pw
 - [SRE Books](https://landing.google.com/sre/books/)
+- An Illustrated Book of Bad Arguments
 
 ## Courses
 
