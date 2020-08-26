@@ -902,6 +902,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) :sparkles: :sparkles: :zap: :zap:
 - [A Glossary of Functional Programming](https://degoes.net/articles/fp-glossary)
+- [Scala Italy 2019 - John A De Goes - A Tour of Functional Design](https://vimeo.com/370819261) :tv:
 
 ## OAuth
 
@@ -987,6 +988,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/)
 - [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 - [How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+- [Deep Dive on Amazon ECS Cluster Auto Scaling](https://aws.amazon.com/blogs/containers/deep-dive-on-amazon-ecs-cluster-auto-scaling/) :sparkles:
 
 ## x vs y :hocho:
 
@@ -1103,6 +1105,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Laws of UX](https://lawsofux.com/)
 - [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 - [lzop vs compress vs gzip vs bzip2 vs lzma vs lzma2/xz benchmark, reloaded](https://stephane.lesimple.fr/blog/lzop-vs-compress-vs-gzip-vs-bzip2-vs-lzma-vs-lzma2xz-benchmark-reloaded/)
+- [Andrei Pangin - Everything you wanted to know about Stack Traces and Heap Dumps](https://www.youtube.com/watch?v=FTsAXJdrJbI&t=1s) :tv:
 
 ## Fun
 
