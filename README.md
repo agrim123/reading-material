@@ -65,6 +65,9 @@ A collection of resources that I found useful and interesting across various dom
 - [Spark](#spark)
 - [Monitoring](#monitoring)
 - [System Design](#system-design)
+    - [Event driven Architecture](#event-driven-architecture)
+    - [AWS](#aws)
+    - [Netflix](#netflix)
 - [x vs y :hocho:](#x-vs-y-hocho)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [Blogs](#blogs)
@@ -966,29 +969,38 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## System Design
 
-- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
 - [(A few) Ops Lessons We All Learn The Hard Way -- a Twitter](https://twitter.com/jschauma/status/1220902743482814467?s=19)
-- [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
+- [Reddit: How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
 - [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
 - [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
 - [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) :sparkles:
-- [How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
 - [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
-- [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
-- [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
+- [Uber: Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
 - [Jeremy Edberg - Scalable Cloud Architectures | Tech Talk](https://www.youtube.com/watch?v=cCAO9moDucI&t=1s) :tv:
-- [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
-- [AWS re:Invent 2017: How Netflix Tunes Amazon EC2 Instances for Performance (CMP325)](https://www.youtube.com/watch?v=89fYOo1V2pA) :tv:
-- [Building fast.com](https://netflixtechblog.com/building-fast-com-4857fe0f8adb)
 - [Principles of chaos engineering](http://principlesofchaos.org/)
-- [AWS re:Invent 2015: A Day in the Life of a Netflix Engineer (DVO203)](https://www.youtube.com/watch?v=-mL3zT1iIKw) :zap:
-- [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
-- [Setting up a queue service: Django, RabbitMQ, Celery on AWS](http://kronosapiens.github.io/blog/2015/04/28/rabbitmq-aws.html)
-- [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/)
 - [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
-- [How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+- [Dropbox: How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+- [Cloudflare: How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
+
+### Event driven Architecture
+
+- [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/)
+
+### AWS
+
+- [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 - [Deep Dive on Amazon ECS Cluster Auto Scaling](https://aws.amazon.com/blogs/containers/deep-dive-on-amazon-ecs-cluster-auto-scaling/) :sparkles:
+- [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
+
+### Netflix
+
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) :tv: :sparkles:
+- [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
+- [Building fast.com](https://netflixtechblog.com/building-fast-com-4857fe0f8adb)
+- [AWS re:Invent 2017: How Netflix Tunes Amazon EC2 Instances for Performance (CMP325)](https://www.youtube.com/watch?v=89fYOo1V2pA) :tv:
+- [AWS re:Invent 2015: A Day in the Life of a Netflix Engineer (DVO203)](https://www.youtube.com/watch?v=-mL3zT1iIKw) :zap:
+
 
 ## x vs y :hocho:
 
