@@ -16,9 +16,12 @@ A collection of resources that I found useful and interesting across various dom
     - [v8](#v8)
     - [Books](#js-books)
 - [Security](#security)
+    - [Tools](#tools)
     - [Attacks](#attacks)
     - [Guides](#guides)
     - [Games and CTF's](#games-and-ctfs)
+    - [Crypto](#crypto)
+    - [Papers](#security-papers)
 - [Docker](#docker)
 - [Algorithms](#algorithms)
 - [Internet](#internet)
@@ -65,6 +68,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Spark](#spark)
 - [Monitoring](#monitoring)
 - [System Design](#system-design)
+    - [Scalability](#scalability)
     - [Event driven Architecture](#event-driven-architecture)
     - [AWS](#aws)
     - [Netflix](#netflix)
@@ -206,21 +210,17 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How does a TCP reset attack work](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
 - [Cracking the lens: targeting HTTP's hidden attack-surface](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface)
 - [Web Cache Entanglement: Novel Pathways to Poisoning](https://portswigger.net/research/web-cache-entanglement)
+- [Reading Data via CSS Injection](https://curesec.com/blog/article/blog/Reading-Data-via-CSS-Injection-180.html)
 
-<details>
-<summary>Tools</summary>
-<p>
+### Tools
 
 - [John the Ripper](http://www.openwall.com/john/pro/linux/)
-- [HAProxy](http://www.haproxy.org/)
 - [Hashcat](https://hashcat.net/hashcat/)
 - [XSStrike](https://github.com/s0md3v/XSStrike)
 - [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
     - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
     - [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
     - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
-</p>
-</details>
 
 ### Guides
 
@@ -240,7 +240,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
 - [Use bcrypt](https://codahale.com/how-to-safely-store-a-password/)
 - [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
-- [Write-ups for CTF's](https://github.com/ctfs) - **(Refer only if really stuck solving CTF questions)**
 - [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
 - [GOT and PLT for pwning](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
 - [A Look at The Draft for JWT Best Current Practices](https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/)
@@ -257,18 +256,14 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
 - [Overthewire](http://overthewire.org/wargames/)
 - [Crypto Challenges](http://cryptopals.com/)
-- https://io.netgarage.org/
 - https://picoctf.com/
 - https://pwnable.kr
 - http://gracker.org/
-- https://ringzer0ctf.com/challenges
 - http://websec.fr/
 - https://365.csaw.io/
 - https://crackmes.one/
 
-<details>
-<summary>Crypto</summary>
-<p>
+### Crypto
 
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
 - [So, You Want To Learn To Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
@@ -281,22 +276,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [First SHA1 Collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/#blocking)
 
-</p>
-</details>
-
-<details>
-<summary>Books</summary>
-<p>
-
-- [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
-- [Radare 2 Book](https://radare.gitbooks.io/radare2book/content/)
-
-</p>
-</details>
-
-<details>
-<summary>Papers</summary>
-<p>
+### Security Papers
 
 - [Untraceable electronic mail, return addresses, and digital pseudonyms](https://mirror.robert-marquardt.com/anonbib/cache/chaum-mix.pdf)
 - [The Protection of Information in Computer Systems](https://www.acsac.org/secshelf/papers/protection_information.pdf)
@@ -305,9 +285,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Security, Authentication, and Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf)
 - [A Future-Adaptable Password Scheme](https://www.usenix.org/legacy/events/usenix99/provos/provos.pdf)
 - [Too Much Crypto](https://eprint.iacr.org/2019/1492.pdf)
-
-</p>
-</details>
 
 ## Docker
 
@@ -430,6 +407,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
 - [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
 - [High Performance Browser Networking](https://hpbn.co/)
+- [HAProxy](http://www.haproxy.org/)
 
 ### Networking Books
 
@@ -559,6 +537,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
 - [SSH Examples, Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
 - [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
+- [Comparing SSH Encryption Algorithms - RSA, DSA, ECDSA, or EdDSA?](https://gravitational.com/blog/comparing-ssh-keys/)
 
 ### Linux Security
 
@@ -972,18 +951,22 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [(A few) Ops Lessons We All Learn The Hard Way -- a Twitter](https://twitter.com/jschauma/status/1220902743482814467?s=19)
 - [Reddit: How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
 - [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
-- [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
-- [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) :sparkles:
-- [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
+- [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
+- [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 - [Uber: Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
-- [Jeremy Edberg - Scalable Cloud Architectures | Tech Talk](https://www.youtube.com/watch?v=cCAO9moDucI&t=1s) :tv:
 - [Principles of chaos engineering](http://principlesofchaos.org/)
 - [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 - [Dropbox: How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 - [Cloudflare: How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
-- [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development](https://www.youtube.com/watch?v=-W9F__D3oY4) :tv:
 - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) :sparkles:
+
+### Scalability
+
+- [Jeremy Edberg - Scalable Cloud Architectures | Tech Talk](https://www.youtube.com/watch?v=cCAO9moDucI&t=1s) :tv:
+- [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development](https://www.youtube.com/watch?v=-W9F__D3oY4) :tv:
+- [A Word on Scalability](https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
+- [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) :sparkles:
 
 ### Event driven Architecture
 
