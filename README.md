@@ -72,6 +72,7 @@ A collection of resources that I found useful and interesting across various dom
     - [Event driven Architecture](#event-driven-architecture)
     - [AWS](#aws)
     - [Netflix](#netflix)
+- [Privacy](#privacy)
 - [x vs y :hocho:](#x-vs-y-hocho)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [Blogs](#blogs)
@@ -986,6 +987,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [AWS re:Invent 2017: How Netflix Tunes Amazon EC2 Instances for Performance (CMP325)](https://www.youtube.com/watch?v=89fYOo1V2pA) :tv:
 - [AWS re:Invent 2015: A Day in the Life of a Netflix Engineer (DVO203)](https://www.youtube.com/watch?v=-mL3zT1iIKw) :zap:
 
+## Privacy
+
+- [Cutting Google out of your life](https://degoogle.jmoore.dev/)
 
 ## x vs y :hocho:
 
