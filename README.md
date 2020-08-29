@@ -586,14 +586,12 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
 - [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
 - [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
-- [Ruby vs. The World](https://matt.aimonetti.net/posts/2012/11/02/rubyconf-2012-ruby-vs-the-world/)
-- [Guide to Ruby](http://poignant.guide/book/) :books:
-- [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) :books:
+- [Guide to Ruby](http://poignant.guide/book/) :book:
+- [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) :book:
 
 ## Rails
 
-- [RoR Tutorial](https://www.railstutorial.org/book/frontmatter)
-- [APIs on Rails](http://apionrails.icaFlialabs.com/)
+- [RoR Tutorial](https://www.railstutorial.org/book/frontmatter) :book:
 - [Predicting Test Failures](http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html)
 - [XSS and Rails](http://blog.bigbinary.com/2012/05/10/xss-and-rails.html)
 - [RailsConf 2014 - All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE) :tv:
@@ -740,19 +738,20 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## Database
 
-- [Secure PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
-- [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)#Implementation_of_shards)
+- [Secure PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps) :lock:
 - [SQL vs NoSQL](https://www.airpair.com/postgresql/posts/sql-vs-nosql-ko-postgres-vs-mongo)
-- [What are Master and Slave databases?](https://www.quora.com/What-are-Master-and-Slave-databases-and-how-does-pairing-them-make-web-apps-faster)
-- [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
 - [Build a simple database](https://cstack.github.io/db_tutorial/)
-- [Five ways to paginate in Postgres, from the basic to the exotic](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
 - [One Giant Leap For SQL: MySQL 8.0 Released](https://modern-sql.com/blog/2018-04/mysql-8.0) :sparkles:
 - [MongoDB is to NoSQL like MySQL to SQL — in the most harmful way](https://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql)
 - [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity)
 - [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 - [Building Robust Systems with ACID and Constraints](https://brandur.org/acid) :sparkles:
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
+
+### Sharding
+
+- [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)#Implementation_of_shards)
+- [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
 
 <details>
 <summary>Papers</summary>
