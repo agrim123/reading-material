@@ -831,7 +831,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ## Tor
 
 - [Research problems: Ten ways to discover Tor bridges](https://blog.torproject.org/blog/research-problems-ten-ways-discover-tor-bridges)
-- [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/topic.html)
+- [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/topic.html) :page_with_curl:
 - [Onion Router](https://www.onion-router.net/)
 - [Handling bot attacks against a Tor hidden service](http://hn.premii.com/#/article/14280084)
 - [Anti-Censorship & Transparency - Roger Dingledine](https://www.youtube.com/watch?v=35l56KjTCb8) :tv:
@@ -869,8 +869,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 - [The OAuth 2.0 Authorization Framework RFC](https://tools.ietf.org/html/rfc6749)
-- [OAuth 2 Client](http://oauth2-client.thephpleague.com/) and [OAuth 2.0 Server](http://oauth2.thephpleague.com/)
-- [Securing API with OAuth 2.0](https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/)
+- [Securing API with OAuth 2.0](https://alexbilbie.com/2013/02/securing-your-api-with-oauth-2/) :lock:
 
 ## Regex
 
