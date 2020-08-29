@@ -225,21 +225,15 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### Guides
 
-- [CTF Wiki](https://github.com/lucyoa/ctf-wiki)
-- [CVE-2016-4484: Cryptsetup Initrd root Shell](http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html)
 - [CTF Field Guide](https://trailofbits.github.io/ctf) :sparkles:
 - [Buffer Overflow](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
-- [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own) :sparkles:
 - [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
 - [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
-- [Project Zero](https://googleprojectzero.blogspot.in/)
 - [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 - [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 - [Shodan](https://www.shodan.io/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
 - [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) :sparkles:
-- [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
-- [Use bcrypt](https://codahale.com/how-to-safely-store-a-password/)
 - [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
 - [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
 - [GOT and PLT for pwning](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
@@ -276,6 +270,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How to prevent cryptographic pitfalls by design](https://fosdem.org/2019/schedule/event/crypto_pitfalls/)
 - [First SHA1 Collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/#blocking)
+- [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
+- [Bcrypt Step by Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
+- [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own) :sparkles:
+- [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
+- [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
 
 ### Security Papers
 
@@ -296,15 +295,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Docker Cheatsheet](https://github.com/eon01/DockerCheatSheet)
 - [A tiny but valid `init` for containers](https://github.com/krallin/tini)
 - [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
-
-<details>
-<summary>Papers</summary>
-<p>
-
-- [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf)
-
-</p>
-</details>
+- [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf) :page_with_curl:
 
 ## Algorithms
 
@@ -319,16 +310,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
 - [The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
 - [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
-
-<details>
-<summary>Books</summary>
-<p>
-
-- [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-- [Clever Algorithms: Nature-Inspired Programming Recipes](http://www.cleveralgorithms.com/nature-inspired/index.html)
-
-</p>
-</details>
+- [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) :books:
+- [Clever Algorithms: Nature-Inspired Programming Recipes](http://www.cleveralgorithms.com/nature-inspired/index.html) :books:
 
 ## Internet
 
@@ -587,6 +570,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Os Dev Books](http://wiki.osdev.org/Books#TCP.2FIP)
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
+- [The OS Classics](https://www.allthingsdistributed.com/2020/07/the-os-classics.html)
 
 ## C
 
@@ -770,10 +754,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Five ways to paginate in Postgres, from the basic to the exotic](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
 - [One Giant Leap For SQL: MySQL 8.0 Released](https://modern-sql.com/blog/2018-04/mysql-8.0) :sparkles:
 - [MongoDB is to NoSQL like MySQL to SQL — in the most harmful way](https://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql)
-- [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
 - [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity)
 - [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 - [Building Robust Systems with ACID and Constraints](https://brandur.org/acid) :sparkles:
+- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
 
 <details>
 <summary>Papers</summary>
@@ -911,6 +895,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - Rack Model
 - [If you need a global lock in your distributed system, then you're already in trouble](https://news.ycombinator.com/item?id=11066258) :sparkles:
     - Parent Thread [Is Redlock Safe? Reply to Redlock Analysis](https://news.ycombinator.com/item?id=11065933)
+- [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
 
 ## Kafka
 
