@@ -181,15 +181,13 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### Attacks
 
-- [Blind SQL Injection Exploit](http://www.kamranmohsin.com/2016/06/learn-blind-sql-injection-exploit/)
 - [SSL Strip](https://github.com/moxie0/sslstrip)
 - [SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
 - [Binary Exploitation](https://github.com/CodeMaxx/Binary-Exploitation)
 - [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
-- [Buffer Overflow Attack](http://www.cs.bowiestate.edu/Faculty_Web_Pages/FrankXu/teaching/2016fall/COSC535_informationPrivacy/labs/bof/bufferoverflowAttack.pdf)
 - [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
 - [What is a DDoS Attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
-- [SSRF](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
+- [Server Side Request Forgery (SSRF)?](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
 - [All you need to know about SYN floods](https://blog.dubbelboer.com/2012/04/09/syn-cookies.html)
 - ["kernel: Possible SYN flooding on port X. Sending cookies" is logged](https://access.redhat.com/solutions/30453)
 - [SSL Strip for Newbies](https://avicoder.me/2016/02/22/SSLstrip-for-newbies/)
@@ -203,9 +201,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [EFAIL](https://efail.de/)
 - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 - [The SSL FREAK vulnerability explained](https://robertheaton.com/2015/04/06/the-ssl-freak-vulnerability/)
-- [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [Abusing HTTP hop-by-hop request headers](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers)
-- [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 - [Memcrashed - Major amplification attacks from UDP port 11211](https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/amp/)
 - [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 - [How does a TCP reset attack work](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
@@ -222,6 +218,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
     - [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
     - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
+- [Cipher Tools](http://rumkin.com/tools/cipher/)
 
 ### Guides
 
@@ -260,14 +257,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### Crypto
 
-- [Cipher Tools](http://rumkin.com/tools/cipher/)
 - [So, You Want To Learn To Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
 - [Alice & Bob : A History of The World’s Most Famous Cryptographic Couple](http://cryptocouple.com/)
 - [Implementing AES](http://blog.nindalf.com/implementing-aes/)
 - [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
-- [Cryptography Services Archives](https://cryptoservices.github.io/archives/)
-- [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
-- [How to prevent cryptographic pitfalls by design](https://fosdem.org/2019/schedule/event/crypto_pitfalls/)
+- [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/) :book:
 - [First SHA1 Collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/#blocking)
 - [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
@@ -279,7 +273,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ### Security Papers
 
 - [Untraceable electronic mail, return addresses, and digital pseudonyms](https://mirror.robert-marquardt.com/anonbib/cache/chaum-mix.pdf)
-- [The Protection of Information in Computer Systems](https://www.acsac.org/secshelf/papers/protection_information.pdf)
 - [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf)
 - [Exposing Private Information by Timing Web Applications](https://crypto.stanford.edu/~dabo/papers/webtiming.pdf)
 - [Security, Authentication, and Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf)
@@ -400,7 +393,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 - [Site Reliability Engineering](https://landing.google.com/sre/book.html)
 - [Understanding IP Addressing: Everything You Ever Wanted To Know](http://pages.di.unipi.it/ricci/501302.pdf)
-- [A. Tanenbaum - Bottom Up Networking](https://montcs.bloomu.edu/Readings/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf)
 - [Kurose and Ross - Top Down Networking](http://amzn.in/d/3S7Wd4s)
 - [TCP/IP Illustrated](http://www.cs.newpaltz.edu/~pletcha/NET_PY/the-protocols-tcp-ip-illustrated-volume-1.9780201633467.24290.pdf)
 - [High Performance Browser Networking](https://hpbn.co/)
@@ -1026,6 +1018,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://sysadvent.blogspot.com/
 - [A handbook for making programming languages](http://craftinginterpreters.com/)
 - https://codewithoutrules.com/
+- - [Cryptography Services Archives](https://cryptoservices.github.io/archives/) :lock:
 
 ## More
 
