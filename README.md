@@ -460,9 +460,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [chmod Tutorial](http://catcode.com/teachmod/)
 - [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
-- [File System Hierarchy](https://linuxacademy.com/blog/wp-content/uploads/2016/05/filesystem-2.png)
-- [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
-- [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
 - [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
 - [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
@@ -485,13 +482,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Threads and fork(): think twice before mixing them](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
 - [Loading and ptrace'ing a process on Linux](http://system.joekain.com/2015/06/08/debugger.html)
 - [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
-- [Why does APT not use HTTPS?](https://whydoesaptnotusehttps.com/)
 - [Systemd as tragedy](https://lwn.net/SubscriberLink/777595/a71362cc65b1c271/)
 - [The Good, the Bad, and the Ugly: The Unix! Legacy](http://herpolhode.com/rob/ugly.pdf)
 - [Rethinking PID 1](http://0pointer.de/blog/projects/systemd.html)
-- [Inside the Linux boot process](https://www.ibm.com/developerworks/library/l-linuxboot/index.html)
 - [What is Overcommit? And why is it bad?](https://www.etalabs.net/overcommit.html)
-- [What you need may be “pipeline +Unix commands” only](https://nanxiao.me/en/what-you-need-may-be-pipeline-unix-commands-only/)
 - [Your terminal is not a terminal: An Introduction to Streams](https://lucasfcosta.com/2019/04/07/streams-introduction.html)
 - [How fast are Unix domain sockets?](https://blog.myhro.info/2017/01/how-fast-are-unix-domain-sockets)
 - [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
@@ -502,7 +496,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Linux Scheduler: a Decade of Wasted Cores](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
 - [Linux Log Files that are Located under /var/log Directory](https://www.thegeekstuff.com/2011/08/linux-var-log-files/)
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
-- [An Evening with Berferd In Which a Cracker is Lured, Endured, and Studied](https://www.cheswick.com/ches/papers/berferd.pdf)
+- [An Evening with Berferd In Which a Cracker is Lured, Endured, and Studied](https://www.cheswick.com/ches/papers/berferd.pdf) :page_with_curl:
 - [“zero copy networking” vs “kernel bypass”?](https://stackoverflow.com/a/18346526)
 - [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 - [The brokenness of the sendfile() system call](https://blog.phusion.nl/2015/06/04/the-brokenness-of-the-sendfile-system-call/)
@@ -540,20 +534,21 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ### Bash
 
 - [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
-- [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
 - [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html)
-- [Writing Shellcode](http://www.safemode.org/files/zillion/shellcode/doc/Writing_shellcode.html)
 - [Creating a bash completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
 - [Explain Shell](https://explainshell.com/)
 - [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
+- [Learn Shell](http://www.learnshell.org/) :books:
+
+### BPF
+
+- [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
+- [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
 
 ### Linux Books
 
 - [Linux Device Drivers](http://free-electrons.com/doc/books/ldd3.pdf)
 - [Conquering The Command Line](http://conqueringthecommandline.com/book)
-- [Bash Cookbook](http://www.amazon.in/Bash-Cookbook-Cookbooks-Cameron-Newham/dp/0596526784)
-- [Learn Shell](http://www.learnshell.org/)
-- [The Linux Programming Interface](http://www.man7.org/tlpi/)
 
 ## OS dev
 
