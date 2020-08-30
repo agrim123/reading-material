@@ -227,9 +227,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
 - [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
 - [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
-- [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 - [Shodan](https://www.shodan.io/)
-- [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
 - [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) :sparkles:
 - [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
 - [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
@@ -242,6 +240,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [CSRF](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 - [The definitive super list for "Google Hacking"](https://gist.github.com/cmartinbaughman/5877945)
 - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/)
+- [Now you C me, now you don't: An introduction to the hidden attack surface of interpreted languages](https://securitylab.github.com/research/now-you-c-me)
 
 ### Games and CTF's
 
@@ -269,6 +268,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own) :sparkles:
 - [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
 - [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
+- [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
 
 ### Security Papers
 
@@ -376,7 +376,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Let 'localhost' be localhost](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04)
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) :page_with_curl:
-- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) :sparkles:
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 - [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
 - [Latency Numbers](https://gist.github.com/jboner/2841832)
@@ -385,8 +385,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
 - [High Performance Browser Networking](https://hpbn.co/)
 - [HAProxy](http://www.haproxy.org/)
+- [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
 
-### Networking Books
+### Networking Books :books:
 
 - [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
 - [CGI Programming 101](http://www.cgi101.com/)
@@ -398,7 +399,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [High Performance Browser Networking](https://hpbn.co/)
 - [Computer Networking : Principles, Protocols and Practice, 2nd edition](http://cnp3book.info.ucl.ac.be/2nd/html/)
 
-### Networking Papers
+### Networking Papers :page_with_curl:
 
 - [API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
 - [Breach: Reviving The Crime Attack](http://breachattack.com/resources/BREACH%20-%20SSL,%20gone%20in%2030%20seconds.pdf)
@@ -896,6 +897,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Vertically scaling Kafka consumers](https://www.jesseyates.com/2019/12/04/vertically-scaling-kafka-consumers.html)
 - [Apache Kafka Rebalance Protocol, or the magic behind your streams applications](https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2)
 - [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster/)
+- [Kafka vs. Pulsar vs. RabbitMQ: Performance, Architecture, and Features Compared](https://www.confluent.io/kafka-vs-pulsar/) :hocho:
 
 ## Spark
 
