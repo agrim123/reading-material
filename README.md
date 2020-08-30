@@ -32,8 +32,8 @@ A collection of resources that I found useful and interesting across various dom
         - [DHCP](#dhcp)
         - [DNS](#dns)
     - [Load Balancing](#load-balancing)
-    - [Books](#networking-books)
-    - [Papers](#networking-papers)
+    - [Books](#networking-books-books)
+    - [Papers](#networking-papers-page_with_curl)
 - [Git](#git)
 - [Linux](#linux)
     - [Linux](#linux)
@@ -302,9 +302,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Ask HN: What's your favorite elegant/beautiful algorithm?](https://news.ycombinator.com/item?id=18236396)
 - [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
 - [The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
-- [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+- [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) :sparkles: :zap:
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) :books:
-- [Clever Algorithms: Nature-Inspired Programming Recipes](http://www.cleveralgorithms.com/nature-inspired/index.html) :books:
 
 ## Internet
 
