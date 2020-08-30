@@ -897,6 +897,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Apache Kafka Rebalance Protocol, or the magic behind your streams applications](https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2)
 - [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster/)
 - [Kafka vs. Pulsar vs. RabbitMQ: Performance, Architecture, and Features Compared](https://www.confluent.io/kafka-vs-pulsar/) :hocho:
+- [It’s Okay To Store Data In Apache Kafka](https://www.confluent.io/blog/okay-store-data-apache-kafka/)
 
 ## Spark
 
