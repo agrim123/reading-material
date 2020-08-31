@@ -385,6 +385,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [High Performance Browser Networking](https://hpbn.co/)
 - [HAProxy](http://www.haproxy.org/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
+- [WebRTC for the Curious](https://webrtcforthecurious.com/)
 
 ### Networking Books :books:
 
@@ -739,6 +740,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 - [Building Robust Systems with ACID and Constraints](https://brandur.org/acid) :sparkles:
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
+- [Database Internals](https://www.databass.dev/) :book: :construction:
 
 ### Sharding
 
@@ -881,6 +883,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [If you need a global lock in your distributed system, then you're already in trouble](https://news.ycombinator.com/item?id=11066258) :sparkles:
     - Parent Thread [Is Redlock Safe? Reply to Redlock Analysis](https://news.ycombinator.com/item?id=11065933)
 - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
+- [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
 
 ## Kafka
 
@@ -898,6 +901,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster/)
 - [Kafka vs. Pulsar vs. RabbitMQ: Performance, Architecture, and Features Compared](https://www.confluent.io/kafka-vs-pulsar/) :hocho:
 - [It’s Okay To Store Data In Apache Kafka](https://www.confluent.io/blog/okay-store-data-apache-kafka/)
+- [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/) :book: :construction:
 
 ## Spark
 
