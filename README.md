@@ -891,7 +891,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
 - [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Kafka and Zookeeper with Docker](https://medium.com/rahasak/kafka-and-zookeeper-with-docker-65cff2c2c34f)
-- [Kafka Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf) :books:
 - [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol#AGuideToTheKafkaProtocol-Introduction)
 - [The Unofficial Kafka Rebalance How-To](https://tomlee.co/2019/03/the-unofficial-kafka-rebalance-how-to/)
 - [High Performance Kafka Producers](https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html)
@@ -899,9 +898,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Vertically scaling Kafka consumers](https://www.jesseyates.com/2019/12/04/vertically-scaling-kafka-consumers.html)
 - [Apache Kafka Rebalance Protocol, or the magic behind your streams applications](https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2)
 - [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster/)
-- [Kafka vs. Pulsar vs. RabbitMQ: Performance, Architecture, and Features Compared](https://www.confluent.io/kafka-vs-pulsar/) :hocho:
 - [It’s Okay To Store Data In Apache Kafka](https://www.confluent.io/blog/okay-store-data-apache-kafka/)
-- [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/) :book: :construction:
+- [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/) :book:
 
 ## Spark
 
@@ -975,6 +973,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Why Rust and not Go](https://blog.juliobiason.me/thoughts/why-rust-and-not-go/) :sparkles:
 - [Why Go and Rust are Competitors](http://www.doxsey.net/blog/why-go-and-rust-are-competitors)
 - [A Response to Hello World](http://www.doxsey.net/blog/a-response-to-hello-world)
+- [Kafka vs. Pulsar vs. RabbitMQ: Performance, Architecture, and Features Compared](https://www.confluent.io/kafka-vs-pulsar/)
 
 ## Useful Command Line Tools
 
