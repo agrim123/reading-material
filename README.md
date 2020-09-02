@@ -313,6 +313,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [nginx](http://www.aosabook.org/en/nginx.html)
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
+- [Understanding Nginx HTTP Proxying, Load Balancing, Buffering, and Caching](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
 
 ### Web Caching
 
@@ -746,6 +747,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)#Implementation_of_shards)
 - [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
+- [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 
 <details>
 <summary>Papers</summary>
@@ -900,6 +902,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster/)
 - [It’s Okay To Store Data In Apache Kafka](https://www.confluent.io/blog/okay-store-data-apache-kafka/)
 - [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/) :book:
+- [uReplicator: Uber Engineering’s Robust Apache Kafka Replicator](https://eng.uber.com/ureplicator-apache-kafka-replicator/)
 
 ## Spark
 
