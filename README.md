@@ -408,12 +408,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ### Networking Books :books:
 
 - [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
-- [CGI Programming 101](http://www.cgi101.com/)
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
-- [Site Reliability Engineering](https://landing.google.com/sre/book.html)
 - [Understanding IP Addressing: Everything You Ever Wanted To Know](http://pages.di.unipi.it/ricci/501302.pdf)
 - [Kurose and Ross - Top Down Networking](http://amzn.in/d/3S7Wd4s)
-- [TCP/IP Illustrated](http://www.cs.newpaltz.edu/~pletcha/NET_PY/the-protocols-tcp-ip-illustrated-volume-1.9780201633467.24290.pdf)
+- TCP/IP Illustrated
 - [High Performance Browser Networking](https://hpbn.co/)
 - [Computer Networking : Principles, Protocols and Practice, 2nd edition](http://cnp3book.info.ucl.ac.be/2nd/html/)
 
