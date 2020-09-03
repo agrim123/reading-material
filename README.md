@@ -305,6 +305,15 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) :sparkles: :zap:
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) :books:
 
+## Data Structures
+
+### Advanced Data Structures
+
+#### Bloom filter
+
+- [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
+- [When Bloom filters don't bloom](https://blog.cloudflare.com/when-bloom-filters-dont-bloom/)
+
 ## Internet
 
 ### Webservers
