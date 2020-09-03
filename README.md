@@ -113,7 +113,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
 - [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) :sparkles:
-- [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) :tv:
 - [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/a/34361380)
@@ -149,8 +149,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
 - [What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
 - [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1/)
-- [Mistakes we make using JavaScript Promises](https://www.betamark.com/blog/mistakes-using-javascript-promises/)
-- [Webpack How-to](https://github.com/petehunt/webpack-howto)
 
 ### Node.js
 
@@ -245,6 +243,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The definitive super list for "Google Hacking"](https://gist.github.com/cmartinbaughman/5877945)
 - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/)
 - [Now you C me, now you don't: An introduction to the hidden attack surface of interpreted languages](https://securitylab.github.com/research/now-you-c-me)
+- [Hacker101](https://www.hacker101.com/)
 
 ### Games and CTF's
 
@@ -310,6 +309,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) :books:
 
 ## Data Structures
+
+- [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
 ### Advanced Data Structures
 
@@ -445,7 +446,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Rebase with history -- implementation ideas](http://softwareswirl.blogspot.in/2009/08/rebase-with-history-implementation.html)
 - [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
 - [Git introduction – .git directory](http://slidedeck.io/mikhail-vnukov/git-basics)
-- [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [Git Compression of Blobs and Packfiles](https://gist.github.com/matthewmccullough/2695758)
 - [Why do Git/Mercurial repositories use less space?](https://softwareengineering.stackexchange.com/questions/148434/why-do-git-mercurial-repositories-use-less-space/148498#148498)
@@ -1060,7 +1060,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
 - [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
-- [Hacker101](https://www.hacker101.com/)
 - [MooTools](https://github.com/mootools/mootools-core)
 - [Developer resources for desktop apps](http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
@@ -1082,7 +1081,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [See Python, See Python Go, Go Python Go](https://blog.heroku.com/see_python_see_python_go_go_python_go)
 - [Why stack grows down](https://gist.github.com/cpq/8598782)
 - [Programmer's critique of missing structure of operating systems](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html)
-- [S2 Cells](https://s2geometry.io/devguide/s2cell_hierarchy.html)
 - [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
 - [Queryparser, an Open Source Tool for Parsing and Analyzing SQL](https://eng.uber.com/queryparser/)
 - [Enabling Machine Learning with Apache Flink - Sherin Thomas](https://www.youtube.com/watch?v=_4lXkjqpMxI&t=12s) :tv:
@@ -1092,7 +1090,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Mathematical attack on RSA](https://www.nku.edu/~christensen/Mathematical%20attack%20on%20RSA.pdf)
 - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 - [The Twelve-Factor App](https://12factor.net/)
-- [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 - [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) :sparkles:
@@ -1126,12 +1123,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) :sparkles:
 - [The Mythical Man-Month](http://www.amazon.in/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [The Joy of Software Development](https://josd.captnemo.in/content/)
-
-### Lisp
-
-- [Practical Common Lisp](http://www.gigamonkeys.com/book/)
-- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
-- [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
 
 ### Random
 
