@@ -24,6 +24,9 @@ A collection of resources that I found useful and interesting across various dom
     - [Papers](#security-papers)
 - [Docker](#docker)
 - [Algorithms](#algorithms)
+- [Data Structures](#data-structures)
+    - [Advanced Data Structures](#advanced-data-structures)
+        - [Bloom filter](#bloom-filter)
 - [Internet](#internet)
     - [Webservers](#webservers)
     - [Protocols](#protocols)
@@ -31,6 +34,7 @@ A collection of resources that I found useful and interesting across various dom
         - [TCP/UDP](#tcpudp)
         - [DHCP](#dhcp)
         - [DNS](#dns)
+        - [BGP](#bgp)
     - [Load Balancing](#load-balancing)
     - [Books](#networking-books-books)
     - [Papers](#networking-papers-page_with_curl)
@@ -370,6 +374,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
 
 > [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
+
+#### BGP
+
+- [What Is BGP? | BGP Routing Explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
 
 ### Load Balancing
 
