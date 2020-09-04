@@ -924,6 +924,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Memory Management Overview](http://spark.apache.org/docs/latest/tuning.html#memory-management-overview)
 - [Tricks of the Trade: Tuning JVM Memory for Large-scale Services](https://eng.uber.com/jvm-tuning-garbage-collection/)
 - [Managing Spark Partitions with Coalesce and Repartition](https://medium.com/@mrpowers/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4#.36o8a7b5j)
+- [The hidden cost of Spark withColumn](https://manuzhang.github.io/output/2018-07-11-spark-catalyst-cost/index.html)
 
 ### Logging
 
@@ -1098,6 +1099,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 - [lzop vs compress vs gzip vs bzip2 vs lzma vs lzma2/xz benchmark, reloaded](https://stephane.lesimple.fr/blog/lzop-vs-compress-vs-gzip-vs-bzip2-vs-lzma-vs-lzma2xz-benchmark-reloaded/)
 - [Andrei Pangin - Everything you wanted to know about Stack Traces and Heap Dumps](https://www.youtube.com/watch?v=FTsAXJdrJbI&t=1s) :tv:
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) :sparkles: :zap:
 
 ## Fun
 
