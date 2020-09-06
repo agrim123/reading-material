@@ -363,6 +363,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Messing With Telnet](https://jott.live/markdown/telnet_writeup)
 - [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
 - [How Does TCP Work?](https://sookocheff.com/post/networking/how-does-tcp-work/)
+- [Once Again on TCP vs UDP](https://accu.org/index.php/journals/2180)
 
 #### DHCP
 
@@ -509,6 +510,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [“zero copy networking” vs “kernel bypass”?](https://stackoverflow.com/a/18346526)
 - [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 - [The brokenness of the sendfile() system call](https://blog.phusion.nl/2015/06/04/the-brokenness-of-the-sendfile-system-call/)
+- [Understanding Daemons](https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/)
 
 ### Kernel
 
