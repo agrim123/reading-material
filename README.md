@@ -243,7 +243,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The definitive super list for "Google Hacking"](https://gist.github.com/cmartinbaughman/5877945)
 - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/)
 - [Now you C me, now you don't: An introduction to the hidden attack surface of interpreted languages](https://securitylab.github.com/research/now-you-c-me)
-- [Hacker101](https://www.hacker101.com/)
+- [Simple Bugs With Complex Exploits](https://www.elttam.com/blog/simple-bugs-with-complex-exploits/#content)
 
 ### Games and CTF's
 
@@ -511,6 +511,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 - [The brokenness of the sendfile() system call](https://blog.phusion.nl/2015/06/04/the-brokenness-of-the-sendfile-system-call/)
 - [Understanding Daemons](https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/)
+- [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) :sparkles:
 
 ### Kernel
 
@@ -550,6 +551,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Explain Shell](https://explainshell.com/)
 - [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 - [Learn Shell](http://www.learnshell.org/) :books:
+- [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
 
 ### BPF
 
@@ -689,6 +691,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709) :sparkles:
 - [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/) :sparkles:
 - [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
+- [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
 
 ### Go Internals
 
@@ -713,6 +716,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
 - [Contiguous stacks in Go](https://agis.io/post/contiguous-stacks-golang/)
 - [How does the go build command work ?](https://dave.cheney.net/2013/10/15/how-does-the-go-build-command-work)
+- [runtime: Large maps cause significant GC pauses](https://github.com/golang/go/issues/9477)
 
 ### Networking with Go
 
@@ -941,6 +945,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Statsd: Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 - [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
 - [Telltale: Netflix Application Monitoring Simplified](https://netflixtechblog.com/telltale-netflix-application-monitoring-simplified-5c08bfa780ba)
+- [On the naming of things](https://www.robustperception.io/on-the-naming-of-things)
 
 ## System Design
 
@@ -1102,6 +1107,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [lzop vs compress vs gzip vs bzip2 vs lzma vs lzma2/xz benchmark, reloaded](https://stephane.lesimple.fr/blog/lzop-vs-compress-vs-gzip-vs-bzip2-vs-lzma-vs-lzma2xz-benchmark-reloaded/)
 - [Andrei Pangin - Everything you wanted to know about Stack Traces and Heap Dumps](https://www.youtube.com/watch?v=FTsAXJdrJbI&t=1s) :tv:
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) :sparkles: :zap:
+- [The Life of a Data Byte](https://queue.acm.org/detail.cfm?id=3419941) :sparkles: :zap: :construction:
+- [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
 
 ## Fun
 
