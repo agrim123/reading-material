@@ -692,6 +692,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/) :sparkles:
 - [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 - [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
+- [Detecting Race Conditions With Go](https://www.ardanlabs.com/blog/2013/09/detecting-race-conditions-with-go.html)
+- [Go, without package scoped variables](https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables)
 
 ### Go Internals
 
@@ -946,6 +948,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
 - [Telltale: Netflix Application Monitoring Simplified](https://netflixtechblog.com/telltale-netflix-application-monitoring-simplified-5c08bfa780ba)
 - [On the naming of things](https://www.robustperception.io/on-the-naming-of-things)
+- [Prometheus Recording Rules](https://deploy.live/blog/today-i-learned-prometheus-recording-rules/)
 
 ## System Design
 
@@ -1081,7 +1084,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Meet the Flexbox Inspector](https://gedd.ski/) :sparkles:
 - [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 - [Race Condition vs. Data Race](https://blog.regehr.org/archives/490) :sparkles:
-- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) :sparkles:
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) :sparkles: :zap:
 - [A byte’s not 8 bits.](https://burstingdynamics.wordpress.com/2015/11/10/a-byte-is-not-8-bits/) :sparkles:
 - [Epigrams in programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [The Danger of “Simplicity”](https://asthasr.github.io/posts/danger-of-simplicity)
