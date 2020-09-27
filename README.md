@@ -694,6 +694,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
 - [Detecting Race Conditions With Go](https://www.ardanlabs.com/blog/2013/09/detecting-race-conditions-with-go.html)
 - [Go, without package scoped variables](https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables)
+- [How to generate a random string of a fixed length in Go?](https://stackoverflow.com/a/31832326)
 
 ### Go Internals
 
@@ -771,6 +772,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)#Implementation_of_shards)
 - [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
 - [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
+- [An Unorthodox Approach To Database Design : The Coming Of The Shard](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html) :sparkles:
 
 <details>
 <summary>Papers</summary>
@@ -947,8 +949,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Statsd: Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 - [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
 - [Telltale: Netflix Application Monitoring Simplified](https://netflixtechblog.com/telltale-netflix-application-monitoring-simplified-5c08bfa780ba)
-- [On the naming of things](https://www.robustperception.io/on-the-naming-of-things)
+- [On the naming of things](https://www.robustperception.io/on-the-naming-of-things) :sparkles:
 - [Prometheus Recording Rules](https://deploy.live/blog/today-i-learned-prometheus-recording-rules/)
+- [Prometheus Counters and how to deal with them](https://www.innoq.com/en/blog/prometheus-counters/)
 
 ## System Design
 
@@ -1112,6 +1115,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) :sparkles: :zap:
 - [The Life of a Data Byte](https://queue.acm.org/detail.cfm?id=3419941) :sparkles: :zap: :construction:
 - [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
+- [eBPF](https://ebpf.io/what-is-ebpf/)
 
 ## Fun
 
