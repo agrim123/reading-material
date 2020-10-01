@@ -695,6 +695,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Detecting Race Conditions With Go](https://www.ardanlabs.com/blog/2013/09/detecting-race-conditions-with-go.html)
 - [Go, without package scoped variables](https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables)
 - [How to generate a random string of a fixed length in Go?](https://stackoverflow.com/a/31832326)
+- [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
 
 ### Go Internals
 
@@ -911,6 +912,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - Parent Thread [Is Redlock Safe? Reply to Redlock Analysis](https://news.ycombinator.com/item?id=11065933)
 - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
+- [Airbnb: Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 
 ## Kafka
 
