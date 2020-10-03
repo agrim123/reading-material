@@ -740,7 +740,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ## Rust
 
 - [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/1-basics.html)
-- [Rust Docs](https://doc.rust-lang.org/rust-by-example/std/result.html)
+- [Rust Docs](https://doc.rust-lang.org/rust-by-example/std/result.html) :book:
 - [Rust Design Patterns](https://github.com/rust-unofficial/patterns)
 - [Rethinking Systems Programming](https://thoughtram.io/rust-and-nickel/#/) :sparkles:
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
@@ -1119,6 +1119,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Life of a Data Byte](https://queue.acm.org/detail.cfm?id=3419941) :sparkles: :zap: :construction:
 - [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
 - [eBPF](https://ebpf.io/what-is-ebpf/)
+- [My yearly reformat](https://peter.bourgon.org/blog/2017/12/25/yearly-reformat.html)
 
 ## Fun
 
