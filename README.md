@@ -721,6 +721,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Contiguous stacks in Go](https://agis.io/post/contiguous-stacks-golang/)
 - [How does the go build command work ?](https://dave.cheney.net/2013/10/15/how-does-the-go-build-command-work)
 - [runtime: Large maps cause significant GC pauses](https://github.com/golang/go/issues/9477)
+- [Introducing the Go Race Detector](https://blog.golang.org/race-detector)
 
 ### Networking with Go
 
