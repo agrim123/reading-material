@@ -307,6 +307,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
 - [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) :sparkles: :zap:
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) :books:
+- [10 Optimizations on Linear Search](https://queue.acm.org/detail.cfm?id=2984631)
 
 ## Data Structures
 
