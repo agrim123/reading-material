@@ -971,6 +971,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Dropbox: How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 - [Cloudflare: How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
 - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) :sparkles:
+- Making Instagram.com faster
+    - [Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-f350c8fba0d4) - Prefetching data
+    - [Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4) - Pushing data directly to the client rather than waiting for the client to request the data
+    - [Part 3](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) - Cache-first rendering
+    - [Part 4](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8) - Code size and execution optimizations
 
 ### Scalability
 
