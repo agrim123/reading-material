@@ -1121,6 +1121,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
 - [eBPF](https://ebpf.io/what-is-ebpf/)
 - [My yearly reformat](https://peter.bourgon.org/blog/2017/12/25/yearly-reformat.html)
+- [The 13 immutable reads on choosing what to work on](https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/)
 
 ## Fun
 
