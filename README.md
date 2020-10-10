@@ -513,6 +513,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The brokenness of the sendfile() system call](https://blog.phusion.nl/2015/06/04/the-brokenness-of-the-sendfile-system-call/)
 - [Understanding Daemons](https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/)
 - [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) :sparkles:
+- [Systemd is not Magic Security Dust](https://www.agwa.name/blog/post/systemd_is_not_magic_security_dust) :construction:
 
 ### Kernel
 
@@ -976,6 +977,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4) - Pushing data directly to the client rather than waiting for the client to request the data
     - [Part 3](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) - Cache-first rendering
     - [Part 4](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8) - Code size and execution optimizations
+- [Workload isolation using shuffle-sharding](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
 
 ### Scalability
 
@@ -1064,7 +1066,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://sysadvent.blogspot.com/
 - [A handbook for making programming languages](http://craftinginterpreters.com/)
 - https://codewithoutrules.com/
-- - [Cryptography Services Archives](https://cryptoservices.github.io/archives/) :lock:
+- https://code.flickr.net/
+- https://microservices.io/index.html :sparkles:
+- https://engineering.fb.com/
+- [Cryptography Services Archives](https://cryptoservices.github.io/archives/) :lock:
 
 ## More
 
@@ -1127,6 +1132,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [eBPF](https://ebpf.io/what-is-ebpf/)
 - [My yearly reformat](https://peter.bourgon.org/blog/2017/12/25/yearly-reformat.html)
 - [The 13 immutable reads on choosing what to work on](https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/)
+- [The Duct Tape Programmer](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/)
+- [The Hitchhiker’s Guide to Compression](https://go-compression.github.io/) :construction:
 
 ## Fun
 
