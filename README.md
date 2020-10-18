@@ -60,7 +60,7 @@ A collection of resources that I found useful and interesting across various dom
     - [Networking with Go](#networking-with-go)
     - [Papers](#go-papers)
 - [Rust](#rust)
-- [Kubernetes](#kubernetes)
+- [Kubernetes](#kubernetes-construction)
 - [Database](#database)
 - [Blockchain, Bitcoin](#blockchain-bitcoin)
 - [Tor](#tor)
@@ -753,7 +753,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 - [Fearless Concurrency with Rust](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
 
-## Kubernetes
+## Kubernetes :construction:
 
 - [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/)
 - [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/)
