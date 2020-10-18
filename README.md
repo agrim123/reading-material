@@ -930,7 +930,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/)
     - https://news.ycombinator.com/item?id=1768312
 - [Keeping CALM: When Distributed Consistency Is Easy](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
-- Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services :paper:
+- Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services :page_with_curl:
 
 ## Kafka
 
