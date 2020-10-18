@@ -725,6 +725,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How does the go build command work ?](https://dave.cheney.net/2013/10/15/how-does-the-go-build-command-work)
 - [runtime: Large maps cause significant GC pauses](https://github.com/golang/go/issues/9477)
 - [Introducing the Go Race Detector](https://blog.golang.org/race-detector)
+- [Memory Optimizations for Go Systems](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
 
 ### Networking with Go
 
@@ -924,6 +925,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [Consensus Protocols: Two-Phase Commit](https://www.the-paper-trail.org/post/2008-11-27-consensus-protocols-two-phase-commit/)
     - [Consensus Protocols: Three-phase Commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/)
     - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/)
+    - https://news.ycombinator.com/item?id=1768312
+- [Keeping CALM: When Distributed Consistency Is Easy](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 
 ## Kafka
 
@@ -997,6 +1000,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development](https://www.youtube.com/watch?v=-W9F__D3oY4) :tv: :zap:
 - [A Word on Scalability](https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
 - [Scalability for Dummies](https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones) :sparkles:
+- [Scalable System Design Patterns](https://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 
 ### Event driven Architecture
 
