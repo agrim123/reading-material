@@ -920,6 +920,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
     - [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
     - [FLP and CAP aren't the same thing](https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/)
+    - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/) :zap:
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles:
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
@@ -929,6 +930,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/)
     - https://news.ycombinator.com/item?id=1768312
 - [Keeping CALM: When Distributed Consistency Is Easy](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
+- Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services :paper:
 
 ## Kafka
 
