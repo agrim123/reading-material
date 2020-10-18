@@ -67,7 +67,7 @@ A collection of resources that I found useful and interesting across various dom
 - [Functional Programming](#functional-programming)
 - [OAuth](#oauth)
 - [Regex](#regex)
-- [Distributed Systems](#distributed-sytems)
+- [Distributed Systems](#distributed-systems)
 - [Kafka](#kafka)
 - [Spark](#spark)
 - [Monitoring](#monitoring)
