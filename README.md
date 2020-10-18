@@ -924,7 +924,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles:
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
-- Consesus Protocols :contruction:
+- Consesus Protocols :construction:
     - [Consensus Protocols: Two-Phase Commit](https://www.the-paper-trail.org/post/2008-11-27-consensus-protocols-two-phase-commit/)
     - [Consensus Protocols: Three-phase Commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/)
     - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/)
