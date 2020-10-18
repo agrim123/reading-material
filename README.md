@@ -365,6 +365,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
 - [How Does TCP Work?](https://sookocheff.com/post/networking/how-does-tcp-work/)
 - [Once Again on TCP vs UDP](https://accu.org/index.php/journals/2180)
+- [Nagle's algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm)
 
 #### DHCP
 
@@ -913,10 +914,16 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - Rack Model
 - [If you need a global lock in your distributed system, then you're already in trouble](https://news.ycombinator.com/item?id=11066258) :sparkles:
     - Parent Thread [Is Redlock Safe? Reply to Redlock Analysis](https://news.ycombinator.com/item?id=11065933)
-- [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
+- [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+    - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
+    - [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
-- [Airbnb: Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles:
+- [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+- Consesus Protocols :contruction:
+    - [Consensus Protocols: Two-Phase Commit](https://www.the-paper-trail.org/post/2008-11-27-consensus-protocols-two-phase-commit/)
+    - [Consensus Protocols: Three-phase Commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/)
+    - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/)
 
 ## Kafka
 
@@ -979,13 +986,17 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [Part 3](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) - Cache-first rendering
     - [Part 4](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8) - Code size and execution optimizations
 - [Workload isolation using shuffle-sharding](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
+- [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
+- [Billions of Messages a Day - Yelp's Real-time Data Pipeline](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
+- [The WhatsApp Architecture Facebook Bought For $19 Billion](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
+- [Airbnb: Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 
 ### Scalability
 
 - [Jeremy Edberg - Scalable Cloud Architectures | Tech Talk](https://www.youtube.com/watch?v=cCAO9moDucI&t=1s) :tv:
-- [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development](https://www.youtube.com/watch?v=-W9F__D3oY4) :tv:
+- [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development](https://www.youtube.com/watch?v=-W9F__D3oY4) :tv: :zap:
 - [A Word on Scalability](https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
-- [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) :sparkles:
+- [Scalability for Dummies](https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones) :sparkles:
 
 ### Event driven Architecture
 
