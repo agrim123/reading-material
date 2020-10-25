@@ -352,6 +352,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Employing QUIC Protocol to Optimize Uber’s App Performance](https://eng.uber.com/employing-quic-protocol/)
 - [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
 - [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+- [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
 
 #### TCP/UDP
 
@@ -780,6 +781,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
 - [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 - [An Unorthodox Approach To Database Design : The Coming Of The Shard](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html) :sparkles:
+- [Spanner's High Availability Writes](https://rakyll.org/spanner-ha-writes/)
 
 <details>
 <summary>Papers</summary>
