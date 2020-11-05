@@ -917,7 +917,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - https://news.ycombinator.com/item?id=1768312
     - [Notes on Paxos](https://matklad.github.io/2020/11/01/notes-on-paxos.html)
 - [Keeping CALM: When Distributed Consistency Is Easy](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
-- Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services :page_with_curl:
+- [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.6951&rep=rep1&type=pdf) :page_with_curl: :construction:
 
 ## Kafka
 
