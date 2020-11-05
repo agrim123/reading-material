@@ -11,7 +11,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Javascript](#js)
     - [Pilot Run](#pilot-run)
     - [Advanced Concepts](#advanced-concepts)
-    - [Node.js](#nodejs)
     - [React, Redux](#react-redux)
     - [v8](#v8)
     - [Books](#js-books)
@@ -32,7 +31,6 @@ A collection of resources that I found useful and interesting across various dom
     - [Protocols](#protocols)
         - [HTTP(S)](#https)
         - [TCP/UDP](#tcpudp)
-        - [DHCP](#dhcp)
         - [DNS](#dns)
         - [BGP](#bgp)
     - [Load Balancing](#load-balancing)
@@ -55,7 +53,7 @@ A collection of resources that I found useful and interesting across various dom
     - [Pilot Run](#go-pilot-run)
     - [Concepts](#concepts)
         - [Concurrency](#concurrency)
-        - [Profiling](#profiling)
+        - [Profiling](#profiling-mag)
     - [Go Internals](#go-internals)
     - [Networking with Go](#networking-with-go)
     - [Papers](#go-papers)
@@ -135,13 +133,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :sparkles:
 - [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
 - [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
-- [The JavaScript Encyclopedia](http://javascript.crockford.com/)
 - [Javascript Debugging](https://developer.chrome.com/devtools/docs/javascript-debugging)
 - [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 - [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
-- [Object-oriented Programming in vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
 - [Essential Image Optimization](https://images.guide/) :sparkles:
 - [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
 - [In defense of Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
@@ -149,10 +144,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
 - [What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
 - [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1/)
-
-### Node.js
-
-- [Getting Started with NodeJS](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
+- [JavaScript Event Loop And Call Stack Explained](https://felixgerschau.com/javascript-event-loop-call-stack/) :zap:
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 
 ### React, Redux
@@ -177,7 +169,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 - [The JavaScript Way](https://github.com/bpesquet/thejsway)
-- [Speaking JS](http://speakingjs.com/es5/index.html)
 
 ## Security
 
@@ -288,7 +279,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Understanding Docker Internals](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
 - [Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
 - [Docker Curriculum](https://prakhar.me/docker-curriculum/)
-- [Docker Cheatsheet](https://github.com/eon01/DockerCheatSheet)
 - [A tiny but valid `init` for containers](https://github.com/krallin/tini)
 - [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 - [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf) :page_with_curl:
@@ -367,10 +357,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How Does TCP Work?](https://sookocheff.com/post/networking/how-does-tcp-work/)
 - [Once Again on TCP vs UDP](https://accu.org/index.php/journals/2180)
 - [Nagle's algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm)
-
-#### DHCP
-
-- [DHCP configuration file /etc/dhcp/dhcpd.conf explained](https://www.thegeekdiary.com/dhcp-configuration-file-etcdhcpdhcpd-conf-explained/)
 
 #### DNS
 
@@ -631,7 +617,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Learn You a Haskell](http://learnyouahaskell.com)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [Haskell Programming from first principles](http://haskellbook.com/)
-- [Beginning Haskell](http://www.apress.com/in/book/9781430262503)
 
 </p>
 </details>
@@ -836,7 +821,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://medium.com/founder-playbook/67-blockchain-articles-whitepapers-that-shaped-crypto-into-what-it-is-today-c538facfceb9
 - [Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 - [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://www.usenix.org/system/files/conference/atc16/atc16_paper-ali.pdf)
-- [IPFS](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) :page_with_curl:
 - [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/abs/1510.02037)
 - [A Secure Sharding Protocol For Open Blockchain](https://www.comp.nus.edu.sg/~loiluu/papers/elastico.pdf)
 - [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf)
@@ -931,6 +915,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [Consensus Protocols: Three-phase Commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/)
     - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/)
     - https://news.ycombinator.com/item?id=1768312
+    - [Notes on Paxos](https://matklad.github.io/2020/11/01/notes-on-paxos.html)
 - [Keeping CALM: When Distributed Consistency Is Easy](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 - Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services :page_with_curl:
 
@@ -999,6 +984,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Billions of Messages a Day - Yelp's Real-time Data Pipeline](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
 - [The WhatsApp Architecture Facebook Bought For $19 Billion](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
 - [Airbnb: Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- [Microservices — architecture nihilism in minimalism's clothes](https://vlfig.me/posts/microservices) :sparkles:
 
 ### Scalability
 
@@ -1080,7 +1066,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://blog.rpis.ec/
 - https://blog.jessfraz.com/
 - https://www.hackinglinuxexposed.com/articles/
-- [Owasp](https://www.owasp.org/)
 - https://rpis.ec/
 - https://dave.cheney.net/ - Mostly Golang related
 - http://www.brendangregg.com/
