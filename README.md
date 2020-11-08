@@ -419,7 +419,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Making Commit in past](http://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past)
 - [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Oh shit, git!](http://ohshitgit.com/)
-- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 - [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o) :tv:
 - [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0) :tv:
 - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
@@ -429,8 +428,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Commit Often, Perfect Later, Publish Once: Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
 - [Rebase with history -- implementation ideas](http://softwareswirl.blogspot.in/2009/08/rebase-with-history-implementation.html)
 - [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
-- [Git introduction – .git directory](http://slidedeck.io/mikhail-vnukov/git-basics)
-- [Git Immersion](http://gitimmersion.com/index.html)
 - [Git Compression of Blobs and Packfiles](https://gist.github.com/matthewmccullough/2695758)
 - [Why do Git/Mercurial repositories use less space?](https://softwareengineering.stackexchange.com/questions/148434/why-do-git-mercurial-repositories-use-less-space/148498#148498)
 - [How bad can it git? Characterizing secret leakage in public GitHub repositories](https://blog.acolyer.org/2019/04/08/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
