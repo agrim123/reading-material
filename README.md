@@ -408,17 +408,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### Networking Papers :page_with_curl:
 
-- [API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
-- [Breach: Reviving The Crime Attack](http://breachattack.com/resources/BREACH%20-%20SSL,%20gone%20in%2030%20seconds.pdf)
 - [Cloak of Visibility](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45365.pdf)
-- [Thinking about Availability in Large Service Infrastructures](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46181.pdf)
 - [A Look Back at “Security Problems in the TCP/IP Protocol Suite”](https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf)
-- [Filecoin: A Decentralized Storage Network](https://filecoin.io/filecoin.pdf)
 - [Breaking the Browser Language Barrier](http://plasma-umass.github.io/doppio-demo/paper.pdf)
 - [Defending Internet Freedom through Decentralization Back to the Future?](http://dci.mit.edu/assets/papers/decentralized_web.pdf)
 - [The anatomy of a large-scale hypertextual Web search engine](http://zoo.cs.yale.edu/classes/cs426/2012/bib/brin98theanatomy.pdf)
-- [The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
-- [Automating chaos experiments in production](https://arxiv.org/pdf/1905.04648.pdf)
 
 ## Git
 
@@ -918,6 +912,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [Notes on Paxos](https://matklad.github.io/2020/11/01/notes-on-paxos.html)
 - [Keeping CALM: When Distributed Consistency Is Easy](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 - [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.6951&rep=rep1&type=pdf) :page_with_curl: :construction:
+- [Thinking about Availability in Large Service Infrastructures](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46181.pdf)
 
 ## Kafka
 
@@ -994,6 +989,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Scalability for Dummies](https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones) :sparkles:
 - [Scalable System Design Patterns](https://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 - [Scalable Web Architecture and Distributed Systems](https://www.aosabook.org/en/distsys.html)
+- [The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf) :paper_with_curl:
+- [Automating chaos experiments in production](https://arxiv.org/pdf/1905.04648.pdf)
 
 ### Event driven Architecture
 
