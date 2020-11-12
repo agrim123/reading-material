@@ -8,19 +8,14 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Contents
 
-- [Javascript](#js)
-    - [Pilot Run](#pilot-run)
-    - [Advanced Concepts](#advanced-concepts)
-    - [React, Redux](#react-redux)
-    - [v8](#v8)
-    - [Books](#js-books)
-- [Security](#security)
-    - [Tools](#tools)
-    - [Attacks](#attacks)
-    - [Guides](#guides)
-    - [Games and CTF's](#games-and-ctfs)
-    - [Crypto](#crypto)
-    - [Papers](#security-papers)
+- [Go](#go)
+    - [Pilot Run](#go-pilot-run)
+    - [Concepts](#concepts)
+        - [Concurrency](#concurrency)
+        - [Profiling](#profiling-mag)
+    - [Go Internals](#go-internals)
+    - [Networking with Go](#networking-with-go)
+    - [Papers](#go-papers)
 - [Docker](#docker)
 - [Algorithms](#algorithms)
 - [Data Structures](#data-structures)
@@ -49,14 +44,12 @@ A collection of resources that I found useful and interesting across various dom
 - [Ruby](#ruby)
 - [Rails](#rails)
 - [Haskell](#haskell)
-- [Go](#go)
-    - [Pilot Run](#go-pilot-run)
-    - [Concepts](#concepts)
-        - [Concurrency](#concurrency)
-        - [Profiling](#profiling-mag)
-    - [Go Internals](#go-internals)
-    - [Networking with Go](#networking-with-go)
-    - [Papers](#go-papers)
+- [Javascript](#js)
+    - [Pilot Run](#pilot-run)
+    - [Advanced Concepts](#advanced-concepts)
+    - [React, Redux](#react-redux)
+    - [v8](#v8)
+    - [Books](#js-books)
 - [Rust](#rust)
 - [Kubernetes](#kubernetes-construction)
 - [Database](#database)
@@ -75,6 +68,13 @@ A collection of resources that I found useful and interesting across various dom
     - [AWS](#aws)
     - [Netflix](#netflix)
 - [Privacy](#privacy)
+- [Security](#security)
+    - [Tools](#tools)
+    - [Attacks](#attacks)
+    - [Guides](#guides)
+    - [Games and CTF's](#games-and-ctfs)
+    - [Crypto](#crypto)
+    - [Papers](#security-papers)
 - [x vs y :hocho:](#x-vs-y-hocho)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [Blogs](#blogs)
@@ -90,7 +90,7 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Legend
 
-You might some emojis (:sparkles:, :construction: etc) crawling all over this collection. 
+You might some emojis (:sparkles:, :construction: etc) crawling all over this collection.
 
 | emoji  |  meaning |
 | ------------ | ------------ |
@@ -103,514 +103,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 | :wrench:  | Debugging |
 | :file_folder:  | List |
 | :hocho:  | faceoff |
-
-## JS
-
-### Pilot Run
-
-- [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
-- [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
-- [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) :sparkles:
-- [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) :tv:
-- [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
-- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-- [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/a/34361380)
-
-### Advanced Concepts
-
-- [this in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
-- [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
-- [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
-- [Advanced JS](http://htmldog.com/guides/javascript/advanced/)
-- [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
-- [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) :sparkles::sparkles:
-- [What is the Difference Between Class and Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
-- [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
-- [Circular dependencies in JavaScript](https://medium.com/content-uneditable/circular-dependencies-in-javascript-a-k-a-coding-is-not-a-rock-paper-scissors-game-9c2a9eccd4bc)
-- [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
-- [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
-- [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
-- [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :sparkles:
-- [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
-- [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95)
-- [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
-- [Javascript Debugging](https://developer.chrome.com/devtools/docs/javascript-debugging)
-- [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
-- [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
-- [Essential Image Optimization](https://images.guide/) :sparkles:
-- [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
-- [In defense of Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
-- [Douglas Crockford: Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) :tv:
-- [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
-- [What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
-- [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1/)
-- [JavaScript Event Loop And Call Stack Explained](https://felixgerschau.com/javascript-event-loop-call-stack/) :zap:
-- [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
-
-### React, Redux
-
-- [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
-- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-- [React Implementation Notes](https://reactjs.org/docs/implementation-notes.html)
-- [React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
-- [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
-
-### v8
-
-- [v8 Resource](https://github.com/ray-cp/browser_pwn_resources/blob/master/v8_resources.md)
-- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
-- [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
-- [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)
-
-### JS Books
-
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Javascript: The Good Parts](http://www.amazon.in/Javascript-Good-Parts-D-Crockford/dp/0596517742)
-- [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
-- [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
-- [The JavaScript Way](https://github.com/bpesquet/thejsway)
-
-## Security
-
-### Attacks
-
-- [SSL Strip](https://github.com/moxie0/sslstrip)
-- [SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
-- [Binary Exploitation](https://github.com/CodeMaxx/Binary-Exploitation)
-- [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
-- [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
-- [What is a DDoS Attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
-- [Server Side Request Forgery (SSRF)?](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
-- [All you need to know about SYN floods](https://blog.dubbelboer.com/2012/04/09/syn-cookies.html)
-- ["kernel: Possible SYN flooding on port X. Sending cookies" is logged](https://access.redhat.com/solutions/30453)
-- [SSL Strip for Newbies](https://avicoder.me/2016/02/22/SSLstrip-for-newbies/)
-- [Cold Boot Attack](https://en.wikipedia.org/wiki/Cold_boot_attack)
-- [Heartbleed Bug](http://heartbleed.com/)
-- [Shellshock](https://en.wikipedia.org/wiki/Shellshock_%28software_bug%29)
-- [Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware))
-- [POODLE](https://en.wikipedia.org/wiki/POODLE)
-- [Format string attack](https://www.owasp.org/index.php/Format_string_attack)
-- [Off-by-one error](https://en.wikipedia.org/wiki/Off-by-one_error)
-- [EFAIL](https://efail.de/)
-- [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
-- [The SSL FREAK vulnerability explained](https://robertheaton.com/2015/04/06/the-ssl-freak-vulnerability/)
-- [Abusing HTTP hop-by-hop request headers](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers)
-- [Memcrashed - Major amplification attacks from UDP port 11211](https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/amp/)
-- [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
-- [How does a TCP reset attack work](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
-- [Cracking the lens: targeting HTTP's hidden attack-surface](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface)
-- [Web Cache Entanglement: Novel Pathways to Poisoning](https://portswigger.net/research/web-cache-entanglement)
-- [Reading Data via CSS Injection](https://curesec.com/blog/article/blog/Reading-Data-via-CSS-Injection-180.html)
-
-### Tools
-
-- [John the Ripper](http://www.openwall.com/john/pro/linux/)
-- [Hashcat](https://hashcat.net/hashcat/)
-- [XSStrike](https://github.com/s0md3v/XSStrike)
-- [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
-    - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
-    - [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
-    - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
-- [Cipher Tools](http://rumkin.com/tools/cipher/)
-
-### Guides
-
-- [CTF Field Guide](https://trailofbits.github.io/ctf) :sparkles:
-- [Buffer Overflow](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
-- [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
-- [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
-- [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
-- [Shodan](https://www.shodan.io/)
-- [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) :sparkles:
-- [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
-- [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
-- [GOT and PLT for pwning](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
-- [A Look at The Draft for JWT Best Current Practices](https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/)
-- [LiveOverflow Binary Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) :tv:
-- [Advanced web security topics](https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/)
-- [Don't publicly expose .git](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/) :sparkles:
-- [The State Of Software Security In 2019](https://noncombatant.org/2019/01/06/state-of-security-2019/) :lock:
-- [CSRF](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
-- [The definitive super list for "Google Hacking"](https://gist.github.com/cmartinbaughman/5877945)
-- [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/)
-- [Now you C me, now you don't: An introduction to the hidden attack surface of interpreted languages](https://securitylab.github.com/research/now-you-c-me)
-- [Simple Bugs With Complex Exploits](https://www.elttam.com/blog/simple-bugs-with-complex-exploits/#content)
-
-### Games and CTF's
-
-- [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
-- [Overthewire](http://overthewire.org/wargames/)
-- [Crypto Challenges](http://cryptopals.com/)
-- https://picoctf.com/
-- https://pwnable.kr
-- http://gracker.org/
-- http://websec.fr/
-- https://365.csaw.io/
-- https://crackmes.one/
-
-### Crypto
-
-- [So, You Want To Learn To Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
-- [Alice & Bob : A History of The World’s Most Famous Cryptographic Couple](http://cryptocouple.com/)
-- [Implementing AES](http://blog.nindalf.com/implementing-aes/)
-- [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
-- [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/) :book:
-- [First SHA1 Collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
-- [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/#blocking)
-- [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
-- [Bcrypt Step by Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
-- [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own) :sparkles:
-- [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
-- [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
-- [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
-
-### Security Papers
-
-- [Untraceable electronic mail, return addresses, and digital pseudonyms](https://mirror.robert-marquardt.com/anonbib/cache/chaum-mix.pdf)
-- [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf)
-- [Exposing Private Information by Timing Web Applications](https://crypto.stanford.edu/~dabo/papers/webtiming.pdf)
-- [Security, Authentication, and Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf)
-- [A Future-Adaptable Password Scheme](https://www.usenix.org/legacy/events/usenix99/provos/provos.pdf)
-- [Too Much Crypto](https://eprint.iacr.org/2019/1492.pdf)
-
-## Docker
-
-- [Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/)
-- [Understanding Docker Internals](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
-- [Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
-- [Docker Curriculum](https://prakhar.me/docker-curriculum/)
-- [A tiny but valid `init` for containers](https://github.com/krallin/tini)
-- [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
-- [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf) :page_with_curl:
-
-## Algorithms
-
-> [Know Thy Complexities!](http://bigocheatsheet.com/#)
-
-- [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
-- [Heap Algorithm](http://ruslanledesma.com/2016/06/17/why-does-heap-work.html)
-- [Linked lists are still hard](https://brennan.io/2017/04/21/linked-lists-are-still-hard/)
-- [Understanding Dijkstra's Algorithm](https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/)
-- [How to think in graphs](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
-- [Ask HN: What's your favorite elegant/beautiful algorithm?](https://news.ycombinator.com/item?id=18236396)
-- [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
-- [The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
-- [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) :sparkles: :zap:
-- [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) :books:
-- [10 Optimizations on Linear Search](https://queue.acm.org/detail.cfm?id=2984631)
-
-## Data Structures
-
-- [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
-
-### Advanced Data Structures
-
-#### Bloom filter
-
-- [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
-- [When Bloom filters don't bloom](https://blog.cloudflare.com/when-bloom-filters-dont-bloom/)
-
-## Internet
-
-### Webservers
-
-- [Apache vs Nginx: Practical Considerations](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
-- [The C10K problem](http://www.kegel.com/c10k.html)
-- [nginx](http://www.aosabook.org/en/nginx.html)
-- [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
-- [Understanding Nginx HTTP Proxying, Load Balancing, Buffering, and Caching](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
-
-### Web Caching
-
-- [Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)
-- [Cache Docs](https://www.mnot.net/cache_docs/)
-
-### Protocols
-
-#### HTTP(S)
-
-- [HTTP](https://www.jmarshall.com/easy/http/)
-- [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
-- [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
-- [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
-- [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
-- [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
-- [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) :sparkles:
-- [Comparing HTTP/3 vs. HTTP/2 Performance](https://blog.cloudflare.com/http-3-vs-http-2/)
-- [HTTP3](https://blog.cloudflare.com/http-3-from-root-to-tip/)
-- [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
-- [Employing QUIC Protocol to Optimize Uber’s App Performance](https://eng.uber.com/employing-quic-protocol/)
-- [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
-- [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-- [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
-
-#### TCP/UDP
-
-- [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
-- [The Illustrated TLS Connection](https://tls.ulfheim.net/)
-- [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
-- [Discussion: UDP in web](https://news.ycombinator.com/item?id=13741155)
-- [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
-- [When TCP sockets refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
-- [Messing With Telnet](https://jott.live/markdown/telnet_writeup)
-- [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
-- [How Does TCP Work?](https://sookocheff.com/post/networking/how-does-tcp-work/)
-- [Once Again on TCP vs UDP](https://accu.org/index.php/journals/2180)
-- [Nagle's algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm)
-
-#### DNS
-
-- [DNS in One Picture](https://medium.com/@kamranahmedse/dns-in-one-picture-d7f4783db06a)
-- [The Web Developer's Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
-- [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
-
-> [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
-
-#### BGP
-
-- [What Is BGP? | BGP Routing Explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
-
-### Load Balancing
-
-- [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
-- [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
-
-### Random
-
-- [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
-- [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
-- [What happens when...](https://github.com/alex/what-happens-when) :sparkles::zap:
-- [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
-- [Let 'localhost' be localhost](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04)
-- [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
-- [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) :page_with_curl:
-- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) :sparkles:
-- [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
-- [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
-- [Latency Numbers](https://gist.github.com/jboner/2841832)
-- [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
-- [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
-- [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
-- [High Performance Browser Networking](https://hpbn.co/)
-- [HAProxy](http://www.haproxy.org/)
-- [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
-- [WebRTC for the Curious](https://webrtcforthecurious.com/)
-
-### Networking Books :books:
-
-- [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
-- [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
-- [Understanding IP Addressing: Everything You Ever Wanted To Know](http://pages.di.unipi.it/ricci/501302.pdf)
-- [Kurose and Ross - Top Down Networking](http://amzn.in/d/3S7Wd4s)
-- TCP/IP Illustrated
-- [High Performance Browser Networking](https://hpbn.co/)
-- [Computer Networking : Principles, Protocols and Practice, 2nd edition](http://cnp3book.info.ucl.ac.be/2nd/html/)
-
-### Networking Papers :page_with_curl:
-
-- [Cloak of Visibility](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45365.pdf)
-- [A Look Back at “Security Problems in the TCP/IP Protocol Suite”](https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf)
-- [Breaking the Browser Language Barrier](http://plasma-umass.github.io/doppio-demo/paper.pdf)
-- [Defending Internet Freedom through Decentralization Back to the Future?](http://dci.mit.edu/assets/papers/decentralized_web.pdf)
-- [The anatomy of a large-scale hypertextual Web search engine](http://zoo.cs.yale.edu/classes/cs426/2012/bib/brin98theanatomy.pdf)
-
-## Git
-
-- [Making Commit in past](http://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past)
-- [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
-- [Oh shit, git!](http://ohshitgit.com/)
-- [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o) :tv:
-- [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0) :tv:
-- [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
-- [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
-- [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
-- [Advanced Git Commands You Will Actually Use](https://stosb.com/blog/advanced-git-commands-you-will-actually-use/)
-- [Commit Often, Perfect Later, Publish Once: Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
-- [Rebase with history -- implementation ideas](http://softwareswirl.blogspot.in/2009/08/rebase-with-history-implementation.html)
-- [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
-- [Git Compression of Blobs and Packfiles](https://gist.github.com/matthewmccullough/2695758)
-- [Why do Git/Mercurial repositories use less space?](https://softwareengineering.stackexchange.com/questions/148434/why-do-git-mercurial-repositories-use-less-space/148498#148498)
-- [How bad can it git? Characterizing secret leakage in public GitHub repositories](https://blog.acolyer.org/2019/04/08/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
-- [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
-- [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
-- [Git gc](https://www.atlassian.com/git/tutorials/git-gc)
-- [Pro Git](https://git-scm.com/book/en/v2) :books:
-- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-- [Git Hooks](https://githooks.com/)
-- `git rebase --onto`
-    - https://twitter.com/mluisbrown/status/1291756770445099009
-    - https://git-scm.com/docs/git-rebase
-- `git push --force-with-lease`
-    - https://git-scm.com/docs/git-push#Documentation/git-push.txt---force-with-leaseltrefnamegtltexpectgt
-
-## Linux
-
-### Linux
-
-- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [chmod Tutorial](http://catcode.com/teachmod/)
-- [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
-- [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
-- [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
-- [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
-- [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) :sparkles::sparkles:
-- [rm -rf remains](https://lambdaops.com/rm-rf-remains/) :sparkles:
-- [Linux Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-- [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
-- [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) :sparkles::sparkles:
-- [How does the system shutdown of a linux kernel work internally?](https://unix.stackexchange.com/a/122667/)
-- [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) :sparkles:
-- [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
-- [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
-- [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) :sparkles:
-- [Linux file descriptors](https://monometric.io/article/file-descriptors-in-2018)
-- [UNIX Syscalls](https://john-millikin.com/unix-syscalls)
-- [How statically linked programs run on Linux](https://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux) :sparkles:
-- [File Types in Linux](https://linuxconfig.org/identifying-file-types-in-linux)
-- [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/?fbclid=IwAR10_Mr9b--R5KaentRh_W2d4gyDcHt70jbIOuF_FYDXy8NwyFRN9qkQC10)
-- [Killing processes that don't want to die](https://lwn.net/Articles/754980/)
-- [Threads and fork(): think twice before mixing them](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
-- [Loading and ptrace'ing a process on Linux](http://system.joekain.com/2015/06/08/debugger.html)
-- [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
-- [Systemd as tragedy](https://lwn.net/SubscriberLink/777595/a71362cc65b1c271/)
-- [The Good, the Bad, and the Ugly: The Unix! Legacy](http://herpolhode.com/rob/ugly.pdf)
-- [Rethinking PID 1](http://0pointer.de/blog/projects/systemd.html)
-- [What is Overcommit? And why is it bad?](https://www.etalabs.net/overcommit.html)
-- [Your terminal is not a terminal: An Introduction to Streams](https://lucasfcosta.com/2019/04/07/streams-introduction.html)
-- [How fast are Unix domain sockets?](https://blog.myhro.info/2017/01/how-fast-are-unix-domain-sockets)
-- [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
-- [Linux namespaces](http://ifeanyi.co/posts/linux-namespaces-part-1/)
-- [Why should text files end with a newline?](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline)
-- [What has to happen with Unix virtual memory when you have no swap space](https://utcc.utoronto.ca/~cks/space/blog/unix/NoSwapConsequence)
-- [htop explained](https://peteris.rocks/blog/htop/)
-- [The Linux Scheduler: a Decade of Wasted Cores](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
-- [Linux Log Files that are Located under /var/log Directory](https://www.thegeekstuff.com/2011/08/linux-var-log-files/)
-- [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
-- [An Evening with Berferd In Which a Cracker is Lured, Endured, and Studied](https://www.cheswick.com/ches/papers/berferd.pdf) :page_with_curl:
-- [“zero copy networking” vs “kernel bypass”?](https://stackoverflow.com/a/18346526)
-- [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
-- [The brokenness of the sendfile() system call](https://blog.phusion.nl/2015/06/04/the-brokenness-of-the-sendfile-system-call/)
-- [Understanding Daemons](https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/)
-- [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) :sparkles:
-- [Systemd is not Magic Security Dust](https://www.agwa.name/blog/post/systemd_is_not_magic_security_dust) :construction:
-
-### Kernel
-
-- [Kernel Map](http://www.makelinux.net/kernel_map/)
-- [Documentation extracted from the Linux kernel](https://www.kernel.org/doc/)
-- [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
-- [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
-- [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
-- [The Linux Kernel](https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html)
-
-### SSH
-
-- [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
-- [SSH Examples, Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
-- [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
-- [Comparing SSH Encryption Algorithms - RSA, DSA, ECDSA, or EdDSA?](https://gravitational.com/blog/comparing-ssh-keys/)
-
-### Linux Security
-
-- [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
-- [Dirty Cow](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
-- [Explaining Dirty COW local root exploit - CVE-2016-5195](https://www.youtube.com/watch?v=kEsshExn7aE) :tv:
-- [Linux Firewall Tutorial: IPTables Tables, Chains, Rules Fundamentals](http://www.thegeekstuff.com/2011/01/iptables-fundamentals/)
-- [Security Tips for Linux Servers](https://www.tecmint.com/linux-server-hardening-security-tips/)
-- [Three kinds of memory leaks](https://blog.nelhage.com/post/three-kinds-of-leaks/)
-- [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
-- [Writing a simple rootkit for linux](https://w3.cs.jmu.edu/kirkpams/550-f12/papers/linux_rootkit.pdf)
-- [Do sudo and .profile/.bashrc enable trivial privilege escalation?](https://security.stackexchange.com/questions/187502/do-sudo-and-profile-bashrc-enable-trivial-privilege-escalation)
-- [How to break out of a chroot() jail](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)
-- [Securing Debian Manual](https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html#contents)
-
-### Bash
-
-- [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
-- [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html)
-- [Creating a bash completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
-- [Explain Shell](https://explainshell.com/)
-- [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
-- [Learn Shell](http://www.learnshell.org/) :books:
-- [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
-
-### BPF
-
-- [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
-- [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
-
-### Linux Books
-
-- [Linux Device Drivers](http://free-electrons.com/doc/books/ldd3.pdf)
-- [Conquering The Command Line](http://conqueringthecommandline.com/book)
-
-## OS dev
-
-- [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
-- [Kernel 101 – Let’s write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
-- [Kernel development](http://www.osdever.net/bkerndev/Docs/intro.htm)
-- [Computer architecture for network engineers](https://github.com/lukego/blog/issues/18)
-- [Building a simple Kernel](http://wiki.osdev.org/Bare_Bones)
-- [How Does an Intel Processor Boot?](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
-- [implement your own Linux kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
-
-### Books
-
-- [Os Dev Books](http://wiki.osdev.org/Books#TCP.2FIP)
-- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
-- [The OS Classics](https://www.allthingsdistributed.com/2020/07/the-os-classics.html)
-
-## C
-
-- [Lightweight HTTP Server](http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11)
-- [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly) :sparkles::sparkles:
-- [Smashing The Stack For Fun And Profit](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
-- [GNU Make: A Program for Directing Recompilation](http://web.mit.edu/gnu/doc/html/make_toc.html)
-- [ncurses Programming HOWTO](http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
-- [Make your own build system](http://jstimpfle.de/blah/buildsystem/buildsystem.html)
-- [Malloc tutorial](https://danluu.com/malloc-tutorial/)
-- [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
-- [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
-- [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html) :sparkles::sparkles:
-
-## Ruby
-
-- [Ruby Programming](https://www.theodinproject.com/courses/ruby-programming)
-- [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
-- [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
-- [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
-- [Guide to Ruby](http://poignant.guide/book/) :book:
-- [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) :book:
-
-## Rails
-
-- [RoR Tutorial](https://www.railstutorial.org/book/frontmatter) :book:
-- [Predicting Test Failures](http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html)
-- [XSS and Rails](http://blog.bigbinary.com/2012/05/10/xss-and-rails.html)
-- [RailsConf 2014 - All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE) :tv:
-
-## Haskell
-
-- [Official Documentation](https://www.haskell.org/documentation)
-- [How to learn Haskell](https://github.com/bitemyapp/learnhaskell)
-- [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/) :sparkles:
-- [Huge list of videos, talks, courses for Haskell programming language](https://github.com/hzlmn/haskell-must-watch)
-- [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
-- [Some Notes About How I Write Haskell](https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell)
-- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-
-<details>
-<summary>Books</summary>
-<p>
-
-- [Open-source Haskell books](http://hn.premii.com/#/article/14392423)
-- [Learn You a Haskell](http://learnyouahaskell.com)
-- [Real World Haskell](http://book.realworldhaskell.org/read/)
-- [Haskell Programming from first principles](http://haskellbook.com/)
-
-</p>
-</details>
 
 ## Go
 
@@ -718,6 +210,398 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Analysis of the Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
 - [An Implementation and Analysis of a Kernel Network Stack in Go with the CSP Style](https://arxiv.org/abs/1603.05636)
+
+## Docker
+
+- [Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/)
+- [Understanding Docker Internals](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
+- [Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
+- [Docker Curriculum](https://prakhar.me/docker-curriculum/)
+- [A tiny but valid `init` for containers](https://github.com/krallin/tini)
+- [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
+- [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf) :page_with_curl:
+
+## Algorithms
+
+> [Know Thy Complexities!](http://bigocheatsheet.com/#)
+
+- [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
+- [Heap Algorithm](http://ruslanledesma.com/2016/06/17/why-does-heap-work.html)
+- [Linked lists are still hard](https://brennan.io/2017/04/21/linked-lists-are-still-hard/)
+- [Understanding Dijkstra's Algorithm](https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/)
+- [How to think in graphs](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
+- [Ask HN: What's your favorite elegant/beautiful algorithm?](https://news.ycombinator.com/item?id=18236396)
+- [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
+- [The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
+- [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) :sparkles: :zap:
+- [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) :books:
+- [10 Optimizations on Linear Search](https://queue.acm.org/detail.cfm?id=2984631)
+
+## Data Structures
+
+- [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
+
+### Advanced Data Structures
+
+#### Bloom filter
+
+- [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
+- [When Bloom filters don't bloom](https://blog.cloudflare.com/when-bloom-filters-dont-bloom/)
+
+## Internet
+
+> [Latency Numbers](https://gist.github.com/jboner/2841832)
+
+### Webservers
+
+- [Apache vs Nginx: Practical Considerations](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
+- [The C10K problem](http://www.kegel.com/c10k.html)
+- [nginx](http://www.aosabook.org/en/nginx.html)
+- [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
+- [Understanding Nginx HTTP Proxying, Load Balancing, Buffering, and Caching](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
+
+### Web Caching
+
+- [Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)
+- [Cache Docs](https://www.mnot.net/cache_docs/)
+
+### Protocols
+
+#### HTTP(S)
+
+- [HTTP](https://www.jmarshall.com/easy/http/)
+- [Capturing HTTP Packets](https://medium.com/@cjoudrey/capturing-http-packets-the-hard-way-b9c799bfb6)
+- [HTTPS in the real world](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
+- [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+- [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
+- [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
+- [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) :sparkles:
+- [Comparing HTTP/3 vs. HTTP/2 Performance](https://blog.cloudflare.com/http-3-vs-http-2/)
+- [HTTP3](https://blog.cloudflare.com/http-3-from-root-to-tip/)
+- [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
+- [Employing QUIC Protocol to Optimize Uber’s App Performance](https://eng.uber.com/employing-quic-protocol/)
+- [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
+- [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+- [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+
+#### TCP/UDP
+
+- [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
+- [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+- [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
+- [Discussion: UDP in web](https://news.ycombinator.com/item?id=13741155)
+- [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
+- [When TCP sockets refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
+- [Messing With Telnet](https://jott.live/markdown/telnet_writeup)
+- [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
+- [How Does TCP Work?](https://sookocheff.com/post/networking/how-does-tcp-work/)
+- [Once Again on TCP vs UDP](https://accu.org/index.php/journals/2180)
+- [Nagle's algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm)
+
+#### DNS
+
+- [DNS in One Picture](https://medium.com/@kamranahmedse/dns-in-one-picture-d7f4783db06a)
+- [The Web Developer's Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
+- [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
+
+> [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
+
+#### BGP
+
+- [What Is BGP? | BGP Routing Explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
+
+### Load Balancing
+
+- [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
+- [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
+
+### Random
+
+- [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
+- [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
+- [What happens when...](https://github.com/alex/what-happens-when) :sparkles::zap:
+- [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
+- [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) :page_with_curl:
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) :sparkles:
+- [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
+- [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
+- [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
+- [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
+- [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
+- [High Performance Browser Networking](https://hpbn.co/) :books:
+- [HAProxy](http://www.haproxy.org/)
+- [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
+- [WebRTC for the Curious](https://webrtcforthecurious.com/)
+
+### Networking Books :books:
+
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+- [Understanding IP Addressing: Everything You Ever Wanted To Know](http://pages.di.unipi.it/ricci/501302.pdf)
+- [Kurose and Ross - Top Down Networking](http://amzn.in/d/3S7Wd4s)
+- TCP/IP Illustrated
+
+### Networking Papers :page_with_curl:
+
+- [Cloak of Visibility](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45365.pdf)
+- [A Look Back at “Security Problems in the TCP/IP Protocol Suite”](https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf)
+- [Breaking the Browser Language Barrier](http://plasma-umass.github.io/doppio-demo/paper.pdf)
+- [Defending Internet Freedom through Decentralization Back to the Future?](http://dci.mit.edu/assets/papers/decentralized_web.pdf)
+- [The anatomy of a large-scale hypertextual Web search engine](http://zoo.cs.yale.edu/classes/cs426/2012/bib/brin98theanatomy.pdf)
+
+## Git
+
+- [Making Commit in past](http://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past)
+- [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Oh shit, git!](http://ohshitgit.com/)
+- [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o) :tv:
+- [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0) :tv:
+- [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
+- [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
+- [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
+- [Advanced Git Commands You Will Actually Use](https://stosb.com/blog/advanced-git-commands-you-will-actually-use/)
+- [Commit Often, Perfect Later, Publish Once: Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
+- [Rebase with history -- implementation ideas](http://softwareswirl.blogspot.in/2009/08/rebase-with-history-implementation.html)
+- [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
+- [Git Compression of Blobs and Packfiles](https://gist.github.com/matthewmccullough/2695758)
+- [Why do Git/Mercurial repositories use less space?](https://softwareengineering.stackexchange.com/questions/148434/why-do-git-mercurial-repositories-use-less-space/148498#148498)
+- [How bad can it git? Characterizing secret leakage in public GitHub repositories](https://blog.acolyer.org/2019/04/08/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
+- [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
+- [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
+- [Git gc](https://www.atlassian.com/git/tutorials/git-gc)
+- [Pro Git](https://git-scm.com/book/en/v2) :books:
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Git Hooks](https://githooks.com/)
+- `git rebase --onto`
+    - https://twitter.com/mluisbrown/status/1291756770445099009
+    - https://git-scm.com/docs/git-rebase
+- `git push --force-with-lease`
+    - https://git-scm.com/docs/git-push#Documentation/git-push.txt---force-with-leaseltrefnamegtltexpectgt
+
+## Linux
+
+### Linux
+
+- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
+- [chmod Tutorial](http://catcode.com/teachmod/)
+- [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
+- [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
+- [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
+- [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
+- [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) :sparkles::sparkles:
+- [rm -rf remains](https://lambdaops.com/rm-rf-remains/) :sparkles:
+- [Linux Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
+- [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) :sparkles::sparkles:
+- [How does the system shutdown of a linux kernel work internally?](https://unix.stackexchange.com/a/122667/)
+- [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) :sparkles:
+- [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
+- [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
+- [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) :sparkles:
+- [Linux file descriptors](https://monometric.io/article/file-descriptors-in-2018)
+- [UNIX Syscalls](https://john-millikin.com/unix-syscalls)
+- [How statically linked programs run on Linux](https://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux) :sparkles:
+- [File Types in Linux](https://linuxconfig.org/identifying-file-types-in-linux)
+- [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/?fbclid=IwAR10_Mr9b--R5KaentRh_W2d4gyDcHt70jbIOuF_FYDXy8NwyFRN9qkQC10)
+- [Killing processes that don't want to die](https://lwn.net/Articles/754980/)
+- [Threads and fork(): think twice before mixing them](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
+- [Loading and ptrace'ing a process on Linux](http://system.joekain.com/2015/06/08/debugger.html)
+- [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
+- [Systemd as tragedy](https://lwn.net/SubscriberLink/777595/a71362cc65b1c271/)
+- [The Good, the Bad, and the Ugly: The Unix! Legacy](http://herpolhode.com/rob/ugly.pdf)
+- [Rethinking PID 1](http://0pointer.de/blog/projects/systemd.html)
+- [What is Overcommit? And why is it bad?](https://www.etalabs.net/overcommit.html)
+- [Your terminal is not a terminal: An Introduction to Streams](https://lucasfcosta.com/2019/04/07/streams-introduction.html)
+- [How fast are Unix domain sockets?](https://blog.myhro.info/2017/01/how-fast-are-unix-domain-sockets)
+- [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
+- [Linux namespaces](http://ifeanyi.co/posts/linux-namespaces-part-1/)
+- [Why should text files end with a newline?](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline)
+- [What has to happen with Unix virtual memory when you have no swap space](https://utcc.utoronto.ca/~cks/space/blog/unix/NoSwapConsequence)
+- [htop explained](https://peteris.rocks/blog/htop/)
+- [The Linux Scheduler: a Decade of Wasted Cores](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
+- [Linux Log Files that are Located under /var/log Directory](https://www.thegeekstuff.com/2011/08/linux-var-log-files/)
+- [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+- [An Evening with Berferd In Which a Cracker is Lured, Endured, and Studied](https://www.cheswick.com/ches/papers/berferd.pdf) :page_with_curl:
+- [“zero copy networking” vs “kernel bypass”?](https://stackoverflow.com/a/18346526)
+- [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
+- [The brokenness of the sendfile() system call](https://blog.phusion.nl/2015/06/04/the-brokenness-of-the-sendfile-system-call/)
+- [Understanding Daemons](https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/)
+- [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) :sparkles:
+- [Systemd is not Magic Security Dust](https://www.agwa.name/blog/post/systemd_is_not_magic_security_dust) :construction:
+
+### Kernel
+
+- [Kernel Map](http://www.makelinux.net/kernel_map/)
+- [Documentation extracted from the Linux kernel](https://www.kernel.org/doc/)
+- [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
+- [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
+- [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+- [The Linux Kernel](https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html)
+
+### SSH
+
+- [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
+- [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
+
+### Linux Security
+
+- [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
+- [Dirty Cow](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
+- [Explaining Dirty COW local root exploit - CVE-2016-5195](https://www.youtube.com/watch?v=kEsshExn7aE) :tv:
+- [Linux Firewall Tutorial: IPTables Tables, Chains, Rules Fundamentals](http://www.thegeekstuff.com/2011/01/iptables-fundamentals/)
+- [Security Tips for Linux Servers](https://www.tecmint.com/linux-server-hardening-security-tips/)
+- [Three kinds of memory leaks](https://blog.nelhage.com/post/three-kinds-of-leaks/)
+- [Running Untrusted Programs in Linux](https://stackoverflow.com/questions/4249063/run-an-untrusted-c-program-in-a-sandbox-in-linux-that-prevents-it-from-opening-f)
+- [Writing a simple rootkit for linux](https://w3.cs.jmu.edu/kirkpams/550-f12/papers/linux_rootkit.pdf)
+- [Do sudo and .profile/.bashrc enable trivial privilege escalation?](https://security.stackexchange.com/questions/187502/do-sudo-and-profile-bashrc-enable-trivial-privilege-escalation)
+- [How to break out of a chroot() jail](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)
+
+### Bash
+
+- [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
+- [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html)
+- [Creating a bash completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
+- [Explain Shell](https://explainshell.com/)
+- [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
+- [Learn Shell](http://www.learnshell.org/) :books:
+- [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
+
+### BPF
+
+- [BPF: Tracing and More](http://www.brendangregg.com/Slides/LCA2017_BPF_tracing_and_more.pdf)
+- [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
+
+## OS dev
+
+- [Operating Systems Lecture Notes](http://people.csail.mit.edu/rinard/osnotes/)
+- [Kernel 101 – Let’s write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+- [Kernel development](http://www.osdever.net/bkerndev/Docs/intro.htm)
+- [Computer architecture for network engineers](https://github.com/lukego/blog/issues/18)
+- [Building a simple Kernel](http://wiki.osdev.org/Bare_Bones)
+- [How Does an Intel Processor Boot?](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
+- [implement your own Linux kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
+
+### Books
+
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Rute User's Tutorial and Exposition](https://rlworkman.net/howtos/rute/)
+- [The OS Classics](https://www.allthingsdistributed.com/2020/07/the-os-classics.html)
+
+## C
+
+- [Lightweight HTTP Server](http://kukuruku.co/hub/cpp/lightweight-http-server-in-less-than-40-lines-on-libevent-and-c-11)
+- [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly) :sparkles::sparkles:
+- [Smashing The Stack For Fun And Profit](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
+- [GNU Make: A Program for Directing Recompilation](http://web.mit.edu/gnu/doc/html/make_toc.html)
+- [ncurses Programming HOWTO](http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
+- [Make your own build system](http://jstimpfle.de/blah/buildsystem/buildsystem.html)
+- [Malloc tutorial](https://danluu.com/malloc-tutorial/)
+- [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
+- [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
+- [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html) :sparkles::sparkles:
+
+## Ruby
+
+- [Ruby Programming](https://www.theodinproject.com/courses/ruby-programming)
+- [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
+- [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
+- [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
+- [Guide to Ruby](http://poignant.guide/book/) :book:
+- [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) :book:
+
+## Rails
+
+- [RoR Tutorial](https://www.railstutorial.org/book/frontmatter) :book:
+- [Predicting Test Failures](http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html)
+- [XSS and Rails](http://blog.bigbinary.com/2012/05/10/xss-and-rails.html)
+- [RailsConf 2014 - All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE) :tv:
+
+## Haskell
+
+- [Official Documentation](https://www.haskell.org/documentation)
+- [How to learn Haskell](https://github.com/bitemyapp/learnhaskell)
+- [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/) :sparkles:
+- [Huge list of videos, talks, courses for Haskell programming language](https://github.com/hzlmn/haskell-must-watch)
+- [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
+- [Some Notes About How I Write Haskell](https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell)
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+
+<details>
+<summary>Books</summary>
+<p>
+
+- [Open-source Haskell books](http://hn.premii.com/#/article/14392423)
+- [Learn You a Haskell](http://learnyouahaskell.com)
+- [Real World Haskell](http://book.realworldhaskell.org/read/)
+- [Haskell Programming from first principles](http://haskellbook.com/)
+
+</p>
+</details>
+
+## JS
+
+### Pilot Run
+
+- [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
+- [Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+- [How are the Event Loop, Callback Queue, and Javascript’s single thread connected?](https://stackoverflow.com/questions/29421781/how-are-the-event-loop-callback-queue-and-javascript-s-single-thread-connected) :sparkles:
+- [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) :tv:
+- [Types in Javascript](https://jcemer.com/types-in-javascript-what-you-should-care.html)
+- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/a/34361380)
+
+### Advanced Concepts
+
+- [this in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+- [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
+- [Advanced JS](http://htmldog.com/guides/javascript/advanced/)
+- [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
+- [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) :sparkles::sparkles:
+- [What is the Difference Between Class and Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+- [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- [Circular dependencies in JavaScript](https://medium.com/content-uneditable/circular-dependencies-in-javascript-a-k-a-coding-is-not-a-rock-paper-scissors-game-9c2a9eccd4bc)
+- [Hoisting in Javascript](https://codeburst.io/hoisting-in-javascript-515c987336d3)
+- [Async-Await](https://thomashunter.name/presentations/async-await-javascript-v1/)
+- [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
+- [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :sparkles:
+- [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274)
+- [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#.mcpw9sl95)
+- [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
+- [Javascript Debugging](https://developer.chrome.com/devtools/docs/javascript-debugging)
+- [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
+- [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
+- [Essential Image Optimization](https://images.guide/) :sparkles:
+- [Why does Google prepend while(1); to their JSON responses?](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
+- [In defense of Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
+- [Douglas Crockford: Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) :tv:
+- [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
+- [What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
+- [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1/)
+- [JavaScript Event Loop And Call Stack Explained](https://felixgerschau.com/javascript-event-loop-call-stack/) :zap:
+- [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
+
+### React, Redux
+
+- [Under the hood ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [React Implementation Notes](https://reactjs.org/docs/implementation-notes.html)
+- [React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
+- [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
+
+### v8
+
+- [v8 Resource](https://github.com/ray-cp/browser_pwn_resources/blob/master/v8_resources.md)
+- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+- [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
+- [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)
+
+### JS Books
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Javascript: The Good Parts](http://www.amazon.in/Javascript-Good-Parts-D-Crockford/dp/0596517742)
+- [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
+- [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
+- [The JavaScript Way](https://github.com/bpesquet/thejsway)
 
 ## Rust
 
@@ -920,7 +804,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol#AGuideToTheKafkaProtocol-Introduction)
 - [The Unofficial Kafka Rebalance How-To](https://tomlee.co/2019/03/the-unofficial-kafka-rebalance-how-to/)
 - [High Performance Kafka Producers](https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html)
-- [__consumer_offsets topic in kafka](https://kafka.apache.org/0110/documentation.html#impl_offsettracking)
+- [\_\_consumer_offsets topic in kafka](https://kafka.apache.org/0110/documentation.html#impl_offsettracking)
 - [Vertically scaling Kafka consumers](https://www.jesseyates.com/2019/12/04/vertically-scaling-kafka-consumers.html)
 - [Apache Kafka Rebalance Protocol, or the magic behind your streams applications](https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2)
 - [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster/)
@@ -1010,6 +894,111 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ## Privacy
 
 - [Cutting Google out of your life](https://degoogle.jmoore.dev/)
+
+## Security
+
+### Attacks
+
+- [SSL Strip](https://github.com/moxie0/sslstrip)
+- [SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
+- [Binary Exploitation](https://github.com/CodeMaxx/Binary-Exploitation)
+- [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
+- [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
+- [What is a DDoS Attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
+- [Server Side Request Forgery (SSRF)?](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
+- [All you need to know about SYN floods](https://blog.dubbelboer.com/2012/04/09/syn-cookies.html)
+- ["kernel: Possible SYN flooding on port X. Sending cookies" is logged](https://access.redhat.com/solutions/30453)
+- [SSL Strip for Newbies](https://avicoder.me/2016/02/22/SSLstrip-for-newbies/)
+- [Cold Boot Attack](https://en.wikipedia.org/wiki/Cold_boot_attack)
+- [Heartbleed Bug](http://heartbleed.com/)
+- [Shellshock](https://en.wikipedia.org/wiki/Shellshock_%28software_bug%29)
+- [Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware))
+- [POODLE](https://en.wikipedia.org/wiki/POODLE)
+- [Format string attack](https://www.owasp.org/index.php/Format_string_attack)
+- [Off-by-one error](https://en.wikipedia.org/wiki/Off-by-one_error)
+- [EFAIL](https://efail.de/)
+- [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
+- [The SSL FREAK vulnerability explained](https://robertheaton.com/2015/04/06/the-ssl-freak-vulnerability/)
+- [Abusing HTTP hop-by-hop request headers](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers)
+- [Memcrashed - Major amplification attacks from UDP port 11211](https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/amp/)
+- [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
+- [How does a TCP reset attack work](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
+- [Cracking the lens: targeting HTTP's hidden attack-surface](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface)
+- [Web Cache Entanglement: Novel Pathways to Poisoning](https://portswigger.net/research/web-cache-entanglement)
+- [Reading Data via CSS Injection](https://curesec.com/blog/article/blog/Reading-Data-via-CSS-Injection-180.html)
+- [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
+
+### Tools
+
+- [John the Ripper](http://www.openwall.com/john/pro/linux/)
+- [Hashcat](https://hashcat.net/hashcat/)
+- [XSStrike](https://github.com/s0md3v/XSStrike)
+- [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
+    - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+    - [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
+    - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
+- [Cipher Tools](http://rumkin.com/tools/cipher/)
+
+### Guides
+
+- [CTF Field Guide](https://trailofbits.github.io/ctf) :sparkles:
+- [Buffer Overflow](http://cecs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html)
+- [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
+- [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
+- [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
+- [Shodan](https://www.shodan.io/)
+- [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) :sparkles:
+- [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
+- [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
+- [GOT and PLT for pwning](https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html)
+- [A Look at The Draft for JWT Best Current Practices](https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/)
+- [LiveOverflow Binary Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) :tv:
+- [Advanced web security topics](https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/)
+- [Don't publicly expose .git](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/) :sparkles:
+- [The State Of Software Security In 2019](https://noncombatant.org/2019/01/06/state-of-security-2019/) :lock:
+- [CSRF](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+- [The definitive super list for "Google Hacking"](https://gist.github.com/cmartinbaughman/5877945)
+- [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/)
+- [Now you C me, now you don't: An introduction to the hidden attack surface of interpreted languages](https://securitylab.github.com/research/now-you-c-me)
+- [Simple Bugs With Complex Exploits](https://www.elttam.com/blog/simple-bugs-with-complex-exploits/#content)
+
+### Games and CTF's
+
+- [Web for Pentesters](https://www.pentesterlab.com/exercises/web_for_pentester/course)
+- [Overthewire](http://overthewire.org/wargames/)
+- [Crypto Challenges](http://cryptopals.com/)
+- https://picoctf.com/
+- https://pwnable.kr
+- http://gracker.org/
+- http://websec.fr/
+- https://365.csaw.io/
+- https://crackmes.one/
+
+### Crypto
+
+- [So, You Want To Learn To Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
+- [Alice & Bob : A History of The World’s Most Famous Cryptographic Couple](http://cryptocouple.com/)
+- [Implementing AES](http://blog.nindalf.com/implementing-aes/)
+- [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
+- [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/) :book:
+- [First SHA1 Collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
+- [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/#blocking)
+- [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
+- [Bcrypt Step by Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
+- [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own) :sparkles:
+- [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
+- [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
+- [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
+
+### Security Papers
+
+- [Untraceable electronic mail, return addresses, and digital pseudonyms](https://mirror.robert-marquardt.com/anonbib/cache/chaum-mix.pdf)
+- [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf)
+- [Exposing Private Information by Timing Web Applications](https://crypto.stanford.edu/~dabo/papers/webtiming.pdf)
+- [Security, Authentication, and Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf)
+- [A Future-Adaptable Password Scheme](https://www.usenix.org/legacy/events/usenix99/provos/provos.pdf)
+- [Too Much Crypto](https://eprint.iacr.org/2019/1492.pdf)
+
 
 ## x vs y :hocho:
 
