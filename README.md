@@ -303,8 +303,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [DNS in One Picture](https://medium.com/@kamranahmedse/dns-in-one-picture-d7f4783db06a)
 - [The Web Developer's Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
 - [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
-
-> [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
+- [DNS Encryption Explained](https://blog.cloudflare.com/dns-encryption-explained/)
+- [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 
 #### BGP
 
@@ -657,87 +657,46 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## BlockChain, Bitcoin
 
-- [Bitcoin Resources](https://bitcoin.org/en/resources)
 - [Blockchain: the revolution we’re not ready for](https://medium.freecodecamp.org/blockchain-is-our-first-22nd-century-technology-d4ad45fca2ce)
 - [How Bitcoin Transaction Works](http://imgur.com/a/wvO9H)
 - [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) :tv:
-- [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Bitcoin, Ethereum, Blockchain, Tokens, ICOs](https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06)
 - [Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
 - [Bitcoin mining the hard way](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 - [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList)
 - [CryptoEconomics](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
 - [Emails from Satoshi Nakamoto to Hal Finney](http://online.wsj.com/public/resources/documents/finneynakamotoemails.pdf)
-- [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
-- [The Blockchain Dictionary](https://www.theblockchainnewsletter.com/glossary.html)
-- [Bitcoin Resources](https://lopp.net/bitcoin.html)
 - [Is CPU mining even worth the Ether?](https://ethereum.stackexchange.com/questions/2325/is-cpu-mining-even-worth-the-ether)
-- [Nativecoin - build your own crypto-currency](https://lhartikk.github.io/)
 
-<details>
-<summary>Books</summary>
-<p>
-
-[Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/)
-
-</p>
-</details>
-
-<details>
-<summary>Papers</summary>
-<p>
-
-### BlockChain
+### Blockchain Papers
 
 - [Bitcoin Paper](https://bitcoin.org/bitcoin.pdf)
 - [Blockchain Paper](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
 - [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
 - [Introduction To Blockchain](https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf)
-- https://medium.com/founder-playbook/67-blockchain-articles-whitepapers-that-shaped-crypto-into-what-it-is-today-c538facfceb9
 - [Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 - [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://www.usenix.org/system/files/conference/atc16/atc16_paper-ali.pdf)
 - [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/abs/1510.02037)
-- [A Secure Sharding Protocol For Open Blockchain](https://www.comp.nus.edu.sg/~loiluu/papers/elastico.pdf)
 - [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf)
 - [Service-Oriented Sharding for Blockchain](https://arxiv.org/pdf/1611.06816.pdf)
 - [The stellar consensus protocol: A federated model for internet-level consensus](https://cdn.relayto.com/media/files/bHseNPaMRnmuKKqyO8hT_stellar-consensus-protocol.pdf)
-
-### Ethereum
-
 - [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
-- [Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf)
-- [A Concurrent Perspective on Smart Contracts](https://arxiv.org/pdf/1702.05511.pdf)
-
-### Cryptocurrencies
-
-- [Zerocash: Decentralized Anonymous Payments from Bitcoin](http://ieeexplore.ieee.org/abstract/document/6956581/)
-- [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](https://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf)
-- [Lightning Network](https://lightning.network/lightning-network-paper.pdf)
-
-</p>
-</details>
 
 ## Tor
 
 - [Research problems: Ten ways to discover Tor bridges](https://blog.torproject.org/blog/research-problems-ten-ways-discover-tor-bridges)
 - [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/topic.html) :page_with_curl:
 - [Onion Router](https://www.onion-router.net/)
-- [Handling bot attacks against a Tor hidden service](http://hn.premii.com/#/article/14280084)
 - [Anti-Censorship & Transparency - Roger Dingledine](https://www.youtube.com/watch?v=35l56KjTCb8) :tv:
 - [How does Tor work?](https://robertheaton.com/2019/04/06/how-does-tor-work/)
 - [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
 
-<details>
-<summary>Papers</summary>
-<p>
+### Tor Papers
 
 - [Tor Design](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
 - [Tor Bridge Discovery](http://www.cs.uml.edu/~xinwenfu/paper/Bridge.pdf)
 - [A Model of Onion Routing with Provable Anonymity](https://www.onion-router.net/Publications/or-iomodel.pdf)
 - [Locating Hidden Servers](https://www.onion-router.net/Publications/locating-hidden-servers.pdf)
-
-</p>
-</details>
 
 ## Functional Programming
 
@@ -927,12 +886,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Web Cache Entanglement: Novel Pathways to Poisoning](https://portswigger.net/research/web-cache-entanglement)
 - [Reading Data via CSS Injection](https://curesec.com/blog/article/blog/Reading-Data-via-CSS-Injection-180.html)
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
+- [SAD DNS Explained](https://blog.cloudflare.com/sad-dns-explained/) :sparkles: :zap:
 
 ### Tools
 
-- [John the Ripper](http://www.openwall.com/john/pro/linux/)
-- [Hashcat](https://hashcat.net/hashcat/)
-- [XSStrike](https://github.com/s0md3v/XSStrike)
 - [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
     - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
     - [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
@@ -946,7 +903,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Sometimes HTTP > HTTPS](https://stormpath.com/blog/why-http-is-sometimes-better-than-https)
 - [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
 - [What “hacking” competitions/challenges exist?](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
-- [Shodan](https://www.shodan.io/)
 - [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) :sparkles:
 - [Beware of strncpy() and strncat()](https://eklitzke.org/beware-of-strncpy-and-strncat)
 - [Lessons learned and misconceptions regarding encryption and cryptology](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology) :sparkles:
@@ -956,7 +912,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Advanced web security topics](https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/)
 - [Don't publicly expose .git](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/) :sparkles:
 - [The State Of Software Security In 2019](https://noncombatant.org/2019/01/06/state-of-security-2019/) :lock:
-- [CSRF](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 - [The definitive super list for "Google Hacking"](https://gist.github.com/cmartinbaughman/5877945)
 - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/)
 - [Now you C me, now you don't: An introduction to the hidden attack surface of interpreted languages](https://securitylab.github.com/research/now-you-c-me)
@@ -987,7 +942,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Bcrypt Step by Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
 - [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own) :sparkles:
 - [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
-- [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
+- [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/) :zap:
 - [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
 
 ### Security Papers
@@ -998,7 +953,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Security, Authentication, and Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf)
 - [A Future-Adaptable Password Scheme](https://www.usenix.org/legacy/events/usenix99/provos/provos.pdf)
 - [Too Much Crypto](https://eprint.iacr.org/2019/1492.pdf)
-
 
 ## x vs y :hocho:
 
@@ -1142,13 +1096,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Coders at Work](https://www.amazon.com/gp/product/1430219483)
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) :sparkles:
 - [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396)
-- [Working Effectively with Legacy Code](https://www.amazon.com/gp/product/0131177052)
-- [Programming Pearls](https://www.amazon.com/gp/product/0201657880)
-- [The Art of Computer Programming](https://www.amazon.com/gp/product/0201896834)
-- [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/0201485672)
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882)
-- [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/gp/product/0735619670)
-- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) :sparkles:
 - [The Mythical Man-Month](http://www.amazon.in/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [The Joy of Software Development](https://josd.captnemo.in/content/)
 
@@ -1175,11 +1122,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## Papers
 
-- [Back to the Future: Lisp as a Base for a Statistical Computing System](https://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf)
 - [How Professional Hackers Understand Protected Code while Performing Attack Tasks](https://pdfs.semanticscholar.org/4bd1/2a9823b55d29a0d75c9ea9c8cd08b6fdca3e.pdf)
 - [Papers We Love](https://github.com/papers-we-love) :sparkles:
 - [Communicating Sequential Processes](https://spinroot.com/courses/summer/Papers/hoare_1978.pdf) :sparkles:
 - [Hints on programming language design](http://flint.cs.yale.edu/cs428/doc/HintsPL.pdf)
 - [The Fault Tolerance of Botnets](https://www.dropbox.com/s/rvk6ybbl85zce00/The%20Fault%20Tolerance%20of%20Botnets.pdf?dl=0)
 - [Paradigm Shift in Software Development](https://www.dropbox.com/s/db2tbau0jdv9pym/Paradigm%20Exercise.pdf?dl=0)
-- [Interpreting the Data: Parallel Analysis with Sawzall](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9b122a21c1436da94c67a74bfdfba7e57a4d203e.pdf)
