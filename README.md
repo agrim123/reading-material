@@ -631,7 +631,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [One Giant Leap For SQL: MySQL 8.0 Released](https://modern-sql.com/blog/2018-04/mysql-8.0) :sparkles:
 - [MongoDB is to NoSQL like MySQL to SQL — in the most harmful way](https://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql)
 - [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity)
-- [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 - [Building Robust Systems with ACID and Constraints](https://brandur.org/acid) :sparkles:
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
 - [Database Internals](https://www.databass.dev/) :book: :construction:
@@ -639,8 +638,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### Sharding
 
-- [Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)#Implementation_of_shards)
-- [Principles of Sharding for Relational Databases](https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/)
 - [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 - [An Unorthodox Approach To Database Design : The Coming Of The Shard](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html) :sparkles:
 - [Spanner's High Availability Writes](https://rakyll.org/spanner-ha-writes/)
