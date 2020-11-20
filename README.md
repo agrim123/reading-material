@@ -297,6 +297,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How Does TCP Work?](https://sookocheff.com/post/networking/how-does-tcp-work/)
 - [Once Again on TCP vs UDP](https://accu.org/index.php/journals/2180)
 - [Nagle's algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm)
+    - [40 millisecond bug](https://vorner.github.io/2020/11/06/40-ms-bug.html)
 
 #### DNS
 
@@ -634,6 +635,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Building Robust Systems with ACID and Constraints](https://brandur.org/acid) :sparkles:
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
 - [Database Internals](https://www.databass.dev/) :book: :construction:
+- [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78) :construction:
 
 ### Sharding
 
