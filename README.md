@@ -53,7 +53,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Rust](#rust)
 - [Kubernetes](#kubernetes-construction)
 - [Database](#database)
-- [Blockchain, Bitcoin](#blockchain-bitcoin)
 - [Tor](#tor)
 - [Functional Programming](#functional-programming)
 - [OAuth](#oauth)
@@ -654,33 +653,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 </p>
 </details>
 
-## BlockChain, Bitcoin
-
-- [Blockchain: the revolution we’re not ready for](https://medium.freecodecamp.org/blockchain-is-our-first-22nd-century-technology-d4ad45fca2ce)
-- [How Bitcoin Transaction Works](http://imgur.com/a/wvO9H)
-- [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) :tv:
-- [Bitcoin, Ethereum, Blockchain, Tokens, ICOs](https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06)
-- [Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
-- [Bitcoin mining the hard way](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
-- [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList)
-- [CryptoEconomics](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
-- [Emails from Satoshi Nakamoto to Hal Finney](http://online.wsj.com/public/resources/documents/finneynakamotoemails.pdf)
-- [Is CPU mining even worth the Ether?](https://ethereum.stackexchange.com/questions/2325/is-cpu-mining-even-worth-the-ether)
-
-### Blockchain Papers
-
-- [Bitcoin Paper](https://bitcoin.org/bitcoin.pdf)
-- [Blockchain Paper](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
-- [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
-- [Introduction To Blockchain](https://bravenewcoin.com/assets/Reference-Papers/A-Gentle-Introduction/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf)
-- [Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
-- [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://www.usenix.org/system/files/conference/atc16/atc16_paper-ali.pdf)
-- [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/abs/1510.02037)
-- [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf)
-- [Service-Oriented Sharding for Blockchain](https://arxiv.org/pdf/1611.06816.pdf)
-- [The stellar consensus protocol: A federated model for internet-level consensus](https://cdn.relayto.com/media/files/bHseNPaMRnmuKKqyO8hT_stellar-consensus-protocol.pdf)
-- [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
-
 ## Tor
 
 - [Research problems: Ten ways to discover Tor bridges](https://blog.torproject.org/blog/research-problems-ten-ways-discover-tor-bridges)
@@ -983,7 +955,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - http://nullprogram.com/index/
 - https://zwischenzugs.com/
 - https://mkdev.me/en/posts
-- http://www.uliaea.ca/
 - https://blog.cloudflare.com/
 - http://prog21.dadgum.com/
 - https://increment.com/programming-languages/ :sparkles:
@@ -993,7 +964,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://blog.acolyer.org/ - If you are into research papers
 - https://lwn.net/
 - https://queue.acm.org/
-- https://www.linuxjournal.com/
 - https://www.the-paper-trail.org/
 - https://overreacted.io/
 - https://robertheaton.com/
@@ -1019,7 +989,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ## More
 
 - [Password storage in source control](https://stackoverflow.com/questions/559611/password-storage-in-source-control)
-- [Global Variables are Bad](http://wiki.c2.com/?GlobalVariablesAreBad)
 - [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)
 - [The language of choice](https://codewords.recurse.com/issues/four/the-language-of-choice)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
@@ -1031,18 +1000,12 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
 - [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
 - [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
-- [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
-- [MooTools](https://github.com/mootools/mootools-core)
-- [Developer resources for desktop apps](http://askubuntu.com/questions/335454/developer-resources-for-desktop-apps)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
-- [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 - [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
-- [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf)
-- [Google’s secret and Linear Algebra](http://verso.mat.uam.es/~pablo.fernandez/ems63-pablo-fernandez_final.pdf)
+- [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf) :paper_with_curl:
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
-- [When setting an environment variable gives you a 40x speedup](https://news.sherlock.stanford.edu/posts/when-setting-an-environment-variable-gives-you-a-40-x-speedup)
 - [Meet the Flexbox Inspector](https://gedd.ski/) :sparkles:
 - [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 - [Race Condition vs. Data Race](https://blog.regehr.org/archives/490) :sparkles:
@@ -1075,7 +1038,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Life of a Data Byte](https://queue.acm.org/detail.cfm?id=3419941) :sparkles: :zap: :construction:
 - [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
 - [eBPF](https://ebpf.io/what-is-ebpf/) :construction:
-- [My yearly reformat](https://peter.bourgon.org/blog/2017/12/25/yearly-reformat.html)
 - [The 13 immutable reads on choosing what to work on](https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/)
 - [The Duct Tape Programmer](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/)
 - [The Hitchhiker’s Guide to Compression](https://go-compression.github.io/) :construction:
