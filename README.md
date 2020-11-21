@@ -752,6 +752,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Keeping CALM: When Distributed Consistency Is Easy](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 - [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.6951&rep=rep1&type=pdf) :page_with_curl: :construction:
 - [Thinking about Availability in Large Service Infrastructures](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46181.pdf)
+- [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
 
 ## Kafka
 
@@ -798,7 +799,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [(A few) Ops Lessons We All Learn The Hard Way -- a Twitter](https://twitter.com/jschauma/status/1220902743482814467?s=19)
 - [Reddit: How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
-- [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
 - [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
@@ -813,7 +813,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4) - Pushing data directly to the client rather than waiting for the client to request the data
     - [Part 3](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) - Cache-first rendering
     - [Part 4](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8) - Code size and execution optimizations
-- [Workload isolation using shuffle-sharding](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
 - [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
 - [Billions of Messages a Day - Yelp's Real-time Data Pipeline](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
 - [The WhatsApp Architecture Facebook Bought For $19 Billion](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
@@ -840,6 +839,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 - [Deep Dive on Amazon ECS Cluster Auto Scaling](https://aws.amazon.com/blogs/containers/deep-dive-on-amazon-ecs-cluster-auto-scaling/) :sparkles:
 - [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
+- [Workload isolation using shuffle-sharding](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
 
 ### Netflix
 
