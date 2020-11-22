@@ -376,6 +376,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - https://git-scm.com/docs/git-rebase
 - `git push --force-with-lease`
     - https://git-scm.com/docs/git-push#Documentation/git-push.txt---force-with-leaseltrefnamegtltexpectgt
+- [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) :sparkles: :zap:
 
 ## Linux
 
@@ -767,6 +768,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [On the naming of things](https://www.robustperception.io/on-the-naming-of-things) :sparkles:
 - [Prometheus Recording Rules](https://deploy.live/blog/today-i-learned-prometheus-recording-rules/)
 - [Prometheus Counters and how to deal with them](https://www.innoq.com/en/blog/prometheus-counters/)
+- [Understanding the Top 5 Redis Performance Metrics](https://www.datadoghq.com/pdf/Understanding-the-Top-5-Redis-Performance-Metrics.pdf)
 
 ## System Design
 
@@ -795,6 +797,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Timeouts, retries, and backoff with jitter](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/)
 - [Why are services slow sometimes?](https://dev.to/aws/why-are-services-slow-sometimes-mn3) :zap:
     - [If at first you don't get an answer...](https://dev.to/aws/if-at-first-you-don-t-get-an-answer-3e85)
+- [How We Developed DingTalk: Implementing the Message System Architecture](https://www.alibabacloud.com/blog/how-we-developed-dingtalk-implementing-the-message-system-architecture_595905)
 
 ### Scalability
 
@@ -1043,10 +1046,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) :sparkles: :zap:
 - [The Life of a Data Byte](https://queue.acm.org/detail.cfm?id=3419941) :sparkles: :zap: :construction:
 - [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
-- [eBPF](https://ebpf.io/what-is-ebpf/) :construction:
 - [The 13 immutable reads on choosing what to work on](https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/)
 - [The Duct Tape Programmer](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/)
 - [The Hitchhiker’s Guide to Compression](https://go-compression.github.io/) :construction:
+- [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/) :construction:
 
 ## Fun
 
