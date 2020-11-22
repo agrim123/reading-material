@@ -725,6 +725,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.6951&rep=rep1&type=pdf) :page_with_curl: :construction:
 - [Thinking about Availability in Large Service Infrastructures](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46181.pdf)
 - [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
+- [Avoiding fallback in distributed systems](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
 
 ## Kafka
 
@@ -790,6 +791,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The WhatsApp Architecture Facebook Bought For $19 Billion](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
 - [Airbnb: Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - [Microservices — architecture nihilism in minimalism's clothes](https://vlfig.me/posts/microservices) :sparkles:
+- [Failing over without falling over](https://stackoverflow.blog/2020/10/23/adrian-cockcroft-aws-failover-chaos-engineering-fault-tolerance-distaster-recovery/) :zap:
+- [Timeouts, retries, and backoff with jitter](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/)
+- [Why are services slow sometimes?](https://dev.to/aws/why-are-services-slow-sometimes-mn3) :zap:
+    - [If at first you don't get an answer...](https://dev.to/aws/if-at-first-you-don-t-get-an-answer-3e85)
 
 ### Scalability
 
@@ -985,6 +990,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://engineering.fb.com/
 - [Cryptography Services Archives](https://cryptoservices.github.io/archives/) :lock:
 - https://timilearning.com/ :construction:
+- https://aws.amazon.com/builders-library/ - How Amazon builds and operates software
 
 ## More
 
