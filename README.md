@@ -297,6 +297,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Once Again on TCP vs UDP](https://accu.org/index.php/journals/2180)
 - [Nagle's algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm)
     - [40 millisecond bug](https://vorner.github.io/2020/11/06/40-ms-bug.html)
+    - [TCP Performance problems caused by interaction between Nagle’s Algorithm and Delayed ACK](http://www.stuartcheshire.org/papers/NagleDelayedAck/)
 
 #### DNS
 
@@ -712,7 +713,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
     - [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
     - [FLP and CAP aren't the same thing](https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/)
-    - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/) :zap:
+    - https://news.ycombinator.com/item?id=1768312 :zap:
+        - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles:
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
@@ -720,7 +722,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [Consensus Protocols: Two-Phase Commit](https://www.the-paper-trail.org/post/2008-11-27-consensus-protocols-two-phase-commit/)
     - [Consensus Protocols: Three-phase Commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/)
     - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/)
-    - https://news.ycombinator.com/item?id=1768312
     - [Notes on Paxos](https://matklad.github.io/2020/11/01/notes-on-paxos.html)
 - [Keeping CALM: When Distributed Consistency Is Easy](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 - [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.6951&rep=rep1&type=pdf) :page_with_curl: :construction:
