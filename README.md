@@ -718,16 +718,17 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles:
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
-- Consesus Protocols :construction:
+- Consesus Protocols
     - [Consensus Protocols: Two-Phase Commit](https://www.the-paper-trail.org/post/2008-11-27-consensus-protocols-two-phase-commit/)
     - [Consensus Protocols: Three-phase Commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/)
-    - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/)
+    - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/) :construction:
     - [Notes on Paxos](https://matklad.github.io/2020/11/01/notes-on-paxos.html)
 - [Keeping CALM: When Distributed Consistency Is Easy](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 - [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.6951&rep=rep1&type=pdf) :page_with_curl: :construction:
 - [Thinking about Availability in Large Service Infrastructures](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46181.pdf)
 - [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
 - [Avoiding fallback in distributed systems](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
+- [Consistency Models](https://jepsen.io/consistency) :construction:
 
 ## Kafka
 
