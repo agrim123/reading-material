@@ -706,9 +706,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
-- Rack Model
+- [Rack Model](https://arxiv.org/abs/1302.5657) :page_with_curl:
 - [If you need a global lock in your distributed system, then you're already in trouble](https://news.ycombinator.com/item?id=11066258) :sparkles:
-    - Parent Thread [Is Redlock Safe? Reply to Redlock Analysis](https://news.ycombinator.com/item?id=11065933)
+    - Parent Thread: [Is Redlock Safe? Reply to Redlock Analysis](https://news.ycombinator.com/item?id=11065933)
 - [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
     - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
     - [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
