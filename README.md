@@ -195,6 +195,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Introducing the Go Race Detector](https://blog.golang.org/race-detector)
 - [Memory Optimizations for Go Systems](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
 - [Golang escape analysis](http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html) :construction:
+- String interning in Go
+    - [String interning in Go](https://artem.krylysov.com/blog/2018/12/12/string-interning-in-go/)
+    - [Interning strings in Go](https://commaok.xyz/post/intern-strings/)
 
 ### Networking with Go
 
@@ -718,7 +721,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
         - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
     - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
-- [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles:
+- [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles: :file_folder:
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - Consesus Protocols
     - [Consensus Protocols: Two-Phase Commit](https://www.the-paper-trail.org/post/2008-11-27-consensus-protocols-two-phase-commit/)
@@ -1000,6 +1003,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Cryptography Services Archives](https://cryptoservices.github.io/archives/) :lock:
 - https://timilearning.com/ :construction:
 - https://aws.amazon.com/builders-library/ - How Amazon builds and operates software
+- https://rhinosecuritylabs.com/blog/?category=aws
 
 ## More
 
