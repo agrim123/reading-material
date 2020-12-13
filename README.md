@@ -99,9 +99,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 | :tv:  | It's video! |
 | :books:  | It's a book! |
 | :page_with_curl:  | It's a white paper! |
-| :wrench:  | Debugging |
-| :file_folder:  | List |
+| :wrench:  | It's Debugging related |
 | :hocho:  | faceoff |
+| :file_folder: | It's a list |
 
 ## Go
 
@@ -352,7 +352,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ## Git
 
 - [Making Commit in past](http://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past)
-- [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [A Successul Git Branching Model](http://nvie.com/posts/a-Successul-git-branching-model/)
 - [Oh shit, git!](http://ohshitgit.com/)
 - [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o) :tv:
 - [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0) :tv:
@@ -705,6 +705,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
+    - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) :page_with_curl: :construction:
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 - [Rack Model](https://arxiv.org/abs/1302.5657) :page_with_curl:
 - [If you need a global lock in your distributed system, then you're already in trouble](https://news.ycombinator.com/item?id=11066258) :sparkles:
@@ -715,6 +716,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [FLP and CAP aren't the same thing](https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/)
     - https://news.ycombinator.com/item?id=1768312 :zap:
         - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
+    - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles:
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
@@ -729,6 +731,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
 - [Avoiding fallback in distributed systems](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
 - [Consistency Models](https://jepsen.io/consistency) :construction:
+- [A Distributed Systems Reading List](https://dancres.github.io/Pages/) :file_folder:
 
 ## Kafka
 
@@ -811,6 +814,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Scalable Web Architecture and Distributed Systems](https://www.aosabook.org/en/distsys.html)
 - [The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf) :paper_with_curl:
 - [Automating chaos experiments in production](https://arxiv.org/pdf/1905.04648.pdf)
+- [Eventually Consistent - Revisited](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 
 ### Event driven Architecture
 
@@ -1052,6 +1056,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Duct Tape Programmer](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/)
 - [The Hitchhiker’s Guide to Compression](https://go-compression.github.io/) :construction:
 - [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/) :construction:
+- [The Differences Between Interpreter and Compiler Explained](https://thevaluable.dev/difference-between-compiler-interpreter/)
+- [The Mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) :tv:
 
 ## Fun
 
@@ -1097,6 +1103,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How Professional Hackers Understand Protected Code while Performing Attack Tasks](https://pdfs.semanticscholar.org/4bd1/2a9823b55d29a0d75c9ea9c8cd08b6fdca3e.pdf)
 - [Papers We Love](https://github.com/papers-we-love) :sparkles:
 - [Communicating Sequential Processes](https://spinroot.com/courses/summer/Papers/hoare_1978.pdf) :sparkles:
+- [Reflections on Trusting Trust](https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 - [Hints on programming language design](http://flint.cs.yale.edu/cs428/doc/HintsPL.pdf)
 - [The Fault Tolerance of Botnets](https://www.dropbox.com/s/rvk6ybbl85zce00/The%20Fault%20Tolerance%20of%20Botnets.pdf?dl=0)
 - [Paradigm Shift in Software Development](https://www.dropbox.com/s/db2tbau0jdv9pym/Paradigm%20Exercise.pdf?dl=0)
