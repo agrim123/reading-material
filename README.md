@@ -365,9 +365,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Advanced Git Commands You Will Actually Use](https://stosb.com/blog/advanced-git-commands-you-will-actually-use/)
 - [Commit Often, Perfect Later, Publish Once: Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
 - [Rebase with history -- implementation ideas](http://softwareswirl.blogspot.in/2009/08/rebase-with-history-implementation.html)
-- [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
 - [Git Compression of Blobs and Packfiles](https://gist.github.com/matthewmccullough/2695758)
-- [Why do Git/Mercurial repositories use less space?](https://softwareengineering.stackexchange.com/questions/148434/why-do-git-mercurial-repositories-use-less-space/148498#148498)
 - [How bad can it git? Characterizing secret leakage in public GitHub repositories](https://blog.acolyer.org/2019/04/08/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
 - [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
 - [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
@@ -381,6 +379,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - `git push --force-with-lease`
     - https://git-scm.com/docs/git-push#Documentation/git-push.txt---force-with-leaseltrefnamegtltexpectgt
 - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) :sparkles: :zap:
+- [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+- [Git Internals - Git References](https://git-scm.com/book/en/v2/Git-Internals-Git-References)
+- [Git Internals - Packfiles](https://git-scm.com/book/en/v2/Git-Internals-Packfiles)
 
 ## Linux
 
