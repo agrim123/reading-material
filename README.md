@@ -825,7 +825,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ### AWS
 
 - [Everything You Need To Know About Networking On AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
-- [Deep Dive on Amazon ECS Cluster Auto Scaling](https://aws.amazon.com/blogs/containers/deep-dive-on-amazon-ecs-cluster-auto-scaling/) :sparkles:
+- [Deep Dive on Amazon ECS Cluster Auto Scaling](https://aws.amazon.com/blogs/containers/deep-dive-on-amazon-ecs-cluster-auto-scaling/) :sparkles: :construction:
 - [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
 - [Workload isolation using shuffle-sharding](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
 
@@ -1093,6 +1093,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [What is the single most influential book every programmer should read? [closed]](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) :books:
 - [A Reading List For the Self-Taught Computer Scientist](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/) :books:
 - [SRE Books](https://landing.google.com/sre/books/)
+- https://f0.holisticinfosecforwebdevelopers.com/toc.html
 
 ## Courses
 
