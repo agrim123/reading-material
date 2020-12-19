@@ -463,13 +463,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### Bash
 
-- [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
-- [Shellcoding](http://www.vividmachines.com/shellcode/shellcode.html)
 - [Creating a bash completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
 - [Explain Shell](https://explainshell.com/)
 - [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
-- [Learn Shell](http://www.learnshell.org/) :books:
 - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
+- [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/) :zap:
 
 ### BPF
 
