@@ -34,7 +34,6 @@ A collection of resources that I found useful and interesting across various dom
 - [Git](#git)
 - [Linux](#linux)
     - [Linux](#linux)
-    - [Kernel](#kernel)
     - [SSH](#ssh)
     - [Linux Security](#linuxsecurity)
     - [Bash](#bash)
@@ -389,15 +388,12 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [chmod Tutorial](http://catcode.com/teachmod/)
-- [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
-- [Linux Bridge](http://goyalankit.com/blog/linux-bridge)
 - [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) :sparkles::sparkles:
 - [rm -rf remains](https://lambdaops.com/rm-rf-remains/) :sparkles:
 - [Linux Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
-- [The Unix and Internet Fundamentals HOWTO](https://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html) :sparkles::sparkles:
 - [How does the system shutdown of a linux kernel work internally?](https://unix.stackexchange.com/a/122667/)
 - [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) :sparkles:
 - [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
@@ -407,13 +403,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [UNIX Syscalls](https://john-millikin.com/unix-syscalls)
 - [How statically linked programs run on Linux](https://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux) :sparkles:
 - [File Types in Linux](https://linuxconfig.org/identifying-file-types-in-linux)
-- [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/?fbclid=IwAR10_Mr9b--R5KaentRh_W2d4gyDcHt70jbIOuF_FYDXy8NwyFRN9qkQC10)
 - [Killing processes that don't want to die](https://lwn.net/Articles/754980/)
 - [Threads and fork(): think twice before mixing them](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
 - [Loading and ptrace'ing a process on Linux](http://system.joekain.com/2015/06/08/debugger.html)
 - [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 - [Systemd as tragedy](https://lwn.net/SubscriberLink/777595/a71362cc65b1c271/)
-- [The Good, the Bad, and the Ugly: The Unix! Legacy](http://herpolhode.com/rob/ugly.pdf)
 - [Rethinking PID 1](http://0pointer.de/blog/projects/systemd.html)
 - [What is Overcommit? And why is it bad?](https://www.etalabs.net/overcommit.html)
 - [Your terminal is not a terminal: An Introduction to Streams](https://lucasfcosta.com/2019/04/07/streams-introduction.html)
@@ -426,22 +420,13 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Linux Scheduler: a Decade of Wasted Cores](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
 - [Linux Log Files that are Located under /var/log Directory](https://www.thegeekstuff.com/2011/08/linux-var-log-files/)
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
-- [An Evening with Berferd In Which a Cracker is Lured, Endured, and Studied](https://www.cheswick.com/ches/papers/berferd.pdf) :page_with_curl:
 - [“zero copy networking” vs “kernel bypass”?](https://stackoverflow.com/a/18346526)
 - [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 - [The brokenness of the sendfile() system call](https://blog.phusion.nl/2015/06/04/the-brokenness-of-the-sendfile-system-call/)
 - [Understanding Daemons](https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/)
 - [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) :sparkles:
 - [Systemd is not Magic Security Dust](https://www.agwa.name/blog/post/systemd_is_not_magic_security_dust) :construction:
-
-### Kernel
-
-- [Kernel Map](http://www.makelinux.net/kernel_map/)
-- [Documentation extracted from the Linux kernel](https://www.kernel.org/doc/)
-- [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
 - [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
-- [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
-- [The Linux Kernel](https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html)
 
 ### SSH
 
