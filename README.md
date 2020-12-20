@@ -568,6 +568,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1/)
 - [JavaScript Event Loop And Call Stack Explained](https://felixgerschau.com/javascript-event-loop-call-stack/) :zap:
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
+- [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
+    - [What makes WebAssembly fast?](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/)
 
 ### React, Redux
 
