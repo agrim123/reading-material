@@ -359,16 +359,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [What’s Wrong With Git? - Git Merge 2017](https://www.youtube.com/watch?v=31XZYMjg93o) :tv:
 - [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0) :tv:
 - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
-- [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
-- [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
-- [Advanced Git Commands You Will Actually Use](https://stosb.com/blog/advanced-git-commands-you-will-actually-use/)
+- [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) :books:
 - [Commit Often, Perfect Later, Publish Once: Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
 - [Rebase with history -- implementation ideas](http://softwareswirl.blogspot.in/2009/08/rebase-with-history-implementation.html)
-- [Git Compression of Blobs and Packfiles](https://gist.github.com/matthewmccullough/2695758)
 - [How bad can it git? Characterizing secret leakage in public GitHub repositories](https://blog.acolyer.org/2019/04/08/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
-- [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
 - [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
-- [Git gc](https://www.atlassian.com/git/tutorials/git-gc)
 - [Pro Git](https://git-scm.com/book/en/v2) :books:
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Git Hooks](https://githooks.com/)
@@ -377,14 +372,19 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - https://git-scm.com/docs/git-rebase
 - `git push --force-with-lease`
     - https://git-scm.com/docs/git-push#Documentation/git-push.txt---force-with-leaseltrefnamegtltexpectgt
-- [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) :sparkles: :zap:
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+
+### Git Internals
+
 - [Git Internals - Git References](https://git-scm.com/book/en/v2/Git-Internals-Git-References)
 - [Git Internals - Packfiles](https://git-scm.com/book/en/v2/Git-Internals-Packfiles)
+- [Git gc](https://www.atlassian.com/git/tutorials/git-gc)
+- [Git Compression of Blobs and Packfiles](https://gist.github.com/matthewmccullough/2695758)
+- [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
+- [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
+- [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) :sparkles: :zap:
 
 ## Linux
-
-### Linux
 
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [chmod Tutorial](http://catcode.com/teachmod/)
@@ -427,6 +427,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) :sparkles:
 - [Systemd is not Magic Security Dust](https://www.agwa.name/blog/post/systemd_is_not_magic_security_dust) :construction:
 - [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
+- [eBPF](https://filipnikolovski.com/posts/ebpf/) :construction:
 
 ### SSH
 
@@ -737,7 +738,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster/)
 - [It’s Okay To Store Data In Apache Kafka](https://www.confluent.io/blog/okay-store-data-apache-kafka/)
 - [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/) :book:
-- [uReplicator: Uber Engineering’s Robust Apache Kafka Replicator](https://eng.uber.com/ureplicator-apache-kafka-replicator/)
+- [Disaster Recovery for Multi-Region Kafka at Uber](https://eng.uber.com/kafka/)
 
 ## Spark
 
