@@ -390,7 +390,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [chmod Tutorial](http://catcode.com/teachmod/)
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
 - [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
-- [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) :sparkles::sparkles:
 - [rm -rf remains](https://lambdaops.com/rm-rf-remains/) :sparkles:
 - [Linux Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
@@ -571,6 +570,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 - [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
     - [What makes WebAssembly fast?](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/)
+- [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) :sparkles::sparkles:
 
 ### React, Redux
 
@@ -1057,6 +1057,9 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://impurepics.com/
 - https://www.commitstrip.com
 - [If Programming languages were harry potter characters](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
+- [Git Koans](https://stevelosh.com/blog/2013/04/git-koans/)
+- [Vim Kōans](https://sanctum.geek.nz/arabesque/vim-koans/)
+- [The Dharma of Vi](https://blog.samwhited.com/2015/04/the-dharma-of-vi/)
 
 ## More Books
 
