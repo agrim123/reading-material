@@ -383,6 +383,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
 - [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
 - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) :sparkles: :zap:
+- [Some of git internals](https://yurichev.com/news/20201220_git/)
 
 ## Linux
 
@@ -1005,7 +1006,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
 - [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-- [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
+- [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) :zap:
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
