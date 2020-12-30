@@ -222,6 +222,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 - [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf) :page_with_curl:
 - [Docker security](https://docs.docker.com/engine/security/)
+- [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)
 
 ## Algorithms
 
