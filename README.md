@@ -200,7 +200,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### Networking with Go
 
-- [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
@@ -493,7 +492,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## Ruby
 
-- [Ruby Programming](https://www.theodinproject.com/courses/ruby-programming)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/)
 - [Visualizing Your Ruby Heap](http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html)
 - [7 Deadly Sins of Ruby Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
