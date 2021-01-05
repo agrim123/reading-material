@@ -318,6 +318,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 - [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
+- [What Is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
 
 ### Random
 
@@ -794,6 +795,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Why are services slow sometimes?](https://dev.to/aws/why-are-services-slow-sometimes-mn3) :zap:
     - [If at first you don't get an answer...](https://dev.to/aws/if-at-first-you-don-t-get-an-answer-3e85)
 - [How We Developed DingTalk: Implementing the Message System Architecture](https://www.alibabacloud.com/blog/how-we-developed-dingtalk-implementing-the-message-system-architecture_595905)
+- [Intelligent DNS based load balancing at Dropbox](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
 
 ### Scalability
 
