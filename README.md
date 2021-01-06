@@ -769,7 +769,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## System Design
 
-- [(A few) Ops Lessons We All Learn The Hard Way -- a Twitter](https://twitter.com/jschauma/status/1220902743482814467?s=19)
 - [Reddit: How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
@@ -796,6 +795,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [If at first you don't get an answer...](https://dev.to/aws/if-at-first-you-don-t-get-an-answer-3e85)
 - [How We Developed DingTalk: Implementing the Message System Architecture](https://www.alibabacloud.com/blog/how-we-developed-dingtalk-implementing-the-message-system-architecture_595905)
 - [Intelligent DNS based load balancing at Dropbox](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
+- [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/) :zap: :zap:
+- [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
 
 ### Scalability
 
@@ -819,6 +820,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Deep Dive on Amazon ECS Cluster Auto Scaling](https://aws.amazon.com/blogs/containers/deep-dive-on-amazon-ecs-cluster-auto-scaling/) :sparkles: :construction:
 - [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
 - [Workload isolation using shuffle-sharding](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
+- [The Hitchhiker's Guide to AWS ECS and Docker](https://start.jcolemorrison.com/the-hitchhikers-guide-to-aws-ecs-and-docker/)
 
 ### Netflix
 
