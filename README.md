@@ -61,6 +61,8 @@ A collection of resources that I found useful and interesting across various dom
 - [Spark](#spark)
 - [Monitoring](#monitoring)
 - [System Design](#system-design)
+    - [Guides](#guides)
+    - [Systems](#systems)
     - [Scalability](#scalability)
     - [Event driven Architecture](#event-driven-architecture)
     - [AWS](#aws)
@@ -260,7 +262,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [nginx](http://www.aosabook.org/en/nginx.html)
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
-- [Understanding Nginx HTTP Proxying, Load Balancing, Buffering, and Caching](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
 
 ### Web Caching
 
@@ -319,6 +320,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 - [GLB: GitHub's open source load balancer](https://githubengineering.com/glb-director-open-source-load-balancer/)
 - [What Is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
+- [Understanding Nginx HTTP Proxying, Load Balancing, Buffering, and Caching](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
+- [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 
 ### Random
 
@@ -769,34 +772,40 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## System Design
 
-- [Reddit: How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
-- [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
-- [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
-- [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
-- [Uber: Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
-- [Principles of chaos engineering](http://principlesofchaos.org/)
-- [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
-- [Dropbox: How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
-- [Cloudflare: How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
-- [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) :sparkles:
-- Making Instagram.com faster
-    - [Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-f350c8fba0d4) - Prefetching data
-    - [Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4) - Pushing data directly to the client rather than waiting for the client to request the data
-    - [Part 3](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) - Cache-first rendering
-    - [Part 4](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8) - Code size and execution optimizations
+### Guides
+
 - [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
-- [Billions of Messages a Day - Yelp's Real-time Data Pipeline](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
-- [The WhatsApp Architecture Facebook Bought For $19 Billion](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
-- [Airbnb: Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) :sparkles:
+- [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
+- [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
+- [What is Kappa Architecture?](http://milinda.pathirage.org/kappa-architecture.com/)
+- [Principles of chaos engineering](http://principlesofchaos.org/)
 - [Microservices — architecture nihilism in minimalism's clothes](https://vlfig.me/posts/microservices) :sparkles:
 - [Failing over without falling over](https://stackoverflow.blog/2020/10/23/adrian-cockcroft-aws-failover-chaos-engineering-fault-tolerance-distaster-recovery/) :zap:
 - [Timeouts, retries, and backoff with jitter](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/)
 - [Why are services slow sometimes?](https://dev.to/aws/why-are-services-slow-sometimes-mn3) :zap:
     - [If at first you don't get an answer...](https://dev.to/aws/if-at-first-you-don-t-get-an-answer-3e85)
-- [How We Developed DingTalk: Implementing the Message System Architecture](https://www.alibabacloud.com/blog/how-we-developed-dingtalk-implementing-the-message-system-architecture_595905)
-- [Intelligent DNS based load balancing at Dropbox](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
 - [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/) :zap: :zap:
 - [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
+
+### Systems
+
+> [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
+
+- [Reddit: How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) :sparkles:
+- [Uber: Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
+- [Dropbox: How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+- [Cloudflare: How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
+- Making Instagram.com faster
+    - [Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-f350c8fba0d4) - Prefetching data
+    - [Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4) - Pushing data directly to the client rather than waiting for the client to request the data
+    - [Part 3](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) - Cache-first rendering
+    - [Part 4](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8) - Code size and execution optimizations
+- [Billions of Messages a Day - Yelp's Real-time Data Pipeline](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
+- [The WhatsApp Architecture Facebook Bought For $19 Billion](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
+- [Airbnb: Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- [How We Developed DingTalk: Implementing the Message System Architecture](https://www.alibabacloud.com/blog/how-we-developed-dingtalk-implementing-the-message-system-architecture_595905)
+- [Intelligent DNS based load balancing at Dropbox](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
 
 ### Scalability
 
