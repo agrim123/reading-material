@@ -134,6 +134,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/)
 - [How to Gracefully Close Channels](https://go101.org/article/channel-closing.html) :sparkles:
 - [Go channels on steroids](https://docs.google.com/document/d/1yIAYmbvL3JxOKOjuCyon7JhW4cSv1wy5hC0ApeGMV9s/pub)
+- [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
+- [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
 
 #### Profiling :mag:
 
@@ -144,43 +146,19 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Profiling and optimizing Go web applications](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/)
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
-- [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
 - [go tool trace](https://making.pusher.com/go-tool-trace/)
-
-#### More
-
-- [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
-- [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
-- [The Case For Go](https://gist.github.com/ungerik/3731476)
-- [Applied Go](https://appliedgo.net/)
-- [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
-- [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
-- [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
-- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
-- [A whirlwind tour of Go’s runtime environment variables](https://dave.cheney.net/tag/godebug)
-- [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
-- [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709) :sparkles:
-- [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/) :sparkles:
-- [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
-- [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
-- [Detecting Race Conditions With Go](https://www.ardanlabs.com/blog/2013/09/detecting-race-conditions-with-go.html)
-- [Go, without package scoped variables](https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables)
-- [How to generate a random string of a fixed length in Go?](https://stackoverflow.com/a/31832326)
-- [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
 
 ### Go Internals
 
 > [Everything about Go: internals, concurrency, compiler, or packages available in the Go community.](https://medium.com/a-journey-with-go)
 
+- [The Go scheduler](https://morsmachine.dk/go-scheduler)
 - [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) :sparkles:
 - [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
 - [The Go Memory Model](https://golang.org/ref/mem) :sparkles:
 - [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
-- [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
-- [The Go scheduler](https://morsmachine.dk/go-scheduler)
 - [The Case For A Go Worker Pool](https://brandur.org/go-worker-pool)
-- [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 - [Go & Assembly](http://www.doxsey.net/blog/go-and-assembly)
 - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 - [Memory Leaking Scenarios](https://go101.org/article/memory-leaking.html)
@@ -188,7 +166,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
 - [Go Internals](https://github.com/teh-cmc/go-internals)
 - [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones) :mag:
-- [The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
 - [Contiguous stacks in Go](https://agis.io/post/contiguous-stacks-golang/)
 - [How does the go build command work ?](https://dave.cheney.net/2013/10/15/how-does-the-go-build-command-work)
 - [runtime: Large maps cause significant GC pauses](https://github.com/golang/go/issues/9477)
@@ -205,6 +182,26 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
+
+### More
+
+- [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+- [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
+- [Applied Go](https://appliedgo.net/)
+- [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
+- [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
+- [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
+- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
+- [A whirlwind tour of Go’s runtime environment variables](https://dave.cheney.net/tag/godebug)
+- [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
+- [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709) :sparkles:
+- [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/) :sparkles:
+- [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
+- [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
+- [Detecting Race Conditions With Go](https://www.ardanlabs.com/blog/2013/09/detecting-race-conditions-with-go.html)
+- [Go, without package scoped variables](https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables)
+- [How to generate a random string of a fixed length in Go?](https://stackoverflow.com/a/31832326)
+- [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
 
 ### Go Papers
 
