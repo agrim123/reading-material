@@ -157,7 +157,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
-- [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
 - [A whirlwind tour of Go’s runtime environment variables](https://dave.cheney.net/tag/godebug)
 - [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
 - [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709) :sparkles:
@@ -199,14 +198,13 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - String interning in Go
     - [String interning in Go](https://artem.krylysov.com/blog/2018/12/12/string-interning-in-go/)
     - [Interning strings in Go](https://commaok.xyz/post/intern-strings/)
+- [A few bytes here, a few there, pretty soon you’re talking real memory](https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory) :construction:
 
 ### Networking with Go
 
-- [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
-- [HTTPS and Go](https://www.kaihag.com/https-and-go/)
 
 ### Go Papers
 
