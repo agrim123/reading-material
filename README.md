@@ -136,13 +136,14 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Go channels on steroids](https://docs.google.com/document/d/1yIAYmbvL3JxOKOjuCyon7JhW4cSv1wy5hC0ApeGMV9s/pub)
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 - [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
+- [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
+- [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
 
 #### Profiling :mag:
 
 > [Go Diagnostics](https://golang.org/doc/diagnostics.html) :wrench:
 
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
-- [Scheduler Tracing In Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
 - [Profiling and optimizing Go web applications](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/)
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
@@ -152,13 +153,14 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 > [Everything about Go: internals, concurrency, compiler, or packages available in the Go community.](https://medium.com/a-journey-with-go)
 
-- [The Go scheduler](https://morsmachine.dk/go-scheduler)
+- [The Go scheduler](https://morsmachine.dk/go-scheduler) :sparkles:
+- [Scheduler Tracing In Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
 - [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) :sparkles:
 - [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
 - [The Go Memory Model](https://golang.org/ref/mem) :sparkles:
 - [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
-- [The Case For A Go Worker Pool](https://brandur.org/go-worker-pool)
+- [The Case For A Go Worker Pool](https://brandur.org/go-whttps://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.htmlorker-pool)
 - [Go & Assembly](http://www.doxsey.net/blog/go-and-assembly)
 - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 - [Memory Leaking Scenarios](https://go101.org/article/memory-leaking.html)
@@ -176,6 +178,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [String interning in Go](https://artem.krylysov.com/blog/2018/12/12/string-interning-in-go/)
     - [Interning strings in Go](https://commaok.xyz/post/intern-strings/)
 - [A few bytes here, a few there, pretty soon you’re talking real memory](https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory) :construction:
+- [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
 
 ### Networking with Go
 
@@ -202,6 +205,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Go, without package scoped variables](https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables)
 - [How to generate a random string of a fixed length in Go?](https://stackoverflow.com/a/31832326)
 - [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
+- [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
+- [Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide#1) :zap:
+- [There is no pass-by-reference in Go](https://dave.cheney.net/2017/04/29/there-is-no-pass-by-reference-in-go)
+- [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/)
 
 ### Go Papers
 
@@ -305,6 +312,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The uncertainty of measuring the DNS](https://blog.apnic.net/2018/07/18/the-uncertainty-of-measuring-the-dns/)
 - [DNS Encryption Explained](https://blog.cloudflare.com/dns-encryption-explained/)
 - [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
+- [Hello and welcome to DNS!](https://github.com/ahupowerdns/hello-dns)
 
 #### BGP
 
@@ -691,7 +699,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## Distributed Systems
 
-> [Distributed Systems for fun and profit](http://book.mixu.net/distsys/)
+> [Distributed Systems for fun and profit](http://book.mixu.net/distsys/) :books:
 
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
