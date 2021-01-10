@@ -818,7 +818,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Scalability for Dummies](https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones) :sparkles:
 - [Scalable System Design Patterns](https://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 - [Scalable Web Architecture and Distributed Systems](https://www.aosabook.org/en/distsys.html)
-- [The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf) :paper_with_curl:
+- [The Tail at Scale](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf) :page_with_curl:
 - [Automating chaos experiments in production](https://arxiv.org/pdf/1905.04648.pdf)
 - [Eventually Consistent - Revisited](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 
@@ -1027,7 +1027,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
 - [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
-- [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf) :paper_with_curl:
+- [How Did Software Get So Reliable Without Proof?](http://www.gwern.net/docs/math/1996-hoare.pdf) :page_with_curl:
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 - [Meet the Flexbox Inspector](https://gedd.ski/) :sparkles:
 - [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
