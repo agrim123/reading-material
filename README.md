@@ -16,11 +16,14 @@ A collection of resources that I found useful and interesting across various dom
     - [Go Internals](#go-internals)
     - [Networking with Go](#networking-with-go)
     - [Papers](#go-papers)
-- [Docker](#docker)
-- [Algorithms](#algorithms)
-- [Data Structures](#data-structures)
-    - [Advanced Data Structures](#advanced-data-structures)
-        - [Bloom filter](#bloom-filter)
+- [Containers](#containers)
+    - [Docker](#docker)
+    - [Kubernetes](#kubernetes-construction)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
+    - [Algorithms](#algorithms)
+    - [Data Structures](#data-structures)
+        - [Advanced Data Structures](#advanced-data-structures)
+            - [Bloom filter](#bloom-filter)
 - [Internet](#internet)
     - [Webservers](#webservers)
     - [Protocols](#protocols)
@@ -50,7 +53,6 @@ A collection of resources that I found useful and interesting across various dom
     - [v8](#v8)
     - [Books](#js-books)
 - [Rust](#rust)
-- [Kubernetes](#kubernetes-construction)
 - [Database](#database)
 - [Tor](#tor)
 - [Functional Programming](#functional-programming)
@@ -215,7 +217,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Analysis of the Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
 - [An Implementation and Analysis of a Kernel Network Stack in Go with the CSP Style](https://arxiv.org/abs/1603.05636)
 
-## Docker
+## Containers
+
+- [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
+
+### Docker
 
 - [Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/)
 - [Understanding Docker Internals](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe)
@@ -227,7 +233,17 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Docker security](https://docs.docker.com/engine/security/)
 - [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)
 
-## Algorithms
+### Kubernetes :construction:
+
+- [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/)
+- [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/)
+- [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
+- [Kubernetes: Getting Started With a Local Deployment](https://blog.jetstack.io/blog/k8s-getting-started-part2/)
+- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+## Data Structures and Algorithms
+
+### Algorithms
 
 > [Know Thy Complexities!](http://bigocheatsheet.com/#)
 
@@ -243,7 +259,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) :books:
 - [10 Optimizations on Linear Search](https://queue.acm.org/detail.cfm?id=2984631)
 
-## Data Structures
+### Data Structures
 
 - [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
@@ -614,14 +630,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 - [Fearless Concurrency with Rust](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
 
-## Kubernetes :construction:
-
-- [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/)
-- [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/)
-- [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
-- [Kubernetes: Getting Started With a Local Deployment](https://blog.jetstack.io/blog/k8s-getting-started-part2/)
-- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-
 ## Database
 
 - [Secure PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps) :lock:
@@ -734,7 +742,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ## Kafka
 
 - ["Apache Kafka and the Next 700 Stream Processing Systems" by Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro) :tv:
-- [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
 - [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Kafka and Zookeeper with Docker](https://medium.com/rahasak/kafka-and-zookeeper-with-docker-65cff2c2c34f)
 - [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol#AGuideToTheKafkaProtocol-Introduction)
