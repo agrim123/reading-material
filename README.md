@@ -342,6 +342,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Understanding Nginx HTTP Proxying, Load Balancing, Buffering, and Caching](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
 - [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 
+### NAT
+
+- [How NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works/)
+- [NAT Slipstreaming](https://samy.pl/slipstream/)
+
 ### Random
 
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
