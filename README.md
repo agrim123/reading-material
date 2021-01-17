@@ -33,7 +33,6 @@ A collection of resources that I found useful and interesting across various dom
         - [BGP](#bgp)
     - [Load Balancing](#load-balancing)
     - [Books](#networking-books-books)
-    - [Papers](#networking-papers-page_with_curl)
 - [Git](#git)
 - [Linux](#linux)
     - [Linux](#linux)
@@ -371,14 +370,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Understanding IP Addressing: Everything You Ever Wanted To Know](http://pages.di.unipi.it/ricci/501302.pdf)
 - [Kurose and Ross - Top Down Networking](http://amzn.in/d/3S7Wd4s)
 - TCP/IP Illustrated
-
-### Networking Papers :page_with_curl:
-
-- [Cloak of Visibility](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45365.pdf)
-- [A Look Back at “Security Problems in the TCP/IP Protocol Suite”](https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf)
-- [Breaking the Browser Language Barrier](http://plasma-umass.github.io/doppio-demo/paper.pdf)
-- [Defending Internet Freedom through Decentralization Back to the Future?](http://dci.mit.edu/assets/papers/decentralized_web.pdf)
-- [The anatomy of a large-scale hypertextual Web search engine](http://zoo.cs.yale.edu/classes/cs426/2012/bib/brin98theanatomy.pdf)
 
 ## Git
 
@@ -1078,6 +1069,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/) :construction:
 - [The Differences Between Interpreter and Compiler Explained](https://thevaluable.dev/difference-between-compiler-interpreter/)
 - [The Mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) :tv:
+- [Semantic Versioning 2.0.0](https://semver.org/)
 
 ## Fun
 
@@ -1131,3 +1123,4 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Hints on programming language design](http://flint.cs.yale.edu/cs428/doc/HintsPL.pdf)
 - [The Fault Tolerance of Botnets](https://www.dropbox.com/s/rvk6ybbl85zce00/The%20Fault%20Tolerance%20of%20Botnets.pdf?dl=0)
 - [Paradigm Shift in Software Development](https://www.dropbox.com/s/db2tbau0jdv9pym/Paradigm%20Exercise.pdf?dl=0)
+- [Cloak of Visibility](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45365.pdf)
