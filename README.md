@@ -218,7 +218,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ## Containers
 
-- [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
+- [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) :zap:
+- [Container networking is simple](https://iximiuz.com/en/posts/container-networking-is-simple/) :construction:
+- [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf) :page_with_curl:
+- [Linux Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 
 ### Docker
 
@@ -228,7 +231,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Docker Curriculum](https://prakhar.me/docker-curriculum/)
 - [A tiny but valid `init` for containers](https://github.com/krallin/tini)
 - [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
-- [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf) :page_with_curl:
 - [Docker security](https://docs.docker.com/engine/security/)
 - [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)
 
@@ -412,7 +414,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
 - [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
 - [rm -rf remains](https://lambdaops.com/rm-rf-remains/) :sparkles:
-- [Linux Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
 - [How does the system shutdown of a linux kernel work internally?](https://unix.stackexchange.com/a/122667/)
 - [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) :sparkles:
@@ -451,7 +452,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### SSH
 
-- [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
+- [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) :zap:
 - [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
 
 ### Linux Security
@@ -750,6 +751,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [It’s Okay To Store Data In Apache Kafka](https://www.confluent.io/blog/okay-store-data-apache-kafka/)
 - [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/) :book:
 - [Disaster Recovery for Multi-Region Kafka at Uber](https://eng.uber.com/kafka/)
+- [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
 
 ## Spark
 
@@ -1025,7 +1027,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
 - [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-- [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) :zap:
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 - [International Journal of Proof-of-Concept or Get The Fuck Out](https://www.alchemistowl.org/pocorgtfo/)
@@ -1070,6 +1071,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Differences Between Interpreter and Compiler Explained](https://thevaluable.dev/difference-between-compiler-interpreter/)
 - [The Mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) :tv:
 - [Semantic Versioning 2.0.0](https://semver.org/)
+- [Intentionally leaking AWS keys](https://brokenco.de/2021/01/15/leaking-aws-keys.html)
 
 ## Fun
 
