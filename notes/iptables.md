@@ -2,22 +2,22 @@
 
 > administration tool for IPv4/IPv6 packet filtering and NAT
 
-iptables is a user-space utility program that allows a system administrator to configure the tables provided by the Linux kernel firewall (implemented as different Netfilter modules) and the chains and rules it stores.
+iptables is a user-space utility program that allows a system administrator to configure the tables provided by the Linux kernel firewall \(implemented as different Netfilter modules\) and the chains and rules it stores.
 
 ## Tables
 
-1. **filter** (default table)
-    - input
-        - Controls behaviour of all incoming connections. Example: ssh.
-    - forward
-        - used for incoming connections that aren’t actually being delivered locally.
-        - used mainly for routing, NAT, or generally for forwarding.
-    - output
-        - used for outgoing connections.
-2. **nat** (consulted when a packet that creates a new connection is encountered)
-    - prerouting
-    - output
-    - postrouting
+1. **filter** \(default table\)
+   * input
+     * Controls behaviour of all incoming connections. Example: ssh.
+   * forward
+     * used for incoming connections that aren’t actually being delivered locally.
+     * used mainly for routing, NAT, or generally for forwarding.
+   * output
+     * used for outgoing connections.
+2. **nat** \(consulted when a packet that creates a new connection is encountered\)
+   * prerouting
+   * output
+   * postrouting
 
 ## Allowing or denying all connections
 
@@ -29,21 +29,22 @@ $ iptables --policy INPUT DROP
 ## Connection Specific responses
 
 1. Accept
-    - Allow the connection
+   * Allow the connection
 2. Drop
-    - Drop the connection
-    - Source sees that system does not exist
+   * Drop the connection
+   * Source sees that system does not exist
 3. Reject
-    - Don’t allow the connection, but send back an error
-    - Source sees that firewall blocked them
+   * Don’t allow the connection, but send back an error
+   * Source sees that firewall blocked them
 
 ## Allowing / Blocking specifc connections
 
-- configure iptables to allow or block specific addresses, address ranges, and ports.
+* configure iptables to allow or block specific addresses, address ranges, and ports.
 
 ### Connections from a single IP
 
 Block all connections from 10.10.10.10
+
 ```bash
 $ iptables -A INPUT -s 10.10.10.10 -j DROP
 ```
@@ -83,5 +84,4 @@ $ sudo /sbin/iptables-save
 ```bash
 $ iptables -F
 ```
-
 
