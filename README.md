@@ -14,6 +14,10 @@ A collection of resources that I found useful and interesting across various dom
         - [Concurrency](#concurrency)
         - [Profiling](#profiling-mag)
     - [Go Internals](#go-internals)
+        - [Scheduler](#scheduler)
+        - [Garbage Collector](#garbage-collector)
+        - [Compiler](#compiler)
+        - [Memory](#memory)
     - [Networking with Go](#networking-with-go)
     - [Papers](#go-papers)
 - [Containers](#containers)
@@ -127,7 +131,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Go Concurrency from the Ground Up](http://www.doxsey.net/blog/go-concurrency-from-the-ground-up)
 - [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/) :sparkles:
-- [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) :sparkles:
+- [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) :sparkles: :zap:
 - [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 - [Channels in Go](https://go101.org/article/channel.html)
 - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
@@ -139,6 +143,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
 - [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
 - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
+- [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
 
 #### Profiling :mag:
 
@@ -154,38 +159,55 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 > [Everything about Go: internals, concurrency, compiler, or packages available in the Go community.](https://medium.com/a-journey-with-go)
 
-- [The Go scheduler](https://morsmachine.dk/go-scheduler) :sparkles:
-- [Scheduler Tracing In Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
-- [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) :sparkles:
-- [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
-- [The Go Memory Model](https://golang.org/ref/mem) :sparkles:
-- [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
-- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
-- [The Case For A Go Worker Pool](https://brandur.org/go-whttps://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.htmlorker-pool)
-- [Go & Assembly](http://www.doxsey.net/blog/go-and-assembly)
-- [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
-- [Memory Leaking Scenarios](https://go101.org/article/memory-leaking.html)
-- [Memory Order Guarantees in Go](https://go101.org/article/memory-model.html)
-- [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
 - [Go Internals](https://github.com/teh-cmc/go-internals)
-- [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones) :mag:
-- [Contiguous stacks in Go](https://agis.io/post/contiguous-stacks-golang/)
-- [How does the go build command work ?](https://dave.cheney.net/2013/10/15/how-does-the-go-build-command-work)
-- [runtime: Large maps cause significant GC pauses](https://github.com/golang/go/issues/9477)
+- [How does the go build command work?](https://dave.cheney.net/2013/10/15/how-does-the-go-build-command-work)
 - [Introducing the Go Race Detector](https://blog.golang.org/race-detector)
-- [Memory Optimizations for Go Systems](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
-- [Golang escape analysis](http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html) :construction:
 - String interning in Go
     - [String interning in Go](https://artem.krylysov.com/blog/2018/12/12/string-interning-in-go/)
     - [Interning strings in Go](https://commaok.xyz/post/intern-strings/)
-- [A few bytes here, a few there, pretty soon you’re talking real memory](https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory) :construction:
 - [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
+- [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
+- [Detecting Race Conditions With Go](https://www.ardanlabs.com/blog/2013/09/detecting-race-conditions-with-go.html)
+
+#### Scheduler
+
+- [The Go scheduler](https://morsmachine.dk/go-scheduler) :sparkles:
+- [Scheduler Tracing In Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
+- [Analysis of the Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf) :page_with_curl:
+
+#### Garbage Collector
+
+- [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) :sparkles:
+- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
+- [runtime: Large maps cause significant GC pauses](https://github.com/golang/go/issues/9477)
+
+#### Compiler
+
+- [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
+- [Go & Assembly](http://www.doxsey.net/blog/go-and-assembly)
+- [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
+
+#### Memory
+
+- [The Go Memory Model](https://golang.org/ref/mem) :sparkles:
+- [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/)
+- [Memory Leaking Scenarios](https://go101.org/article/memory-leaking.html)
+- [Memory Order Guarantees in Go](https://go101.org/article/memory-model.html)
+- [GO MEMORY MANAGEMENT](https://povilasv.me/go-memory-management/)
+- [Contiguous stacks in Go](https://agis.io/post/contiguous-stacks-golang/)
+- [Memory Optimizations for Go Systems](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
+- [A few bytes here, a few there, pretty soon you’re talking real memory](https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory) :construction:
+- [Golang escape analysis](http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html) :construction:
+- [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones) :mag:
+- [There is no pass-by-reference in Go](https://dave.cheney.net/2017/04/29/there-is-no-pass-by-reference-in-go)
+- [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
 
 ### Networking with Go
 
 - [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
+- [An Implementation and Analysis of a Kernel Network Stack in Go with the CSP Style](https://arxiv.org/abs/1603.05636) :page_with_curl:
 
 ### More
 
@@ -197,24 +219,16 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 - [A whirlwind tour of Go’s runtime environment variables](https://dave.cheney.net/tag/godebug)
-- [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
 - [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709) :sparkles:
 - [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/) :sparkles:
-- [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 - [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
-- [Detecting Race Conditions With Go](https://www.ardanlabs.com/blog/2013/09/detecting-race-conditions-with-go.html)
 - [Go, without package scoped variables](https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables)
 - [How to generate a random string of a fixed length in Go?](https://stackoverflow.com/a/31832326)
 - [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
-- [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
 - [Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide#1) :zap:
-- [There is no pass-by-reference in Go](https://dave.cheney.net/2017/04/29/there-is-no-pass-by-reference-in-go)
-- [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/)
-
-### Go Papers
-
-- [Analysis of the Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
-- [An Implementation and Analysis of a Kernel Network Stack in Go with the CSP Style](https://arxiv.org/abs/1603.05636)
+- [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
+- [The Case For A Go Worker Pool](https://brandur.org/go-whttps://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.htmlorker-pool)
+- [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 
 ## Containers
 
