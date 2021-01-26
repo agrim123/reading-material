@@ -35,7 +35,8 @@ A collection of resources that I found useful and interesting across various dom
         - [TCP/UDP](#tcpudp)
         - [DNS](#dns)
         - [BGP](#bgp)
-    - [Websockets](#websockets)
+        - [Websockets](#websockets)
+        - [WebRTC](#webrtc)
     - [Load Balancing](#load-balancing)
     - [Books](#networking-books-books)
 - [Git](#git)
@@ -350,7 +351,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [What Is BGP? | BGP Routing Explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
 
-### Websockets
+#### Websockets
 
 - [WebSockets for fun and profit](https://stackoverflow.blog/2019/12/18/websockets-for-fun-and-profit/)
 - [The WebSocket Protocol: RFC 6455](https://tools.ietf.org/html/rfc6455)
@@ -359,6 +360,11 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [WebSockets - A Conceptual Deep Dive](https://www.ably.io/topic/websockets)
 - [How HTML5 Web Sockets Interact With Proxy Servers](https://www.infoq.com/articles/Web-Sockets-Proxy-Servers/)
 - [How Do Websockets Work?](https://sookocheff.com/post/networking/how-do-websockets-work/)
+- [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
+
+#### WebRTC
+
+- [WebRTC for the Curious](https://webrtcforthecurious.com/)
 
 ### Load Balancing
 
@@ -375,7 +381,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 ### Random
 
-- [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [The future of the open internet](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)
 - [What happens when...](https://github.com/alex/what-happens-when) :sparkles::zap:
 - [How Wi-Fi Works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
@@ -389,7 +394,6 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [High Performance Browser Networking](https://hpbn.co/) :books:
 - [HAProxy](http://www.haproxy.org/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
-- [WebRTC for the Curious](https://webrtcforthecurious.com/)
 
 ### Networking Books :books:
 
