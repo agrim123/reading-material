@@ -35,6 +35,7 @@ A collection of resources that I found useful and interesting across various dom
         - [TCP/UDP](#tcpudp)
         - [DNS](#dns)
         - [BGP](#bgp)
+    - [Websockets](#websockets)
     - [Load Balancing](#load-balancing)
     - [Books](#networking-books-books)
 - [Git](#git)
@@ -348,6 +349,16 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 #### BGP
 
 - [What Is BGP? | BGP Routing Explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
+
+### Websockets
+
+- [WebSockets for fun and profit](https://stackoverflow.blog/2019/12/18/websockets-for-fun-and-profit/)
+- [The WebSocket Protocol: RFC 6455](https://tools.ietf.org/html/rfc6455)
+- [How WebSockets Work](https://blog.teamtreehouse.com/an-introduction-to-websockets)
+- [HTTP and Websockets: Understanding the capabilities of today’s web communication technologies](https://medium.com/platform-engineer/web-api-design-35df8167460)
+- [WebSockets - A Conceptual Deep Dive](https://www.ably.io/topic/websockets)
+- [How HTML5 Web Sockets Interact With Proxy Servers](https://www.infoq.com/articles/Web-Sockets-Proxy-Servers/)
+- [How Do Websockets Work?](https://sookocheff.com/post/networking/how-do-websockets-work/)
 
 ### Load Balancing
 
