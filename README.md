@@ -257,6 +257,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
 - [Kubernetes: Getting Started With a Local Deployment](https://blog.jetstack.io/blog/k8s-getting-started-part2/)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+- [There and Back Again: The Unexpected Journey of a Request](https://sookocheff.com/post/networking/there-and-back-again/)
 
 ## Data Structures and Algorithms
 
@@ -321,6 +322,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
 - [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
 - [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+- [The Evolution of HTTP – HTTP/2 Deep Dive](https://www.ably.io/topic/http2)
+- [HTTP/3 Deep Dive](https://www.ably.io/topic/http3)
 
 #### TCP/UDP
 
@@ -394,6 +397,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [High Performance Browser Networking](https://hpbn.co/) :books:
 - [HAProxy](http://www.haproxy.org/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
+- [Network Protocols – Programmer's Compendium](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 
 ### Networking Books :books:
 
