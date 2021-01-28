@@ -1005,6 +1005,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [kaf: Modern CLI for Apache Kafka](https://github.com/birdayz/kaf)
 - [curl statistics made simple](https://github.com/reorx/httpstat)
 - [mkcert](https://github.com/FiloSottile/mkcert)
+- [sshuttle - Transparent proxy server that works as a poor man's VPN.](https://github.com/sshuttle/sshuttle)
 
 ## Blogs
 

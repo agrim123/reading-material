@@ -30,6 +30,11 @@ $ ssh -g -f -N -D <local-port> <user>@<host>
 $ sshuttle -r <user>@<host> 0.0.0.0/0
 ```
 
+For private key path
+```bash
+$ sshuttle -vr <user>@<host> 0/0 --ssh-cmd 'ssh -i /path/to/key'
+```
+
 ## Proxy DNS traffic
 
 ```bash
