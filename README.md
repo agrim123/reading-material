@@ -318,6 +318,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
 - [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html) :sparkles:
+- [The HTTP part 1 - Let's start small](http://dyszkiewicz.me/programming/http/server/kotlin/2018/07/31/http-part1.html)
+- [How HTTPS works ...in a comic!](https://howhttps.works/)
+- [How HTTPS Works in Layman's Terms - TLS 1.2 and 1.3](https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html)
+- [HTTP Caching](https://roadmap.sh/guides/http-caching)
 
 ##### HTTP/2
 
@@ -334,11 +338,15 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [HTTP/3 Deep Dive](https://www.ably.io/topic/http3)
 - [HTTP/3 explained](https://http3-explained.haxx.se/)
 
-#### TCP/UDP
+#### TLS
 
 - [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
+- [What is TLS (Transport Layer Security)?](https://www.cloudflare.com/en-gb/learning/ssl/transport-layer-security-tls/)
+
+#### TCP/UDP
+
 - [Discussion: UDP in web](https://news.ycombinator.com/item?id=13741155)
 - [Let's code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 - [When TCP sockets refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
@@ -408,6 +416,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [HAProxy](http://www.haproxy.org/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
 - [Network Protocols – Programmer's Compendium](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+- [curl HTTP cheat sheet](https://curl.github.io/curl-cheat-sheet/http-sheet.html)
+- [cURL security anti-patterns](https://blog.pan-net.cloud/posts/curl-security-anti-patterns/)
 
 ### Networking Books :books:
 
