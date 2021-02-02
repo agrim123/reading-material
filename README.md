@@ -32,6 +32,8 @@ A collection of resources that I found useful and interesting across various dom
     - [Webservers](#webservers)
     - [Protocols](#protocols)
         - [HTTP(S)](#https)
+            - [HTTP/2](#http2)
+            - [HTTP/3](#http3)
         - [TCP/UDP](#tcpudp)
         - [DNS](#dns)
         - [BGP](#bgp)
@@ -314,9 +316,12 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
-- [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) :sparkles:
 - [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-- [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+- [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html) :sparkles:
+
+##### HTTP/2
+
+- [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) :sparkles:
 - [The Evolution of HTTP – HTTP/2 Deep Dive](https://www.ably.io/topic/http2)
 
 ##### HTTP/3
