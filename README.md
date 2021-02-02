@@ -315,15 +315,19 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Designing Headers for HTTP Compression](https://www.mnot.net/blog/2018/11/27/header_compression)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) :sparkles:
+- [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+- [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+- [The Evolution of HTTP – HTTP/2 Deep Dive](https://www.ably.io/topic/http2)
+
+##### HTTP/3
+
 - [Comparing HTTP/3 vs. HTTP/2 Performance](https://blog.cloudflare.com/http-3-vs-http-2/)
 - [HTTP3](https://blog.cloudflare.com/http-3-from-root-to-tip/)
 - [QUIC](https://blog.cloudflare.com/the-road-to-quic/)
 - [Employing QUIC Protocol to Optimize Uber’s App Performance](https://eng.uber.com/employing-quic-protocol/)
 - [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
-- [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-- [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
-- [The Evolution of HTTP – HTTP/2 Deep Dive](https://www.ably.io/topic/http2)
 - [HTTP/3 Deep Dive](https://www.ably.io/topic/http3)
+- [HTTP/3 explained](https://http3-explained.haxx.se/)
 
 #### TCP/UDP
 
@@ -364,6 +368,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How HTML5 Web Sockets Interact With Proxy Servers](https://www.infoq.com/articles/Web-Sockets-Proxy-Servers/)
 - [How Do Websockets Work?](https://sookocheff.com/post/networking/how-do-websockets-work/)
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
+- [Building realtime apps with Go and WebSockets: client-side considerations](https://www.ably.io/topic/websockets-golang)
 
 #### WebRTC
 
@@ -1106,6 +1111,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) :tv:
 - [Semantic Versioning 2.0.0](https://semver.org/)
 - [Intentionally leaking AWS keys](https://brokenco.de/2021/01/15/leaking-aws-keys.html)
+- [Dream Deploys: Atomic, Zero-Downtime Deployments](https://alangrow.com/blog/dream-deploys-atomic-zero-downtime-deployments)
 
 ## Fun
 
