@@ -251,6 +251,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 - [Docker security](https://docs.docker.com/engine/security/)
 - [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)
+- [Best practices for building containers](https://cloud.google.com/solutions/best-practices-for-building-containers)
 
 ### Kubernetes :construction:
 
