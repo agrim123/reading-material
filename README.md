@@ -345,6 +345,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 - [What is TLS (Transport Layer Security)?](https://www.cloudflare.com/en-gb/learning/ssl/transport-layer-security-tls/)
+- [Even faster connection establishment with QUIC 0-RTT resumption](https://blog.cloudflare.com/even-faster-connection-establishment-with-quic-0-rtt-resumption/)
+- [A Detailed Look at RFC 8446 (a.k.a. TLS 1.3)](https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/)
 
 #### TCP/UDP
 
@@ -367,6 +369,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [DNS Encryption Explained](https://blog.cloudflare.com/dns-encryption-explained/)
 - [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 - [Hello and welcome to DNS!](https://github.com/ahupowerdns/hello-dns)
+- [How DNS Works](https://howdns.works/ep1/)
+- [Beyond DNS over HTTPS: Trustless DNS Privacy](https://alyssa.is/proposing-dns-over-tcp-over-tor/)
 
 #### BGP
 
