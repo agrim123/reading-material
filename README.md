@@ -145,9 +145,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Go channels on steroids](https://docs.google.com/document/d/1yIAYmbvL3JxOKOjuCyon7JhW4cSv1wy5hC0ApeGMV9s/pub)
 - [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
 - [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
-- [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
+- [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms) :sparkles:
 - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
 - [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
+- [Why is a Goroutine’s stack infinite ?](https://dave.cheney.net/2013/06/02/why-is-a-goroutines-stack-infinite)
 
 #### Profiling :mag:
 
@@ -323,6 +324,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How HTTPS works ...in a comic!](https://howhttps.works/)
 - [How HTTPS Works in Layman's Terms - TLS 1.2 and 1.3](https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html)
 - [HTTP Caching](https://roadmap.sh/guides/http-caching)
+- [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/)
 
 ##### HTTP/2
 
@@ -360,6 +362,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Nagle's algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm)
     - [40 millisecond bug](https://vorner.github.io/2020/11/06/40-ms-bug.html)
     - [TCP Performance problems caused by interaction between Nagle’s Algorithm and Delayed ACK](http://www.stuartcheshire.org/papers/NagleDelayedAck/)
+- [What every developer should know about TCP](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)
+- [What I learned attempting the TCP Reset attack](https://squidarth.com/article/networking/2020/05/03/tcp-resets.html)
 
 #### DNS
 
@@ -512,6 +516,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) :zap:
 - [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
+- [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/) :sparkles:
 
 ### Linux Security
 
