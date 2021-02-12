@@ -909,6 +909,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Building fast.com](https://netflixtechblog.com/building-fast-com-4857fe0f8adb)
 - [AWS re:Invent 2017: How Netflix Tunes Amazon EC2 Instances for Performance (CMP325)](https://www.youtube.com/watch?v=89fYOo1V2pA) :tv:
 - [AWS re:Invent 2015: A Day in the Life of a Netflix Engineer (DVO203)](https://www.youtube.com/watch?v=-mL3zT1iIKw) :zap:
+- [Edge Authentication and Token-Agnostic Identity Propagation](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
 
 ## Privacy
 
