@@ -159,6 +159,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
 - [go tool trace](https://making.pusher.com/go-tool-trace/)
+- [Various go profiling methods](https://github.com/DataDog/go-profiler-notes/)
 
 ### Go Internals
 
@@ -702,6 +703,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
 - [Database Internals](https://www.databass.dev/) :book: :construction:
 - [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78) :construction:
+- [PostgreSQL LISTEN/NOTIFY](https://tapoueh.org/blog/2018/07/postgresql-listen-notify/)
 
 ### Sharding
 
