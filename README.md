@@ -124,6 +124,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
+- [The zero value](https://golang.org/ref/spec#The_zero_value)
 
 ### Concepts
 
@@ -149,6 +150,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
 - [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
 - [Why is a Goroutine’s stack infinite ?](https://dave.cheney.net/2013/06/02/why-is-a-goroutines-stack-infinite)
+- [Advanced Go Concurrency Patterns](https://talks.golang.org/2013/advconc.slide#1)
 
 #### Profiling :mag:
 
