@@ -265,6 +265,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Kubernetes: Getting Started With a Local Deployment](https://blog.jetstack.io/blog/k8s-getting-started-part2/)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [There and Back Again: The Unexpected Journey of a Request](https://sookocheff.com/post/networking/there-and-back-again/)
+- [Life of a Packet in Kubernetes — Part 1](https://dramasamy.medium.com/life-of-a-packet-in-kubernetes-part-1-f9bc0909e051)
 
 ## Data Structures and Algorithms
 
@@ -460,6 +461,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - `git push --force-with-lease`
     - https://git-scm.com/docs/git-push#Documentation/git-push.txt---force-with-leaseltrefnamegtltexpectgt
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+- http://whatthecommit.com/
 
 ### Git Internals
 
@@ -541,6 +543,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
 - [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/) :zap:
+- http://www.bashoneliners.com/ :sparkles: :zap:
 
 ### BPF
 
