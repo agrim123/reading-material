@@ -862,6 +862,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
     - [If at first you don't get an answer...](https://dev.to/aws/if-at-first-you-don-t-get-an-answer-3e85)
 - [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/) :zap: :zap:
 - [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
+- [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
 
 ### Systems
 
@@ -918,6 +919,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 ## Privacy
 
 - [Cutting Google out of your life](https://degoogle.jmoore.dev/)
+- [The Fantasy of Opting Out](https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/)
 
 ## Security
 
