@@ -237,6 +237,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
 - [The Case For A Go Worker Pool](https://brandur.org/go-whttps://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.htmlorker-pool)
 - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
+- [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
 
 ## Containers
 
@@ -661,6 +662,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
     - [What makes WebAssembly fast?](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/)
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) :sparkles::sparkles:
+- [Streams—The definitive guide](https://web.dev/streams/)
 
 ### React, Redux
 
@@ -709,6 +711,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Database Internals](https://www.databass.dev/) :book: :construction:
 - [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78) :construction:
 - [PostgreSQL LISTEN/NOTIFY](https://tapoueh.org/blog/2018/07/postgresql-listen-notify/)
+- [Maximizing MongoDB Performance on AWS](https://www.mongodb.com/blog/post/maximizing-mongodb-performance-on-aws)
 
 ### Sharding
 
