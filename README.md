@@ -712,6 +712,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78) :construction:
 - [PostgreSQL LISTEN/NOTIFY](https://tapoueh.org/blog/2018/07/postgresql-listen-notify/)
 - [Maximizing MongoDB Performance on AWS](https://www.mongodb.com/blog/post/maximizing-mongodb-performance-on-aws)
+- [Read Consistency with Database Replicas](https://shopify.engineering/read-consistency-database-replicas)
 
 ### Sharding
 
@@ -919,7 +920,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [How we scaled nginx and saved the world 54 years every day](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day)
 - [Building fast.com](https://netflixtechblog.com/building-fast-com-4857fe0f8adb)
 - [AWS re:Invent 2017: How Netflix Tunes Amazon EC2 Instances for Performance (CMP325)](https://www.youtube.com/watch?v=89fYOo1V2pA) :tv:
-- [AWS re:Invent 2015: A Day in the Life of a Netflix Engineer (DVO203)](https://www.youtube.com/watch?v=-mL3zT1iIKw) :zap:
+- [AWS re:Invent 2015: A Day in the Life of a Netflix Engineer (DVO203)](https://www.youtube.com/watch?v=-mL3zT1iIKw) :tv: :zap:
 - [Edge Authentication and Token-Agnostic Identity Propagation](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
 
 ## Privacy
@@ -1140,7 +1141,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Andrei Pangin - Everything you wanted to know about Stack Traces and Heap Dumps](https://www.youtube.com/watch?v=FTsAXJdrJbI&t=1s) :tv:
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) :sparkles: :zap:
 - [The Life of a Data Byte](https://queue.acm.org/detail.cfm?id=3419941) :sparkles: :zap: :construction:
-- [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
+- [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c) :tv:
 - [The 13 immutable reads on choosing what to work on](https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/)
 - [The Duct Tape Programmer](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/)
 - [The Hitchhiker’s Guide to Compression](https://go-compression.github.io/) :construction:
