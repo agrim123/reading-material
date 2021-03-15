@@ -432,6 +432,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Network Protocols – Programmer's Compendium](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 - [curl HTTP cheat sheet](https://curl.github.io/curl-cheat-sheet/http-sheet.html)
 - [cURL security anti-patterns](https://blog.pan-net.cloud/posts/curl-security-anti-patterns/)
+- [Staying out of TTL hell](http://calpaterson.com/ttl-hell.html)
 
 ### Networking Books :books:
 
