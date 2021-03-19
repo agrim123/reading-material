@@ -1092,6 +1092,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - https://timilearning.com/ :construction:
 - https://aws.amazon.com/builders-library/ - How Amazon builds and operates software
 - https://rhinosecuritylabs.com/blog/?category=aws
+- https://how.complexsystems.fail/
 
 ## More
 
