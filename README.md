@@ -257,6 +257,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Docker security](https://docs.docker.com/engine/security/)
 - [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)
 - [Best practices for building containers](https://cloud.google.com/solutions/best-practices-for-building-containers)
+- [Reverse Engineering a Docker Image](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
 
 ### Kubernetes :construction:
 
@@ -924,6 +925,10 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [AWS re:Invent 2015: A Day in the Life of a Netflix Engineer (DVO203)](https://www.youtube.com/watch?v=-mL3zT1iIKw) :tv: :zap:
 - [Edge Authentication and Token-Agnostic Identity Propagation](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
 
+### Cloudflare
+
+- [A deep-dive into Cloudflare’s autonomous edge DDoS protection](https://blog.cloudflare.com/deep-dive-cloudflare-autonomous-edge-ddos-protection/)
+
 ## Privacy
 
 - [Cutting Google out of your life](https://degoogle.jmoore.dev/)
@@ -1051,6 +1056,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [curl statistics made simple](https://github.com/reorx/httpstat)
 - [mkcert](https://github.com/FiloSottile/mkcert)
 - [sshuttle - Transparent proxy server that works as a poor man's VPN.](https://github.com/sshuttle/sshuttle)
+- [jq](https://stedolan.github.io/jq/)
 
 ## Blogs
 
