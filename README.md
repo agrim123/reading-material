@@ -125,6 +125,8 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 - [The zero value](https://golang.org/ref/spec#The_zero_value)
+- [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) :sparkles:
+- [Know Your Nil](http://jeremymikkola.com/posts/2017_03_29_know_your_nil.html)
 
 ### Concepts
 
@@ -872,6 +874,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/) :zap: :zap:
 - [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
 - [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
+- [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 
 ### Systems
 
@@ -967,6 +970,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Reading Data via CSS Injection](https://curesec.com/blog/article/blog/Reading-Data-via-CSS-Injection-180.html)
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
 - [SAD DNS Explained](https://blog.cloudflare.com/sad-dns-explained/) :sparkles: :zap:
+- [Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
 
 ### Tools
 
@@ -1159,6 +1163,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [Semantic Versioning 2.0.0](https://semver.org/)
 - [Intentionally leaking AWS keys](https://brokenco.de/2021/01/15/leaking-aws-keys.html)
 - [Dream Deploys: Atomic, Zero-Downtime Deployments](https://alangrow.com/blog/dream-deploys-atomic-zero-downtime-deployments)
+- [Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
 
 ## Fun
 
