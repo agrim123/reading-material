@@ -218,6 +218,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [TCP/IP Networking in Go](https://appliedgo.net/networking/)
 - [An Implementation and Analysis of a Kernel Network Stack in Go with the CSP Style](https://arxiv.org/abs/1603.05636) :page_with_curl:
+- [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/) :sparkles:
 
 ### More
 
@@ -936,6 +937,7 @@ You might some emojis (:sparkles:, :construction: etc) crawling all over this co
 
 - [Cutting Google out of your life](https://degoogle.jmoore.dev/)
 - [The Fantasy of Opting Out](https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/)
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
 ## Security
 
