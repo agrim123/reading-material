@@ -1,6 +1,6 @@
 # Reading Material
 
-A collection of resources that I found useful and interesting across various domains.
+A collection of resources that I found interesting and useful across various domains.
 
 > [The Tao of Programming](http://www.mit.edu/~xela/tao.html)
 
@@ -99,7 +99,7 @@ A collection of resources that I found useful and interesting across various dom
 
 ## Legend
 
-You might some emojis (:sparkles:, :construction: etc) crawling all over this collection.
+You might see some emojis (:sparkles:, :construction: etc) crawling all over this collection.
 
 | emoji  |  meaning |
 | ------------ | ------------ |
