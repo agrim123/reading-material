@@ -973,6 +973,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing](https://tools.ietf.org/html/bcp38)
 - [SAD DNS Explained](https://blog.cloudflare.com/sad-dns-explained/) :sparkles: :zap:
 - [Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
+- [HTTP request smuggling](https://portswigger.net/web-security/request-smuggling)
 
 ### Tools
 
