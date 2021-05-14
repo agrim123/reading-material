@@ -164,6 +164,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
 - [go tool trace](https://making.pusher.com/go-tool-trace/)
 - [Various go profiling methods](https://github.com/DataDog/go-profiler-notes/)
+- [pprof++: A Go Profiler with Hardware Performance Monitoring](https://eng.uber.com/pprof-go-profiler/)
 
 ### Go Internals
 
@@ -1178,6 +1179,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Git Koans](https://stevelosh.com/blog/2013/04/git-koans/)
 - [Vim Kōans](https://sanctum.geek.nz/arabesque/vim-koans/)
 - [The Dharma of Vi](https://blog.samwhited.com/2015/04/the-dharma-of-vi/)
+- https://suricrasia.online/iceberg/
 
 ## More Books
 
