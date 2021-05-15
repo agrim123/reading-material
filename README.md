@@ -793,6 +793,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Rack Model](https://arxiv.org/abs/1302.5657) :page_with_curl:
 - [If you need a global lock in your distributed system, then you're already in trouble](https://news.ycombinator.com/item?id=11066258) :sparkles:
     - Parent Thread: [Is Redlock Safe? Reply to Redlock Analysis](https://news.ycombinator.com/item?id=11065933)
+- [Towards Robust Distributed Systems](https://people.eecs.berkeley.edu/~brewer/cs262b-2004/PODC-keynote.pdf)
 - [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
     - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
     - [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
@@ -800,6 +801,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
     - https://news.ycombinator.com/item?id=1768312 :zap:
         - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
     - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+    - [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles: :file_folder:
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
@@ -815,6 +817,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Avoiding fallback in distributed systems](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
 - [Consistency Models](https://jepsen.io/consistency) :construction:
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/) :file_folder:
+- [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 
 ## Kafka
 
