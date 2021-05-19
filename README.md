@@ -153,6 +153,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
 - [Why is a Goroutine’s stack infinite ?](https://dave.cheney.net/2013/06/02/why-is-a-goroutines-stack-infinite)
 - [Advanced Go Concurrency Patterns](https://talks.golang.org/2013/advconc.slide#1)
+- [sync.RWMutex](https://medium.com/golangspec/sync-rwmutex-ca6c6c3208a0)
 
 #### Profiling :mag:
 
