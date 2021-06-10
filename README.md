@@ -861,6 +861,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Prometheus Recording Rules](https://deploy.live/blog/today-i-learned-prometheus-recording-rules/)
 - [Prometheus Counters and how to deal with them](https://www.innoq.com/en/blog/prometheus-counters/)
 - [Understanding the Top 5 Redis Performance Metrics](https://www.datadoghq.com/pdf/Understanding-the-Top-5-Redis-Performance-Metrics.pdf)
+- [Thanos](https://github.com/thanos-io/thanos)
 
 ## System Design
 
