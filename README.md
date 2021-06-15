@@ -720,6 +720,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [PostgreSQL LISTEN/NOTIFY](https://tapoueh.org/blog/2018/07/postgresql-listen-notify/)
 - [Maximizing MongoDB Performance on AWS](https://www.mongodb.com/blog/post/maximizing-mongodb-performance-on-aws)
 - [Read Consistency with Database Replicas](https://shopify.engineering/read-consistency-database-replicas)
+- [Zero downtime Postgres migration, done right](https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/)
 
 ### Sharding
 
@@ -1173,6 +1174,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Intentionally leaking AWS keys](https://brokenco.de/2021/01/15/leaking-aws-keys.html)
 - [Dream Deploys: Atomic, Zero-Downtime Deployments](https://alangrow.com/blog/dream-deploys-atomic-zero-downtime-deployments)
 - [Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+- [Intro to Threads and Processes in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
 
 ## Fun
 
