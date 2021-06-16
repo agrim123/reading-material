@@ -883,6 +883,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
 - [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
+- [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 
 ### Systems
 
@@ -1175,6 +1176,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Dream Deploys: Atomic, Zero-Downtime Deployments](https://alangrow.com/blog/dream-deploys-atomic-zero-downtime-deployments)
 - [Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
 - [Intro to Threads and Processes in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
+- [Unreliability At Scale](https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1)
 
 ## Fun
 
