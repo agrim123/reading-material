@@ -820,6 +820,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Consistency Models](https://jepsen.io/consistency) :construction:
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/) :file_folder:
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+- [The network is reliable](https://aphyr.com/posts/288-the-network-is-reliable)
 
 ## Kafka
 
@@ -933,6 +934,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
 - [Workload isolation using shuffle-sharding](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
 - [The Hitchhiker's Guide to AWS ECS and Docker](https://start.jcolemorrison.com/the-hitchhikers-guide-to-aws-ecs-and-docker/)
+- [AWS IAM Policies in a Nutshell](https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/)
 
 ### Netflix
 
