@@ -789,7 +789,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 > [Distributed Systems for fun and profit](http://book.mixu.net/distsys/) :books:
 
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
-- [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
+- [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/) :sparkles:
     - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) :page_with_curl: :construction:
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 - [Rack Model](https://arxiv.org/abs/1302.5657) :page_with_curl:
@@ -1197,6 +1197,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Vim Kōans](https://sanctum.geek.nz/arabesque/vim-koans/)
 - [The Dharma of Vi](https://blog.samwhited.com/2015/04/the-dharma-of-vi/)
 - https://suricrasia.online/iceberg/
+- https://goomics.net/
 
 ## More Books
 
