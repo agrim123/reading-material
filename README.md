@@ -470,6 +470,8 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
     - https://git-scm.com/docs/git-push#Documentation/git-push.txt---force-with-leaseltrefnamegtltexpectgt
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 - http://whatthecommit.com/
+- [Think Like (a) Git](http://think-like-a-git.net)
+- [The Thing About Git](https://tomayko.com/blog/2008/the-thing-about-git)
 
 ### Git Internals
 
