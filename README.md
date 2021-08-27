@@ -865,6 +865,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Prometheus Counters and how to deal with them](https://www.innoq.com/en/blog/prometheus-counters/)
 - [Thanos](https://github.com/thanos-io/thanos)
 - [PromQL Queries for Exploring Your Metrics](https://promlabs.com/blog/2020/12/17/promql-queries-for-exploring-your-metrics)
+- [How to learn PromQL with Prometheus Playground](https://iximiuz.com/en/posts/prometheus-learning-promql/)
 
 ### More
 
