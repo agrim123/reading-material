@@ -554,6 +554,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
 - [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/) :zap:
 - http://www.bashoneliners.com/ :sparkles: :zap:
+- [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial) :zap: :zap:
 
 ### BPF
 
