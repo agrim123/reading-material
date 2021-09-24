@@ -939,6 +939,8 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Workload isolation using shuffle-sharding](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
 - [The Hitchhiker's Guide to AWS ECS and Docker](https://start.jcolemorrison.com/the-hitchhikers-guide-to-aws-ecs-and-docker/)
 - [AWS IAM Policies in a Nutshell](https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/)
+- [What You Need to Know About IOPS](https://cloudcasts.io/article/what-you-need-to-know-about-iops)
+- [Why was a query to my Amazon RDS MySQL DB instance blocked when there is no other active session?](https://aws.amazon.com/premiumsupport/knowledge-center/blocked-mysql-query/)
 
 ### Netflix
 
