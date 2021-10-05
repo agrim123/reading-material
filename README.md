@@ -390,6 +390,8 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 #### BGP
 
 - [What Is BGP? | BGP Routing Explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
+- [THE TWO-NAPKIN PROTOCOL](https://computerhistory.org/blog/the-two-napkin-protocol/?key=the-two-napkin-protocol)
+- [Playing battleships over BGP](https://blog.benjojo.co.uk/post/bgp-battleships)
 
 #### Websockets
 
