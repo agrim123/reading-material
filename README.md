@@ -441,6 +441,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [curl HTTP cheat sheet](https://curl.github.io/curl-cheat-sheet/http-sheet.html)
 - [cURL security anti-patterns](https://blog.pan-net.cloud/posts/curl-security-anti-patterns/)
 - [Staying out of TTL hell](http://calpaterson.com/ttl-hell.html)
+- [Stateful vs Stateless Authentication](https://www.openidentityplatform.org/blog/stateless-vs-stateful-authentication)
 
 ### Networking Books :books:
 
