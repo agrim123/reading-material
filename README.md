@@ -250,6 +250,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Container networking is simple](https://iximiuz.com/en/posts/container-networking-is-simple/) :construction:
 - [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf) :page_with_curl:
 - [Linux Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- [Container security best practices: Comprehensive guide](https://sysdig.com/blog/container-security-best-practices/)
 
 ### Docker
 
@@ -263,6 +264,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)
 - [Best practices for building containers](https://cloud.google.com/solutions/best-practices-for-building-containers)
 - [Reverse Engineering a Docker Image](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
+- [docker pause](https://docs.docker.com/engine/reference/commandline/pause/)
 
 ### Kubernetes :construction:
 
@@ -442,6 +444,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [cURL security anti-patterns](https://blog.pan-net.cloud/posts/curl-security-anti-patterns/)
 - [Staying out of TTL hell](http://calpaterson.com/ttl-hell.html)
 - [Stateful vs Stateless Authentication](https://www.openidentityplatform.org/blog/stateless-vs-stateful-authentication)
+- [How to win at CORS](https://jakearchibald.com/2021/cors/)
 
 ### Networking Books :books:
 
@@ -1195,6 +1198,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
 - [Intro to Threads and Processes in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
 - [Unreliability At Scale](https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1)
+- [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
 
 ## Fun
 
