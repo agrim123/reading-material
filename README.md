@@ -192,6 +192,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) :sparkles:
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 - [runtime: Large maps cause significant GC pauses](https://github.com/golang/go/issues/9477)
+- [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/)
 
 #### Compiler
 
