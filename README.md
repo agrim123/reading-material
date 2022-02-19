@@ -1202,6 +1202,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
 - [Reverse Proxy, HTTP Keep-Alive Timeout, and sporadic HTTP 502s](https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/)
 - [A Solution to HTTP 502 Errors with AWS ALB](https://www.tessian.com/blog/how-to-fix-http-502-errors/)
+- [DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
 
 ## Fun
 
