@@ -446,6 +446,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Staying out of TTL hell](http://calpaterson.com/ttl-hell.html)
 - [Stateful vs Stateless Authentication](https://www.openidentityplatform.org/blog/stateless-vs-stateful-authentication)
 - [How to win at CORS](https://jakearchibald.com/2021/cors/)
+- [The perils of the “real” client IP](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
 
 ### Networking Books :books:
 
