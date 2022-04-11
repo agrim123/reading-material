@@ -1204,6 +1204,9 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Reverse Proxy, HTTP Keep-Alive Timeout, and sporadic HTTP 502s](https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/)
 - [A Solution to HTTP 502 Errors with AWS ALB](https://www.tessian.com/blog/how-to-fix-http-502-errors/)
 - [DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
+- [Gunicorn vs Python GIL](https://luis-sena.medium.com/gunicorn-vs-python-gil-221e673d692)
+- [Gunicorn Worker Types: How to choose the right one](https://dev.to/lsena/gunicorn-worker-types-how-to-choose-the-right-one-4n2c)
+- [A brief description of the architecture of Gunicorn](https://docs.gunicorn.org/en/stable/design.html)
 
 ## Fun
 
