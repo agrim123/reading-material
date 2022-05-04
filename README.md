@@ -1058,6 +1058,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/#blocking)
 - [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 - [Bcrypt Step by Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
+- [Bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
 - [Why shouldn't we roll our own?](http://security.stackexchange.com/questions/18197/why-shouldnt-we-roll-our-own) :sparkles:
 - [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
 - [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/) :zap:
