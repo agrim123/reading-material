@@ -252,6 +252,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf) :page_with_curl:
 - [Linux Containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [Container security best practices: Comprehensive guide](https://sysdig.com/blog/container-security-best-practices/)
+- [Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/) :zap:
 
 ### Docker
 
