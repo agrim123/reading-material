@@ -244,6 +244,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [The Case For A Go Worker Pool](https://brandur.org/go-whttps://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.htmlorker-pool)
 - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 - [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
+- [Send data from file without loading into memory](https://stackoverflow.com/questions/42261421/send-os-stdin-via-http-post-without-loading-file-into-memory)
 
 ## Containers
 
@@ -1209,6 +1210,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Gunicorn vs Python GIL](https://luis-sena.medium.com/gunicorn-vs-python-gil-221e673d692)
 - [Gunicorn Worker Types: How to choose the right one](https://dev.to/lsena/gunicorn-worker-types-how-to-choose-the-right-one-4n2c)
 - [A brief description of the architecture of Gunicorn](https://docs.gunicorn.org/en/stable/design.html)
+- [DESIGN PATTERNS](https://refactoring.guru/design-patterns)
 
 ## Fun
 
