@@ -536,6 +536,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Systemd is not Magic Security Dust](https://www.agwa.name/blog/post/systemd_is_not_magic_security_dust) :construction:
 - [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
 - [eBPF](https://filipnikolovski.com/posts/ebpf/) :construction:
+- [Process resource limits under the hood](https://ops.tips/blog/proc-pid-limits-under-the-hood/)
 
 ### SSH
 
@@ -1140,6 +1141,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - https://aws.amazon.com/builders-library/ - How Amazon builds and operates software
 - https://rhinosecuritylabs.com/blog/?category=aws
 - https://how.complexsystems.fail/
+- https://ops.tips
 
 ## More
 
