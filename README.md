@@ -735,6 +735,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Maximizing MongoDB Performance on AWS](https://www.mongodb.com/blog/post/maximizing-mongodb-performance-on-aws)
 - [Read Consistency with Database Replicas](https://shopify.engineering/read-consistency-database-replicas)
 - [Zero downtime Postgres migration, done right](https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/)
+- [Inconsistent thoughts on database consistency](https://www.alexdebrie.com/posts/database-consistency/)
 
 ### Sharding
 
@@ -815,7 +816,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
     - [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
     - [FLP and CAP aren't the same thing](https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/)
     - https://news.ycombinator.com/item?id=1768312 :zap:
-        - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
+        - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/) :zap:
     - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
     - [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
@@ -1213,6 +1214,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Gunicorn Worker Types: How to choose the right one](https://dev.to/lsena/gunicorn-worker-types-how-to-choose-the-right-one-4n2c)
 - [A brief description of the architecture of Gunicorn](https://docs.gunicorn.org/en/stable/design.html)
 - [DESIGN PATTERNS](https://refactoring.guru/design-patterns)
+- [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
 
 ## Fun
 
