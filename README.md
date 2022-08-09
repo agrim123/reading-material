@@ -1,4 +1,4 @@
-# Reading Material
+### Reading Material
 
 A collection of resources that I found interesting and useful across various domains.
 
@@ -245,6 +245,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 - [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
 - [Send data from file without loading into memory](https://stackoverflow.com/questions/42261421/send-os-stdin-via-http-post-without-loading-file-into-memory)
+- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
 
 ## Containers
 
@@ -836,6 +837,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/) :file_folder:
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [The network is reliable](https://aphyr.com/posts/288-the-network-is-reliable)
+- [Managing Critical State: Distributed Consensus for Reliability](https://sre.google/sre-book/managing-critical-state/)
 
 ## Kafka
 
@@ -1215,6 +1217,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [A brief description of the architecture of Gunicorn](https://docs.gunicorn.org/en/stable/design.html)
 - [DESIGN PATTERNS](https://refactoring.guru/design-patterns)
 - [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
+- [The History of Pets vs Cattle and How to Use the Analogy Properly](https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/)
 
 ## Fun
 
@@ -1241,7 +1244,6 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 
 ### Random
 
-- [Understanding Message Brokers](http://www.oreilly.com/programming/free/files/understanding-message-brokers.pdf)
 - [A handbook for making programming languages](http://www.craftinginterpreters.com/contents.html)
 - [Ask HN: What language-agnostic programming books should I read ?](https://news.ycombinator.com/item?id=14486657)
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
