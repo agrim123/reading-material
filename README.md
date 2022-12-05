@@ -319,6 +319,8 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [nginx](http://www.aosabook.org/en/nginx.html)
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
+- [Inside NGINX: How We Designed for Performance & Scale](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
+- [Tuning NGINX for Performance](https://www.nginx.com/blog/tuning-nginx/)
 
 ### Web Caching
 
@@ -544,6 +546,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) :zap:
 - [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
 - [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/) :sparkles:
+- [A Visual Guide to SSH Tunnels](https://iximiuz.com/en/posts/ssh-tunnels/)
 
 ### Linux Security
 
