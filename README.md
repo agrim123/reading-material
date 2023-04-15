@@ -194,6 +194,8 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 - [runtime: Large maps cause significant GC pauses](https://github.com/golang/go/issues/9477)
 - [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/)
+- [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide)
+
 
 #### Compiler
 
@@ -247,6 +249,9 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
 - [Send data from file without loading into memory](https://stackoverflow.com/questions/42261421/send-os-stdin-via-http-post-without-loading-file-into-memory)
 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
+- [Optimizing Large File Transfers in Linux with Go - An Exploration of TCP and Syscall](https://dev.to/douglasmakey/optimizing-large-file-transfers-in-linux-with-go-an-exploration-of-tcp-and-syscall-15eo)
+- [Pardon the Interruption: Loop Preemption in Go 1.14](https://www.youtube.com/watch?v=1I1WmeSjRSw)
+- [Mastering WebSockets With Go](https://programmingpercy.tech/blog/mastering-websockets-with-go/)
 
 ## Containers
 
@@ -541,6 +546,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Pushing the Limits of Kernel Networking](https://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
 - [eBPF](https://filipnikolovski.com/posts/ebpf/) :construction:
 - [Process resource limits under the hood](https://ops.tips/blog/proc-pid-limits-under-the-hood/)
+- [Queueing in the Linux Network Stack](https://www.coverfire.com/articles/queueing-in-the-linux-network-stack/)
 
 ### SSH
 
@@ -741,6 +747,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Read Consistency with Database Replicas](https://shopify.engineering/read-consistency-database-replicas)
 - [Zero downtime Postgres migration, done right](https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/)
 - [Inconsistent thoughts on database consistency](https://www.alexdebrie.com/posts/database-consistency/)
+- [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 
 ### Sharding
 
@@ -859,6 +866,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/) :book:
 - [Disaster Recovery for Multi-Region Kafka at Uber](https://eng.uber.com/kafka/)
 - [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
+- [KIP-500: Replace ZooKeeper with a Self-Managed Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum)
 
 ## Spark
 
@@ -1150,6 +1158,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - https://rhinosecuritylabs.com/blog/?category=aws
 - https://how.complexsystems.fail/
 - https://ops.tips
+- https://blog.cleancoder.com/
 
 ## More
 
@@ -1223,6 +1232,9 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [DESIGN PATTERNS](https://refactoring.guru/design-patterns)
 - [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
 - [The History of Pets vs Cattle and How to Use the Analogy Properly](https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/)
+- [Scalable WebSocket Architecture](https://blog.hathora.dev/scalable-websocket-architecture/)
+- [Unified Streaming And Batch Pipelines At LinkedIn](https://engineering.linkedin.com/blog/2023/unified-streaming-and-batch-pipelines-at-linkedin--reducing-proc)
+- [Millions of active WebSockets with Node.js](https://unetworkingab.medium.com/millions-of-active-websockets-with-node-js-7dc575746a01)
 
 ## Fun
 
