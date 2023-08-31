@@ -252,6 +252,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Optimizing Large File Transfers in Linux with Go - An Exploration of TCP and Syscall](https://dev.to/douglasmakey/optimizing-large-file-transfers-in-linux-with-go-an-exploration-of-tcp-and-syscall-15eo)
 - [Pardon the Interruption: Loop Preemption in Go 1.14](https://www.youtube.com/watch?v=1I1WmeSjRSw)
 - [Mastering WebSockets With Go](https://programmingpercy.tech/blog/mastering-websockets-with-go/)
+- [proposal: arena: new package providing memory arenas](https://github.com/golang/go/issues/51317)
 
 ## Containers
 
@@ -502,6 +503,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
 - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) :sparkles: :zap:
 - [Some of git internals](https://yurichev.com/news/20201220_git/)
+- [Git’s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
 
 ## Linux
 
@@ -748,6 +750,9 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Zero downtime Postgres migration, done right](https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/)
 - [Inconsistent thoughts on database consistency](https://www.alexdebrie.com/posts/database-consistency/)
 - [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
+- [UUIDs are Popular, but Bad for Performance](https://www.percona.com/blog/uuids-are-popular-but-bad-for-performance-lets-discuss/)
+- [Mysql 8.0: UUID support](https://dev.mysql.com/blog-archive/mysql-8-0-uuid-support/)
+- [PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
 
 ### Sharding
 
@@ -849,6 +854,8 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [The network is reliable](https://aphyr.com/posts/288-the-network-is-reliable)
 - [Managing Critical State: Distributed Consensus for Reliability](https://sre.google/sre-book/managing-critical-state/)
+- [Is Raft more modular than MultiPaxos?](https://maheshba.bitbucket.io/blog/2021/12/14/Modularity.html)
+- [Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?](https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127)
 
 ## Kafka
 
@@ -867,6 +874,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Disaster Recovery for Multi-Region Kafka at Uber](https://eng.uber.com/kafka/)
 - [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
 - [KIP-500: Replace ZooKeeper with a Self-Managed Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum)
+- [Understanding Kafka with Factorio](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
 
 ## Spark
 
@@ -1235,6 +1243,11 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Scalable WebSocket Architecture](https://blog.hathora.dev/scalable-websocket-architecture/)
 - [Unified Streaming And Batch Pipelines At LinkedIn](https://engineering.linkedin.com/blog/2023/unified-streaming-and-batch-pipelines-at-linkedin--reducing-proc)
 - [Millions of active WebSockets with Node.js](https://unetworkingab.medium.com/millions-of-active-websockets-with-node-js-7dc575746a01)
+- [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
+- [Gossip Protocol Explained](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
+- [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
+- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [CQRS](https://martinfowler.com/bliki/CQRS.html)
 
 ## Fun
 
