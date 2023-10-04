@@ -316,6 +316,16 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
 - [When Bloom filters don't bloom](https://blog.cloudflare.com/when-bloom-filters-dont-bloom/)
 
+#### HyperLogLog
+
+- [Redis new data structure: the HyperLogLog](http://antirez.com/news/75)
+- [Big Data Counting: How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
+- [HyperLogLog in Presto: A significantly faster way to handle cardinality estimation](https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/)
+
+#### Count Sketch
+
+- [Count Sketch](https://stackoverflow.com/a/35356116)
+
 ## Internet
 
 > [Latency Numbers](https://gist.github.com/jboner/2841832)
@@ -503,7 +513,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
 - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) :sparkles: :zap:
 - [Some of git internals](https://yurichev.com/news/20201220_git/)
-- [Git’s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
+- [Git's database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
 
 ## Linux
 
@@ -753,12 +763,18 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [UUIDs are Popular, but Bad for Performance](https://www.percona.com/blog/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 - [Mysql 8.0: UUID support](https://dev.mysql.com/blog-archive/mysql-8-0-uuid-support/)
 - [PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
+- [Practical Problems with Auto-Increment](https://samwho.dev/blog/practical-problems-with-auto-increment/)
 
 ### Sharding
 
 - [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 - [An Unorthodox Approach To Database Design : The Coming Of The Shard](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html) :sparkles:
 - [Spanner's High Availability Writes](https://rakyll.org/spanner-ha-writes/)
+
+### ClickHouse
+
+- [Logging at Zerodha](https://zerodha.tech/blog/logging-at-zerodha/)
+- [HTTP Analytics for 6M requests per second using ClickHouse](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/)
 
 <details>
 <summary>Papers</summary>
@@ -875,6 +891,8 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
 - [KIP-500: Replace ZooKeeper with a Self-Managed Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum)
 - [Understanding Kafka with Factorio](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) :sparkles: :zap:
+- [Squeezing the firehose: getting the most from Kafka compression](https://blog.cloudflare.com/squeezing-the-firehose/)
 
 ## Spark
 
@@ -929,6 +947,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
+- [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 
 ### Systems
 
@@ -1215,7 +1234,6 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 - [lzop vs compress vs gzip vs bzip2 vs lzma vs lzma2/xz benchmark, reloaded](https://stephane.lesimple.fr/blog/lzop-vs-compress-vs-gzip-vs-bzip2-vs-lzma-vs-lzma2xz-benchmark-reloaded/)
 - [Andrei Pangin - Everything you wanted to know about Stack Traces and Heap Dumps](https://www.youtube.com/watch?v=FTsAXJdrJbI&t=1s) :tv:
-- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) :sparkles: :zap:
 - [The Life of a Data Byte](https://queue.acm.org/detail.cfm?id=3419941) :sparkles: :zap: :construction:
 - [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c) :tv:
 - [The 13 immutable reads on choosing what to work on](https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/)
@@ -1248,6 +1266,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [CQRS](https://martinfowler.com/bliki/CQRS.html)
+- [Memory Allocation](https://samwho.dev/memory-allocation/)
 
 ## Fun
 
