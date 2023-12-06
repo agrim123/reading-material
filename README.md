@@ -253,6 +253,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Pardon the Interruption: Loop Preemption in Go 1.14](https://www.youtube.com/watch?v=1I1WmeSjRSw)
 - [Mastering WebSockets With Go](https://programmingpercy.tech/blog/mastering-websockets-with-go/)
 - [proposal: arena: new package providing memory arenas](https://github.com/golang/go/issues/51317)
+- https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/
 
 ## Containers
 
@@ -764,6 +765,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Mysql 8.0: UUID support](https://dev.mysql.com/blog-archive/mysql-8-0-uuid-support/)
 - [PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
 - [Practical Problems with Auto-Increment](https://samwho.dev/blog/practical-problems-with-auto-increment/)
+- [How to Manage Connections Efficiently in Postgres, or Any Database](https://brandur.org/postgres-connections?ref=timescale.com)
 
 ### Sharding
 
@@ -893,6 +895,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Understanding Kafka with Factorio](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) :sparkles: :zap:
 - [Squeezing the firehose: getting the most from Kafka compression](https://blog.cloudflare.com/squeezing-the-firehose/)
+- [Kora - Serverless Kafka](https://jack-vanlightly.com/analyses/2023/11/14/kora-serverless-kafka-asds-chapter-2)
 
 ## Spark
 
@@ -948,6 +951,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
+- https://systemdesign.one/
 
 ### Systems
 
@@ -1270,6 +1274,8 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Memory Allocation](https://samwho.dev/memory-allocation/)
 - [Six Ways to Crash Elasticsearch](https://www.elastic.co/blog/found-crash-elasticsearch)
 - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+- https://thoughts.theden.sh/posts/dns-txt-record-fun/
+- https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for
 
 ## Fun
 
