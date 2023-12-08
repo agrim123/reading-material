@@ -196,6 +196,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/)
 - [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide)
 - [An attempt at visualizing the Go GC](https://www.aadhav.me/posts/visualizing-the-go-gc/)
+- [Avoiding high GC overhead with large heaps](https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/)
 
 #### Compiler
 
@@ -766,6 +767,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
 - [Practical Problems with Auto-Increment](https://samwho.dev/blog/practical-problems-with-auto-increment/)
 - [How to Manage Connections Efficiently in Postgres, or Any Database](https://brandur.org/postgres-connections?ref=timescale.com)
+- [Optimizing Database Design: PostgreSQL Data Type Selection Best Practices and More](https://www.javacodegeeks.com/2023/11/optimizing-database-design-postgresql-data-type-selection-best-practices-and-more.html)
 
 ### Sharding
 
@@ -896,6 +898,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) :sparkles: :zap:
 - [Squeezing the firehose: getting the most from Kafka compression](https://blog.cloudflare.com/squeezing-the-firehose/)
 - [Kora - Serverless Kafka](https://jack-vanlightly.com/analyses/2023/11/14/kora-serverless-kafka-asds-chapter-2)
+- https://twitter.com/BdKozlovski/status/1729526750898487758
 
 ## Spark
 
@@ -1276,6 +1279,9 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 - https://thoughts.theden.sh/posts/dns-txt-record-fun/
 - https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for
+- https://twitchard.github.io/posts/2019-06-21-life-is-too-short-for-jenkins.html
+- https://danluu.com/malloc-tutorial/
+- https://beej.us/guide/bgipc/html/#intro
 
 ## Fun
 
