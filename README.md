@@ -885,6 +885,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
 - [Gossip Protocol - Broadcast Algorithm Distributed Systems](https://systemdesign.one/gossip-protocol/)
 - [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained)
+- [The Design Patterns for Distributed Systems Handbook](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems) :zap:
 
 ## Kafka
 
