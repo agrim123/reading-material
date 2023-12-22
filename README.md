@@ -180,6 +180,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
 - [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 - [Detecting Race Conditions With Go](https://www.ardanlabs.com/blog/2013/09/detecting-race-conditions-with-go.html)
+- https://vitalcs.substack.com/p/goroutines-under-the-hood
 
 #### Scheduler
 
@@ -431,6 +432,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [How Do Websockets Work?](https://sookocheff.com/post/networking/how-do-websockets-work/)
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [Building realtime apps with Go and WebSockets: client-side considerations](https://www.ably.io/topic/websockets-golang)
+- [Websockets 101](https://lucumr.pocoo.org/2012/9/24/websockets-101/)
 
 #### WebRTC
 
@@ -443,6 +445,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [What Is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
 - [Understanding Nginx HTTP Proxying, Load Balancing, Buffering, and Caching](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
 - [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
+- [Load Balancing TLS Connections: Tradeoffs](https://er4hn.info/blog/2023.02.18-tls-load-balancer/)
 
 ### NAT
 
@@ -743,6 +746,8 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Learning systems programming with Rust](https://jvns.ca/blog/2016/09/11/rustconf-keynote/)
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 - [Fearless Concurrency with Rust](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
+- [RustGo: Calling rust from go with near-zero overhead](https://words.filippo.io/rustgo/)
+- [Writing an OS in Rust](https://os.phil-opp.com/)
 
 ## Database
 
@@ -768,6 +773,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Practical Problems with Auto-Increment](https://samwho.dev/blog/practical-problems-with-auto-increment/)
 - [How to Manage Connections Efficiently in Postgres, or Any Database](https://brandur.org/postgres-connections?ref=timescale.com)
 - [Optimizing Database Design: PostgreSQL Data Type Selection Best Practices and More](https://www.javacodegeeks.com/2023/11/optimizing-database-design-postgresql-data-type-selection-best-practices-and-more.html)
+- [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 
 ### Sharding
 
@@ -876,6 +882,9 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Managing Critical State: Distributed Consensus for Reliability](https://sre.google/sre-book/managing-critical-state/)
 - [Is Raft more modular than MultiPaxos?](https://maheshba.bitbucket.io/blog/2021/12/14/Modularity.html)
 - [Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?](https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127)
+- [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
+- [Gossip Protocol - Broadcast Algorithm Distributed Systems](https://systemdesign.one/gossip-protocol/)
+- [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained)
 
 ## Kafka
 
@@ -955,6 +964,9 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 - https://systemdesign.one/
+- [Real Time Presence Platform System Design](https://systemdesign.one/real-time-presence-platform-system-design/)
+- [Live Comment System Design](https://systemdesign.one/live-comment-system-design/)
+- [Distributed Counter System Design](https://systemdesign.one/distributed-counter-system-design/)
 
 ### Systems
 
@@ -1282,6 +1294,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - https://twitchard.github.io/posts/2019-06-21-life-is-too-short-for-jenkins.html
 - https://danluu.com/malloc-tutorial/
 - https://beej.us/guide/bgipc/html/#intro
+- [Upsert in SQL](https://antonz.org/sql-upsert)
 
 ## Fun
 
