@@ -784,6 +784,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [UUIDs are Popular, but Bad for Performance](https://www.percona.com/blog/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 - [Mysql 8.0: UUID support](https://dev.mysql.com/blog-archive/mysql-8-0-uuid-support/)
 - [Practical Problems with Auto-Increment](https://samwho.dev/blog/practical-problems-with-auto-increment/)
+- [Why UUID7 is better than UUID4 as clustered index in RDBMS](https://medium.com/@rtawadrous/why-uuid7-is-better-than-uuid4-as-clustered-index-edb02bf70056)
 
 ### Sharding
 
