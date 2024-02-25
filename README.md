@@ -1307,6 +1307,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - https://danluu.com/malloc-tutorial/
 - https://beej.us/guide/bgipc/html/#intro
 - [Upsert in SQL](https://antonz.org/sql-upsert)
+- [Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks!](https://blog.cloudflare.com/branch-predictor)
 
 ## Fun
 
