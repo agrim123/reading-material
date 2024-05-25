@@ -767,6 +767,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [How to Manage Connections Efficiently in Postgres, or Any Database](https://brandur.org/postgres-connections?ref=timescale.com)
 - [Optimizing Database Design: PostgreSQL Data Type Selection Best Practices and More](https://www.javacodegeeks.com/2023/11/optimizing-database-design-postgresql-data-type-selection-best-practices-and-more.html)
 - [Zero downtime Postgres migration, done right](https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/)
+- [An Overview of Distributed PostgreSQL Architectures](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures)
 
 ### MySQL
 
@@ -1308,6 +1309,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - https://beej.us/guide/bgipc/html/#intro
 - [Upsert in SQL](https://antonz.org/sql-upsert)
 - [Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks!](https://blog.cloudflare.com/branch-predictor)
+- [All you need to know about the Google File System](https://vutr.substack.com/p/i-spent-8-hours-reading-the-paper)
 
 ## Fun
 
