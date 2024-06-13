@@ -283,6 +283,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Best practices for building containers](https://cloud.google.com/solutions/best-practices-for-building-containers)
 - [Reverse Engineering a Docker Image](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
 - [docker pause](https://docs.docker.com/engine/reference/commandline/pause/)
+- [What Is a Dockerfile And How To Build It – Best Practices](https://spacelift.io/blog/dockerfile)
 
 ### Kubernetes :construction:
 
