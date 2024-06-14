@@ -768,6 +768,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Optimizing Database Design: PostgreSQL Data Type Selection Best Practices and More](https://www.javacodegeeks.com/2023/11/optimizing-database-design-postgresql-data-type-selection-best-practices-and-more.html)
 - [Zero downtime Postgres migration, done right](https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/)
 - [An Overview of Distributed PostgreSQL Architectures](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures)
+- [Geographically distributed Postgres for multi-tenant applications](https://xata.io/blog/geo-distributed-postgres)
 
 ### MySQL
 
@@ -1028,6 +1029,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [AWS IAM Policies in a Nutshell](https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/)
 - [What You Need to Know About IOPS](https://cloudcasts.io/article/what-you-need-to-know-about-iops)
 - [Why was a query to my Amazon RDS MySQL DB instance blocked when there is no other active session?](https://aws.amazon.com/premiumsupport/knowledge-center/blocked-mysql-query/)
+- [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
 
 ### Netflix
 
