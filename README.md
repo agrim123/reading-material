@@ -19,7 +19,6 @@ A collection of resources that I found interesting and useful across various dom
         - [Compiler](#compiler)
         - [Memory](#memory)
     - [Networking with Go](#networking-with-go)
-    - [Papers](#go-papers)
 - [Containers](#containers)
     - [Docker](#docker)
     - [Kubernetes](#kubernetes-construction)
@@ -54,11 +53,6 @@ A collection of resources that I found interesting and useful across various dom
 - [Rails](#rails)
 - [Haskell](#haskell)
 - [Javascript](#js)
-    - [Pilot Run](#pilot-run)
-    - [Advanced Concepts](#advanced-concepts)
-    - [React, Redux](#react-redux)
-    - [v8](#v8)
-    - [Books](#js-books)
 - [Rust](#rust)
 - [Database](#database)
     - [PostgreSQL](#postgresql)
@@ -140,12 +134,12 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 
 > Concurrency is not Parallelism
 
-- [Go Concurrency from the Ground Up](http://www.doxsey.net/blog/go-concurrency-from-the-ground-up)
-- [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/) :sparkles:
+- [Go Concurrency from the Ground Up](https://www.doxsey.net/blog/go-concurrency-from-the-ground-up)
+- [How Goroutines Work](https://blog.nindalf.com/posts/how-goroutines-work/) :sparkles:
 - [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) :sparkles: :zap:
 - [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 - [Channels in Go](https://go101.org/article/channel.html)
-- [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide#33)
+- [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide)
 - [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html?hn=1)
 - [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/)
 - [How to Gracefully Close Channels](https://go101.org/article/channel-closing.html) :sparkles:
@@ -259,7 +253,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Pardon the Interruption: Loop Preemption in Go 1.14](https://www.youtube.com/watch?v=1I1WmeSjRSw)
 - [Mastering WebSockets With Go](https://programmingpercy.tech/blog/mastering-websockets-with-go/)
 - [proposal: arena: new package providing memory arenas](https://github.com/golang/go/issues/51317)
-- https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/
+- [A Tale of Two `rand`s](https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/)
 
 ## Containers
 
@@ -526,10 +520,10 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 
 ## Linux
 
-- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [chmod Tutorial](http://catcode.com/teachmod/)
+- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html) 🚧
+- [chmod Tutorial](http://catcode.com/teachmod/) 🚧
 - [Orphan vs Zombie vs Daemon Processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
-- [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/)
+- [inetd Vs xinetd in linux](http://unixadminschool.com/blog/2011/07/inetd-vs-xinetd-in-linux/) 🚧
 - [rm -rf remains](https://lambdaops.com/rm-rf-remains/) :sparkles:
 - [What happens when you start a process on Linux?](https://jvns.ca/blog/2016/10/04/exec-will-eat-your-brain/)
 - [How does the system shutdown of a linux kernel work internally?](https://unix.stackexchange.com/a/122667/)
@@ -672,6 +666,10 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 
 ## JS
 
+<details>
+<summary>JS</summary>
+<p>
+
 ### Pilot Run
 
 - [Objects in javascript](https://stackoverflow.com/questions/3691125/objects-in-javascript/3691209#3691209)
@@ -739,6 +737,9 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 - [The JavaScript Way](https://github.com/bpesquet/thejsway)
+
+</p>
+</details>
 
 ## Rust
 
