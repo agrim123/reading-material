@@ -4,14 +4,14 @@
 
 ### Go Pilot run
 
-- [x] [Tour of Go](https://tour.golang.org/)
-- [ ] [Go by example](https://gobyexample.com/)
-- [ ] [Effective Go](https://golang.org/doc/effective_go.html)
-- [ ] [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
-- [ ] [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
-- [ ] [The zero value](https://golang.org/ref/spec#The_zero_value)
-- [ ] [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) :sparkles:
-- [ ] [Know Your Nil](http://jeremymikkola.com/posts/2017_03_29_know_your_nil.html)
+- [Tour of Go](https://tour.golang.org/)
+- [Go by example](https://gobyexample.com/)
+- [Effective Go](https://golang.org/doc/effective_go.html)
+- [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
+- [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
+- [The zero value](https://golang.org/ref/spec#The_zero_value)
+- [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) :sparkles:
+- [Know Your Nil](http://jeremymikkola.com/posts/2017_03_29_know_your_nil.html)
 
 ### Concepts
 
@@ -141,3 +141,4 @@
 - [Mastering WebSockets With Go](https://programmingpercy.tech/blog/mastering-websockets-with-go/)
 - [proposal: arena: new package providing memory arenas](https://github.com/golang/go/issues/51317)
 - [A Tale of Two `rand`s](https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/)
+- [See Python, See Python Go, Go Python Go](https://blog.heroku.com/see_python_see_python_go_go_python_go)

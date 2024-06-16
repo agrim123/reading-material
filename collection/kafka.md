@@ -1,0 +1,22 @@
+## Kafka
+
+- ["Apache Kafka and the Next 700 Stream Processing Systems" by Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro) :tv:
+- [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
+- [Kafka and Zookeeper with Docker](https://medium.com/rahasak/kafka-and-zookeeper-with-docker-65cff2c2c34f)
+- [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol#AGuideToTheKafkaProtocol-Introduction)
+- [The Unofficial Kafka Rebalance How-To](https://tomlee.co/2019/03/the-unofficial-kafka-rebalance-how-to/)
+- [High Performance Kafka Producers](https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html)
+- [\_\_consumer_offsets topic in kafka](https://kafka.apache.org/0110/documentation.html#impl_offsettracking)
+- [Vertically scaling Kafka consumers](https://www.jesseyates.com/2019/12/04/vertically-scaling-kafka-consumers.html)
+- [Apache Kafka Rebalance Protocol, or the magic behind your streams applications](https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2)
+- [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster/)
+- [It’s Okay To Store Data In Apache Kafka](https://www.confluent.io/blog/okay-store-data-apache-kafka/)
+- [Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/) :book:
+- [Disaster Recovery for Multi-Region Kafka at Uber](https://eng.uber.com/kafka/)
+- [A Practical Introduction to Kafka Storage Internals](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
+- [KIP-500: Replace ZooKeeper with a Self-Managed Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum)
+- [Understanding Kafka with Factorio](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) :sparkles: :zap:
+- [Squeezing the firehose: getting the most from Kafka compression](https://blog.cloudflare.com/squeezing-the-firehose/)
+- [Kora - Serverless Kafka](https://jack-vanlightly.com/analyses/2023/11/14/kora-serverless-kafka-asds-chapter-2)
+- https://twitter.com/BdKozlovski/status/1729526750898487758
