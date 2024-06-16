@@ -8,45 +8,45 @@ A collection of resources that I found interesting and useful across various dom
 
 ## Contents
 
-- [Go](#go)
-    - [Pilot Run](#go-pilot-run)
-    - [Concepts](#concepts)
-        - [Concurrency](#concurrency)
-        - [Profiling](#profiling-mag)
-    - [Go Internals](#go-internals)
-        - [Scheduler](#scheduler)
-        - [Garbage Collector](#garbage-collector)
-        - [Compiler](#compiler)
-        - [Memory](#memory)
-    - [Networking with Go](#networking-with-go)
+- [Go](/collection/go.md#go)
+  - [Pilot Run](/collection/go.md#go-pilot-run)
+  - [Concepts](#concepts)
+    - [Concurrency](#concurrency)
+    - [Profiling](#profiling-mag)
+  - [Go Internals](#go-internals)
+    - [Scheduler](#scheduler)
+    - [Garbage Collector](#garbage-collector)
+    - [Compiler](#compiler)
+    - [Memory](#memory)
+  - [Networking with Go](#networking-with-go)
 - [Containers](#containers)
-    - [Docker](#docker)
-    - [Kubernetes](#kubernetes-construction)
+  - [Docker](#docker)
+  - [Kubernetes](#kubernetes-construction)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
-    - [Algorithms](#algorithms)
-    - [Data Structures](#data-structures)
-        - [Advanced Data Structures](#advanced-data-structures)
-            - [Bloom filter](#bloom-filter)
+  - [Algorithms](#algorithms)
+  - [Data Structures](#data-structures)
+    - [Advanced Data Structures](#advanced-data-structures)
+      - [Bloom filter](#bloom-filter)
 - [Internet](#internet)
-    - [Webservers](#webservers)
-    - [Protocols](#protocols)
-        - [HTTP(S)](#https)
-            - [HTTP/2](#http2)
-            - [HTTP/3](#http3)
-        - [TCP/UDP](#tcpudp)
-        - [DNS](#dns)
-        - [BGP](#bgp)
-        - [Websockets](#websockets)
-        - [WebRTC](#webrtc)
-    - [Load Balancing](#load-balancing)
-    - [Books](#networking-books-books)
+  - [Webservers](#webservers)
+  - [Protocols](#protocols)
+    - [HTTP(S)](#https)
+      - [HTTP/2](#http2)
+      - [HTTP/3](#http3)
+    - [TCP/UDP](#tcpudp)
+    - [DNS](#dns)
+    - [BGP](#bgp)
+    - [Websockets](#websockets)
+    - [WebRTC](#webrtc)
+  - [Load Balancing](#load-balancing)
+  - [Books](#networking-books-books)
 - [Git](#git)
 - [Linux](#linux)
-    - [Linux](#linux)
-    - [SSH](#ssh)
-    - [Linux Security](#linuxsecurity)
-    - [Bash](#bash)
-    - [Books](#linux-books)
+  - [Linux](#linux)
+  - [SSH](#ssh)
+  - [Linux Security](#linuxsecurity)
+  - [Bash](#bash)
+  - [Books](#linux-books)
 - [OS Dev](#os-dev)
 - [C](#c)
 - [Ruby](#ruby)
@@ -55,10 +55,10 @@ A collection of resources that I found interesting and useful across various dom
 - [Javascript](#js)
 - [Rust](#rust)
 - [Database](#database)
-    - [PostgreSQL](#postgresql)
-    - [MySQL](#mysql)
-    - [Sharding](#sharding)
-    - [ClickHouse](#clickhouse)
+  - [PostgreSQL](#postgresql)
+  - [MySQL](#mysql)
+  - [Sharding](#sharding)
+  - [ClickHouse](#clickhouse)
 - [Tor](#tor)
 - [Functional Programming](#functional-programming)
 - [OAuth](#oauth)
@@ -68,29 +68,29 @@ A collection of resources that I found interesting and useful across various dom
 - [Spark](#spark)
 - [Monitoring](#monitoring)
 - [System Design](#system-design)
-    - [Guides](#guides)
-    - [Systems](#systems)
-    - [Scalability](#scalability)
-    - [Event driven Architecture](#event-driven-architecture)
-    - [AWS](#aws)
-    - [Netflix](#netflix)
+  - [Guides](#guides)
+  - [Systems](#systems)
+  - [Scalability](#scalability)
+  - [Event driven Architecture](#event-driven-architecture)
+  - [AWS](#aws)
+  - [Netflix](#netflix)
 - [Privacy](#privacy)
 - [Security](#security)
-    - [Tools](#tools)
-    - [Attacks](#attacks)
-    - [Guides](#guides)
-    - [Games and CTF's](#games-and-ctfs)
-    - [Crypto](#crypto)
-    - [Papers](#security-papers)
+  - [Tools](#tools)
+  - [Attacks](#attacks)
+  - [Guides](#guides)
+  - [Games and CTF's](#games-and-ctfs)
+  - [Crypto](#crypto)
+  - [Papers](#security-papers)
 - [x vs y :hocho:](#x-vs-y-hocho)
 - [Useful Command Line Tools](#useful-command-line-tools)
 - [Blogs](#blogs)
 - [More](#more)
 - [Fun](#fun)
 - [More Books](#more-books)
-    - [Software Development](#software-development)
-    - [Lisp](#lisp)
-    - [Random](#random)
+  - [Software Development](#software-development)
+  - [Lisp](#lisp)
+  - [Random](#random)
 - [Courses](#courses)
 - [Papers](#papers)
 - [Notes](/Notes) [WIP]
@@ -99,161 +99,18 @@ A collection of resources that I found interesting and useful across various dom
 
 You might see some emojis (:sparkles:, :construction: etc) crawling all over this collection.
 
-| emoji  |  meaning |
-| ------------ | ------------ |
-| :sparkles:  | More the number, the more I liked the blog :3 |
-| :zap:  | super duper awesome blog |
-| :construction:  | Pending learning on this :( |
-| :tv:  | It's video! |
-| :books:  | It's a book! |
-| :page_with_curl:  | It's a white paper! |
-| :wrench:  | It's Debugging related |
-| :hocho:  | faceoff |
-| :file_folder: | It's a list |
+| emoji            | meaning                                       |
+| ---------------- | --------------------------------------------- |
+| :sparkles:       | More the number, the more I liked the blog :3 |
+| :zap:            | super duper awesome blog                      |
+| :construction:   | Pending learning on this :(                   |
+| :tv:             | It's video!                                   |
+| :books:          | It's a book!                                  |
+| :page_with_curl: | It's a white paper!                           |
+| :wrench:         | It's Debugging related                        |
+| :hocho:          | faceoff                                       |
+| :file_folder:    | It's a list                                   |
 
-## Go
-
-> [Go FAQ](https://golang.org/doc/faq)
-
-### Go Pilot run
-
-- [Tour of Go](https://tour.golang.org/)
-- [Go by example](https://gobyexample.com/)
-- [Effective Go](https://golang.org/doc/effective_go.html)
-- [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
-- [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
-- [The zero value](https://golang.org/ref/spec#The_zero_value)
-- [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) :sparkles:
-- [Know Your Nil](http://jeremymikkola.com/posts/2017_03_29_know_your_nil.html)
-
-### Concepts
-
-> Do not communicate by sharing memory; instead, share memory by communicating.
-
-#### Concurrency
-
-> Concurrency is not Parallelism
-
-- [Go Concurrency from the Ground Up](https://www.doxsey.net/blog/go-concurrency-from-the-ground-up)
-- [How Goroutines Work](https://blog.nindalf.com/posts/how-goroutines-work/) :sparkles:
-- [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide) :sparkles: :zap:
-- [Concurrency in golang and a mini Load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
-- [Channels in Go](https://go101.org/article/channel.html)
-- [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide)
-- [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html?hn=1)
-- [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/)
-- [How to Gracefully Close Channels](https://go101.org/article/channel-closing.html) :sparkles:
-- [Go channels on steroids](https://docs.google.com/document/d/1yIAYmbvL3JxOKOjuCyon7JhW4cSv1wy5hC0ApeGMV9s/pub)
-- [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
-- [Go’s Extended Concurrency: Semaphores (Part 1)](https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce)
-- [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms) :sparkles:
-- [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
-- [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
-- [Why is a Goroutine’s stack infinite ?](https://dave.cheney.net/2013/06/02/why-is-a-goroutines-stack-infinite)
-- [Advanced Go Concurrency Patterns](https://talks.golang.org/2013/advconc.slide#1)
-- [sync.RWMutex](https://medium.com/golangspec/sync-rwmutex-ca6c6c3208a0)
-
-#### Profiling :mag:
-
-> [Go Diagnostics](https://golang.org/doc/diagnostics.html) :wrench:
-
-- [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
-- [Profiling and optimizing Go web applications](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/)
-- [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
-- [pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
-- [go tool trace](https://making.pusher.com/go-tool-trace/)
-- [Various go profiling methods](https://github.com/DataDog/go-profiler-notes/)
-- [pprof++: A Go Profiler with Hardware Performance Monitoring](https://eng.uber.com/pprof-go-profiler/)
-
-### Go Internals
-
-> [Everything about Go: internals, concurrency, compiler, or packages available in the Go community.](https://medium.com/a-journey-with-go)
-
-- [Go Internals](https://github.com/teh-cmc/go-internals)
-- [How does the go build command work?](https://dave.cheney.net/2013/10/15/how-does-the-go-build-command-work)
-- [Introducing the Go Race Detector](https://blog.golang.org/race-detector)
-- String interning in Go
-    - [String interning in Go](https://artem.krylysov.com/blog/2018/12/12/string-interning-in-go/)
-    - [Interning strings in Go](https://commaok.xyz/post/intern-strings/)
-- [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
-- [Go’s hidden #pragmas](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
-- [Detecting Race Conditions With Go](https://www.ardanlabs.com/blog/2013/09/detecting-race-conditions-with-go.html)
-- https://vitalcs.substack.com/p/goroutines-under-the-hood
-
-#### Scheduler
-
-- [The Go scheduler](https://morsmachine.dk/go-scheduler) :sparkles:
-- [Scheduler Tracing In Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
-- [Analysis of the Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf) :page_with_curl:
-- [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
-
-#### Garbage Collector
-
-- [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) :sparkles:
-- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
-- [runtime: Large maps cause significant GC pauses](https://github.com/golang/go/issues/9477)
-- [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/)
-- [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide)
-- [An attempt at visualizing the Go GC](https://www.aadhav.me/posts/visualizing-the-go-gc/)
-- [Avoiding high GC overhead with large heaps](https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/)
-
-#### Compiler
-
-- [Go compiler internals](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
-- [Go & Assembly](http://www.doxsey.net/blog/go-and-assembly)
-- [Dissecting Go Binaries](https://www.grant.pizza/dissecting-go-binaries/)
-
-#### Memory
-
-- [The Go Memory Model](https://golang.org/ref/mem) :sparkles:
-- [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/)
-- [Memory Leaking Scenarios](https://go101.org/article/memory-leaking.html)
-- [Memory Order Guarantees in Go](https://go101.org/article/memory-model.html)
-- [GO MEMORY MANAGEMENT](https://povilasv.me/go-memory-management/)
-- [Contiguous stacks in Go](https://agis.io/post/contiguous-stacks-golang/)
-- [Memory Optimizations for Go Systems](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
-- [A few bytes here, a few there, pretty soon you’re talking real memory](https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory) :construction:
-- [Golang escape analysis](http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html) :construction:
-- [Are large slices more expensive than smaller ones?](https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones) :mag:
-- [There is no pass-by-reference in Go](https://dave.cheney.net/2017/04/29/there-is-no-pass-by-reference-in-go)
-- [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
-
-### Networking with Go
-
-- [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
-- [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
-- [TCP/IP Networking in Go](https://appliedgo.net/networking/)
-- [An Implementation and Analysis of a Kernel Network Stack in Go with the CSP Style](https://arxiv.org/abs/1603.05636) :page_with_curl:
-- [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/) :sparkles:
-
-### More
-
-- [Interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
-- [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
-- [Applied Go](https://appliedgo.net/)
-- [Golang Has Generics](http://blog.jonathanoliver.com/golang-has-generics/)
-- [Go-tcha: When nil != nil](https://dev.to/pauljlucas/go-tcha-when-nil--nil-hic)
-- [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
-- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
-- [A whirlwind tour of Go’s runtime environment variables](https://dave.cheney.net/tag/godebug)
-- [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709) :sparkles:
-- [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/) :sparkles:
-- [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
-- [Go, without package scoped variables](https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables)
-- [How to generate a random string of a fixed length in Go?](https://stackoverflow.com/a/31832326)
-- [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)
-- [Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide#1) :zap:
-- [Visually Understanding Worker Pool](https://medium.com/coinmonks/visually-understanding-worker-pool-48a83b7fc1f5)
-- [The Case For A Go Worker Pool](https://brandur.org/go-whttps://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.htmlorker-pool)
-- [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
-- [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
-- [Send data from file without loading into memory](https://stackoverflow.com/questions/42261421/send-os-stdin-via-http-post-without-loading-file-into-memory)
-- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
-- [Optimizing Large File Transfers in Linux with Go - An Exploration of TCP and Syscall](https://dev.to/douglasmakey/optimizing-large-file-transfers-in-linux-with-go-an-exploration-of-tcp-and-syscall-15eo)
-- [Pardon the Interruption: Loop Preemption in Go 1.14](https://www.youtube.com/watch?v=1I1WmeSjRSw)
-- [Mastering WebSockets With Go](https://programmingpercy.tech/blog/mastering-websockets-with-go/)
-- [proposal: arena: new package providing memory arenas](https://github.com/golang/go/issues/51317)
-- [A Tale of Two `rand`s](https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/)
 
 ## Containers
 
@@ -397,8 +254,8 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [How Does TCP Work?](https://sookocheff.com/post/networking/how-does-tcp-work/)
 - [Once Again on TCP vs UDP](https://accu.org/index.php/journals/2180)
 - [Nagle's algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm)
-    - [40 millisecond bug](https://vorner.github.io/2020/11/06/40-ms-bug.html)
-    - [TCP Performance problems caused by interaction between Nagle’s Algorithm and Delayed ACK](http://www.stuartcheshire.org/papers/NagleDelayedAck/)
+  - [40 millisecond bug](https://vorner.github.io/2020/11/06/40-ms-bug.html)
+  - [TCP Performance problems caused by interaction between Nagle’s Algorithm and Delayed ACK](http://www.stuartcheshire.org/papers/NagleDelayedAck/)
 - [What every developer should know about TCP](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)
 - [What I learned attempting the TCP Reset attack](https://squidarth.com/article/networking/2020/05/03/tcp-resets.html)
 
@@ -497,10 +354,10 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Git Hooks](https://githooks.com/)
 - `git rebase --onto`
-    - https://twitter.com/mluisbrown/status/1291756770445099009
-    - https://git-scm.com/docs/git-rebase
+  - https://twitter.com/mluisbrown/status/1291756770445099009
+  - https://git-scm.com/docs/git-rebase
 - `git push --force-with-lease`
-    - https://git-scm.com/docs/git-push#Documentation/git-push.txt---force-with-leaseltrefnamegtltexpectgt
+  - https://git-scm.com/docs/git-push#Documentation/git-push.txt---force-with-leaseltrefnamegtltexpectgt
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 - http://whatthecommit.com/
 - [Think Like (a) Git](http://think-like-a-git.net)
@@ -711,7 +568,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [JavaScript Event Loop And Call Stack Explained](https://felixgerschau.com/javascript-event-loop-call-stack/) :zap:
 - [Looking into assembly code of coercion](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 - [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
-    - [What makes WebAssembly fast?](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/)
+  - [What makes WebAssembly fast?](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/)
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) :sparkles::sparkles:
 - [Streams—The definitive guide](https://web.dev/streams/)
 
@@ -862,28 +719,28 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/) :sparkles:
-    - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) :page_with_curl: :construction:
+  - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) :page_with_curl: :construction:
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 - [Rack Model](https://arxiv.org/abs/1302.5657) :page_with_curl:
 - [If you need a global lock in your distributed system, then you're already in trouble](https://news.ycombinator.com/item?id=11066258) :sparkles:
-    - Parent Thread: [Is Redlock Safe? Reply to Redlock Analysis](https://news.ycombinator.com/item?id=11065933)
+  - Parent Thread: [Is Redlock Safe? Reply to Redlock Analysis](https://news.ycombinator.com/item?id=11065933)
 - [Towards Robust Distributed Systems](https://people.eecs.berkeley.edu/~brewer/cs262b-2004/PODC-keynote.pdf)
 - [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
-    - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
-    - [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
-    - [FLP and CAP aren't the same thing](https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/)
-    - https://news.ycombinator.com/item?id=1768312 :zap:
-        - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/) :zap:
-    - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
-    - [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+  - [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) :sparkles:
+  - [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
+  - [FLP and CAP aren't the same thing](https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/)
+  - https://news.ycombinator.com/item?id=1768312 :zap:
+    - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/) :zap:
+  - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+  - [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles: :file_folder:
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - Consesus Protocols
-    - [Consensus Protocols: Two-Phase Commit](https://www.the-paper-trail.org/post/2008-11-27-consensus-protocols-two-phase-commit/)
-    - [Consensus Protocols: Three-phase Commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/)
-    - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/) :construction:
-    - [Notes on Paxos](https://matklad.github.io/2020/11/01/notes-on-paxos.html)
+  - [Consensus Protocols: Two-Phase Commit](https://www.the-paper-trail.org/post/2008-11-27-consensus-protocols-two-phase-commit/)
+  - [Consensus Protocols: Three-phase Commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/)
+  - [Consensus Protocols: Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/) :construction:
+  - [Notes on Paxos](https://matklad.github.io/2020/11/01/notes-on-paxos.html)
 - [Keeping CALM: When Distributed Consistency Is Easy](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 - [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.6951&rep=rep1&type=pdf) :page_with_curl: :construction:
 - [Thinking about Availability in Large Service Infrastructures](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46181.pdf)
@@ -971,7 +828,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Failing over without falling over](https://stackoverflow.blog/2020/10/23/adrian-cockcroft-aws-failover-chaos-engineering-fault-tolerance-distaster-recovery/) :zap:
 - [Timeouts, retries, and backoff with jitter](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/)
 - [Why are services slow sometimes?](https://dev.to/aws/why-are-services-slow-sometimes-mn3) :zap:
-    - [If at first you don't get an answer...](https://dev.to/aws/if-at-first-you-don-t-get-an-answer-3e85)
+  - [If at first you don't get an answer...](https://dev.to/aws/if-at-first-you-don-t-get-an-answer-3e85)
 - [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/) :zap: :zap:
 - [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
 - [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
@@ -992,10 +849,10 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Dropbox: How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 - [Cloudflare: How Cloudflare’s Architecture Can Scale to Stop the Largest Attacks](https://www.cloudflare.com/media/pdf/cf-wp-dns-attacks.pdf)
 - Making Instagram.com faster
-    - [Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-f350c8fba0d4) - Prefetching data
-    - [Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4) - Pushing data directly to the client rather than waiting for the client to request the data
-    - [Part 3](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) - Cache-first rendering
-    - [Part 4](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8) - Code size and execution optimizations
+  - [Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-f350c8fba0d4) - Prefetching data
+  - [Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4) - Pushing data directly to the client rather than waiting for the client to request the data
+  - [Part 3](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) - Cache-first rendering
+  - [Part 4](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8) - Code size and execution optimizations
 - [Billions of Messages a Day - Yelp's Real-time Data Pipeline](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
 - [The WhatsApp Architecture Facebook Bought For $19 Billion](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
 - [Airbnb: Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
@@ -1057,7 +914,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 ### Attacks
 
 - [SSL Strip](https://github.com/moxie0/sslstrip)
-- [SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
+- [SQL Injection](<https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005)>)
 - [Binary Exploitation](https://github.com/CodeMaxx/Binary-Exploitation)
 - [SQL Attack Constraint Based](https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/)
 - [DNS Reconnaissance – DNSRecon](https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/)
@@ -1069,7 +926,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Cold Boot Attack](https://en.wikipedia.org/wiki/Cold_boot_attack)
 - [Heartbleed Bug](http://heartbleed.com/)
 - [Shellshock](https://en.wikipedia.org/wiki/Shellshock_%28software_bug%29)
-- [Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware))
+- [Mirai Botnet](<https://en.wikipedia.org/wiki/Mirai_(malware)>)
 - [POODLE](https://en.wikipedia.org/wiki/POODLE)
 - [Format string attack](https://www.owasp.org/index.php/Format_string_attack)
 - [Off-by-one error](https://en.wikipedia.org/wiki/Off-by-one_error)
@@ -1091,9 +948,9 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 ### Tools
 
 - [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/documentation/)
-    - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
-    - [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
-    - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
+  - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+  - [GDB Cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
+  - [CppCon 2015: Greg Law "Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI) :tv:
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
 
 ### Guides
@@ -1234,7 +1091,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [A list of everything that could go in the \<head\> of your document](https://github.com/joshbuchea/HEAD)
 - [Design Patterns](https://sourcemaking.com/design_patterns) :sparkles:
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
-- [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) *
+- [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) \*
 - [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
 - [Constructors Considered Mildly Confusing](http://zeekat.nl/articles/constructors-considered-mildly-confusing.html)
 - [Clojure - the perfect language to expand your brain?](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
