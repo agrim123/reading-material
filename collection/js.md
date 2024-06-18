@@ -44,6 +44,9 @@
   - [What makes WebAssembly fast?](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/)
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) :sparkles::sparkles:
 - [Streams—The definitive guide](https://web.dev/streams/)
+- [What is a Functional Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
+- [What is Functional Programming ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+- [What is Pure function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 
 ### React, Redux
 

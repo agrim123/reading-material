@@ -11,3 +11,4 @@
 - [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 - [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html) :sparkles::sparkles:
 - [Malloc tutorial](https://danluu.com/malloc-tutorial/)
+- [Memory Allocation](https://samwho.dev/memory-allocation/)

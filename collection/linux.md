@@ -43,6 +43,8 @@
 - [Process resource limits under the hood](https://ops.tips/blog/proc-pid-limits-under-the-hood/)
 - [Queueing in the Linux Network Stack](https://www.coverfire.com/articles/queueing-in-the-linux-network-stack/)
 - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/#intro)
+- [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+- [The Mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) :tv:
 
 ### SSH
 
