@@ -63,6 +63,7 @@
 - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/)
 - [Now you C me, now you don't: An introduction to the hidden attack surface of interpreted languages](https://securitylab.github.com/research/now-you-c-me)
 - [Simple Bugs With Complex Exploits](https://www.elttam.com/blog/simple-bugs-with-complex-exploits/#content)
+- https://f0.holisticinfosecforwebdevelopers.com/toc.html
 
 ### Games and CTF's
 

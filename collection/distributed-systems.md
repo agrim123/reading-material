@@ -1,7 +1,5 @@
 ## Distributed Systems
 
-> [Distributed Systems for fun and profit](http://book.mixu.net/distsys/) :books:
-
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/) :sparkles:
   - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) :page_with_curl: :construction:
@@ -18,7 +16,6 @@
     - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/) :zap:
   - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
   - [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
-- [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :book: :construction:
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/) :sparkles: :file_folder:
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - Consesus Protocols
@@ -41,5 +38,11 @@
 - [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
 - [Gossip Protocol - Broadcast Algorithm Distributed Systems](https://systemdesign.one/gossip-protocol/)
 - [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained)
+- [Consistent Hashing - explanation and implementation](https://arpitbhayani.me/blogs/consistent-hashing)
 - [The Design Patterns for Distributed Systems Handbook](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems) :zap:
 - [Gossip Protocol Explained](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
+
+### Books
+
+- [Distributed Systems for fun and profit](http://book.mixu.net/distsys/)
+- [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :construction:

@@ -4,12 +4,16 @@
 
 ### Webservers
 
-- [Apache vs Nginx: Practical Considerations](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
+- [Apache vs Nginx: Practical Considerations](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations) :hocho:
 - [The C10K problem](http://www.kegel.com/c10k.html)
-- [nginx](http://www.aosabook.org/en/nginx.html)
 - [How WebSocket server handles multiple incoming connection requests?](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests)
+
+### Nginx
+
+- [nginx](http://www.aosabook.org/en/nginx.html)
 - [Inside NGINX: How We Designed for Performance & Scale](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
 - [Tuning NGINX for Performance](https://www.nginx.com/blog/tuning-nginx/)
+- [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
 
 ### Web Caching
 
@@ -17,6 +21,8 @@
 - [Cache Docs](https://www.mnot.net/cache_docs/)
 
 ### Protocols
+
+- [Network Protocols – Programmer's Compendium](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 
 #### HTTP(S)
 
@@ -33,6 +39,8 @@
 - [How HTTPS Works in Layman's Terms - TLS 1.2 and 1.3](https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html)
 - [HTTP Caching](https://roadmap.sh/guides/http-caching)
 - [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/)
+- [Reverse Proxy, HTTP Keep-Alive Timeout, and sporadic HTTP 502s](https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/)
+- [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
 
 ##### HTTP/2
 
@@ -57,6 +65,7 @@
 - [What is TLS (Transport Layer Security)?](https://www.cloudflare.com/en-gb/learning/ssl/transport-layer-security-tls/)
 - [Even faster connection establishment with QUIC 0-RTT resumption](https://blog.cloudflare.com/even-faster-connection-establishment-with-quic-0-rtt-resumption/)
 - [A Detailed Look at RFC 8446 (a.k.a. TLS 1.3)](https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/)
+- [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 
 #### TCP/UDP
 
@@ -103,6 +112,7 @@
 - [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 - [Building realtime apps with Go and WebSockets: client-side considerations](https://www.ably.io/topic/websockets-golang)
 - [Websockets 101](https://lucumr.pocoo.org/2012/9/24/websockets-101/)
+- [Scalable WebSocket Architecture](https://blog.hathora.dev/scalable-websocket-architecture/)
 
 #### WebRTC
 
@@ -130,14 +140,12 @@
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) :page_with_curl:
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) :sparkles:
 - [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
-- [Setting up your server for IPv6 (nginx)](https://bubblin.io/blog/ipv6-nginx)
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 - [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
 - [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
 - [High Performance Browser Networking](https://hpbn.co/) :books:
 - [HAProxy](http://www.haproxy.org/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
-- [Network Protocols – Programmer's Compendium](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 - [curl HTTP cheat sheet](https://curl.github.io/curl-cheat-sheet/http-sheet.html)
 - [cURL security anti-patterns](https://blog.pan-net.cloud/posts/curl-security-anti-patterns/)
 - [Staying out of TTL hell](http://calpaterson.com/ttl-hell.html)

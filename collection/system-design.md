@@ -75,6 +75,7 @@
 - [Intentionally leaking AWS keys](https://brokenco.de/2021/01/15/leaking-aws-keys.html)
 - [A Solution to HTTP 502 Errors with AWS ALB](https://www.tessian.com/blog/how-to-fix-http-502-errors/)
 - [S3 Express One Zone, Not Quite What I Hoped For](https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for)
+- [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3)
 
 ### Netflix
 
@@ -89,14 +90,43 @@
 
 - [A deep-dive into Cloudflare’s autonomous edge DDoS protection](https://blog.cloudflare.com/deep-dive-cloudflare-autonomous-edge-ddos-protection/)
 
+## Design Patterns
+
+- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [DESIGN PATTERNS](https://refactoring.guru/design-patterns)
+- [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
+- [Semantic Versioning 2.0.0](https://semver.org/)
+- [The Duct Tape Programmer](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/)
+- [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c) :tv:
+- [The Twelve-Factor App](https://12factor.net/)
+- [The Danger of “Simplicity”](https://asthasr.github.io/posts/danger-of-simplicity)
+- [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
+- [Design Patterns](https://sourcemaking.com/design_patterns) :sparkles:
+- [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
+- [Difference b/w Integration and Unit Tests](https://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests/7876055#7876055)
+- [The language of choice](https://codewords.recurse.com/issues/four/the-language-of-choice)
+- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+
 ### More
 
 - [How we migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime?ref=dailydev)
 - [Unreliability At Scale](https://blog.dshr.org/2021/06/unreliability-at-scale.html)
 - [Unified Streaming And Batch Pipelines At LinkedIn](https://engineering.linkedin.com/blog/2023/unified-streaming-and-batch-pipelines-at-linkedin--reducing-proc)
+- [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)
+- [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
+- [The Life of a Data Byte](https://queue.acm.org/detail.cfm?id=3419941) :sparkles: :zap: :construction:
+- [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
+- [High-Throughput, Thread-Safe, LRU Caching](https://tech.ebayinc.com/engineering/high-throughput-thread-safe-lru-caching/)
+- [Sorting 1 million 8-decimal-digit numbers with 1 MB of RAM](https://stackoverflow.com/questions/12748246/sorting-1-million-8-decimal-digit-numbers-with-1-mb-of-ram)
+- [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+
+### Books
+
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 
 ### Papers
 
 - [All you need to know about the Google File System](https://vutr.substack.com/p/i-spent-8-hours-reading-the-paper)
 - [Silent Data Corruptions at Scale](https://arxiv.org/pdf/2102.11245)
 - [Cores that don’t count](https://dl.acm.org/doi/pdf/10.1145/3458336.3465297)
+- [Dynamo: Amazon’s Highly Available Key-value Store ](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
