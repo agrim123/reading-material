@@ -102,3 +102,4 @@
 - [Security, Authentication, and Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf)
 - [A Future-Adaptable Password Scheme](https://www.usenix.org/legacy/events/usenix99/provos/provos.pdf)
 - [Too Much Crypto](https://eprint.iacr.org/2019/1492.pdf)
+- [Mathematical attack on RSA](https://www.nku.edu/~christensen/Mathematical%20attack%20on%20RSA.pdf)

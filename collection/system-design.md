@@ -107,6 +107,12 @@
 - [The language of choice](https://codewords.recurse.com/issues/four/the-language-of-choice)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
+### Caching
+
+- [Constant time implementation of the LFU cache eviction algorithm](https://arpitbhayani.me/blogs/lfu)
+- [2Q-cache algorithm for disk-backed databases](https://arpitbhayani.me/blogs/2q-cache/)
+- [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
+
 ### More
 
 - [How we migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime?ref=dailydev)
@@ -119,6 +125,7 @@
 - [High-Throughput, Thread-Safe, LRU Caching](https://tech.ebayinc.com/engineering/high-throughput-thread-safe-lru-caching/)
 - [Sorting 1 million 8-decimal-digit numbers with 1 MB of RAM](https://stackoverflow.com/questions/12748246/sorting-1-million-8-decimal-digit-numbers-with-1-mb-of-ram)
 - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+- [Riak's Bitcask - A Log-Structured Hash Table for Fast Key/Value Data](https://highscalability.com/riaks-bitcask-a-log-structured-hash-table-for-fast-keyvalue/)
 
 ### Books
 

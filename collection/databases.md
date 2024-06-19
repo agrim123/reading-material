@@ -57,6 +57,10 @@
 
 - [Six Ways to Crash Elasticsearch](https://www.elastic.co/blog/found-crash-elasticsearch)
 
+### More
+
+- [RUM Conjecture](https://arpitbhayani.me/blogs/rum)
+
 ### Papers
 
 - [Spanner: Google’s Globally Distributed Database](http://delivery.acm.org/10.1145/2500000/2491245/a8-corbett.pdf)

@@ -143,7 +143,6 @@
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 - [The Non-complexity of /etc/nsswitch.conf](https://developers.redhat.com/blog/2018/11/26/etc-nsswitch-conf-non-complexity/) :sparkles:
 - [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy)
-- [High Performance Browser Networking](https://hpbn.co/) :books:
 - [HAProxy](http://www.haproxy.org/)
 - [Kerberos: The Network Authentication Protocol](https://web.mit.edu/kerberos/)
 - [curl HTTP cheat sheet](https://curl.github.io/curl-cheat-sheet/http-sheet.html)
@@ -159,3 +158,4 @@
 - [Understanding IP Addressing: Everything You Ever Wanted To Know](http://pages.di.unipi.it/ricci/501302.pdf)
 - [Kurose and Ross - Top Down Networking](http://amzn.in/d/3S7Wd4s)
 - TCP/IP Illustrated
+- [High Performance Browser Networking](https://hpbn.co/)

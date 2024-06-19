@@ -125,7 +125,6 @@
 - [A whirlwind tour of Go’s runtime environment variables](https://dave.cheney.net/tag/godebug)
 - [How we optimized our DNS server using go tools](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709) :sparkles:
 - [Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler](https://eng.uber.com/optimizing-m3/) :sparkles:
-- [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
 - [Go, without package scoped variables](https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables)
 - [How to generate a random string of a fixed length in Go?](https://stackoverflow.com/a/31832326)
 - [Building efficient statsd library in Go](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1)

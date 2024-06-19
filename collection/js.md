@@ -63,7 +63,7 @@
 - [Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
 - [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)
 
-### JS Books
+### Books
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Javascript: The Good Parts](http://www.amazon.in/Javascript-Good-Parts-D-Crockford/dp/0596517742)

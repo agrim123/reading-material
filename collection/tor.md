@@ -7,7 +7,7 @@
 - [How does Tor work?](https://robertheaton.com/2019/04/06/how-does-tor-work/)
 - [How Tor Works](https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/)
 
-### Tor Papers
+### Papers
 
 - [Tor Design](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
 - [Tor Bridge Discovery](http://www.cs.uml.edu/~xinwenfu/paper/Bridge.pdf)

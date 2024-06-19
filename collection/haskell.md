@@ -8,14 +8,9 @@
 - [Some Notes About How I Write Haskell](https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell)
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 
-<details>
-<summary>Books</summary>
-<p>
+### Books
 
 - [Open-source Haskell books](http://hn.premii.com/#/article/14392423)
 - [Learn You a Haskell](http://learnyouahaskell.com)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [Haskell Programming from first principles](http://haskellbook.com/)
-
-</p>
-</details>
