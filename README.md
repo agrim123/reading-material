@@ -193,6 +193,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - https://blog.cleancoder.com/
 - https://www.akamai.com/glossary
 - https://arpitbhayani.me/knowledge-base
+- https://muratbuffalo.blogspot.com/
 
 ## More
 
@@ -214,6 +215,9 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [The Differences Between Interpreter and Compiler Explained](https://thevaluable.dev/difference-between-compiler-interpreter/)
 - [Upsert in SQL](https://antonz.org/sql-upsert)
 - [Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks!](https://blog.cloudflare.com/branch-predictor)
+- [Exploring How Cache Memory Really Works](https://pikuma.com/blog/understanding-computer-cache)
+- [Control and Processing Software](https://itnext.io/control-and-processing-software-9011fee8bc66)
+- [A few notes on AWS Nitro Enclaves: Attack surface](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)
 
 ## Fun
 

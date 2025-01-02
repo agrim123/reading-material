@@ -22,6 +22,7 @@
 - [An Overview of Distributed PostgreSQL Architectures](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures)
 - [Geographically distributed Postgres for multi-tenant applications](https://xata.io/blog/geo-distributed-postgres)
 - [How to Get the Most out of Postgres Memory Settings](https://tembo.io/blog/optimizing-memory-usage)
+- [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 
 ### MySQL
 
@@ -46,7 +47,6 @@
 
 - [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 - [An Unorthodox Approach To Database Design : The Coming Of The Shard](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html) :sparkles:
-- [Spanner's High Availability Writes](https://rakyll.org/spanner-ha-writes/)
 
 ### ClickHouse
 
@@ -60,6 +60,8 @@
 ### More
 
 - [RUM Conjecture](https://arpitbhayani.me/blogs/rum)
+- [Spanner's High Availability Writes](https://rakyll.org/spanner-ha-writes/)
+- [B-trees Require Fewer Comparisons Than Balanced Binary Search Trees](https://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html)
 
 ### Papers
 

@@ -44,6 +44,7 @@
 - [Intelligent DNS based load balancing at Dropbox](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
 - [Redis Explained](https://architecturenotes.co/redis/)
 - [How Discord Stores Trillions Of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Redis Persistence Deep Dive](https://www.memurai.com/blog/redis-persistence-deep-dive)
 
 ### Scalability
 
@@ -113,6 +114,10 @@
 - [2Q-cache algorithm for disk-backed databases](https://arpitbhayani.me/blogs/2q-cache/)
 - [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
 
+### Reliability
+
+- [Under the Hood: Ensuring Site Reliability](https://engineering.squarespace.com/blog/2017/under-the-hood-ensuring-site-reliability)
+
 ### More
 
 - [How we migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime?ref=dailydev)
@@ -126,6 +131,10 @@
 - [Sorting 1 million 8-decimal-digit numbers with 1 MB of RAM](https://stackoverflow.com/questions/12748246/sorting-1-million-8-decimal-digit-numbers-with-1-mb-of-ram)
 - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 - [Riak's Bitcask - A Log-Structured Hash Table for Fast Key/Value Data](https://highscalability.com/riaks-bitcask-a-log-structured-hash-table-for-fast-keyvalue/)
+- [How Google Backs Up the Internet Along With Exabytes of Other Data](https://highscalability.com/how-google-backs-up-the-internet-along-with-exabytes-of-othe/)
+- [Principles Of Chaos Engineering](https://principlesofchaos.org/)
+- [Generic mitigations](https://www.oreilly.com/content/generic-mitigations/)
+- [Scaling Reliability at Twitter: So You Want to Add a 9](https://www.youtube.com/watch?v=hYu13kBenjE)
 
 ### Books
 

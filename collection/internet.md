@@ -81,6 +81,7 @@
   - [TCP Performance problems caused by interaction between Nagle’s Algorithm and Delayed ACK](http://www.stuartcheshire.org/papers/NagleDelayedAck/)
 - [What every developer should know about TCP](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)
 - [What I learned attempting the TCP Reset attack](https://squidarth.com/article/networking/2020/05/03/tcp-resets.html)
+- [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
 
 #### DNS
 
@@ -113,6 +114,7 @@
 - [Building realtime apps with Go and WebSockets: client-side considerations](https://www.ably.io/topic/websockets-golang)
 - [Websockets 101](https://lucumr.pocoo.org/2012/9/24/websockets-101/)
 - [Scalable WebSocket Architecture](https://blog.hathora.dev/scalable-websocket-architecture/)
+- [Testing a WebSocket that could hang open for hours](https://ntietz.com/blog/websocket-hang-hours/)
 
 #### WebRTC
 
