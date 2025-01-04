@@ -1,8 +1,6 @@
 ## Distributed Systems
 
 - [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
-- [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/) :sparkles:
-  - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) :page_with_curl: :construction:
 - [HTTP is obsolete. It's time for the Distributed Web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 - [Rack Model](https://arxiv.org/abs/1302.5657) :page_with_curl:
 - [If you need a global lock in your distributed system, then you're already in trouble](https://news.ycombinator.com/item?id=11066258) :sparkles:
@@ -33,8 +31,6 @@
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [The network is reliable](https://aphyr.com/posts/288-the-network-is-reliable)
 - [Managing Critical State: Distributed Consensus for Reliability](https://sre.google/sre-book/managing-critical-state/)
-- [Is Raft more modular than MultiPaxos?](https://maheshba.bitbucket.io/blog/2021/12/14/Modularity.html)
-- [Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?](https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127)
 - [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
 - [Gossip Protocol - Broadcast Algorithm Distributed Systems](https://systemdesign.one/gossip-protocol/)
 - [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained)
@@ -43,6 +39,14 @@
 - [Gossip Protocol Explained](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [The Network is Reliable](https://queue.acm.org/detail.cfm?id=2655736)
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+
+### Raft
+
+- [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/) :sparkles:
+  - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) :page_with_curl: :construction:
+- [Is Raft more modular than MultiPaxos?](https://maheshba.bitbucket.io/blog/2021/12/14/Modularity.html)
+- [Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?](https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127)
+- [Implementing Raft: Part 0 - Introduction](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
 
 ### Books
 

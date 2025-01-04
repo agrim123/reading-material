@@ -93,6 +93,7 @@
 - [How to securely hash passwords?](https://security.stackexchange.com/a/31846/179997)
 - [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/) :zap:
 - [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
+- [Lecture 13: Diffie-Hellman Key Exchange and the Discrete Log Problem by Christof Paar](https://www.youtube.com/watch?v=aeOzBCbwxUo) :tv:
 
 ### Security Papers
 
