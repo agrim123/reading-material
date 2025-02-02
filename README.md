@@ -218,6 +218,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [Exploring How Cache Memory Really Works](https://pikuma.com/blog/understanding-computer-cache)
 - [Control and Processing Software](https://itnext.io/control-and-processing-software-9011fee8bc66)
 - [A few notes on AWS Nitro Enclaves: Attack surface](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)
+- [Taking a Look at Compression Algorithms](https://cefboud.github.io/posts/compression/)
 
 ## Fun
 
