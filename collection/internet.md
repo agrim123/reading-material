@@ -153,6 +153,7 @@
 - [Stateful vs Stateless Authentication](https://www.openidentityplatform.org/blog/stateless-vs-stateful-authentication)
 - [How to win at CORS](https://jakearchibald.com/2021/cors/)
 - [The perils of the “real” client IP](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
+- [disabling cert checks: we have not learned much](https://daniel.haxx.se/blog/2025/02/11/disabling-cert-checks-we-have-not-learned-much/)
 
 ### Networking Books :books:
 

@@ -23,6 +23,7 @@
 - [Geographically distributed Postgres for multi-tenant applications](https://xata.io/blog/geo-distributed-postgres)
 - [How to Get the Most out of Postgres Memory Settings](https://tembo.io/blog/optimizing-memory-usage)
 - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
+- [How to influence query planning in Postgresql](https://chriskiehl.com/article/query-plan-management)
 
 ### MySQL
 

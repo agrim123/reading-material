@@ -45,6 +45,7 @@
 - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/#intro)
 - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 - [The Mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) :tv:
+- [strace Wow Much Syscall](https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
 
 ### SSH
 
