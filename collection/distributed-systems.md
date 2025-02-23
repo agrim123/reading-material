@@ -39,6 +39,7 @@
 - [Gossip Protocol Explained](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [The Network is Reliable](https://queue.acm.org/detail.cfm?id=2655736)
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [How to disaggregate a log replication protocol](https://jack-vanlightly.com/blog/2025/2/10/how-to-disaggregate-a-log-replication-protocol)
 
 ### Raft
 
