@@ -41,6 +41,7 @@
 - [Mysql 8.0: UUID support](https://dev.mysql.com/blog-archive/mysql-8-0-uuid-support/)
 - [Practical Problems with Auto-Increment](https://samwho.dev/blog/practical-problems-with-auto-increment/)
 - [Why UUID7 is better than UUID4 as clustered index in RDBMS](https://medium.com/@rtawadrous/why-uuid7-is-better-than-uuid4-as-clustered-index-edb02bf70056)
+- [Coding a database proxy for fun](https://www.youtube.com/watch?v=DU7_MQmRDUs) :zap:
 
 ### SQLite
 
