@@ -54,6 +54,7 @@
 
 - [Logging at Zerodha](https://zerodha.tech/blog/logging-at-zerodha/)
 - [HTTP Analytics for 6M requests per second using ClickHouse](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/)
+- [Building a Distributed Cache for S3](https://clickhouse.com/blog/building-a-distributed-cache-for-s3)
 
 ### Elasticsearch
 

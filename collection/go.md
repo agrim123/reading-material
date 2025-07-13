@@ -74,6 +74,7 @@
 - [Scheduler Tracing In Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
 - [Analysis of the Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf) :page_with_curl:
 - [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
+- [Go Scheduler](https://nghiant3223.github.io/2025/04/15/go-scheduler.html)
 
 #### Garbage Collector
 
