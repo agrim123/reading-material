@@ -33,8 +33,10 @@
 - [Managing Critical State: Distributed Consensus for Reliability](https://sre.google/sre-book/managing-critical-state/)
 - [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
 - [Gossip Protocol - Broadcast Algorithm Distributed Systems](https://systemdesign.one/gossip-protocol/)
-- [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained)
-- [Consistent Hashing - explanation and implementation](https://arpitbhayani.me/blogs/consistent-hashing)
+- Consistent hashing
+  - [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained)
+  - [Consistent Hashing - explanation and implementation](https://arpitbhayani.me/blogs/consistent-hashing)
+  - [Consistent hashing](https://eli.thegreenplace.net/2025/consistent-hashing/)
 - [The Design Patterns for Distributed Systems Handbook](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems) :zap:
 - [Gossip Protocol Explained](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [The Network is Reliable](https://queue.acm.org/detail.cfm?id=2655736)
@@ -51,5 +53,11 @@
 
 ### Books
 
-- [Distributed Systems for fun and profit](http://book.mixu.net/distsys/)
+- [Distributed Systems for fun and profit](http://book.mixu.net/distsys/) :zap:
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/) :construction:
+
+### More
+
+- [FOQS: Scaling a distributed priority queue](https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/)
+- [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
+- [There's Just No Getting around It: You're Building a Distributed System](https://queue.acm.org/detail.cfm?id=2482856)

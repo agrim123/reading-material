@@ -144,3 +144,5 @@
 - [proposal: arena: new package providing memory arenas](https://github.com/golang/go/issues/51317)
 - [A Tale of Two `rand`s](https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/)
 - [See Python, See Python Go, Go Python Go](https://blog.heroku.com/see_python_see_python_go_go_python_go)
+- [Go feature: Secret mode](https://antonz.org/accepted/runtime-secret/)
+- [Traceroute Tool from Scratch in Go](https://kmcd.dev/posts/traceroute/)

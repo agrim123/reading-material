@@ -120,7 +120,7 @@
 
 ### More
 
-- [How we migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime?ref=dailydev)
+- [How we migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime)
 - [Unreliability At Scale](https://blog.dshr.org/2021/06/unreliability-at-scale.html)
 - [Unified Streaming And Batch Pipelines At LinkedIn](https://engineering.linkedin.com/blog/2023/unified-streaming-and-batch-pipelines-at-linkedin--reducing-proc)
 - [JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler/)

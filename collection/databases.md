@@ -25,6 +25,10 @@
 - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 - [How to influence query planning in Postgresql](https://chriskiehl.com/article/query-plan-management)
 - [VACUUM Is a Lie (About Your Indexes)](https://boringsql.com/posts/vacuum-is-lie/)
+- Indexes
+    - [Partial Indexes](https://www.postgresql.org/docs/current/indexes-partial.html)
+    - [Index Types](https://www.postgresql.org/docs/current/indexes-types.html)
+- [Beyond the Basics of Logical Replication](https://boringsql.com/posts/logical-replication-beyond-the-basics/)
 
 ### MySQL
 

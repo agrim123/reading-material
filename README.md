@@ -220,6 +220,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - [A few notes on AWS Nitro Enclaves: Attack surface](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)
 - [Taking a Look at Compression Algorithms](https://cefboud.github.io/posts/compression/)
 - [Building Cloud Storage from Scratch](https://lambdascheme.com/blocks.html)
+- https://loggingsucks.com/ :zap:
 
 ## Fun
 
