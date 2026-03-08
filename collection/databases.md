@@ -29,6 +29,7 @@
     - [Partial Indexes](https://www.postgresql.org/docs/current/indexes-partial.html)
     - [Index Types](https://www.postgresql.org/docs/current/indexes-types.html)
 - [Beyond the Basics of Logical Replication](https://boringsql.com/posts/logical-replication-beyond-the-basics/)
+- [PostgreSQL Recovery Internals](https://www.cybertec-postgresql.com/en/postgresql-recovery-internals/)
 
 ### MySQL
 
