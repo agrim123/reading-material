@@ -147,3 +147,4 @@
 - [See Python, See Python Go, Go Python Go](https://blog.heroku.com/see_python_see_python_go_go_python_go)
 - [Go feature: Secret mode](https://antonz.org/accepted/runtime-secret/)
 - [Traceroute Tool from Scratch in Go](https://kmcd.dev/posts/traceroute/)
+- [Allocating on the Stack](https://go.dev/blog/allocation-optimizations)
