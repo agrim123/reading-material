@@ -228,6 +228,7 @@ You might see some emojis (:sparkles:, :construction: etc) crawling all over thi
 - https://xkcd.com
 - https://impurepics.com/
 - https://www.commitstrip.com
+- https://devme.me
 - [If Programming languages were harry potter characters](http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/)
 - [Git Koans](https://stevelosh.com/blog/2013/04/git-koans/)
 - [Vim Kōans](https://sanctum.geek.nz/arabesque/vim-koans/)
