@@ -57,7 +57,7 @@ A collection of resources that I found interesting and useful across various dom
   - [BPF](collection/linux.md#bpf)
 - [OS Dev](collection/os-dev.md#os-dev)
 - [C](collection/c.md#c)
-- [Ruby](/collection/ruby.md#ruby)
+- [Ruby](collection/ruby.md#ruby)
   - [Rails](collection/ruby.md#rails)
 - [Python](collection/python.md)
 - [Haskell](collection/haskell.md#haskell)
